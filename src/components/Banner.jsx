@@ -1,52 +1,97 @@
-import React from "react";
-import { useState, useEffect } from "react";
-import Logo from "../assets/logo.webp";
 
-const Banner = () => {
-  const quotes = [
-    '"Finansal kariyerim boyunca, tanıdığım insanların risk almadıkları için yıkıldıklarına şahit oldum. Siz risk almazsanız, risk sizi alır." – Larry Hite',
-    '"Size nasıl zengin olacağınızı söyleyeceğim. Kapıları kapatın. Diğerleri hırslıyken çekimser olun, diğerleri çekimserken hırslı." – Warren Buffett',
-    '"Eğer yatırım size zevkli geliyorsa, eğer eğleniyorsanız; muhtemelen hiç para kazanmıyosunuz demektir. İyi yatırım sıkıcıdır." – George Soros',
-    '"Fiyat ödediğin miktardır. Değer ne elde ettiğindir." – Warren Buffett',
-    '"Eğer bir işletme iyi gidiyorsa, hisse senedi eninde sonunda onu takip eder." – Warren Buffett',
-    '"Zarar etmekten korkamazsınız. Bu işte başarılı olanlar, para kaybetmeyi göze alan kişilerdir." – Jack Schwager',
-  ];
+import React from 'react';
+import { Menubar } from 'primereact/menubar';
+import { InputText } from 'primereact/inputtext';
+import { Badge } from 'primereact/badge';
+import { Avatar } from 'primereact/avatar';
+import Logo from '../assets/logo.webp';
 
-  const [quoteIndex, setQuoteIndex] = useState(0);
-  const [animationKey, setAnimationKey] = useState(0);
+export default function Banner() {
+    const itemRenderer = (item) => (
+        <a className="flex align-items-center p-menuitem-link">
+            <span className={item.icon} />
+            <span className="mx-2">{item.label}</span>
+            {item.badge && <Badge className="ml-auto" value={item.badge} />}
+            {item.shortcut && <span className="ml-auto border-1 surface-border border-round surface-100 text-xs p-1">{item.shortcut}</span>}
+        </a>
+    );
+    const items = [
+        {
+            label: 'Home',
+            icon: 'pi pi-home',
+            command: () => {
+                window.location = "home";
+            }
+        },
+        {
+            label: 'Features',
+            icon: 'pi pi-star'
+        },
+        {
+            label: 'Projects',
+            icon: 'pi pi-search',
+            items: [
+                {
+                    label: 'Core',
+                    icon: 'pi pi-bolt',
+                    template: itemRenderer
+                },
+                {
+                    label: 'Blocks',
+                    icon: 'pi pi-server',
+                    template: itemRenderer
+                },
+                {
+                    label: 'UI Kit',
+                    icon: 'pi pi-pencil',
+                    template: itemRenderer
+                },
+                {
+                    separator: true
+                },
+                {
+                    label: 'Templates',
+                    icon: 'pi pi-palette',
+                    items: [
+                        {
+                            label: 'Apollo',
+                            icon: 'pi pi-palette',
+                            badge: 2,
+                            template: itemRenderer
+                        },
+                        {
+                            label: 'Ultima',
+                            icon: 'pi pi-palette',
+                            badge: 3,
+                            template: itemRenderer
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            label: 'Contact',
+            icon: 'pi pi-envelope',
+            badge: 3,
+            template: itemRenderer,
+            command: () => {
+              window.location = "contact";
+          }
+        }
+    ];
 
-  useEffect(() => {
-    const interval = setInterval(() => {
-      setQuoteIndex((prevIndex) => (prevIndex + 1) % quotes.length);
-      setAnimationKey((prevKey) => prevKey + 1);
-    }, 10000); // Her 15 saniyede bir değişir
-
-    return () => clearInterval(interval);
-  }, []);
-
-  // Alıntı ve yazar ismini ayrıştırma
-  const quoteParts = quotes[quoteIndex].split("–");
-  const quoteText = quoteParts[0];
-  const authorName = quoteParts[1];
-
-  return (
-    <div className="bannerWrapper">
-      <div className="contentWrapper">
-        <div className="col-1">
-          {Logo && <img src={Logo} alt="Logo" className="smallLogo" />}
+    const start = <img alt="logo" src={Logo} height="90" className="mr-2 smallLogo"></img>;
+    const end = (
+        <div className="flex align-items-center gap-2">
+            <InputText placeholder="Search" type="text" className="w-8rem sm:w-auto" />
+            <Avatar image="https://primefaces.org/cdn/primereact/images/avatar/onyamalimba.png" shape="circle" />
         </div>
-        <div className="col-11 banner_content">
-          <div
-            key={animationKey}
-            className="fadein animation-duration-1000 animation-iteration-1"
-          >
-            <span className='quoteText'>{quoteText}</span>
-            <span className='authorName'>-{authorName}</span>
-          </div>
-        </div>
-      </div>
-    </div>
-  );
-};
+    );
 
-export default Banner;
+    return (
+        <div className="card">
+            <Menubar model={items} start={start} end={end} />
+        </div>
+    )
+}
+        

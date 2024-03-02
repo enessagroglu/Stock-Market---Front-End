@@ -208,7 +208,19 @@
   margin-left: 5px; 
 }
 
+.menu {
+  height: 100%;
+  width: 90%;
+  background-color: #062238;
+  color: white;
+  border-radius: 0.5rem;
+  padding: 1rem;
+
+}
+
+
+
+
 html{
   background-color: #bdbcbc;
-
 }

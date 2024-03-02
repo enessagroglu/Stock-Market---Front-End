@@ -8,20 +8,19 @@ import Home from "./pages/Home";
 import Contact from "./pages/Contact";
 import MenuBar from "./components/MenuBar";
 import Banner from "./components/Banner";
+import Menu1 from "./components/Menu1";
 
 function App() {
   return (
     <PrimeReactProvider>
       <div style={{ backgroundColor: "#bdbcbc" }}>
-        {" "}
-        {/* İstediğiniz arka plan rengini buraya yazın */}
         <>
           <div class="banner">
             <Banner />
           </div>
           <div class="grid flex">
-            <div class="col-2">
-              <MenuBar />
+            <div class="col-1">
+              {/* <MenuBar /> */}
             </div>
 
             <BrowserRouter>
