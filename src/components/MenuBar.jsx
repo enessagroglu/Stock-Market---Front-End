@@ -1,10 +1,8 @@
 
 import React, { useRef } from 'react';
 import { Menu } from 'primereact/menu';
-import { Toast } from 'primereact/toast';
 
 export default function MenuBar() {
-    const toast = useRef(null);
     const items = [
         {
             label: 'Documents',
@@ -35,8 +33,7 @@ export default function MenuBar() {
     ];
 
     return (
-        <div className="card flex justify-content-center">
-            <Toast ref={toast} />
+        <div className="">
             <Menu model={items} />
         </div>
     )

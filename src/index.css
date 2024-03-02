@@ -153,3 +153,62 @@
   --gray-900: #212121;
   color-scheme: light;
 }
+
+.bannerWrapper {
+  width: 100%;
+  height: 100px;
+  background-color: #062238;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  position: relative;
+  border-radius: 1rem;
+  margin-bottom: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.808);
+}
+
+.contentWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100px;
+  
+}
+
+
+.smallLogo {
+  width: 100px;
+  height: 100px;
+  border-radius: 2rem;
+  margin-top: 5px;
+}
+
+.banner{
+  width:auto;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+.banner_content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.quoteText {
+  font-size: 18px; 
+}
+
+.authorName {
+  font-style: italic; 
+  margin-left: 5px; 
+}
+
+html{
+  background-color: #bdbcbc;
+
+}
