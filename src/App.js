@@ -13,7 +13,7 @@ import Menu1 from "./components/Menu1";
 function App() {
   return (
     <PrimeReactProvider>
-      <div style={{ backgroundColor: "#bdbcbc" }}>
+      <div style={{ }}>
         <>
           <div class="banner">
             <Banner />
