@@ -179,8 +179,8 @@
 
 
 .smallLogo {
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
   border-radius: 2rem;
   margin-top: 5px;
 }
@@ -218,15 +218,17 @@
 
 }
 
+.page{
+  margin-top: 50px;
+}
+.logoo{
+  width: 25%;
+  height: 25%;
+}
+
 
 
 
 html{
   background-color: white;
-}
-
-.iletisim{
-  margin-top: 30px;
-  margin-left: 450px;
-  background-color: #ebf1f2;
 }
