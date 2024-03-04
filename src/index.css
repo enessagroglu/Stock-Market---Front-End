@@ -179,8 +179,8 @@
 
 
 .smallLogo {
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
   border-radius: 2rem;
   margin-top: 5px;
 }
@@ -216,6 +216,10 @@
   border-radius: 0.5rem;
   padding: 1rem;
 
+}
+
+.page{
+  margin-top: 50px;
 }
 
 

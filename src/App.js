@@ -13,23 +13,22 @@ import Menu1 from "./components/Menu1";
 function App() {
   return (
     <PrimeReactProvider>
-      <div style={{ }}>
+      <div style={{}}>
         <>
           <div class="banner">
             <Banner />
           </div>
           <div class="grid flex">
-            <div class="col-1">
-              {/* <MenuBar /> */}
+            
+            <div class="page">
+              <BrowserRouter>
+                <Routes>
+                  <Route index element={<Home />} />
+                  <Route path="/home" element={<Home />} />
+                  <Route path="/contact" element={<Contact />} />
+                </Routes>
+              </BrowserRouter>
             </div>
-
-            <BrowserRouter>
-              <Routes>
-                <Route index element={<Home />} />
-                <Route path="/home" element={<Home />} />
-                <Route path="/contact" element={<Contact />} />
-              </Routes>
-            </BrowserRouter>
           </div>
         </>
       </div>

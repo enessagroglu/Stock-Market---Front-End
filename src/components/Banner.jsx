@@ -4,7 +4,7 @@ import { Menubar } from 'primereact/menubar';
 import { InputText } from 'primereact/inputtext';
 import { Badge } from 'primereact/badge';
 import { Avatar } from 'primereact/avatar';
-import Logo from '../assets/logo.webp';
+import Logo from '../assets/transparent-chart-icon.png';
 
 export default function Banner() {
     const itemRenderer = (item) => (
@@ -24,25 +24,25 @@ export default function Banner() {
             }
         },
         {
-            label: 'Features',
+            label: 'Sayfa 1',
             icon: 'pi pi-star'
         },
         {
-            label: 'Projects',
+            label: 'Sayfa 2',
             icon: 'pi pi-search',
             items: [
                 {
-                    label: 'Core',
+                    label: 'sub 1',
                     icon: 'pi pi-bolt',
                     template: itemRenderer
                 },
                 {
-                    label: 'Blocks',
+                    label: 'sub 2',
                     icon: 'pi pi-server',
                     template: itemRenderer
                 },
                 {
-                    label: 'UI Kit',
+                    label: 'sub 3',
                     icon: 'pi pi-pencil',
                     template: itemRenderer
                 },
@@ -50,17 +50,17 @@ export default function Banner() {
                     separator: true
                 },
                 {
-                    label: 'Templates',
+                    label: 'sub 4',
                     icon: 'pi pi-palette',
                     items: [
                         {
-                            label: 'Apollo',
+                            label: 'sub 4.1',
                             icon: 'pi pi-palette',
                             badge: 2,
                             template: itemRenderer
                         },
                         {
-                            label: 'Ultima',
+                            label: 'sub 4.2',
                             icon: 'pi pi-palette',
                             badge: 3,
                             template: itemRenderer
@@ -72,7 +72,6 @@ export default function Banner() {
         {
             label: 'Contact',
             icon: 'pi pi-envelope',
-            badge: 3,
             template: itemRenderer,
             command: () => {
               window.location = "contact";
@@ -80,7 +79,7 @@ export default function Banner() {
         }
     ];
 
-    const start = <img alt="logo" src={Logo} height="90" className="mr-2 smallLogo"></img>;
+    const start = <img alt="logo" src={Logo} height="90" className="mr-2 smallLogo "></img>;
     const end = (
         <div className="flex align-items-center gap-2">
             <InputText placeholder="Search" type="text" className="w-8rem sm:w-auto" />
