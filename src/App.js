@@ -6,9 +6,7 @@ import "primereact/resources/primereact.min.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Contact from "./pages/Contact";
-import MenuBar from "./components/MenuBar";
 import Banner from "./components/Banner";
-import Menu1 from "./components/Menu1";
 
 function App() {
   return (
@@ -18,7 +16,7 @@ function App() {
           <div class="banner">
             <Banner />
           </div>
-          <div class="grid">
+          <div class="">
             
             <div class="page">
               <BrowserRouter>

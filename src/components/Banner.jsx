@@ -4,7 +4,7 @@ import { Menubar } from 'primereact/menubar';
 import { InputText } from 'primereact/inputtext';
 import { Badge } from 'primereact/badge';
 import { Avatar } from 'primereact/avatar';
-import Logo from '../assets/transparent-chart-icon.png';
+import Logo from '../assets/Adsız tasarım.png';
 
 export default function Banner() {
     const itemRenderer = (item) => (
@@ -17,7 +17,7 @@ export default function Banner() {
     );
     const items = [
         {
-            label: 'Home',
+            label: 'Anasayfa',
             icon: 'pi pi-home',
             command: () => {
                 window.location = "home";

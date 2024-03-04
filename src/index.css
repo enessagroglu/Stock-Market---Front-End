@@ -179,8 +179,8 @@
 
 
 .smallLogo {
-  width: 90px;
-  height: 90px;
+  width: 75px;
+  height: 75px;
   border-radius: 2rem;
   margin-top: 5px;
 }
@@ -206,6 +206,7 @@
 .authorName {
   font-style: italic; 
   margin-left: 5px; 
+  font-weight: bold;
 }
 
 .menu {
@@ -222,9 +223,3 @@
   margin-top: 50px;
 }
 
-
-
-
-html{
-  background-color: white;
-}
