@@ -1,0 +1,4356 @@
+[{
+  "_id": {
+    "$oid": "6570a6e20c0ee65844074d0c"
+  },
+  "kod: ": "A1CAP",
+  "hisse adı: ": "A1 Capital",
+  "sektör: ": "Aracı Kurumlar",
+  "kapanış: ": "31,40",
+  "piyasa değeri: ": "4.239,0",
+  "halka açıklık: ": "25,9",
+  "sermaye: ": "135,0"
+},
+{
+  "_id": {
+    "$oid": "6570a6f00c0ee65844074d13"
+  },
+  "kod: ": "ACSEL",
+  "hisse adı: ": "Acıselsan Acıpayam Selüloz",
+  "sektör: ": "Kimyasal Ürün",
+  "kapanış: ": "147,00",
+  "piyasa değeri: ": "1.576,1",
+  "halka açıklık: ": "48,3",
+  "sermaye: ": "10,7"
+},
+{
+  "_id": {
+    "$oid": "6570a6f90c0ee65844074d1a"
+  },
+  "kod: ": "ADEL",
+  "hisse adı: ": "Adel Kalemcilik",
+  "sektör: ": "Kırtasiye",
+  "kapanış: ": "470,50",
+  "piyasa değeri: ": "11.115,6",
+  "halka açıklık: ": "27,6",
+  "sermaye: ": "23,6"
+},
+{
+  "_id": {
+    "$oid": "6570a7060c0ee65844074d21"
+  },
+  "kod: ": "ADESE",
+  "hisse adı: ": "Adese AVM",
+  "sektör: ": "Perakande - Ticaret",
+  "kapanış: ": "1,97",
+  "piyasa değeri: ": "1.985,8",
+  "halka açıklık: ": "92,9",
+  "sermaye: ": "1.008,0"
+},
+{
+  "_id": {
+    "$oid": "6570a7140c0ee65844074d28"
+  },
+  "kod: ": "ADGYO",
+  "hisse adı: ": "Adra GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "33,38",
+  "piyasa değeri: ": "9.803,7",
+  "halka açıklık: ": "25,1",
+  "sermaye: ": "293,7"
+},
+{
+  "_id": {
+    "$oid": "6570a7170c0ee65844074d2f"
+  },
+  "kod: ": "AEFES",
+  "hisse adı: ": "Anadolu Efes",
+  "sektör: ": "Meşrubat / İçecek",
+  "kapanış: ": "115,20",
+  "piyasa değeri: ": "68.210,5",
+  "halka açıklık: ": "32,9",
+  "sermaye: ": "592,1"
+},
+{
+  "_id": {
+    "$oid": "6570a7220c0ee65844074d36"
+  },
+  "kod: ": "AFYON",
+  "hisse adı: ": "Afyon Çimento",
+  "sektör: ": "Çimento",
+  "kapanış: ": "12,18",
+  "piyasa değeri: ": "4.872,0",
+  "halka açıklık: ": "48,6",
+  "sermaye: ": "400,0"
+},
+{
+  "_id": {
+    "$oid": "6570a72d0c0ee65844074d3d"
+  },
+  "kod: ": "AGESA",
+  "hisse adı: ": "Agesa Hayat ve Emeklilik",
+  "sektör: ": "Sigorta",
+  "kapanış: ": "57,90",
+  "piyasa değeri: ": "10.422,0",
+  "halka açıklık: ": "19,9",
+  "sermaye: ": "180,0"
+},
+{
+  "_id": {
+    "$oid": "6570a7300c0ee65844074d44"
+  },
+  "kod: ": "AGHOL",
+  "hisse adı: ": "Anadolu Grubu Holding",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "187,00",
+  "piyasa değeri: ": "45.541,0",
+  "halka açıklık: ": "37,6",
+  "sermaye: ": "243,5"
+},
+{
+  "_id": {
+    "$oid": "6570a7320c0ee65844074d4b"
+  },
+  "kod: ": "AGROT",
+  "hisse adı: ": "Agrotech Yüksek Teknoloji",
+  "sektör: ": "Diğer",
+  "kapanış: ": "13,47",
+  "piyasa değeri: ": "16.164,0",
+  "halka açıklık: ": "24,7",
+  "sermaye: ": "1.200,0"
+},
+{
+  "_id": {
+    "$oid": "6570b2bd7e7b903a81fa5985"
+  },
+  "kod: ": "A1CAP",
+  "hisse adı: ": "A1 Capital",
+  "sektör: ": "Aracı Kurumlar",
+  "kapanış: ": "31,40",
+  "piyasa değeri: ": "4.239,0",
+  "halka açıklık: ": "25,9",
+  "sermaye: ": "135,0"
+},
+{
+  "_id": {
+    "$oid": "6570b2c07e7b903a81fa598f"
+  },
+  "kod: ": "ACSEL",
+  "hisse adı: ": "Acıselsan Acıpayam Selüloz",
+  "sektör: ": "Kimyasal Ürün",
+  "kapanış: ": "147,00",
+  "piyasa değeri: ": "1.576,1",
+  "halka açıklık: ": "48,3",
+  "sermaye: ": "10,7"
+},
+{
+  "_id": {
+    "$oid": "6570b2c37e7b903a81fa5999"
+  },
+  "kod: ": "ADEL",
+  "hisse adı: ": "Adel Kalemcilik",
+  "sektör: ": "Kırtasiye",
+  "kapanış: ": "470,50",
+  "piyasa değeri: ": "11.115,6",
+  "halka açıklık: ": "27,6",
+  "sermaye: ": "23,6"
+},
+{
+  "_id": {
+    "$oid": "6570b2c77e7b903a81fa59a3"
+  },
+  "kod: ": "ADESE",
+  "hisse adı: ": "Adese AVM",
+  "sektör: ": "Perakande - Ticaret",
+  "kapanış: ": "1,97",
+  "piyasa değeri: ": "1.985,8",
+  "halka açıklık: ": "92,9",
+  "sermaye: ": "1.008,0"
+},
+{
+  "_id": {
+    "$oid": "6570b2ca7e7b903a81fa59ad"
+  },
+  "kod: ": "ADGYO",
+  "hisse adı: ": "Adra GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "33,38",
+  "piyasa değeri: ": "9.803,7",
+  "halka açıklık: ": "25,1",
+  "sermaye: ": "293,7"
+},
+{
+  "_id": {
+    "$oid": "6570b2ce7e7b903a81fa59ba"
+  },
+  "kod: ": "AEFES",
+  "hisse adı: ": "Anadolu Efes",
+  "sektör: ": "Meşrubat / İçecek",
+  "kapanış: ": "115,20",
+  "piyasa değeri: ": "68.210,5",
+  "halka açıklık: ": "32,9",
+  "sermaye: ": "592,1"
+},
+{
+  "_id": {
+    "$oid": "6570b2d27e7b903a81fa59c4"
+  },
+  "kod: ": "AFYON",
+  "hisse adı: ": "Afyon Çimento",
+  "sektör: ": "Çimento",
+  "kapanış: ": "12,18",
+  "piyasa değeri: ": "4.872,0",
+  "halka açıklık: ": "48,6",
+  "sermaye: ": "400,0"
+},
+{
+  "_id": {
+    "$oid": "6570b2d77e7b903a81fa59ce"
+  },
+  "kod: ": "AGESA",
+  "hisse adı: ": "Agesa Hayat ve Emeklilik",
+  "sektör: ": "Sigorta",
+  "kapanış: ": "57,90",
+  "piyasa değeri: ": "10.422,0",
+  "halka açıklık: ": "19,9",
+  "sermaye: ": "180,0"
+},
+{
+  "_id": {
+    "$oid": "6570b2da7e7b903a81fa59db"
+  },
+  "kod: ": "AGHOL",
+  "hisse adı: ": "Anadolu Grubu Holding",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "187,00",
+  "piyasa değeri: ": "45.541,0",
+  "halka açıklık: ": "37,6",
+  "sermaye: ": "243,5"
+},
+{
+  "_id": {
+    "$oid": "6570b2de7e7b903a81fa59e5"
+  },
+  "kod: ": "AGROT",
+  "hisse adı: ": "Agrotech Yüksek Teknoloji",
+  "sektör: ": "Diğer",
+  "kapanış: ": "13,47",
+  "piyasa değeri: ": "16.164,0",
+  "halka açıklık: ": "24,7",
+  "sermaye: ": "1.200,0"
+},
+{
+  "_id": {
+    "$oid": "6570b30c317e35cc938fb049"
+  },
+  "kod: ": "A1CAP",
+  "hisse adı: ": "A1 Capital",
+  "sektör: ": "Aracı Kurumlar",
+  "kapanış: ": "31,40",
+  "piyasa değeri: ": "4.239,0",
+  "halka açıklık: ": "25,9",
+  "sermaye: ": "135,0"
+},
+{
+  "_id": {
+    "$oid": "6570b310317e35cc938fb053"
+  },
+  "kod: ": "ACSEL",
+  "hisse adı: ": "Acıselsan Acıpayam Selüloz",
+  "sektör: ": "Kimyasal Ürün",
+  "kapanış: ": "147,00",
+  "piyasa değeri: ": "1.576,1",
+  "halka açıklık: ": "48,3",
+  "sermaye: ": "10,7"
+},
+{
+  "_id": {
+    "$oid": "6570b313317e35cc938fb05d"
+  },
+  "kod: ": "ADEL",
+  "hisse adı: ": "Adel Kalemcilik",
+  "sektör: ": "Kırtasiye",
+  "kapanış: ": "470,50",
+  "piyasa değeri: ": "11.115,6",
+  "halka açıklık: ": "27,6",
+  "sermaye: ": "23,6"
+},
+{
+  "_id": {
+    "$oid": "6570b317317e35cc938fb067"
+  },
+  "kod: ": "ADESE",
+  "hisse adı: ": "Adese AVM",
+  "sektör: ": "Perakande - Ticaret",
+  "kapanış: ": "1,97",
+  "piyasa değeri: ": "1.985,8",
+  "halka açıklık: ": "92,9",
+  "sermaye: ": "1.008,0"
+},
+{
+  "_id": {
+    "$oid": "6570b31a317e35cc938fb071"
+  },
+  "kod: ": "ADGYO",
+  "hisse adı: ": "Adra GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "33,38",
+  "piyasa değeri: ": "9.803,7",
+  "halka açıklık: ": "25,1",
+  "sermaye: ": "293,7"
+},
+{
+  "_id": {
+    "$oid": "6570b71fea73c156ca2c5928"
+  },
+  "kod: ": "A1CAP",
+  "hisse adı: ": "A1 Capital",
+  "sektör: ": "Aracı Kurumlar",
+  "kapanış: ": "31,40",
+  "piyasa değeri: ": "4.239,0",
+  "halka açıklık: ": "25,9",
+  "sermaye: ": "135,0"
+},
+{
+  "_id": {
+    "$oid": "6570b723ea73c156ca2c5932"
+  },
+  "kod: ": "ACSEL",
+  "hisse adı: ": "Acıselsan Acıpayam Selüloz",
+  "sektör: ": "Kimyasal Ürün",
+  "kapanış: ": "147,00",
+  "piyasa değeri: ": "1.576,1",
+  "halka açıklık: ": "48,3",
+  "sermaye: ": "10,7"
+},
+{
+  "_id": {
+    "$oid": "6570b726ea73c156ca2c593c"
+  },
+  "kod: ": "ADEL",
+  "hisse adı: ": "Adel Kalemcilik",
+  "sektör: ": "Kırtasiye",
+  "kapanış: ": "470,50",
+  "piyasa değeri: ": "11.115,6",
+  "halka açıklık: ": "27,6",
+  "sermaye: ": "23,6"
+},
+{
+  "_id": {
+    "$oid": "6570b72aea73c156ca2c5946"
+  },
+  "kod: ": "ADESE",
+  "hisse adı: ": "Adese AVM",
+  "sektör: ": "Perakande - Ticaret",
+  "kapanış: ": "1,97",
+  "piyasa değeri: ": "1.985,8",
+  "halka açıklık: ": "92,9",
+  "sermaye: ": "1.008,0"
+},
+{
+  "_id": {
+    "$oid": "6570b72dea73c156ca2c5950"
+  },
+  "kod: ": "ADGYO",
+  "hisse adı: ": "Adra GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "33,38",
+  "piyasa değeri: ": "9.803,7",
+  "halka açıklık: ": "25,1",
+  "sermaye: ": "293,7"
+},
+{
+  "_id": {
+    "$oid": "6570b732ea73c156ca2c595d"
+  },
+  "kod: ": "AEFES",
+  "hisse adı: ": "Anadolu Efes",
+  "sektör: ": "Meşrubat / İçecek",
+  "kapanış: ": "115,20",
+  "piyasa değeri: ": "68.210,5",
+  "halka açıklık: ": "32,9",
+  "sermaye: ": "592,1"
+},
+{
+  "_id": {
+    "$oid": "6570b734ea73c156ca2c5967"
+  },
+  "kod: ": "AFYON",
+  "hisse adı: ": "Afyon Çimento",
+  "sektör: ": "Çimento",
+  "kapanış: ": "12,18",
+  "piyasa değeri: ": "4.872,0",
+  "halka açıklık: ": "48,6",
+  "sermaye: ": "400,0"
+},
+{
+  "_id": {
+    "$oid": "6570b739ea73c156ca2c5971"
+  },
+  "kod: ": "AGESA",
+  "hisse adı: ": "Agesa Hayat ve Emeklilik",
+  "sektör: ": "Sigorta",
+  "kapanış: ": "57,90",
+  "piyasa değeri: ": "10.422,0",
+  "halka açıklık: ": "19,9",
+  "sermaye: ": "180,0"
+},
+{
+  "_id": {
+    "$oid": "6570b73dea73c156ca2c597e"
+  },
+  "kod: ": "AGHOL",
+  "hisse adı: ": "Anadolu Grubu Holding",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "187,00",
+  "piyasa değeri: ": "45.541,0",
+  "halka açıklık: ": "37,6",
+  "sermaye: ": "243,5"
+},
+{
+  "_id": {
+    "$oid": "6570b740ea73c156ca2c5988"
+  },
+  "kod: ": "AGROT",
+  "hisse adı: ": "Agrotech Yüksek Teknoloji",
+  "sektör: ": "Diğer",
+  "kapanış: ": "13,47",
+  "piyasa değeri: ": "16.164,0",
+  "halka açıklık: ": "24,7",
+  "sermaye: ": "1.200,0"
+},
+{
+  "_id": {
+    "$oid": "6570b744ea73c156ca2c5992"
+  },
+  "kod: ": "AGYO",
+  "hisse adı: ": "Atakule GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "9,20",
+  "piyasa değeri: ": "2.422,7",
+  "halka açıklık: ": "17,1",
+  "sermaye: ": "263,3"
+},
+{
+  "_id": {
+    "$oid": "6570b747ea73c156ca2c599c"
+  },
+  "kod: ": "AHGAZ",
+  "hisse adı: ": "Ahlatçı Doğalgaz",
+  "sektör: ": "Elektrik - Doğalgaz Dağıtım",
+  "kapanış: ": "11,73",
+  "piyasa değeri: ": "30.498,0",
+  "halka açıklık: ": "25,4",
+  "sermaye: ": "2.600,0"
+},
+{
+  "_id": {
+    "$oid": "6570b74cea73c156ca2c59aa"
+  },
+  "kod: ": "AKBNK",
+  "hisse adı: ": "Akbank",
+  "sektör: ": "Bankacılık",
+  "kapanış: ": "36,50",
+  "piyasa değeri: ": "189.800,0",
+  "halka açıklık: ": "52,8",
+  "sermaye: ": "5.200,0"
+},
+{
+  "_id": {
+    "$oid": "6570b7be010ac11887ee9bbf"
+  },
+  "kod: ": "A1CAP",
+  "hisse adı: ": "A1 Capital",
+  "sektör: ": "Aracı Kurumlar",
+  "kapanış: ": "31,40",
+  "piyasa değeri: ": "4.239,0",
+  "halka açıklık: ": "25,9",
+  "sermaye: ": "135,0"
+},
+{
+  "_id": {
+    "$oid": "6570b7c2010ac11887ee9bc9"
+  },
+  "kod: ": "ACSEL",
+  "hisse adı: ": "Acıselsan Acıpayam Selüloz",
+  "sektör: ": "Kimyasal Ürün",
+  "kapanış: ": "147,00",
+  "piyasa değeri: ": "1.576,1",
+  "halka açıklık: ": "48,3",
+  "sermaye: ": "10,7"
+},
+{
+  "_id": {
+    "$oid": "6570b7c6010ac11887ee9bd3"
+  },
+  "kod: ": "ADEL",
+  "hisse adı: ": "Adel Kalemcilik",
+  "sektör: ": "Kırtasiye",
+  "kapanış: ": "470,50",
+  "piyasa değeri: ": "11.115,6",
+  "halka açıklık: ": "27,6",
+  "sermaye: ": "23,6"
+},
+{
+  "_id": {
+    "$oid": "6570b7c9010ac11887ee9bdd"
+  },
+  "kod: ": "ADESE",
+  "hisse adı: ": "Adese AVM",
+  "sektör: ": "Perakande - Ticaret",
+  "kapanış: ": "1,97",
+  "piyasa değeri: ": "1.985,8",
+  "halka açıklık: ": "92,9",
+  "sermaye: ": "1.008,0"
+},
+{
+  "_id": {
+    "$oid": "6570b7cd010ac11887ee9be7"
+  },
+  "kod: ": "ADGYO",
+  "hisse adı: ": "Adra GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "33,38",
+  "piyasa değeri: ": "9.803,7",
+  "halka açıklık: ": "25,1",
+  "sermaye: ": "293,7"
+},
+{
+  "_id": {
+    "$oid": "6570b7d1010ac11887ee9bf4"
+  },
+  "kod: ": "AEFES",
+  "hisse adı: ": "Anadolu Efes",
+  "sektör: ": "Meşrubat / İçecek",
+  "kapanış: ": "115,20",
+  "piyasa değeri: ": "68.210,5",
+  "halka açıklık: ": "32,9",
+  "sermaye: ": "592,1"
+},
+{
+  "_id": {
+    "$oid": "6570b7d5010ac11887ee9bfe"
+  },
+  "kod: ": "AFYON",
+  "hisse adı: ": "Afyon Çimento",
+  "sektör: ": "Çimento",
+  "kapanış: ": "12,18",
+  "piyasa değeri: ": "4.872,0",
+  "halka açıklık: ": "48,6",
+  "sermaye: ": "400,0"
+},
+{
+  "_id": {
+    "$oid": "6570b7da010ac11887ee9c08"
+  },
+  "kod: ": "AGESA",
+  "hisse adı: ": "Agesa Hayat ve Emeklilik",
+  "sektör: ": "Sigorta",
+  "kapanış: ": "57,90",
+  "piyasa değeri: ": "10.422,0",
+  "halka açıklık: ": "19,9",
+  "sermaye: ": "180,0"
+},
+{
+  "_id": {
+    "$oid": "6570b7de010ac11887ee9c15"
+  },
+  "kod: ": "AGHOL",
+  "hisse adı: ": "Anadolu Grubu Holding",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "187,00",
+  "piyasa değeri: ": "45.541,0",
+  "halka açıklık: ": "37,6",
+  "sermaye: ": "243,5"
+},
+{
+  "_id": {
+    "$oid": "6570b7e2010ac11887ee9c1f"
+  },
+  "kod: ": "AGROT",
+  "hisse adı: ": "Agrotech Yüksek Teknoloji",
+  "sektör: ": "Diğer",
+  "kapanış: ": "13,47",
+  "piyasa değeri: ": "16.164,0",
+  "halka açıklık: ": "24,7",
+  "sermaye: ": "1.200,0"
+},
+{
+  "_id": {
+    "$oid": "6570b7e6010ac11887ee9c29"
+  },
+  "kod: ": "AGYO",
+  "hisse adı: ": "Atakule GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "9,20",
+  "piyasa değeri: ": "2.422,7",
+  "halka açıklık: ": "17,1",
+  "sermaye: ": "263,3"
+},
+{
+  "_id": {
+    "$oid": "6570b7ea010ac11887ee9c33"
+  },
+  "kod: ": "AHGAZ",
+  "hisse adı: ": "Ahlatçı Doğalgaz",
+  "sektör: ": "Elektrik - Doğalgaz Dağıtım",
+  "kapanış: ": "11,73",
+  "piyasa değeri: ": "30.498,0",
+  "halka açıklık: ": "25,4",
+  "sermaye: ": "2.600,0"
+},
+{
+  "_id": {
+    "$oid": "6570b7ee010ac11887ee9c41"
+  },
+  "kod: ": "AKBNK",
+  "hisse adı: ": "Akbank",
+  "sektör: ": "Bankacılık",
+  "kapanış: ": "36,50",
+  "piyasa değeri: ": "189.800,0",
+  "halka açıklık: ": "52,8",
+  "sermaye: ": "5.200,0"
+},
+{
+  "_id": {
+    "$oid": "6570b7f4010ac11887ee9c4f"
+  },
+  "kod: ": "AKCNS",
+  "hisse adı: ": "Akçansa",
+  "sektör: ": "Çimento",
+  "kapanış: ": "135,80",
+  "piyasa değeri: ": "25.998,5",
+  "halka açıklık: ": "20,5",
+  "sermaye: ": "191,4"
+},
+{
+  "_id": {
+    "$oid": "6570b7f8010ac11887ee9c59"
+  },
+  "kod: ": "AKENR",
+  "hisse adı: ": "Akenerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "5,00",
+  "piyasa değeri: ": "3.645,8",
+  "halka açıklık: ": "25,3",
+  "sermaye: ": "729,2"
+},
+{
+  "_id": {
+    "$oid": "6570b7fb010ac11887ee9c63"
+  },
+  "kod: ": "AKFGY",
+  "hisse adı: ": "Akfen GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "4,18",
+  "piyasa değeri: ": "5.434,0",
+  "halka açıklık: ": "43,3",
+  "sermaye: ": "1.300,0"
+},
+{
+  "_id": {
+    "$oid": "6570b7ff010ac11887ee9c6d"
+  },
+  "kod: ": "AKFYE",
+  "hisse adı: ": "Akfen Yenilenebilir Enerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "16,80",
+  "piyasa değeri: ": "17.069,3",
+  "halka açıklık: ": "29,5",
+  "sermaye: ": "1.016,0"
+},
+{
+  "_id": {
+    "$oid": "6570b805010ac11887ee9c7b"
+  },
+  "kod: ": "AKGRT",
+  "hisse adı: ": "Aksigorta",
+  "sektör: ": "Sigorta",
+  "kapanış: ": "5,34",
+  "piyasa değeri: ": "8.608,1",
+  "halka açıklık: ": "28,0",
+  "sermaye: ": "1.612,0"
+},
+{
+  "_id": {
+    "$oid": "6570b808010ac11887ee9c85"
+  },
+  "kod: ": "AKMGY",
+  "hisse adı: ": "Akmerkez GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "148,00",
+  "piyasa değeri: ": "5.515,1",
+  "halka açıklık: ": "9,1",
+  "sermaye: ": "37,3"
+},
+{
+  "_id": {
+    "$oid": "6570b80c010ac11887ee9c8f"
+  },
+  "kod: ": "AKSA",
+  "hisse adı: ": "Aksa",
+  "sektör: ": "Endüstriyel Tekstil",
+  "kapanış: ": "84,20",
+  "piyasa değeri: ": "27.259,8",
+  "halka açıklık: ": "35,1",
+  "sermaye: ": "323,8"
+},
+{
+  "_id": {
+    "$oid": "6570b810010ac11887ee9c99"
+  },
+  "kod: ": "AKSEN",
+  "hisse adı: ": "Aksa Enerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "33,40",
+  "piyasa değeri: ": "40.959,7",
+  "halka açıklık: ": "20,6",
+  "sermaye: ": "1.226,3"
+},
+{
+  "_id": {
+    "$oid": "6570b813010ac11887ee9ca3"
+  },
+  "kod: ": "AKSGY",
+  "hisse adı: ": "Akis GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "11,07",
+  "piyasa değeri: ": "8.911,4",
+  "halka açıklık: ": "45,9",
+  "sermaye: ": "805,0"
+},
+{
+  "_id": {
+    "$oid": "6570b816010ac11887ee9cad"
+  },
+  "kod: ": "AKSUE",
+  "hisse adı: ": "Aksu Enerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "24,30",
+  "piyasa değeri: ": "801,9",
+  "halka açıklık: ": "80,9",
+  "sermaye: ": "33,0"
+},
+{
+  "_id": {
+    "$oid": "6570b81a010ac11887ee9cb7"
+  },
+  "kod: ": "AKYHO",
+  "hisse adı: ": "Akdeniz Yatırım Holding",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "3,55",
+  "piyasa değeri: ": "440,5",
+  "halka açıklık: ": "77,7",
+  "sermaye: ": "124,1"
+},
+{
+  "_id": {
+    "$oid": "6570b81e010ac11887ee9cc2"
+  },
+  "kod: ": "ALARK",
+  "hisse adı: ": "Alarko Holding",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "96,00",
+  "piyasa değeri: ": "41.760,0",
+  "halka açıklık: ": "33,6",
+  "sermaye: ": "435,0"
+},
+{
+  "_id": {
+    "$oid": "6570b822010ac11887ee9cd0"
+  },
+  "kod: ": "ALBRK",
+  "hisse adı: ": "Albaraka Türk",
+  "sektör: ": "Bankacılık",
+  "kapanış: ": "4,03",
+  "piyasa değeri: ": "10.075,0",
+  "halka açıklık: ": "39,5",
+  "sermaye: ": "2.500,0"
+},
+{
+  "_id": {
+    "$oid": "6570b84ee9477cff1c4bfaef"
+  },
+  "kod: ": "A1CAP",
+  "hisse adı: ": "A1 Capital",
+  "sektör: ": "Aracı Kurumlar",
+  "kapanış: ": "31,40",
+  "piyasa değeri: ": "4.239,0",
+  "halka açıklık: ": "25,9",
+  "sermaye: ": "135,0"
+},
+{
+  "_id": {
+    "$oid": "6570b851e9477cff1c4bfaf9"
+  },
+  "kod: ": "ACSEL",
+  "hisse adı: ": "Acıselsan Acıpayam Selüloz",
+  "sektör: ": "Kimyasal Ürün",
+  "kapanış: ": "147,00",
+  "piyasa değeri: ": "1.576,1",
+  "halka açıklık: ": "48,3",
+  "sermaye: ": "10,7"
+},
+{
+  "_id": {
+    "$oid": "6570b854e9477cff1c4bfb03"
+  },
+  "kod: ": "ADEL",
+  "hisse adı: ": "Adel Kalemcilik",
+  "sektör: ": "Kırtasiye",
+  "kapanış: ": "470,50",
+  "piyasa değeri: ": "11.115,6",
+  "halka açıklık: ": "27,6",
+  "sermaye: ": "23,6"
+},
+{
+  "_id": {
+    "$oid": "6570b858e9477cff1c4bfb0d"
+  },
+  "kod: ": "ADESE",
+  "hisse adı: ": "Adese AVM",
+  "sektör: ": "Perakande - Ticaret",
+  "kapanış: ": "1,97",
+  "piyasa değeri: ": "1.985,8",
+  "halka açıklık: ": "92,9",
+  "sermaye: ": "1.008,0"
+},
+{
+  "_id": {
+    "$oid": "6570b85be9477cff1c4bfb17"
+  },
+  "kod: ": "ADGYO",
+  "hisse adı: ": "Adra GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "33,38",
+  "piyasa değeri: ": "9.803,7",
+  "halka açıklık: ": "25,1",
+  "sermaye: ": "293,7"
+},
+{
+  "_id": {
+    "$oid": "6570b85fe9477cff1c4bfb24"
+  },
+  "kod: ": "AEFES",
+  "hisse adı: ": "Anadolu Efes",
+  "sektör: ": "Meşrubat / İçecek",
+  "kapanış: ": "115,20",
+  "piyasa değeri: ": "68.210,5",
+  "halka açıklık: ": "32,9",
+  "sermaye: ": "592,1"
+},
+{
+  "_id": {
+    "$oid": "6570b863e9477cff1c4bfb2e"
+  },
+  "kod: ": "AFYON",
+  "hisse adı: ": "Afyon Çimento",
+  "sektör: ": "Çimento",
+  "kapanış: ": "12,18",
+  "piyasa değeri: ": "4.872,0",
+  "halka açıklık: ": "48,6",
+  "sermaye: ": "400,0"
+},
+{
+  "_id": {
+    "$oid": "6570b868e9477cff1c4bfb38"
+  },
+  "kod: ": "AGESA",
+  "hisse adı: ": "Agesa Hayat ve Emeklilik",
+  "sektör: ": "Sigorta",
+  "kapanış: ": "57,90",
+  "piyasa değeri: ": "10.422,0",
+  "halka açıklık: ": "19,9",
+  "sermaye: ": "180,0"
+},
+{
+  "_id": {
+    "$oid": "6570b86be9477cff1c4bfb45"
+  },
+  "kod: ": "AGHOL",
+  "hisse adı: ": "Anadolu Grubu Holding",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "187,00",
+  "piyasa değeri: ": "45.541,0",
+  "halka açıklık: ": "37,6",
+  "sermaye: ": "243,5"
+},
+{
+  "_id": {
+    "$oid": "6570b86fe9477cff1c4bfb4f"
+  },
+  "kod: ": "AGROT",
+  "hisse adı: ": "Agrotech Yüksek Teknoloji",
+  "sektör: ": "Diğer",
+  "kapanış: ": "13,47",
+  "piyasa değeri: ": "16.164,0",
+  "halka açıklık: ": "24,7",
+  "sermaye: ": "1.200,0"
+},
+{
+  "_id": {
+    "$oid": "6570b872e9477cff1c4bfb59"
+  },
+  "kod: ": "AGYO",
+  "hisse adı: ": "Atakule GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "9,20",
+  "piyasa değeri: ": "2.422,7",
+  "halka açıklık: ": "17,1",
+  "sermaye: ": "263,3"
+},
+{
+  "_id": {
+    "$oid": "6570b875e9477cff1c4bfb63"
+  },
+  "kod: ": "AHGAZ",
+  "hisse adı: ": "Ahlatçı Doğalgaz",
+  "sektör: ": "Elektrik - Doğalgaz Dağıtım",
+  "kapanış: ": "11,73",
+  "piyasa değeri: ": "30.498,0",
+  "halka açıklık: ": "25,4",
+  "sermaye: ": "2.600,0"
+},
+{
+  "_id": {
+    "$oid": "6570b879e9477cff1c4bfb71"
+  },
+  "kod: ": "AKBNK",
+  "hisse adı: ": "Akbank",
+  "sektör: ": "Bankacılık",
+  "kapanış: ": "36,50",
+  "piyasa değeri: ": "189.800,0",
+  "halka açıklık: ": "52,8",
+  "sermaye: ": "5.200,0"
+},
+{
+  "_id": {
+    "$oid": "6570b87de9477cff1c4bfb7f"
+  },
+  "kod: ": "AKCNS",
+  "hisse adı: ": "Akçansa",
+  "sektör: ": "Çimento",
+  "kapanış: ": "135,80",
+  "piyasa değeri: ": "25.998,5",
+  "halka açıklık: ": "20,5",
+  "sermaye: ": "191,4"
+},
+{
+  "_id": {
+    "$oid": "6570b880e9477cff1c4bfb89"
+  },
+  "kod: ": "AKENR",
+  "hisse adı: ": "Akenerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "5,00",
+  "piyasa değeri: ": "3.645,8",
+  "halka açıklık: ": "25,3",
+  "sermaye: ": "729,2"
+},
+{
+  "_id": {
+    "$oid": "6570b882e9477cff1c4bfb93"
+  },
+  "kod: ": "AKFGY",
+  "hisse adı: ": "Akfen GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "4,18",
+  "piyasa değeri: ": "5.434,0",
+  "halka açıklık: ": "43,3",
+  "sermaye: ": "1.300,0"
+},
+{
+  "_id": {
+    "$oid": "6570b886e9477cff1c4bfb9d"
+  },
+  "kod: ": "AKFYE",
+  "hisse adı: ": "Akfen Yenilenebilir Enerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "16,80",
+  "piyasa değeri: ": "17.069,3",
+  "halka açıklık: ": "29,5",
+  "sermaye: ": "1.016,0"
+},
+{
+  "_id": {
+    "$oid": "6570b88ce9477cff1c4bfbab"
+  },
+  "kod: ": "AKGRT",
+  "hisse adı: ": "Aksigorta",
+  "sektör: ": "Sigorta",
+  "kapanış: ": "5,34",
+  "piyasa değeri: ": "8.608,1",
+  "halka açıklık: ": "28,0",
+  "sermaye: ": "1.612,0"
+},
+{
+  "_id": {
+    "$oid": "6570b9b0f75df4f46d895e95"
+  },
+  "kod: ": "A1CAP",
+  "hisse adı: ": "A1 Capital",
+  "sektör: ": "Aracı Kurumlar",
+  "kapanış: ": "31,40",
+  "piyasa değeri: ": "4.239,0",
+  "halka açıklık: ": "25,9",
+  "sermaye: ": "135,0"
+},
+{
+  "_id": {
+    "$oid": "6570b9b3f75df4f46d895e9f"
+  },
+  "kod: ": "ACSEL",
+  "hisse adı: ": "Acıselsan Acıpayam Selüloz",
+  "sektör: ": "Kimyasal Ürün",
+  "kapanış: ": "147,00",
+  "piyasa değeri: ": "1.576,1",
+  "halka açıklık: ": "48,3",
+  "sermaye: ": "10,7"
+},
+{
+  "_id": {
+    "$oid": "6570b9b7f75df4f46d895ea9"
+  },
+  "kod: ": "ADEL",
+  "hisse adı: ": "Adel Kalemcilik",
+  "sektör: ": "Kırtasiye",
+  "kapanış: ": "470,50",
+  "piyasa değeri: ": "11.115,6",
+  "halka açıklık: ": "27,6",
+  "sermaye: ": "23,6"
+},
+{
+  "_id": {
+    "$oid": "6570b9baf75df4f46d895eb3"
+  },
+  "kod: ": "ADESE",
+  "hisse adı: ": "Adese AVM",
+  "sektör: ": "Perakande - Ticaret",
+  "kapanış: ": "1,97",
+  "piyasa değeri: ": "1.985,8",
+  "halka açıklık: ": "92,9",
+  "sermaye: ": "1.008,0"
+},
+{
+  "_id": {
+    "$oid": "6570b9bef75df4f46d895ebd"
+  },
+  "kod: ": "ADGYO",
+  "hisse adı: ": "Adra GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "33,38",
+  "piyasa değeri: ": "9.803,7",
+  "halka açıklık: ": "25,1",
+  "sermaye: ": "293,7"
+},
+{
+  "_id": {
+    "$oid": "6570b9c2f75df4f46d895eca"
+  },
+  "kod: ": "AEFES",
+  "hisse adı: ": "Anadolu Efes",
+  "sektör: ": "Meşrubat / İçecek",
+  "kapanış: ": "115,20",
+  "piyasa değeri: ": "68.210,5",
+  "halka açıklık: ": "32,9",
+  "sermaye: ": "592,1"
+},
+{
+  "_id": {
+    "$oid": "6570b9c5f75df4f46d895ed4"
+  },
+  "kod: ": "AFYON",
+  "hisse adı: ": "Afyon Çimento",
+  "sektör: ": "Çimento",
+  "kapanış: ": "12,18",
+  "piyasa değeri: ": "4.872,0",
+  "halka açıklık: ": "48,6",
+  "sermaye: ": "400,0"
+},
+{
+  "_id": {
+    "$oid": "6570b9caf75df4f46d895ede"
+  },
+  "kod: ": "AGESA",
+  "hisse adı: ": "Agesa Hayat ve Emeklilik",
+  "sektör: ": "Sigorta",
+  "kapanış: ": "57,90",
+  "piyasa değeri: ": "10.422,0",
+  "halka açıklık: ": "19,9",
+  "sermaye: ": "180,0"
+},
+{
+  "_id": {
+    "$oid": "6570b9cef75df4f46d895eeb"
+  },
+  "kod: ": "AGHOL",
+  "hisse adı: ": "Anadolu Grubu Holding",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "187,00",
+  "piyasa değeri: ": "45.541,0",
+  "halka açıklık: ": "37,6",
+  "sermaye: ": "243,5"
+},
+{
+  "_id": {
+    "$oid": "6570b9d1f75df4f46d895ef5"
+  },
+  "kod: ": "AGROT",
+  "hisse adı: ": "Agrotech Yüksek Teknoloji",
+  "sektör: ": "Diğer",
+  "kapanış: ": "13,47",
+  "piyasa değeri: ": "16.164,0",
+  "halka açıklık: ": "24,7",
+  "sermaye: ": "1.200,0"
+},
+{
+  "_id": {
+    "$oid": "6570b9d5f75df4f46d895eff"
+  },
+  "kod: ": "AGYO",
+  "hisse adı: ": "Atakule GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "9,20",
+  "piyasa değeri: ": "2.422,7",
+  "halka açıklık: ": "17,1",
+  "sermaye: ": "263,3"
+},
+{
+  "_id": {
+    "$oid": "6570b9d8f75df4f46d895f09"
+  },
+  "kod: ": "AHGAZ",
+  "hisse adı: ": "Ahlatçı Doğalgaz",
+  "sektör: ": "Elektrik - Doğalgaz Dağıtım",
+  "kapanış: ": "11,73",
+  "piyasa değeri: ": "30.498,0",
+  "halka açıklık: ": "25,4",
+  "sermaye: ": "2.600,0"
+},
+{
+  "_id": {
+    "$oid": "6570b9dcf75df4f46d895f17"
+  },
+  "kod: ": "AKBNK",
+  "hisse adı: ": "Akbank",
+  "sektör: ": "Bankacılık",
+  "kapanış: ": "36,50",
+  "piyasa değeri: ": "189.800,0",
+  "halka açıklık: ": "52,8",
+  "sermaye: ": "5.200,0"
+},
+{
+  "_id": {
+    "$oid": "6570bbdcdf41a0f019aebef7"
+  },
+  "kod: ": "A1CAP",
+  "hisse adı: ": "A1 Capital",
+  "sektör: ": "Aracı Kurumlar",
+  "kapanış: ": "31,40",
+  "piyasa değeri: ": "4.239,0",
+  "halka açıklık: ": "25,9",
+  "sermaye: ": "135,0"
+},
+{
+  "_id": {
+    "$oid": "6570bbdfdf41a0f019aebf01"
+  },
+  "kod: ": "ACSEL",
+  "hisse adı: ": "Acıselsan Acıpayam Selüloz",
+  "sektör: ": "Kimyasal Ürün",
+  "kapanış: ": "147,00",
+  "piyasa değeri: ": "1.576,1",
+  "halka açıklık: ": "48,3",
+  "sermaye: ": "10,7"
+},
+{
+  "_id": {
+    "$oid": "6570bbe3df41a0f019aebf0b"
+  },
+  "kod: ": "ADEL",
+  "hisse adı: ": "Adel Kalemcilik",
+  "sektör: ": "Kırtasiye",
+  "kapanış: ": "470,50",
+  "piyasa değeri: ": "11.115,6",
+  "halka açıklık: ": "27,6",
+  "sermaye: ": "23,6"
+},
+{
+  "_id": {
+    "$oid": "6570bbe7df41a0f019aebf15"
+  },
+  "kod: ": "ADESE",
+  "hisse adı: ": "Adese AVM",
+  "sektör: ": "Perakande - Ticaret",
+  "kapanış: ": "1,97",
+  "piyasa değeri: ": "1.985,8",
+  "halka açıklık: ": "92,9",
+  "sermaye: ": "1.008,0"
+},
+{
+  "_id": {
+    "$oid": "6570bbeadf41a0f019aebf1f"
+  },
+  "kod: ": "ADGYO",
+  "hisse adı: ": "Adra GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "33,38",
+  "piyasa değeri: ": "9.803,7",
+  "halka açıklık: ": "25,1",
+  "sermaye: ": "293,7"
+},
+{
+  "_id": {
+    "$oid": "6570bbefdf41a0f019aebf2c"
+  },
+  "kod: ": "AEFES",
+  "hisse adı: ": "Anadolu Efes",
+  "sektör: ": "Meşrubat / İçecek",
+  "kapanış: ": "115,20",
+  "piyasa değeri: ": "68.210,5",
+  "halka açıklık: ": "32,9",
+  "sermaye: ": "592,1"
+},
+{
+  "_id": {
+    "$oid": "6570bbf3df41a0f019aebf36"
+  },
+  "kod: ": "AFYON",
+  "hisse adı: ": "Afyon Çimento",
+  "sektör: ": "Çimento",
+  "kapanış: ": "12,18",
+  "piyasa değeri: ": "4.872,0",
+  "halka açıklık: ": "48,6",
+  "sermaye: ": "400,0"
+},
+{
+  "_id": {
+    "$oid": "6570bbf8df41a0f019aebf40"
+  },
+  "kod: ": "AGESA",
+  "hisse adı: ": "Agesa Hayat ve Emeklilik",
+  "sektör: ": "Sigorta",
+  "kapanış: ": "57,90",
+  "piyasa değeri: ": "10.422,0",
+  "halka açıklık: ": "19,9",
+  "sermaye: ": "180,0"
+},
+{
+  "_id": {
+    "$oid": "6570bbfbdf41a0f019aebf4d"
+  },
+  "kod: ": "AGHOL",
+  "hisse adı: ": "Anadolu Grubu Holding",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "187,00",
+  "piyasa değeri: ": "45.541,0",
+  "halka açıklık: ": "37,6",
+  "sermaye: ": "243,5"
+},
+{
+  "_id": {
+    "$oid": "6570bbffdf41a0f019aebf57"
+  },
+  "kod: ": "AGROT",
+  "hisse adı: ": "Agrotech Yüksek Teknoloji",
+  "sektör: ": "Diğer",
+  "kapanış: ": "13,47",
+  "piyasa değeri: ": "16.164,0",
+  "halka açıklık: ": "24,7",
+  "sermaye: ": "1.200,0"
+},
+{
+  "_id": {
+    "$oid": "6570bc03df41a0f019aebf61"
+  },
+  "kod: ": "AGYO",
+  "hisse adı: ": "Atakule GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "9,20",
+  "piyasa değeri: ": "2.422,7",
+  "halka açıklık: ": "17,1",
+  "sermaye: ": "263,3"
+},
+{
+  "_id": {
+    "$oid": "6570bc06df41a0f019aebf6b"
+  },
+  "kod: ": "AHGAZ",
+  "hisse adı: ": "Ahlatçı Doğalgaz",
+  "sektör: ": "Elektrik - Doğalgaz Dağıtım",
+  "kapanış: ": "11,73",
+  "piyasa değeri: ": "30.498,0",
+  "halka açıklık: ": "25,4",
+  "sermaye: ": "2.600,0"
+},
+{
+  "_id": {
+    "$oid": "6570bc0bdf41a0f019aebf79"
+  },
+  "kod: ": "AKBNK",
+  "hisse adı: ": "Akbank",
+  "sektör: ": "Bankacılık",
+  "kapanış: ": "36,50",
+  "piyasa değeri: ": "189.800,0",
+  "halka açıklık: ": "52,8",
+  "sermaye: ": "5.200,0"
+},
+{
+  "_id": {
+    "$oid": "6570bc0fdf41a0f019aebf87"
+  },
+  "kod: ": "AKCNS",
+  "hisse adı: ": "Akçansa",
+  "sektör: ": "Çimento",
+  "kapanış: ": "135,80",
+  "piyasa değeri: ": "25.998,5",
+  "halka açıklık: ": "20,5",
+  "sermaye: ": "191,4"
+},
+{
+  "_id": {
+    "$oid": "6570bc11df41a0f019aebf91"
+  },
+  "kod: ": "AKENR",
+  "hisse adı: ": "Akenerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "5,00",
+  "piyasa değeri: ": "3.645,8",
+  "halka açıklık: ": "25,3",
+  "sermaye: ": "729,2"
+},
+{
+  "_id": {
+    "$oid": "6570bc15df41a0f019aebf9b"
+  },
+  "kod: ": "AKFGY",
+  "hisse adı: ": "Akfen GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "4,18",
+  "piyasa değeri: ": "5.434,0",
+  "halka açıklık: ": "43,3",
+  "sermaye: ": "1.300,0"
+},
+{
+  "_id": {
+    "$oid": "6570bc18df41a0f019aebfa5"
+  },
+  "kod: ": "AKFYE",
+  "hisse adı: ": "Akfen Yenilenebilir Enerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "16,80",
+  "piyasa değeri: ": "17.069,3",
+  "halka açıklık: ": "29,5",
+  "sermaye: ": "1.016,0"
+},
+{
+  "_id": {
+    "$oid": "6570bc1edf41a0f019aebfb3"
+  },
+  "kod: ": "AKGRT",
+  "hisse adı: ": "Aksigorta",
+  "sektör: ": "Sigorta",
+  "kapanış: ": "5,34",
+  "piyasa değeri: ": "8.608,1",
+  "halka açıklık: ": "28,0",
+  "sermaye: ": "1.612,0"
+},
+{
+  "_id": {
+    "$oid": "6570bc22df41a0f019aebfbd"
+  },
+  "kod: ": "AKMGY",
+  "hisse adı: ": "Akmerkez GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "148,00",
+  "piyasa değeri: ": "5.515,1",
+  "halka açıklık: ": "9,1",
+  "sermaye: ": "37,3"
+},
+{
+  "_id": {
+    "$oid": "6570bc25df41a0f019aebfc7"
+  },
+  "kod: ": "AKSA",
+  "hisse adı: ": "Aksa",
+  "sektör: ": "Endüstriyel Tekstil",
+  "kapanış: ": "84,20",
+  "piyasa değeri: ": "27.259,8",
+  "halka açıklık: ": "35,1",
+  "sermaye: ": "323,8"
+},
+{
+  "_id": {
+    "$oid": "6570bc29df41a0f019aebfd1"
+  },
+  "kod: ": "AKSEN",
+  "hisse adı: ": "Aksa Enerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "33,40",
+  "piyasa değeri: ": "40.959,7",
+  "halka açıklık: ": "20,6",
+  "sermaye: ": "1.226,3"
+},
+{
+  "_id": {
+    "$oid": "6570bc2cdf41a0f019aebfdb"
+  },
+  "kod: ": "AKSGY",
+  "hisse adı: ": "Akis GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "11,07",
+  "piyasa değeri: ": "8.911,4",
+  "halka açıklık: ": "45,9",
+  "sermaye: ": "805,0"
+},
+{
+  "_id": {
+    "$oid": "6570bc30df41a0f019aebfe5"
+  },
+  "kod: ": "AKSUE",
+  "hisse adı: ": "Aksu Enerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "24,30",
+  "piyasa değeri: ": "801,9",
+  "halka açıklık: ": "80,9",
+  "sermaye: ": "33,0"
+},
+{
+  "_id": {
+    "$oid": "6570bc4051451ff8356bf8d6"
+  },
+  "kod: ": "A1CAP",
+  "hisse adı: ": "A1 Capital",
+  "sektör: ": "Aracı Kurumlar",
+  "kapanış: ": "31,40",
+  "piyasa değeri: ": "4.239,0",
+  "halka açıklık: ": "25,9",
+  "sermaye: ": "135,0"
+},
+{
+  "_id": {
+    "$oid": "6570bc4451451ff8356bf8e0"
+  },
+  "kod: ": "ACSEL",
+  "hisse adı: ": "Acıselsan Acıpayam Selüloz",
+  "sektör: ": "Kimyasal Ürün",
+  "kapanış: ": "147,00",
+  "piyasa değeri: ": "1.576,1",
+  "halka açıklık: ": "48,3",
+  "sermaye: ": "10,7"
+},
+{
+  "_id": {
+    "$oid": "6570bc4751451ff8356bf8ea"
+  },
+  "kod: ": "ADEL",
+  "hisse adı: ": "Adel Kalemcilik",
+  "sektör: ": "Kırtasiye",
+  "kapanış: ": "470,50",
+  "piyasa değeri: ": "11.115,6",
+  "halka açıklık: ": "27,6",
+  "sermaye: ": "23,6"
+},
+{
+  "_id": {
+    "$oid": "6570bc4b51451ff8356bf8f4"
+  },
+  "kod: ": "ADESE",
+  "hisse adı: ": "Adese AVM",
+  "sektör: ": "Perakande - Ticaret",
+  "kapanış: ": "1,97",
+  "piyasa değeri: ": "1.985,8",
+  "halka açıklık: ": "92,9",
+  "sermaye: ": "1.008,0"
+},
+{
+  "_id": {
+    "$oid": "6570bc4e51451ff8356bf8fe"
+  },
+  "kod: ": "ADGYO",
+  "hisse adı: ": "Adra GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "33,38",
+  "piyasa değeri: ": "9.803,7",
+  "halka açıklık: ": "25,1",
+  "sermaye: ": "293,7"
+},
+{
+  "_id": {
+    "$oid": "6570bc5251451ff8356bf90b"
+  },
+  "kod: ": "AEFES",
+  "hisse adı: ": "Anadolu Efes",
+  "sektör: ": "Meşrubat / İçecek",
+  "kapanış: ": "115,20",
+  "piyasa değeri: ": "68.210,5",
+  "halka açıklık: ": "32,9",
+  "sermaye: ": "592,1"
+},
+{
+  "_id": {
+    "$oid": "6570bc5651451ff8356bf915"
+  },
+  "kod: ": "AFYON",
+  "hisse adı: ": "Afyon Çimento",
+  "sektör: ": "Çimento",
+  "kapanış: ": "12,18",
+  "piyasa değeri: ": "4.872,0",
+  "halka açıklık: ": "48,6",
+  "sermaye: ": "400,0"
+},
+{
+  "_id": {
+    "$oid": "6570bc5b51451ff8356bf91f"
+  },
+  "kod: ": "AGESA",
+  "hisse adı: ": "Agesa Hayat ve Emeklilik",
+  "sektör: ": "Sigorta",
+  "kapanış: ": "57,90",
+  "piyasa değeri: ": "10.422,0",
+  "halka açıklık: ": "19,9",
+  "sermaye: ": "180,0"
+},
+{
+  "_id": {
+    "$oid": "6570bc5f51451ff8356bf92c"
+  },
+  "kod: ": "AGHOL",
+  "hisse adı: ": "Anadolu Grubu Holding",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "187,00",
+  "piyasa değeri: ": "45.541,0",
+  "halka açıklık: ": "37,6",
+  "sermaye: ": "243,5"
+},
+{
+  "_id": {
+    "$oid": "6570bc6251451ff8356bf936"
+  },
+  "kod: ": "AGROT",
+  "hisse adı: ": "Agrotech Yüksek Teknoloji",
+  "sektör: ": "Diğer",
+  "kapanış: ": "13,47",
+  "piyasa değeri: ": "16.164,0",
+  "halka açıklık: ": "24,7",
+  "sermaye: ": "1.200,0"
+},
+{
+  "_id": {
+    "$oid": "6570bc6651451ff8356bf940"
+  },
+  "kod: ": "AGYO",
+  "hisse adı: ": "Atakule GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "9,20",
+  "piyasa değeri: ": "2.422,7",
+  "halka açıklık: ": "17,1",
+  "sermaye: ": "263,3"
+},
+{
+  "_id": {
+    "$oid": "6570bc6951451ff8356bf94a"
+  },
+  "kod: ": "AHGAZ",
+  "hisse adı: ": "Ahlatçı Doğalgaz",
+  "sektör: ": "Elektrik - Doğalgaz Dağıtım",
+  "kapanış: ": "11,73",
+  "piyasa değeri: ": "30.498,0",
+  "halka açıklık: ": "25,4",
+  "sermaye: ": "2.600,0"
+},
+{
+  "_id": {
+    "$oid": "6570bc6e51451ff8356bf958"
+  },
+  "kod: ": "AKBNK",
+  "hisse adı: ": "Akbank",
+  "sektör: ": "Bankacılık",
+  "kapanış: ": "36,50",
+  "piyasa değeri: ": "189.800,0",
+  "halka açıklık: ": "52,8",
+  "sermaye: ": "5.200,0"
+},
+{
+  "_id": {
+    "$oid": "6570bc7251451ff8356bf966"
+  },
+  "kod: ": "AKCNS",
+  "hisse adı: ": "Akçansa",
+  "sektör: ": "Çimento",
+  "kapanış: ": "135,80",
+  "piyasa değeri: ": "25.998,5",
+  "halka açıklık: ": "20,5",
+  "sermaye: ": "191,4"
+},
+{
+  "_id": {
+    "$oid": "6570bc7551451ff8356bf970"
+  },
+  "kod: ": "AKENR",
+  "hisse adı: ": "Akenerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "5,00",
+  "piyasa değeri: ": "3.645,8",
+  "halka açıklık: ": "25,3",
+  "sermaye: ": "729,2"
+},
+{
+  "_id": {
+    "$oid": "6570bc7951451ff8356bf97a"
+  },
+  "kod: ": "AKFGY",
+  "hisse adı: ": "Akfen GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "4,18",
+  "piyasa değeri: ": "5.434,0",
+  "halka açıklık: ": "43,3",
+  "sermaye: ": "1.300,0"
+},
+{
+  "_id": {
+    "$oid": "6570bc7b51451ff8356bf984"
+  },
+  "kod: ": "AKFYE",
+  "hisse adı: ": "Akfen Yenilenebilir Enerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "16,80",
+  "piyasa değeri: ": "17.069,3",
+  "halka açıklık: ": "29,5",
+  "sermaye: ": "1.016,0"
+},
+{
+  "_id": {
+    "$oid": "6570bc8151451ff8356bf992"
+  },
+  "kod: ": "AKGRT",
+  "hisse adı: ": "Aksigorta",
+  "sektör: ": "Sigorta",
+  "kapanış: ": "5,34",
+  "piyasa değeri: ": "8.608,1",
+  "halka açıklık: ": "28,0",
+  "sermaye: ": "1.612,0"
+},
+{
+  "_id": {
+    "$oid": "6570bc8551451ff8356bf99c"
+  },
+  "kod: ": "AKMGY",
+  "hisse adı: ": "Akmerkez GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "148,00",
+  "piyasa değeri: ": "5.515,1",
+  "halka açıklık: ": "9,1",
+  "sermaye: ": "37,3"
+},
+{
+  "_id": {
+    "$oid": "6570bc8951451ff8356bf9a6"
+  },
+  "kod: ": "AKSA",
+  "hisse adı: ": "Aksa",
+  "sektör: ": "Endüstriyel Tekstil",
+  "kapanış: ": "84,20",
+  "piyasa değeri: ": "27.259,8",
+  "halka açıklık: ": "35,1",
+  "sermaye: ": "323,8"
+},
+{
+  "_id": {
+    "$oid": "6570bc8d51451ff8356bf9b0"
+  },
+  "kod: ": "AKSEN",
+  "hisse adı: ": "Aksa Enerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "33,40",
+  "piyasa değeri: ": "40.959,7",
+  "halka açıklık: ": "20,6",
+  "sermaye: ": "1.226,3"
+},
+{
+  "_id": {
+    "$oid": "6570bdc988166b325dcdff25"
+  },
+  "kod: ": "A1CAP",
+  "hisse adı: ": "A1 Capital",
+  "sektör: ": "Aracı Kurumlar",
+  "kapanış: ": "31,40",
+  "piyasa değeri: ": "4.239,0",
+  "halka açıklık: ": "25,9",
+  "sermaye: ": "135,0"
+},
+{
+  "_id": {
+    "$oid": "6570bdcc88166b325dcdff2d"
+  },
+  "kod: ": "ACSEL",
+  "hisse adı: ": "Acıselsan Acıpayam Selüloz",
+  "sektör: ": "Kimyasal Ürün",
+  "kapanış: ": "147,00",
+  "piyasa değeri: ": "1.576,1",
+  "halka açıklık: ": "48,3",
+  "sermaye: ": "10,7"
+},
+{
+  "_id": {
+    "$oid": "6570bdce88166b325dcdff35"
+  },
+  "kod: ": "ADEL",
+  "hisse adı: ": "Adel Kalemcilik",
+  "sektör: ": "Kırtasiye",
+  "kapanış: ": "470,50",
+  "piyasa değeri: ": "11.115,6",
+  "halka açıklık: ": "27,6",
+  "sermaye: ": "23,6"
+},
+{
+  "_id": {
+    "$oid": "6570bdd188166b325dcdff3d"
+  },
+  "kod: ": "ADESE",
+  "hisse adı: ": "Adese AVM",
+  "sektör: ": "Perakande - Ticaret",
+  "kapanış: ": "1,97",
+  "piyasa değeri: ": "1.985,8",
+  "halka açıklık: ": "92,9",
+  "sermaye: ": "1.008,0"
+},
+{
+  "_id": {
+    "$oid": "6570bdd488166b325dcdff45"
+  },
+  "kod: ": "ADGYO",
+  "hisse adı: ": "Adra GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "33,38",
+  "piyasa değeri: ": "9.803,7",
+  "halka açıklık: ": "25,1",
+  "sermaye: ": "293,7"
+},
+{
+  "_id": {
+    "$oid": "6570bdd688166b325dcdff4d"
+  },
+  "kod: ": "AEFES",
+  "hisse adı: ": "Anadolu Efes",
+  "sektör: ": "Meşrubat / İçecek",
+  "kapanış: ": "115,20",
+  "piyasa değeri: ": "68.210,5",
+  "halka açıklık: ": "32,9",
+  "sermaye: ": "592,1"
+},
+{
+  "_id": {
+    "$oid": "6570bdd888166b325dcdff55"
+  },
+  "kod: ": "AFYON",
+  "hisse adı: ": "Afyon Çimento",
+  "sektör: ": "Çimento",
+  "kapanış: ": "12,18",
+  "piyasa değeri: ": "4.872,0",
+  "halka açıklık: ": "48,6",
+  "sermaye: ": "400,0"
+},
+{
+  "_id": {
+    "$oid": "6570bddd88166b325dcdff5d"
+  },
+  "kod: ": "AGESA",
+  "hisse adı: ": "Agesa Hayat ve Emeklilik",
+  "sektör: ": "Sigorta",
+  "kapanış: ": "57,90",
+  "piyasa değeri: ": "10.422,0",
+  "halka açıklık: ": "19,9",
+  "sermaye: ": "180,0"
+},
+{
+  "_id": {
+    "$oid": "6570bde088166b325dcdff65"
+  },
+  "kod: ": "AGHOL",
+  "hisse adı: ": "Anadolu Grubu Holding",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "187,00",
+  "piyasa değeri: ": "45.541,0",
+  "halka açıklık: ": "37,6",
+  "sermaye: ": "243,5"
+},
+{
+  "_id": {
+    "$oid": "6570bde288166b325dcdff6d"
+  },
+  "kod: ": "AGROT",
+  "hisse adı: ": "Agrotech Yüksek Teknoloji",
+  "sektör: ": "Diğer",
+  "kapanış: ": "13,47",
+  "piyasa değeri: ": "16.164,0",
+  "halka açıklık: ": "24,7",
+  "sermaye: ": "1.200,0"
+},
+{
+  "_id": {
+    "$oid": "6570bde488166b325dcdff75"
+  },
+  "kod: ": "AGYO",
+  "hisse adı: ": "Atakule GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "9,20",
+  "piyasa değeri: ": "2.422,7",
+  "halka açıklık: ": "17,1",
+  "sermaye: ": "263,3"
+},
+{
+  "_id": {
+    "$oid": "6570bde888166b325dcdff7d"
+  },
+  "kod: ": "AHGAZ",
+  "hisse adı: ": "Ahlatçı Doğalgaz",
+  "sektör: ": "Elektrik - Doğalgaz Dağıtım",
+  "kapanış: ": "11,73",
+  "piyasa değeri: ": "30.498,0",
+  "halka açıklık: ": "25,4",
+  "sermaye: ": "2.600,0"
+},
+{
+  "_id": {
+    "$oid": "6570bdeb88166b325dcdff85"
+  },
+  "kod: ": "AKBNK",
+  "hisse adı: ": "Akbank",
+  "sektör: ": "Bankacılık",
+  "kapanış: ": "36,50",
+  "piyasa değeri: ": "189.800,0",
+  "halka açıklık: ": "52,8",
+  "sermaye: ": "5.200,0"
+},
+{
+  "_id": {
+    "$oid": "6570bfbccf3df97895a3b828"
+  },
+  "kod: ": "A1CAP",
+  "hisse adı: ": "A1 Capital",
+  "sektör: ": "Aracı Kurumlar",
+  "kapanış: ": "31,40",
+  "piyasa değeri: ": "4.239,0",
+  "halka açıklık: ": "25,9",
+  "sermaye: ": "135,0"
+},
+{
+  "_id": {
+    "$oid": "6570bfbfcf3df97895a3b830"
+  },
+  "kod: ": "ACSEL",
+  "hisse adı: ": "Acıselsan Acıpayam Selüloz",
+  "sektör: ": "Kimyasal Ürün",
+  "kapanış: ": "147,00",
+  "piyasa değeri: ": "1.576,1",
+  "halka açıklık: ": "48,3",
+  "sermaye: ": "10,7"
+},
+{
+  "_id": {
+    "$oid": "6570bfc2cf3df97895a3b838"
+  },
+  "kod: ": "ADEL",
+  "hisse adı: ": "Adel Kalemcilik",
+  "sektör: ": "Kırtasiye",
+  "kapanış: ": "470,50",
+  "piyasa değeri: ": "11.115,6",
+  "halka açıklık: ": "27,6",
+  "sermaye: ": "23,6"
+},
+{
+  "_id": {
+    "$oid": "6570bfc5cf3df97895a3b840"
+  },
+  "kod: ": "ADESE",
+  "hisse adı: ": "Adese AVM",
+  "sektör: ": "Perakande - Ticaret",
+  "kapanış: ": "1,97",
+  "piyasa değeri: ": "1.985,8",
+  "halka açıklık: ": "92,9",
+  "sermaye: ": "1.008,0"
+},
+{
+  "_id": {
+    "$oid": "6570bfc9cf3df97895a3b848"
+  },
+  "kod: ": "ADGYO",
+  "hisse adı: ": "Adra GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "33,38",
+  "piyasa değeri: ": "9.803,7",
+  "halka açıklık: ": "25,1",
+  "sermaye: ": "293,7"
+},
+{
+  "_id": {
+    "$oid": "6570bfcbcf3df97895a3b850"
+  },
+  "kod: ": "AEFES",
+  "hisse adı: ": "Anadolu Efes",
+  "sektör: ": "Meşrubat / İçecek",
+  "kapanış: ": "115,20",
+  "piyasa değeri: ": "68.210,5",
+  "halka açıklık: ": "32,9",
+  "sermaye: ": "592,1"
+},
+{
+  "_id": {
+    "$oid": "6570bfcfcf3df97895a3b858"
+  },
+  "kod: ": "AFYON",
+  "hisse adı: ": "Afyon Çimento",
+  "sektör: ": "Çimento",
+  "kapanış: ": "12,18",
+  "piyasa değeri: ": "4.872,0",
+  "halka açıklık: ": "48,6",
+  "sermaye: ": "400,0"
+},
+{
+  "_id": {
+    "$oid": "6570bfd4cf3df97895a3b860"
+  },
+  "kod: ": "AGESA",
+  "hisse adı: ": "Agesa Hayat ve Emeklilik",
+  "sektör: ": "Sigorta",
+  "kapanış: ": "57,90",
+  "piyasa değeri: ": "10.422,0",
+  "halka açıklık: ": "19,9",
+  "sermaye: ": "180,0"
+},
+{
+  "_id": {
+    "$oid": "6570bfd8cf3df97895a3b868"
+  },
+  "kod: ": "AGHOL",
+  "hisse adı: ": "Anadolu Grubu Holding",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "187,00",
+  "piyasa değeri: ": "45.541,0",
+  "halka açıklık: ": "37,6",
+  "sermaye: ": "243,5"
+},
+{
+  "_id": {
+    "$oid": "6570bfdbcf3df97895a3b870"
+  },
+  "kod: ": "AGROT",
+  "hisse adı: ": "Agrotech Yüksek Teknoloji",
+  "sektör: ": "Diğer",
+  "kapanış: ": "13,47",
+  "piyasa değeri: ": "16.164,0",
+  "halka açıklık: ": "24,7",
+  "sermaye: ": "1.200,0"
+},
+{
+  "_id": {
+    "$oid": "6570bfdecf3df97895a3b878"
+  },
+  "kod: ": "AGYO",
+  "hisse adı: ": "Atakule GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "9,20",
+  "piyasa değeri: ": "2.422,7",
+  "halka açıklık: ": "17,1",
+  "sermaye: ": "263,3"
+},
+{
+  "_id": {
+    "$oid": "6570bfe1cf3df97895a3b880"
+  },
+  "kod: ": "AHGAZ",
+  "hisse adı: ": "Ahlatçı Doğalgaz",
+  "sektör: ": "Elektrik - Doğalgaz Dağıtım",
+  "kapanış: ": "11,73",
+  "piyasa değeri: ": "30.498,0",
+  "halka açıklık: ": "25,4",
+  "sermaye: ": "2.600,0"
+},
+{
+  "_id": {
+    "$oid": "6570bfe4cf3df97895a3b888"
+  },
+  "kod: ": "AKBNK",
+  "hisse adı: ": "Akbank",
+  "sektör: ": "Bankacılık",
+  "kapanış: ": "36,50",
+  "piyasa değeri: ": "189.800,0",
+  "halka açıklık: ": "52,8",
+  "sermaye: ": "5.200,0"
+},
+{
+  "_id": {
+    "$oid": "6570bfe7cf3df97895a3b890"
+  },
+  "kod: ": "AKCNS",
+  "hisse adı: ": "Akçansa",
+  "sektör: ": "Çimento",
+  "kapanış: ": "135,80",
+  "piyasa değeri: ": "25.998,5",
+  "halka açıklık: ": "20,5",
+  "sermaye: ": "191,4"
+},
+{
+  "_id": {
+    "$oid": "6570bfeacf3df97895a3b898"
+  },
+  "kod: ": "AKENR",
+  "hisse adı: ": "Akenerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "5,00",
+  "piyasa değeri: ": "3.645,8",
+  "halka açıklık: ": "25,3",
+  "sermaye: ": "729,2"
+},
+{
+  "_id": {
+    "$oid": "6570bfeecf3df97895a3b8a0"
+  },
+  "kod: ": "AKFGY",
+  "hisse adı: ": "Akfen GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "4,18",
+  "piyasa değeri: ": "5.434,0",
+  "halka açıklık: ": "43,3",
+  "sermaye: ": "1.300,0"
+},
+{
+  "_id": {
+    "$oid": "6570bff1cf3df97895a3b8a8"
+  },
+  "kod: ": "AKFYE",
+  "hisse adı: ": "Akfen Yenilenebilir Enerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "16,80",
+  "piyasa değeri: ": "17.069,3",
+  "halka açıklık: ": "29,5",
+  "sermaye: ": "1.016,0"
+},
+{
+  "_id": {
+    "$oid": "6570bff6cf3df97895a3b8b0"
+  },
+  "kod: ": "AKGRT",
+  "hisse adı: ": "Aksigorta",
+  "sektör: ": "Sigorta",
+  "kapanış: ": "5,34",
+  "piyasa değeri: ": "8.608,1",
+  "halka açıklık: ": "28,0",
+  "sermaye: ": "1.612,0"
+},
+{
+  "_id": {
+    "$oid": "6570bff9cf3df97895a3b8b8"
+  },
+  "kod: ": "AKMGY",
+  "hisse adı: ": "Akmerkez GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "148,00",
+  "piyasa değeri: ": "5.515,1",
+  "halka açıklık: ": "9,1",
+  "sermaye: ": "37,3"
+},
+{
+  "_id": {
+    "$oid": "6570bffccf3df97895a3b8c0"
+  },
+  "kod: ": "AKSA",
+  "hisse adı: ": "Aksa",
+  "sektör: ": "Endüstriyel Tekstil",
+  "kapanış: ": "84,20",
+  "piyasa değeri: ": "27.259,8",
+  "halka açıklık: ": "35,1",
+  "sermaye: ": "323,8"
+},
+{
+  "_id": {
+    "$oid": "6570bfffcf3df97895a3b8c8"
+  },
+  "kod: ": "AKSEN",
+  "hisse adı: ": "Aksa Enerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "33,40",
+  "piyasa değeri: ": "40.959,7",
+  "halka açıklık: ": "20,6",
+  "sermaye: ": "1.226,3"
+},
+{
+  "_id": {
+    "$oid": "6570c002cf3df97895a3b8d0"
+  },
+  "kod: ": "AKSGY",
+  "hisse adı: ": "Akis GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "11,07",
+  "piyasa değeri: ": "8.911,4",
+  "halka açıklık: ": "45,9",
+  "sermaye: ": "805,0"
+},
+{
+  "_id": {
+    "$oid": "6570c005cf3df97895a3b8d8"
+  },
+  "kod: ": "AKSUE",
+  "hisse adı: ": "Aksu Enerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "24,30",
+  "piyasa değeri: ": "801,9",
+  "halka açıklık: ": "80,9",
+  "sermaye: ": "33,0"
+},
+{
+  "_id": {
+    "$oid": "6570c009cf3df97895a3b8e0"
+  },
+  "kod: ": "AKYHO",
+  "hisse adı: ": "Akdeniz Yatırım Holding",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "3,55",
+  "piyasa değeri: ": "440,5",
+  "halka açıklık: ": "77,7",
+  "sermaye: ": "124,1"
+},
+{
+  "_id": {
+    "$oid": "6570c00ccf3df97895a3b8e8"
+  },
+  "kod: ": "ALARK",
+  "hisse adı: ": "Alarko Holding",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "96,00",
+  "piyasa değeri: ": "41.760,0",
+  "halka açıklık: ": "33,6",
+  "sermaye: ": "435,0"
+},
+{
+  "_id": {
+    "$oid": "6570c010cf3df97895a3b8f0"
+  },
+  "kod: ": "ALBRK",
+  "hisse adı: ": "Albaraka Türk",
+  "sektör: ": "Bankacılık",
+  "kapanış: ": "4,03",
+  "piyasa değeri: ": "10.075,0",
+  "halka açıklık: ": "39,5",
+  "sermaye: ": "2.500,0"
+},
+{
+  "_id": {
+    "$oid": "6570c013cf3df97895a3b8f8"
+  },
+  "kod: ": "ALCAR",
+  "hisse adı: ": "Alarko Carrier",
+  "sektör: ": "Dayanıklı Tüketim",
+  "kapanış: ": "1.387,00",
+  "piyasa değeri: ": "14.979,6",
+  "halka açıklık: ": "15,9",
+  "sermaye: ": "10,8"
+},
+{
+  "_id": {
+    "$oid": "6570c016cf3df97895a3b900"
+  },
+  "kod: ": "ALCTL",
+  "hisse adı: ": "Alcatel Teletaş",
+  "sektör: ": "İletişim Cihazları",
+  "kapanış: ": "86,00",
+  "piyasa değeri: ": "3.328,3",
+  "halka açıklık: ": "35,0",
+  "sermaye: ": "38,7"
+},
+{
+  "_id": {
+    "$oid": "6570c019cf3df97895a3b908"
+  },
+  "kod: ": "ALFAS",
+  "hisse adı: ": "Alfa Solar",
+  "sektör: ": "Elektrik Enerji Ürt.Teçh/Tesis Kurulum",
+  "kapanış: ": "94,80",
+  "piyasa değeri: ": "34.886,4",
+  "halka açıklık: ": "19,6",
+  "sermaye: ": "368,0"
+},
+{
+  "_id": {
+    "$oid": "6570c01ccf3df97895a3b910"
+  },
+  "kod: ": "ALGYO",
+  "hisse adı: ": "Alarko GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "39,00",
+  "piyasa değeri: ": "5.651,1",
+  "halka açıklık: ": "48,8",
+  "sermaye: ": "144,9"
+},
+{
+  "_id": {
+    "$oid": "6570c01fcf3df97895a3b918"
+  },
+  "kod: ": "ALKA",
+  "hisse adı: ": "Alkim Kağıt",
+  "sektör: ": "Kağıt Ürünleri",
+  "kapanış: ": "26,64",
+  "piyasa değeri: ": "4.895,1",
+  "halka açıklık: ": "19,5",
+  "sermaye: ": "183,8"
+},
+{
+  "_id": {
+    "$oid": "6570c022cf3df97895a3b920"
+  },
+  "kod: ": "ALKIM",
+  "hisse adı: ": "Alkim",
+  "sektör: ": "Kimyasal Ürün",
+  "kapanış: ": "38,50",
+  "piyasa değeri: ": "5.775,0",
+  "halka açıklık: ": "46,5",
+  "sermaye: ": "150,0"
+},
+{
+  "_id": {
+    "$oid": "6570c026cf3df97895a3b928"
+  },
+  "kod: ": "ALMAD",
+  "hisse adı: ": "Altınyağ Madencilik ve Enerji",
+  "sektör: ": "Madencilik",
+  "kapanış: ": "8,19",
+  "piyasa değeri: ": "2.252,3",
+  "halka açıklık: ": "59,7",
+  "sermaye: ": "275,0"
+},
+{
+  "_id": {
+    "$oid": "6570c029cf3df97895a3b930"
+  },
+  "kod: ": "ANELE",
+  "hisse adı: ": "Anel Elektrik",
+  "sektör: ": "İnşaat Malzemeleri",
+  "kapanış: ": "10,36",
+  "piyasa değeri: ": "2.745,4",
+  "halka açıklık: ": "23,5",
+  "sermaye: ": "265,0"
+},
+{
+  "_id": {
+    "$oid": "6570c02ccf3df97895a3b938"
+  },
+  "kod: ": "ANGEN",
+  "hisse adı: ": "Anatolia Biyoteknoloji",
+  "sektör: ": "Sağlık ve İlaç",
+  "kapanış: ": "13,75",
+  "piyasa değeri: ": "3.025,0",
+  "halka açıklık: ": "30,3",
+  "sermaye: ": "220,0"
+},
+{
+  "_id": {
+    "$oid": "6570c031cf3df97895a3b940"
+  },
+  "kod: ": "ANHYT",
+  "hisse adı: ": "Anadolu Hayat Emeklilik A.Ş.",
+  "sektör: ": "Sigorta",
+  "kapanış: ": "38,38",
+  "piyasa değeri: ": "16.503,4",
+  "halka açıklık: ": "15,1",
+  "sermaye: ": "430,0"
+},
+{
+  "_id": {
+    "$oid": "6570c036cf3df97895a3b948"
+  },
+  "kod: ": "ANSGR",
+  "hisse adı: ": "Anadolu Sigorta",
+  "sektör: ": "Sigorta",
+  "kapanış: ": "62,50",
+  "piyasa değeri: ": "31.250,0",
+  "halka açıklık: ": "34,7",
+  "sermaye: ": "500,0"
+},
+{
+  "_id": {
+    "$oid": "6570c039cf3df97895a3b950"
+  },
+  "kod: ": "ARASE",
+  "hisse adı: ": "Doğu Aras Enerji",
+  "sektör: ": "Elektrik - Doğalgaz Dağıtım",
+  "kapanış: ": "60,50",
+  "piyasa değeri: ": "15.125,0",
+  "halka açıklık: ": "17,5",
+  "sermaye: ": "250,0"
+},
+{
+  "_id": {
+    "$oid": "6570c03ccf3df97895a3b958"
+  },
+  "kod: ": "ARCLK",
+  "hisse adı: ": "Arçelik",
+  "sektör: ": "Dayanıklı Tüketim",
+  "kapanış: ": "133,10",
+  "piyasa değeri: ": "89.939,4",
+  "halka açıklık: ": "14,6",
+  "sermaye: ": "675,7"
+},
+{
+  "_id": {
+    "$oid": "6570c03ecf3df97895a3b960"
+  },
+  "kod: ": "ARDYZ",
+  "hisse adı: ": "ARD Grup Bilişim",
+  "sektör: ": "Teknoloji",
+  "kapanış: ": "24,66",
+  "piyasa değeri: ": "4.192,2",
+  "halka açıklık: ": "74,9",
+  "sermaye: ": "170,0"
+},
+{
+  "_id": {
+    "$oid": "6570c040cf3df97895a3b968"
+  },
+  "kod: ": "ARENA",
+  "hisse adı: ": "Arena Bilgisayar",
+  "sektör: ": "Bilgisayar Toptancılığı",
+  "kapanış: ": "34,02",
+  "piyasa değeri: ": "3.402,0",
+  "halka açıklık: ": "34,2",
+  "sermaye: ": "100,0"
+},
+{
+  "_id": {
+    "$oid": "6570c044cf3df97895a3b970"
+  },
+  "kod: ": "ARSAN",
+  "hisse adı: ": "Arsan Tekstil",
+  "sektör: ": "Tekstil Entegre",
+  "kapanış: ": "11,20",
+  "piyasa değeri: ": "2.289,8",
+  "halka açıklık: ": "36,3",
+  "sermaye: ": "204,4"
+},
+{
+  "_id": {
+    "$oid": "6570c047cf3df97895a3b978"
+  },
+  "kod: ": "ARZUM",
+  "hisse adı: ": "Arzum Ev Aletleri",
+  "sektör: ": "Dayanıklı Tüketim",
+  "kapanış: ": "33,00",
+  "piyasa değeri: ": "1.062,9",
+  "halka açıklık: ": "49,0",
+  "sermaye: ": "32,2"
+},
+{
+  "_id": {
+    "$oid": "6570c049cf3df97895a3b980"
+  },
+  "kod: ": "ASELS",
+  "hisse adı: ": "Aselsan",
+  "sektör: ": "Savunma",
+  "kapanış: ": "47,30",
+  "piyasa değeri: ": "215.688,0",
+  "halka açıklık: ": "25,7",
+  "sermaye: ": "4.560,0"
+},
+{
+  "_id": {
+    "$oid": "6570c04dcf3df97895a3b988"
+  },
+  "kod: ": "ASGYO",
+  "hisse adı: ": "Asce GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "16,20",
+  "piyasa değeri: ": "10.675,8",
+  "halka açıklık: ": "25,0",
+  "sermaye: ": "659,0"
+},
+{
+  "_id": {
+    "$oid": "6570c04fcf3df97895a3b990"
+  },
+  "kod: ": "ASTOR",
+  "hisse adı: ": "Astor Enerji",
+  "sektör: ": "Elektrik Enerji Ürt.Teçh/Tesis Kurulum",
+  "kapanış: ": "101,50",
+  "piyasa değeri: ": "101.297,0",
+  "halka açıklık: ": "20,7",
+  "sermaye: ": "998,0"
+},
+{
+  "_id": {
+    "$oid": "6570c052cf3df97895a3b998"
+  },
+  "kod: ": "ASUZU",
+  "hisse adı: ": "Anadolu Isuzu",
+  "sektör: ": "Otomotiv",
+  "kapanış: ": "233,20",
+  "piyasa değeri: ": "19.588,8",
+  "halka açıklık: ": "14,5",
+  "sermaye: ": "84,0"
+},
+{
+  "_id": {
+    "$oid": "6570c055cf3df97895a3b9a0"
+  },
+  "kod: ": "ATAGY",
+  "hisse adı: ": "Ata GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "9,08",
+  "piyasa değeri: ": "431,3",
+  "halka açıklık: ": "58,3",
+  "sermaye: ": "47,5"
+},
+{
+  "_id": {
+    "$oid": "6570c059cf3df97895a3b9a8"
+  },
+  "kod: ": "ATAKP",
+  "hisse adı: ": "Atakey Patates",
+  "sektör: ": "Gıda",
+  "kapanış: ": "51,60",
+  "piyasa değeri: ": "7.160,4",
+  "halka açıklık: ": "20,3",
+  "sermaye: ": "138,8"
+},
+{
+  "_id": {
+    "$oid": "6570c05ccf3df97895a3b9b0"
+  },
+  "kod: ": "ATATP",
+  "hisse adı: ": "ATP Bilgisayar",
+  "sektör: ": "Teknoloji",
+  "kapanış: ": "89,00",
+  "piyasa değeri: ": "8.343,8",
+  "halka açıklık: ": "19,6",
+  "sermaye: ": "93,8"
+},
+{
+  "_id": {
+    "$oid": "6570c05fcf3df97895a3b9b8"
+  },
+  "kod: ": "ATEKS",
+  "hisse adı: ": "Akın Tekstil",
+  "sektör: ": "Tekstil Entegre",
+  "kapanış: ": "106,00",
+  "piyasa değeri: ": "2.671,2",
+  "halka açıklık: ": "20,7",
+  "sermaye: ": "25,2"
+},
+{
+  "_id": {
+    "$oid": "6570c062cf3df97895a3b9c0"
+  },
+  "kod: ": "ATLAS",
+  "hisse adı: ": "Atlas YO",
+  "sektör: ": "Yatırım Ortaklıkları",
+  "kapanış: ": "5,26",
+  "piyasa değeri: ": "315,6",
+  "halka açıklık: ": "99,9",
+  "sermaye: ": "60,0"
+},
+{
+  "_id": {
+    "$oid": "6570c066cf3df97895a3b9c8"
+  },
+  "kod: ": "ATSYH",
+  "hisse adı: ": "Atlantis YO",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "70,80",
+  "piyasa değeri: ": "566,4",
+  "halka açıklık: ": "98,1",
+  "sermaye: ": "8,0"
+},
+{
+  "_id": {
+    "$oid": "6570c069cf3df97895a3b9d0"
+  },
+  "kod: ": "AVGYO",
+  "hisse adı: ": "Avrasya YO",
+  "sektör: ": "GYO",
+  "kapanış: ": "9,04",
+  "piyasa değeri: ": "1.008,9",
+  "halka açıklık: ": "52,1",
+  "sermaye: ": "111,6"
+},
+{
+  "_id": {
+    "$oid": "6570c06dcf3df97895a3b9d8"
+  },
+  "kod: ": "AVHOL",
+  "hisse adı: ": "Avrupa Yatırım Holding",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "36,00",
+  "piyasa değeri: ": "1.341,0",
+  "halka açıklık: ": "42,1",
+  "sermaye: ": "37,3"
+},
+{
+  "_id": {
+    "$oid": "6570c070cf3df97895a3b9e0"
+  },
+  "kod: ": "AVOD",
+  "hisse adı: ": "Avod Kurutulmuş Gıda",
+  "sektör: ": "Gıda",
+  "kapanış: ": "3,59",
+  "piyasa değeri: ": "969,3",
+  "halka açıklık: ": "93,9",
+  "sermaye: ": "270,0"
+},
+{
+  "_id": {
+    "$oid": "6570c073cf3df97895a3b9e8"
+  },
+  "kod: ": "AVTUR",
+  "hisse adı: ": "Avrasya Petrol&Turistik Tesis",
+  "sektör: ": "Turizm",
+  "kapanış: ": "8,35",
+  "piyasa değeri: ": "375,8",
+  "halka açıklık: ": "67,9",
+  "sermaye: ": "45,0"
+},
+{
+  "_id": {
+    "$oid": "6570c078cf3df97895a3b9f0"
+  },
+  "kod: ": "AYCES",
+  "hisse adı: ": "Altınyunus Çesme",
+  "sektör: ": "Turizm",
+  "kapanış: ": "540,00",
+  "piyasa değeri: ": "13.500,0",
+  "halka açıklık: ": "7,5",
+  "sermaye: ": "25,0"
+},
+{
+  "_id": {
+    "$oid": "6570c07bcf3df97895a3b9f8"
+  },
+  "kod: ": "AYDEM",
+  "hisse adı: ": "Aydem Enerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "19,55",
+  "piyasa değeri: ": "13.782,8",
+  "halka açıklık: ": "15,7",
+  "sermaye: ": "705,0"
+},
+{
+  "_id": {
+    "$oid": "6570c07ecf3df97895a3ba00"
+  },
+  "kod: ": "AYEN",
+  "hisse adı: ": "Ayen Enerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "26,20",
+  "piyasa değeri: ": "7.270,5",
+  "halka açıklık: ": "16,9",
+  "sermaye: ": "277,5"
+},
+{
+  "_id": {
+    "$oid": "6570c081cf3df97895a3ba08"
+  },
+  "kod: ": "AYES",
+  "hisse adı: ": "Ayes Çelik Hasır & Çit",
+  "sektör: ": "İnşaat Malzemeleri",
+  "kapanış: ": "34,58",
+  "piyasa değeri: ": "1.039,4",
+  "halka açıklık: ": "53,5",
+  "sermaye: ": "30,1"
+},
+{
+  "_id": {
+    "$oid": "6570c085cf3df97895a3ba10"
+  },
+  "kod: ": "AYGAZ",
+  "hisse adı: ": "Aygaz",
+  "sektör: ": "Petrol",
+  "kapanış: ": "126,10",
+  "piyasa değeri: ": "27.716,9",
+  "halka açıklık: ": "24,2",
+  "sermaye: ": "219,8"
+},
+{
+  "_id": {
+    "$oid": "6570c088cf3df97895a3ba18"
+  },
+  "kod: ": "AZTEK",
+  "hisse adı: ": "Aztek Teknoloji",
+  "sektör: ": "Perakande - Ticaret",
+  "kapanış: ": "135,80",
+  "piyasa değeri: ": "13.580,0",
+  "halka açıklık: ": "25,0",
+  "sermaye: ": "100,0"
+},
+{
+  "_id": {
+    "$oid": "6570c08bcf3df97895a3ba20"
+  },
+  "kod: ": "BAGFS",
+  "hisse adı: ": "Bandırma Gübre Fabrikaları A.Ş",
+  "sektör: ": "Tarım Kimyasalları",
+  "kapanış: ": "40,88",
+  "piyasa değeri: ": "5.518,8",
+  "halka açıklık: ": "61,2",
+  "sermaye: ": "135,0"
+},
+{
+  "_id": {
+    "$oid": "6570c08ecf3df97895a3ba28"
+  },
+  "kod: ": "BAKAB",
+  "hisse adı: ": "Bak Ambalaj",
+  "sektör: ": "Kağıt Ürünleri",
+  "kapanış: ": "77,75",
+  "piyasa değeri: ": "2.799,0",
+  "halka açıklık: ": "17,5",
+  "sermaye: ": "36,0"
+},
+{
+  "_id": {
+    "$oid": "6570c092cf3df97895a3ba30"
+  },
+  "kod: ": "BALAT",
+  "hisse adı: ": "Balatacılar Balatacılık",
+  "sektör: ": "Otomotiv Parçası",
+  "kapanış: ": "26,06",
+  "piyasa değeri: ": "361,7",
+  "halka açıklık: ": "80,5",
+  "sermaye: ": "13,9"
+},
+{
+  "_id": {
+    "$oid": "6570c095cf3df97895a3ba38"
+  },
+  "kod: ": "BANVT",
+  "hisse adı: ": "Banvit",
+  "sektör: ": "Hayvancılık",
+  "kapanış: ": "117,80",
+  "piyasa değeri: ": "11.782,8",
+  "halka açıklık: ": "8,3",
+  "sermaye: ": "100,0"
+},
+{
+  "_id": {
+    "$oid": "6570c098cf3df97895a3ba40"
+  },
+  "kod: ": "BARMA",
+  "hisse adı: ": "Barem Ambalaj",
+  "sektör: ": "Kağıt Ürünleri",
+  "kapanış: ": "20,22",
+  "piyasa değeri: ": "5.307,8",
+  "halka açıklık: ": "20,0",
+  "sermaye: ": "262,5"
+},
+{
+  "_id": {
+    "$oid": "6570c09bcf3df97895a3ba48"
+  },
+  "kod: ": "BASCM",
+  "hisse adı: ": "Baştaş Başkent Çimento Sanayi",
+  "sektör: ": "Çimento",
+  "kapanış: ": "11,64",
+  "piyasa değeri: ": "7.682,4",
+  "halka açıklık: ": "7,4",
+  "sermaye: ": "660,0"
+},
+{
+  "_id": {
+    "$oid": "6570c09ecf3df97895a3ba50"
+  },
+  "kod: ": "BASGZ",
+  "hisse adı: ": "Başkent Doğalgaz",
+  "sektör: ": "Elektrik - Doğalgaz Dağıtım",
+  "kapanış: ": "18,45",
+  "piyasa değeri: ": "12.915,0",
+  "halka açıklık: ": "15,3",
+  "sermaye: ": "700,0"
+},
+{
+  "_id": {
+    "$oid": "6570c0a2cf3df97895a3ba58"
+  },
+  "kod: ": "BAYRK",
+  "hisse adı: ": "Bayrak EBT Taban",
+  "sektör: ": "Tekstil Entegre",
+  "kapanış: ": "9,74",
+  "piyasa değeri: ": "459,0",
+  "halka açıklık: ": "75,2",
+  "sermaye: ": "47,1"
+},
+{
+  "_id": {
+    "$oid": "6570c0a5cf3df97895a3ba60"
+  },
+  "kod: ": "BERA",
+  "hisse adı: ": "Bera Holding",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "12,84",
+  "piyasa değeri: ": "8.772,3",
+  "halka açıklık: ": "63,1",
+  "sermaye: ": "683,2"
+},
+{
+  "_id": {
+    "$oid": "6570c0a7cf3df97895a3ba68"
+  },
+  "kod: ": "BEYAZ",
+  "hisse adı: ": "Beyaz Filo",
+  "sektör: ": "Diğer",
+  "kapanış: ": "22,60",
+  "piyasa değeri: ": "2.252,9",
+  "halka açıklık: ": "24,5",
+  "sermaye: ": "99,7"
+},
+{
+  "_id": {
+    "$oid": "6570c0aacf3df97895a3ba70"
+  },
+  "kod: ": "BFREN",
+  "hisse adı: ": "Bosch Fren",
+  "sektör: ": "Otomotiv Parçası",
+  "kapanış: ": "12.550,00",
+  "piyasa değeri: ": "31.375,0",
+  "halka açıklık: ": "15,5",
+  "sermaye: ": "2,5"
+},
+{
+  "_id": {
+    "$oid": "6570c0aecf3df97895a3ba78"
+  },
+  "kod: ": "BIENY",
+  "hisse adı: ": "Bien Yapı",
+  "sektör: ": "Seramik",
+  "kapanış: ": "45,58",
+  "piyasa değeri: ": "16.454,4",
+  "halka açıklık: ": "20,0",
+  "sermaye: ": "361,0"
+},
+{
+  "_id": {
+    "$oid": "6570c0b1cf3df97895a3ba80"
+  },
+  "kod: ": "BIGCH",
+  "hisse adı: ": "BigChefs",
+  "sektör: ": "Gıda",
+  "kapanış: ": "24,60",
+  "piyasa değeri: ": "2.632,2",
+  "halka açıklık: ": "34,6",
+  "sermaye: ": "107,0"
+},
+{
+  "_id": {
+    "$oid": "6570c0b4cf3df97895a3ba88"
+  },
+  "kod: ": "BIMAS",
+  "hisse adı: ": "Bim Birleşik Mağazalar A.Ş",
+  "sektör: ": "Perakande - Ticaret",
+  "kapanış: ": "313,00",
+  "piyasa değeri: ": "190.053,6",
+  "halka açıklık: ": "67,7",
+  "sermaye: ": "607,2"
+},
+{
+  "_id": {
+    "$oid": "6570c0b6cf3df97895a3ba90"
+  },
+  "kod: ": "BINHO",
+  "hisse adı: ": "1000 Yatırımlar",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "313,00",
+  "piyasa değeri: ": "14.711,0",
+  "halka açıklık: ": "20,2",
+  "sermaye: ": "47,0"
+},
+{
+  "_id": {
+    "$oid": "6570c0b9cf3df97895a3ba98"
+  },
+  "kod: ": "BIOEN",
+  "hisse adı: ": "Biotrend Enerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "19,53",
+  "piyasa değeri: ": "9.765,0",
+  "halka açıklık: ": "37,8",
+  "sermaye: ": "500,0"
+},
+{
+  "_id": {
+    "$oid": "6570c0bdcf3df97895a3baa0"
+  },
+  "kod: ": "BIZIM",
+  "hisse adı: ": "Bizim Toptan",
+  "sektör: ": "Perakande - Ticaret",
+  "kapanış: ": "38,40",
+  "piyasa değeri: ": "2.304,0",
+  "halka açıklık: ": "43,9",
+  "sermaye: ": "60,0"
+},
+{
+  "_id": {
+    "$oid": "6570c0c0cf3df97895a3baa8"
+  },
+  "kod: ": "BJKAS",
+  "hisse adı: ": "Beşiktaş",
+  "sektör: ": "Spor",
+  "kapanış: ": "49,50",
+  "piyasa değeri: ": "11.880,0",
+  "halka açıklık: ": "44,6",
+  "sermaye: ": "240,0"
+},
+{
+  "_id": {
+    "$oid": "6570c0c3cf3df97895a3bab0"
+  },
+  "kod: ": "BLCYT",
+  "hisse adı: ": "Bilici Yatırım",
+  "sektör: ": "Tekstil Entegre",
+  "kapanış: ": "16,42",
+  "piyasa değeri: ": "1.642,0",
+  "halka açıklık: ": "33,0",
+  "sermaye: ": "100,0"
+},
+{
+  "_id": {
+    "$oid": "6570c0c6cf3df97895a3bab8"
+  },
+  "kod: ": "BMSCH",
+  "hisse adı: ": "BMS Çelik Hasır",
+  "sektör: ": "Demir-Çelik Döküm",
+  "kapanış: ": "17,00",
+  "piyasa değeri: ": "613,4",
+  "halka açıklık: ": "63,6",
+  "sermaye: ": "36,1"
+},
+{
+  "_id": {
+    "$oid": "6570c0c9cf3df97895a3bac0"
+  },
+  "kod: ": "BMSTL",
+  "hisse adı: ": "BMS Birleşik Metal",
+  "sektör: ": "Demir-Çelik Döküm",
+  "kapanış: ": "24,06",
+  "piyasa değeri: ": "1.757,6",
+  "halka açıklık: ": "29,5",
+  "sermaye: ": "73,1"
+},
+{
+  "_id": {
+    "$oid": "6570c0cccf3df97895a3bac8"
+  },
+  "kod: ": "BNTAS",
+  "hisse adı: ": "Bantaş Bandırma Ambalaj",
+  "sektör: ": "Kimyasal Ürün",
+  "kapanış: ": "7,52",
+  "piyasa değeri: ": "909,5",
+  "halka açıklık: ": "58,0",
+  "sermaye: ": "120,9"
+},
+{
+  "_id": {
+    "$oid": "6570c0cfcf3df97895a3bad0"
+  },
+  "kod: ": "BOBET",
+  "hisse adı: ": "Boğaziçi Beton",
+  "sektör: ": "Çimento",
+  "kapanış: ": "31,02",
+  "piyasa değeri: ": "11.787,6",
+  "halka açıklık: ": "30,0",
+  "sermaye: ": "380,0"
+},
+{
+  "_id": {
+    "$oid": "6570c0d3cf3df97895a3bad8"
+  },
+  "kod: ": "BORLS",
+  "hisse adı: ": "Borlease Otomotiv",
+  "sektör: ": "Diğer",
+  "kapanış: ": "38,70",
+  "piyasa değeri: ": "6.528,7",
+  "halka açıklık: ": "30,6",
+  "sermaye: ": "168,7"
+},
+{
+  "_id": {
+    "$oid": "6570c0d6cf3df97895a3bae0"
+  },
+  "kod: ": "BOSSA",
+  "hisse adı: ": "Bossa",
+  "sektör: ": "Tekstil Entegre",
+  "kapanış: ": "10,31",
+  "piyasa değeri: ": "6.701,5",
+  "halka açıklık: ": "12,2",
+  "sermaye: ": "650,0"
+},
+{
+  "_id": {
+    "$oid": "6570c0d9cf3df97895a3bae8"
+  },
+  "kod: ": "BRISA",
+  "hisse adı: ": "Brisa",
+  "sektör: ": "Otomotiv Lastiği",
+  "kapanış: ": "83,75",
+  "piyasa değeri: ": "25.553,5",
+  "halka açıklık: ": "10,2",
+  "sermaye: ": "305,1"
+},
+{
+  "_id": {
+    "$oid": "6570c0dccf3df97895a3baf0"
+  },
+  "kod: ": "BRKO",
+  "hisse adı: ": "Birko Mensucat",
+  "sektör: ": "Tekstil Entegre",
+  "kapanış: ": "3,97",
+  "piyasa değeri: ": "476,4",
+  "halka açıklık: ": "98,2",
+  "sermaye: ": "120,0"
+},
+{
+  "_id": {
+    "$oid": "6570c0dfcf3df97895a3baf8"
+  },
+  "kod: ": "BRKSN",
+  "hisse adı: ": "Berkosan Yalıtım",
+  "sektör: ": "İnşaat Malzemeleri",
+  "kapanış: ": "25,00",
+  "piyasa değeri: ": "780,0",
+  "halka açıklık: ": "66,8",
+  "sermaye: ": "31,2"
+},
+{
+  "_id": {
+    "$oid": "657432152071ea98edd76ebb"
+  },
+  "kod: ": "A1CAP",
+  "hisse adı: ": "A1 Capital",
+  "sektör: ": "Aracı Kurumlar",
+  "kapanış: ": "32,20",
+  "piyasa değeri: ": "4.347,0",
+  "halka açıklık: ": "25,9",
+  "sermaye: ": "135,0"
+},
+{
+  "_id": {
+    "$oid": "657432152071ea98edd76ebc"
+  },
+  "kod: ": "ACSEL",
+  "hisse adı: ": "Acıselsan Acıpayam Selüloz",
+  "sektör: ": "Kimyasal Ürün",
+  "kapanış: ": "140,10",
+  "piyasa değeri: ": "1.502,1",
+  "halka açıklık: ": "48,3",
+  "sermaye: ": "10,7"
+},
+{
+  "_id": {
+    "$oid": "657432152071ea98edd76ebd"
+  },
+  "kod: ": "ADEL",
+  "hisse adı: ": "Adel Kalemcilik",
+  "sektör: ": "Kırtasiye",
+  "kapanış: ": "438,75",
+  "piyasa değeri: ": "10.365,5",
+  "halka açıklık: ": "27,6",
+  "sermaye: ": "23,6"
+},
+{
+  "_id": {
+    "$oid": "657432152071ea98edd76ebe"
+  },
+  "kod: ": "ADESE",
+  "hisse adı: ": "Adese AVM",
+  "sektör: ": "Perakande - Ticaret",
+  "kapanış: ": "1,99",
+  "piyasa değeri: ": "2.005,9",
+  "halka açıklık: ": "92,9",
+  "sermaye: ": "1.008,0"
+},
+{
+  "_id": {
+    "$oid": "657432162071ea98edd76ebf"
+  },
+  "kod: ": "ADGYO",
+  "hisse adı: ": "Adra GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "33,80",
+  "piyasa değeri: ": "9.927,1",
+  "halka açıklık: ": "25,1",
+  "sermaye: ": "293,7"
+},
+{
+  "_id": {
+    "$oid": "657432162071ea98edd76ec0"
+  },
+  "kod: ": "AEFES",
+  "hisse adı: ": "Anadolu Efes",
+  "sektör: ": "Meşrubat / İçecek",
+  "kapanış: ": "118,70",
+  "piyasa değeri: ": "70.282,9",
+  "halka açıklık: ": "32,9",
+  "sermaye: ": "592,1"
+},
+{
+  "_id": {
+    "$oid": "657432162071ea98edd76ec1"
+  },
+  "kod: ": "AFYON",
+  "hisse adı: ": "Afyon Çimento",
+  "sektör: ": "Çimento",
+  "kapanış: ": "12,40",
+  "piyasa değeri: ": "4.960,0",
+  "halka açıklık: ": "48,6",
+  "sermaye: ": "400,0"
+},
+{
+  "_id": {
+    "$oid": "657432162071ea98edd76ec2"
+  },
+  "kod: ": "AGESA",
+  "hisse adı: ": "Agesa Hayat ve Emeklilik",
+  "sektör: ": "Sigorta",
+  "kapanış: ": "54,90",
+  "piyasa değeri: ": "9.882,0",
+  "halka açıklık: ": "19,9",
+  "sermaye: ": "180,0"
+},
+{
+  "_id": {
+    "$oid": "657432162071ea98edd76ec3"
+  },
+  "kod: ": "AGHOL",
+  "hisse adı: ": "Anadolu Grubu Holding",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "203,00",
+  "piyasa değeri: ": "49.437,5",
+  "halka açıklık: ": "37,6",
+  "sermaye: ": "243,5"
+},
+{
+  "_id": {
+    "$oid": "657432172071ea98edd76ec4"
+  },
+  "kod: ": "AGROT",
+  "hisse adı: ": "Agrotech Yüksek Teknoloji",
+  "sektör: ": "Diğer",
+  "kapanış: ": "13,89",
+  "piyasa değeri: ": "16.668,0",
+  "halka açıklık: ": "24,7",
+  "sermaye: ": "1.200,0"
+},
+{
+  "_id": {
+    "$oid": "657432172071ea98edd76ec5"
+  },
+  "kod: ": "AGYO",
+  "hisse adı: ": "Atakule GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "9,39",
+  "piyasa değeri: ": "2.472,8",
+  "halka açıklık: ": "17,1",
+  "sermaye: ": "263,3"
+},
+{
+  "_id": {
+    "$oid": "657432172071ea98edd76ec6"
+  },
+  "kod: ": "AHGAZ",
+  "hisse adı: ": "Ahlatçı Doğalgaz",
+  "sektör: ": "Elektrik - Doğalgaz Dağıtım",
+  "kapanış: ": "11,66",
+  "piyasa değeri: ": "30.316,0",
+  "halka açıklık: ": "25,4",
+  "sermaye: ": "2.600,0"
+},
+{
+  "_id": {
+    "$oid": "657432172071ea98edd76ec7"
+  },
+  "kod: ": "AKBNK",
+  "hisse adı: ": "Akbank",
+  "sektör: ": "Bankacılık",
+  "kapanış: ": "34,96",
+  "piyasa değeri: ": "181.792,0",
+  "halka açıklık: ": "52,8",
+  "sermaye: ": "5.200,0"
+},
+{
+  "_id": {
+    "$oid": "657432182071ea98edd76ec8"
+  },
+  "kod: ": "AKCNS",
+  "hisse adı: ": "Akçansa",
+  "sektör: ": "Çimento",
+  "kapanış: ": "138,30",
+  "piyasa değeri: ": "26.477,1",
+  "halka açıklık: ": "20,5",
+  "sermaye: ": "191,4"
+},
+{
+  "_id": {
+    "$oid": "657432182071ea98edd76ec9"
+  },
+  "kod: ": "AKENR",
+  "hisse adı: ": "Akenerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "5,02",
+  "piyasa değeri: ": "3.660,4",
+  "halka açıklık: ": "25,3",
+  "sermaye: ": "729,2"
+},
+{
+  "_id": {
+    "$oid": "657432182071ea98edd76eca"
+  },
+  "kod: ": "AKFGY",
+  "hisse adı: ": "Akfen GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "4,58",
+  "piyasa değeri: ": "5.954,0",
+  "halka açıklık: ": "43,3",
+  "sermaye: ": "1.300,0"
+},
+{
+  "_id": {
+    "$oid": "657432182071ea98edd76ecb"
+  },
+  "kod: ": "AKFYE",
+  "hisse adı: ": "Akfen Yenilenebilir Enerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "16,38",
+  "piyasa değeri: ": "16.642,6",
+  "halka açıklık: ": "29,5",
+  "sermaye: ": "1.016,0"
+},
+{
+  "_id": {
+    "$oid": "657432182071ea98edd76ecc"
+  },
+  "kod: ": "AKGRT",
+  "hisse adı: ": "Aksigorta",
+  "sektör: ": "Sigorta",
+  "kapanış: ": "5,51",
+  "piyasa değeri: ": "8.882,1",
+  "halka açıklık: ": "28,0",
+  "sermaye: ": "1.612,0"
+},
+{
+  "_id": {
+    "$oid": "657432192071ea98edd76ecd"
+  },
+  "kod: ": "AKMGY",
+  "hisse adı: ": "Akmerkez GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "152,10",
+  "piyasa değeri: ": "5.667,9",
+  "halka açıklık: ": "9,1",
+  "sermaye: ": "37,3"
+},
+{
+  "_id": {
+    "$oid": "657432192071ea98edd76ece"
+  },
+  "kod: ": "AKSA",
+  "hisse adı: ": "Aksa",
+  "sektör: ": "Endüstriyel Tekstil",
+  "kapanış: ": "83,00",
+  "piyasa değeri: ": "26.871,3",
+  "halka açıklık: ": "35,1",
+  "sermaye: ": "323,8"
+},
+{
+  "_id": {
+    "$oid": "657432192071ea98edd76ecf"
+  },
+  "kod: ": "AKSEN",
+  "hisse adı: ": "Aksa Enerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "33,08",
+  "piyasa değeri: ": "40.567,3",
+  "halka açıklık: ": "20,6",
+  "sermaye: ": "1.226,3"
+},
+{
+  "_id": {
+    "$oid": "657432192071ea98edd76ed0"
+  },
+  "kod: ": "AKSGY",
+  "hisse adı: ": "Akis GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "11,20",
+  "piyasa değeri: ": "9.016,0",
+  "halka açıklık: ": "45,9",
+  "sermaye: ": "805,0"
+},
+{
+  "_id": {
+    "$oid": "657432192071ea98edd76ed1"
+  },
+  "kod: ": "AKSUE",
+  "hisse adı: ": "Aksu Enerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "24,24",
+  "piyasa değeri: ": "799,9",
+  "halka açıklık: ": "80,9",
+  "sermaye: ": "33,0"
+},
+{
+  "_id": {
+    "$oid": "6574321a2071ea98edd76ed2"
+  },
+  "kod: ": "AKYHO",
+  "hisse adı: ": "Akdeniz Yatırım Holding",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "3,58",
+  "piyasa değeri: ": "444,3",
+  "halka açıklık: ": "77,7",
+  "sermaye: ": "124,1"
+},
+{
+  "_id": {
+    "$oid": "6574321a2071ea98edd76ed3"
+  },
+  "kod: ": "ALARK",
+  "hisse adı: ": "Alarko Holding",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "93,80",
+  "piyasa değeri: ": "40.803,0",
+  "halka açıklık: ": "33,6",
+  "sermaye: ": "435,0"
+},
+{
+  "_id": {
+    "$oid": "6574321a2071ea98edd76ed4"
+  },
+  "kod: ": "ALBRK",
+  "hisse adı: ": "Albaraka Türk",
+  "sektör: ": "Bankacılık",
+  "kapanış: ": "4,00",
+  "piyasa değeri: ": "10.000,0",
+  "halka açıklık: ": "39,5",
+  "sermaye: ": "2.500,0"
+},
+{
+  "_id": {
+    "$oid": "6574321a2071ea98edd76ed5"
+  },
+  "kod: ": "ALCAR",
+  "hisse adı: ": "Alarko Carrier",
+  "sektör: ": "Dayanıklı Tüketim",
+  "kapanış: ": "1.461,00",
+  "piyasa değeri: ": "15.778,8",
+  "halka açıklık: ": "15,9",
+  "sermaye: ": "10,8"
+},
+{
+  "_id": {
+    "$oid": "6574321a2071ea98edd76ed6"
+  },
+  "kod: ": "ALCTL",
+  "hisse adı: ": "Alcatel Teletaş",
+  "sektör: ": "İletişim Cihazları",
+  "kapanış: ": "84,05",
+  "piyasa değeri: ": "3.252,8",
+  "halka açıklık: ": "35,0",
+  "sermaye: ": "38,7"
+},
+{
+  "_id": {
+    "$oid": "6574321b2071ea98edd76ed7"
+  },
+  "kod: ": "ALFAS",
+  "hisse adı: ": "Alfa Solar",
+  "sektör: ": "Elektrik Enerji Ürt.Teçh/Tesis Kurulum",
+  "kapanış: ": "104,30",
+  "piyasa değeri: ": "38.382,4",
+  "halka açıklık: ": "19,6",
+  "sermaye: ": "368,0"
+},
+{
+  "_id": {
+    "$oid": "6574321b2071ea98edd76ed8"
+  },
+  "kod: ": "ALGYO",
+  "hisse adı: ": "Alarko GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "39,56",
+  "piyasa değeri: ": "5.732,2",
+  "halka açıklık: ": "48,8",
+  "sermaye: ": "144,9"
+},
+{
+  "_id": {
+    "$oid": "6574321b2071ea98edd76ed9"
+  },
+  "kod: ": "ALKA",
+  "hisse adı: ": "Alkim Kağıt",
+  "sektör: ": "Kağıt Ürünleri",
+  "kapanış: ": "26,42",
+  "piyasa değeri: ": "4.854,7",
+  "halka açıklık: ": "19,5",
+  "sermaye: ": "183,8"
+},
+{
+  "_id": {
+    "$oid": "6574321b2071ea98edd76eda"
+  },
+  "kod: ": "ALKIM",
+  "hisse adı: ": "Alkim",
+  "sektör: ": "Kimyasal Ürün",
+  "kapanış: ": "38,42",
+  "piyasa değeri: ": "5.763,0",
+  "halka açıklık: ": "46,5",
+  "sermaye: ": "150,0"
+},
+{
+  "_id": {
+    "$oid": "6574321c2071ea98edd76edb"
+  },
+  "kod: ": "ALMAD",
+  "hisse adı: ": "Altınyağ Madencilik ve Enerji",
+  "sektör: ": "Madencilik",
+  "kapanış: ": "8,15",
+  "piyasa değeri: ": "2.241,3",
+  "halka açıklık: ": "59,7",
+  "sermaye: ": "275,0"
+},
+{
+  "_id": {
+    "$oid": "6574321c2071ea98edd76edc"
+  },
+  "kod: ": "ANELE",
+  "hisse adı: ": "Anel Elektrik",
+  "sektör: ": "İnşaat Malzemeleri",
+  "kapanış: ": "10,56",
+  "piyasa değeri: ": "2.798,4",
+  "halka açıklık: ": "23,5",
+  "sermaye: ": "265,0"
+},
+{
+  "_id": {
+    "$oid": "6574321c2071ea98edd76edd"
+  },
+  "kod: ": "ANGEN",
+  "hisse adı: ": "Anatolia Biyoteknoloji",
+  "sektör: ": "Sağlık ve İlaç",
+  "kapanış: ": "13,63",
+  "piyasa değeri: ": "2.998,6",
+  "halka açıklık: ": "30,3",
+  "sermaye: ": "220,0"
+},
+{
+  "_id": {
+    "$oid": "6574321c2071ea98edd76ede"
+  },
+  "kod: ": "ANHYT",
+  "hisse adı: ": "Anadolu Hayat Emeklilik A.Ş.",
+  "sektör: ": "Sigorta",
+  "kapanış: ": "38,70",
+  "piyasa değeri: ": "16.641,0",
+  "halka açıklık: ": "15,1",
+  "sermaye: ": "430,0"
+},
+{
+  "_id": {
+    "$oid": "6574321c2071ea98edd76edf"
+  },
+  "kod: ": "ANSGR",
+  "hisse adı: ": "Anadolu Sigorta",
+  "sektör: ": "Sigorta",
+  "kapanış: ": "61,30",
+  "piyasa değeri: ": "30.650,0",
+  "halka açıklık: ": "34,7",
+  "sermaye: ": "500,0"
+},
+{
+  "_id": {
+    "$oid": "6574321e2071ea98edd76ee0"
+  },
+  "kod: ": "ARASE",
+  "hisse adı: ": "Doğu Aras Enerji",
+  "sektör: ": "Elektrik - Doğalgaz Dağıtım",
+  "kapanış: ": "61,40",
+  "piyasa değeri: ": "15.350,0",
+  "halka açıklık: ": "17,5",
+  "sermaye: ": "250,0"
+},
+{
+  "_id": {
+    "$oid": "6574321e2071ea98edd76ee1"
+  },
+  "kod: ": "ARCLK",
+  "hisse adı: ": "Arçelik",
+  "sektör: ": "Dayanıklı Tüketim",
+  "kapanış: ": "133,20",
+  "piyasa değeri: ": "90.007,0",
+  "halka açıklık: ": "14,6",
+  "sermaye: ": "675,7"
+},
+{
+  "_id": {
+    "$oid": "6574321e2071ea98edd76ee2"
+  },
+  "kod: ": "ARDYZ",
+  "hisse adı: ": "ARD Grup Bilişim",
+  "sektör: ": "Teknoloji",
+  "kapanış: ": "26,20",
+  "piyasa değeri: ": "4.454,0",
+  "halka açıklık: ": "74,9",
+  "sermaye: ": "170,0"
+},
+{
+  "_id": {
+    "$oid": "6574321e2071ea98edd76ee3"
+  },
+  "kod: ": "ARENA",
+  "hisse adı: ": "Arena Bilgisayar",
+  "sektör: ": "Bilgisayar Toptancılığı",
+  "kapanış: ": "32,02",
+  "piyasa değeri: ": "3.202,0",
+  "halka açıklık: ": "34,2",
+  "sermaye: ": "100,0"
+},
+{
+  "_id": {
+    "$oid": "6574321e2071ea98edd76ee4"
+  },
+  "kod: ": "ARSAN",
+  "hisse adı: ": "Arsan Tekstil",
+  "sektör: ": "Tekstil Entegre",
+  "kapanış: ": "11,03",
+  "piyasa değeri: ": "2.255,1",
+  "halka açıklık: ": "36,3",
+  "sermaye: ": "204,4"
+},
+{
+  "_id": {
+    "$oid": "6574321f2071ea98edd76ee5"
+  },
+  "kod: ": "ARZUM",
+  "hisse adı: ": "Arzum Ev Aletleri",
+  "sektör: ": "Dayanıklı Tüketim",
+  "kapanış: ": "33,88",
+  "piyasa değeri: ": "1.091,3",
+  "halka açıklık: ": "49,0",
+  "sermaye: ": "32,2"
+},
+{
+  "_id": {
+    "$oid": "6574321f2071ea98edd76ee6"
+  },
+  "kod: ": "ASELS",
+  "hisse adı: ": "Aselsan",
+  "sektör: ": "Savunma",
+  "kapanış: ": "46,18",
+  "piyasa değeri: ": "210.580,8",
+  "halka açıklık: ": "25,7",
+  "sermaye: ": "4.560,0"
+},
+{
+  "_id": {
+    "$oid": "6574321f2071ea98edd76ee7"
+  },
+  "kod: ": "ASGYO",
+  "hisse adı: ": "Asce GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "16,28",
+  "piyasa değeri: ": "10.728,5",
+  "halka açıklık: ": "25,0",
+  "sermaye: ": "659,0"
+},
+{
+  "_id": {
+    "$oid": "6574321f2071ea98edd76ee8"
+  },
+  "kod: ": "ASTOR",
+  "hisse adı: ": "Astor Enerji",
+  "sektör: ": "Elektrik Enerji Ürt.Teçh/Tesis Kurulum",
+  "kapanış: ": "104,10",
+  "piyasa değeri: ": "103.891,8",
+  "halka açıklık: ": "20,7",
+  "sermaye: ": "998,0"
+},
+{
+  "_id": {
+    "$oid": "657432202071ea98edd76ee9"
+  },
+  "kod: ": "ASUZU",
+  "hisse adı: ": "Anadolu Isuzu",
+  "sektör: ": "Otomotiv",
+  "kapanış: ": "228,10",
+  "piyasa değeri: ": "19.160,4",
+  "halka açıklık: ": "14,5",
+  "sermaye: ": "84,0"
+},
+{
+  "_id": {
+    "$oid": "657432202071ea98edd76eea"
+  },
+  "kod: ": "ATAGY",
+  "hisse adı: ": "Ata GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "9,10",
+  "piyasa değeri: ": "432,3",
+  "halka açıklık: ": "58,3",
+  "sermaye: ": "47,5"
+},
+{
+  "_id": {
+    "$oid": "657432202071ea98edd76eeb"
+  },
+  "kod: ": "ATAKP",
+  "hisse adı: ": "Atakey Patates",
+  "sektör: ": "Gıda",
+  "kapanış: ": "52,00",
+  "piyasa değeri: ": "7.215,9",
+  "halka açıklık: ": "20,3",
+  "sermaye: ": "138,8"
+},
+{
+  "_id": {
+    "$oid": "657432202071ea98edd76eec"
+  },
+  "kod: ": "ATATP",
+  "hisse adı: ": "ATP Bilgisayar",
+  "sektör: ": "Teknoloji",
+  "kapanış: ": "107,60",
+  "piyasa değeri: ": "10.087,5",
+  "halka açıklık: ": "19,6",
+  "sermaye: ": "93,8"
+},
+{
+  "_id": {
+    "$oid": "657432202071ea98edd76eed"
+  },
+  "kod: ": "ATEKS",
+  "hisse adı: ": "Akın Tekstil",
+  "sektör: ": "Tekstil Entegre",
+  "kapanış: ": "97,60",
+  "piyasa değeri: ": "2.459,5",
+  "halka açıklık: ": "20,7",
+  "sermaye: ": "25,2"
+},
+{
+  "_id": {
+    "$oid": "657432212071ea98edd76eee"
+  },
+  "kod: ": "ATLAS",
+  "hisse adı: ": "Atlas YO",
+  "sektör: ": "Yatırım Ortaklıkları",
+  "kapanış: ": "5,02",
+  "piyasa değeri: ": "301,2",
+  "halka açıklık: ": "99,9",
+  "sermaye: ": "60,0"
+},
+{
+  "_id": {
+    "$oid": "657432212071ea98edd76eef"
+  },
+  "kod: ": "ATSYH",
+  "hisse adı: ": "Atlantis YO",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "68,00",
+  "piyasa değeri: ": "544,0",
+  "halka açıklık: ": "98,1",
+  "sermaye: ": "8,0"
+},
+{
+  "_id": {
+    "$oid": "657432212071ea98edd76ef0"
+  },
+  "kod: ": "AVGYO",
+  "hisse adı: ": "Avrasya YO",
+  "sektör: ": "GYO",
+  "kapanış: ": "8,92",
+  "piyasa değeri: ": "995,5",
+  "halka açıklık: ": "52,1",
+  "sermaye: ": "111,6"
+},
+{
+  "_id": {
+    "$oid": "657432212071ea98edd76ef1"
+  },
+  "kod: ": "AVHOL",
+  "hisse adı: ": "Avrupa Yatırım Holding",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "35,86",
+  "piyasa değeri: ": "1.335,8",
+  "halka açıklık: ": "42,1",
+  "sermaye: ": "37,3"
+},
+{
+  "_id": {
+    "$oid": "657432212071ea98edd76ef2"
+  },
+  "kod: ": "AVOD",
+  "hisse adı: ": "Avod Kurutulmuş Gıda",
+  "sektör: ": "Gıda",
+  "kapanış: ": "3,54",
+  "piyasa değeri: ": "955,8",
+  "halka açıklık: ": "93,9",
+  "sermaye: ": "270,0"
+},
+{
+  "_id": {
+    "$oid": "657432222071ea98edd76ef3"
+  },
+  "kod: ": "AVTUR",
+  "hisse adı: ": "Avrasya Petrol&Turistik Tesis",
+  "sektör: ": "Turizm",
+  "kapanış: ": "8,00",
+  "piyasa değeri: ": "360,0",
+  "halka açıklık: ": "67,9",
+  "sermaye: ": "45,0"
+},
+{
+  "_id": {
+    "$oid": "657432222071ea98edd76ef4"
+  },
+  "kod: ": "AYCES",
+  "hisse adı: ": "Altınyunus Çesme",
+  "sektör: ": "Turizm",
+  "kapanış: ": "546,50",
+  "piyasa değeri: ": "13.662,5",
+  "halka açıklık: ": "7,5",
+  "sermaye: ": "25,0"
+},
+{
+  "_id": {
+    "$oid": "657432222071ea98edd76ef5"
+  },
+  "kod: ": "AYDEM",
+  "hisse adı: ": "Aydem Enerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "20,56",
+  "piyasa değeri: ": "14.494,8",
+  "halka açıklık: ": "15,7",
+  "sermaye: ": "705,0"
+},
+{
+  "_id": {
+    "$oid": "657432222071ea98edd76ef6"
+  },
+  "kod: ": "AYEN",
+  "hisse adı: ": "Ayen Enerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "26,30",
+  "piyasa değeri: ": "7.298,3",
+  "halka açıklık: ": "16,9",
+  "sermaye: ": "277,5"
+},
+{
+  "_id": {
+    "$oid": "657432222071ea98edd76ef7"
+  },
+  "kod: ": "AYES",
+  "hisse adı: ": "Ayes Çelik Hasır & Çit",
+  "sektör: ": "İnşaat Malzemeleri",
+  "kapanış: ": "34,74",
+  "piyasa değeri: ": "1.044,2",
+  "halka açıklık: ": "53,5",
+  "sermaye: ": "30,1"
+},
+{
+  "_id": {
+    "$oid": "657432232071ea98edd76ef8"
+  },
+  "kod: ": "AYGAZ",
+  "hisse adı: ": "Aygaz",
+  "sektör: ": "Petrol",
+  "kapanış: ": "125,70",
+  "piyasa değeri: ": "27.629,0",
+  "halka açıklık: ": "24,2",
+  "sermaye: ": "219,8"
+},
+{
+  "_id": {
+    "$oid": "657432232071ea98edd76ef9"
+  },
+  "kod: ": "AZTEK",
+  "hisse adı: ": "Aztek Teknoloji",
+  "sektör: ": "Perakande - Ticaret",
+  "kapanış: ": "136,20",
+  "piyasa değeri: ": "13.620,0",
+  "halka açıklık: ": "25,0",
+  "sermaye: ": "100,0"
+},
+{
+  "_id": {
+    "$oid": "657432232071ea98edd76efa"
+  },
+  "kod: ": "BAGFS",
+  "hisse adı: ": "Bandırma Gübre Fabrikaları A.Ş",
+  "sektör: ": "Tarım Kimyasalları",
+  "kapanış: ": "38,98",
+  "piyasa değeri: ": "5.262,3",
+  "halka açıklık: ": "61,2",
+  "sermaye: ": "135,0"
+},
+{
+  "_id": {
+    "$oid": "657432232071ea98edd76efb"
+  },
+  "kod: ": "BAKAB",
+  "hisse adı: ": "Bak Ambalaj",
+  "sektör: ": "Kağıt Ürünleri",
+  "kapanış: ": "78,00",
+  "piyasa değeri: ": "2.808,0",
+  "halka açıklık: ": "17,5",
+  "sermaye: ": "36,0"
+},
+{
+  "_id": {
+    "$oid": "657432242071ea98edd76efc"
+  },
+  "kod: ": "BALAT",
+  "hisse adı: ": "Balatacılar Balatacılık",
+  "sektör: ": "Otomotiv Parçası",
+  "kapanış: ": "26,78",
+  "piyasa değeri: ": "371,7",
+  "halka açıklık: ": "80,5",
+  "sermaye: ": "13,9"
+},
+{
+  "_id": {
+    "$oid": "657432242071ea98edd76efd"
+  },
+  "kod: ": "BANVT",
+  "hisse adı: ": "Banvit",
+  "sektör: ": "Hayvancılık",
+  "kapanış: ": "118,70",
+  "piyasa değeri: ": "11.872,8",
+  "halka açıklık: ": "8,3",
+  "sermaye: ": "100,0"
+},
+{
+  "_id": {
+    "$oid": "657432242071ea98edd76efe"
+  },
+  "kod: ": "BARMA",
+  "hisse adı: ": "Barem Ambalaj",
+  "sektör: ": "Kağıt Ürünleri",
+  "kapanış: ": "19,75",
+  "piyasa değeri: ": "5.184,4",
+  "halka açıklık: ": "20,0",
+  "sermaye: ": "262,5"
+},
+{
+  "_id": {
+    "$oid": "657432242071ea98edd76eff"
+  },
+  "kod: ": "BASCM",
+  "hisse adı: ": "Baştaş Başkent Çimento Sanayi",
+  "sektör: ": "Çimento",
+  "kapanış: ": "11,03",
+  "piyasa değeri: ": "7.279,8",
+  "halka açıklık: ": "7,4",
+  "sermaye: ": "660,0"
+},
+{
+  "_id": {
+    "$oid": "657432242071ea98edd76f00"
+  },
+  "kod: ": "BASGZ",
+  "hisse adı: ": "Başkent Doğalgaz",
+  "sektör: ": "Elektrik - Doğalgaz Dağıtım",
+  "kapanış: ": "18,72",
+  "piyasa değeri: ": "13.104,0",
+  "halka açıklık: ": "15,3",
+  "sermaye: ": "700,0"
+},
+{
+  "_id": {
+    "$oid": "657432252071ea98edd76f01"
+  },
+  "kod: ": "BAYRK",
+  "hisse adı: ": "Bayrak EBT Taban",
+  "sektör: ": "Tekstil Entegre",
+  "kapanış: ": "9,15",
+  "piyasa değeri: ": "431,2",
+  "halka açıklık: ": "75,2",
+  "sermaye: ": "47,1"
+},
+{
+  "_id": {
+    "$oid": "657432252071ea98edd76f02"
+  },
+  "kod: ": "BEGYO",
+  "hisse adı: ": "Batı Ege GYO",
+  "sektör: ": "GYO",
+  "kapanış: ": "3,30",
+  "piyasa değeri: ": "2.689,5",
+  "halka açıklık: ": "35,6",
+  "sermaye: ": "815,0"
+},
+{
+  "_id": {
+    "$oid": "657432252071ea98edd76f03"
+  },
+  "kod: ": "BERA",
+  "hisse adı: ": "Bera Holding",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "12,89",
+  "piyasa değeri: ": "8.806,4",
+  "halka açıklık: ": "63,1",
+  "sermaye: ": "683,2"
+},
+{
+  "_id": {
+    "$oid": "657432252071ea98edd76f04"
+  },
+  "kod: ": "BEYAZ",
+  "hisse adı: ": "Beyaz Filo",
+  "sektör: ": "Diğer",
+  "kapanış: ": "21,82",
+  "piyasa değeri: ": "2.175,2",
+  "halka açıklık: ": "24,5",
+  "sermaye: ": "99,7"
+},
+{
+  "_id": {
+    "$oid": "657432252071ea98edd76f05"
+  },
+  "kod: ": "BFREN",
+  "hisse adı: ": "Bosch Fren",
+  "sektör: ": "Otomotiv Parçası",
+  "kapanış: ": "14.035,00",
+  "piyasa değeri: ": "35.087,5",
+  "halka açıklık: ": "15,5",
+  "sermaye: ": "2,5"
+},
+{
+  "_id": {
+    "$oid": "657432262071ea98edd76f06"
+  },
+  "kod: ": "BIENY",
+  "hisse adı: ": "Bien Yapı",
+  "sektör: ": "Seramik",
+  "kapanış: ": "47,18",
+  "piyasa değeri: ": "17.032,0",
+  "halka açıklık: ": "20,0",
+  "sermaye: ": "361,0"
+},
+{
+  "_id": {
+    "$oid": "657432262071ea98edd76f07"
+  },
+  "kod: ": "BIGCH",
+  "hisse adı: ": "BigChefs",
+  "sektör: ": "Gıda",
+  "kapanış: ": "24,44",
+  "piyasa değeri: ": "2.615,1",
+  "halka açıklık: ": "34,6",
+  "sermaye: ": "107,0"
+},
+{
+  "_id": {
+    "$oid": "657432262071ea98edd76f08"
+  },
+  "kod: ": "BIMAS",
+  "hisse adı: ": "Bim Birleşik Mağazalar A.Ş",
+  "sektör: ": "Perakande - Ticaret",
+  "kapanış: ": "321,75",
+  "piyasa değeri: ": "195.366,6",
+  "halka açıklık: ": "67,7",
+  "sermaye: ": "607,2"
+},
+{
+  "_id": {
+    "$oid": "657432262071ea98edd76f09"
+  },
+  "kod: ": "BINHO",
+  "hisse adı: ": "1000 Yatırımlar",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "321,00",
+  "piyasa değeri: ": "15.087,0",
+  "halka açıklık: ": "20,2",
+  "sermaye: ": "47,0"
+},
+{
+  "_id": {
+    "$oid": "657432272071ea98edd76f0a"
+  },
+  "kod: ": "BIOEN",
+  "hisse adı: ": "Biotrend Enerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "21,00",
+  "piyasa değeri: ": "10.500,0",
+  "halka açıklık: ": "37,8",
+  "sermaye: ": "500,0"
+},
+{
+  "_id": {
+    "$oid": "657432272071ea98edd76f0b"
+  },
+  "kod: ": "BIZIM",
+  "hisse adı: ": "Bizim Toptan",
+  "sektör: ": "Perakande - Ticaret",
+  "kapanış: ": "39,32",
+  "piyasa değeri: ": "2.359,2",
+  "halka açıklık: ": "43,9",
+  "sermaye: ": "60,0"
+},
+{
+  "_id": {
+    "$oid": "657432272071ea98edd76f0c"
+  },
+  "kod: ": "BJKAS",
+  "hisse adı: ": "Beşiktaş",
+  "sektör: ": "Spor",
+  "kapanış: ": "48,74",
+  "piyasa değeri: ": "11.697,6",
+  "halka açıklık: ": "44,6",
+  "sermaye: ": "240,0"
+},
+{
+  "_id": {
+    "$oid": "657432272071ea98edd76f0d"
+  },
+  "kod: ": "BLCYT",
+  "hisse adı: ": "Bilici Yatırım",
+  "sektör: ": "Tekstil Entegre",
+  "kapanış: ": "16,83",
+  "piyasa değeri: ": "1.683,0",
+  "halka açıklık: ": "33,0",
+  "sermaye: ": "100,0"
+},
+{
+  "_id": {
+    "$oid": "657432272071ea98edd76f0e"
+  },
+  "kod: ": "BMSCH",
+  "hisse adı: ": "BMS Çelik Hasır",
+  "sektör: ": "Demir-Çelik Döküm",
+  "kapanış: ": "17,74",
+  "piyasa değeri: ": "640,1",
+  "halka açıklık: ": "63,6",
+  "sermaye: ": "36,1"
+},
+{
+  "_id": {
+    "$oid": "657432282071ea98edd76f0f"
+  },
+  "kod: ": "BMSTL",
+  "hisse adı: ": "BMS Birleşik Metal",
+  "sektör: ": "Demir-Çelik Döküm",
+  "kapanış: ": "25,20",
+  "piyasa değeri: ": "1.840,9",
+  "halka açıklık: ": "29,5",
+  "sermaye: ": "73,1"
+},
+{
+  "_id": {
+    "$oid": "657432282071ea98edd76f10"
+  },
+  "kod: ": "BNTAS",
+  "hisse adı: ": "Bantaş Bandırma Ambalaj",
+  "sektör: ": "Kimyasal Ürün",
+  "kapanış: ": "7,67",
+  "piyasa değeri: ": "927,6",
+  "halka açıklık: ": "58,0",
+  "sermaye: ": "120,9"
+},
+{
+  "_id": {
+    "$oid": "657432282071ea98edd76f11"
+  },
+  "kod: ": "BOBET",
+  "hisse adı: ": "Boğaziçi Beton",
+  "sektör: ": "Çimento",
+  "kapanış: ": "32,60",
+  "piyasa değeri: ": "12.388,0",
+  "halka açıklık: ": "30,0",
+  "sermaye: ": "380,0"
+},
+{
+  "_id": {
+    "$oid": "657432282071ea98edd76f12"
+  },
+  "kod: ": "BORLS",
+  "hisse adı: ": "Borlease Otomotiv",
+  "sektör: ": "Diğer",
+  "kapanış: ": "39,12",
+  "piyasa değeri: ": "6.599,5",
+  "halka açıklık: ": "30,6",
+  "sermaye: ": "168,7"
+},
+{
+  "_id": {
+    "$oid": "657432282071ea98edd76f13"
+  },
+  "kod: ": "BOSSA",
+  "hisse adı: ": "Bossa",
+  "sektör: ": "Tekstil Entegre",
+  "kapanış: ": "10,29",
+  "piyasa değeri: ": "6.688,5",
+  "halka açıklık: ": "12,2",
+  "sermaye: ": "650,0"
+},
+{
+  "_id": {
+    "$oid": "657432292071ea98edd76f14"
+  },
+  "kod: ": "BRISA",
+  "hisse adı: ": "Brisa",
+  "sektör: ": "Otomotiv Lastiği",
+  "kapanış: ": "84,15",
+  "piyasa değeri: ": "25.675,6",
+  "halka açıklık: ": "10,2",
+  "sermaye: ": "305,1"
+},
+{
+  "_id": {
+    "$oid": "657432292071ea98edd76f15"
+  },
+  "kod: ": "BRKO",
+  "hisse adı: ": "Birko Mensucat",
+  "sektör: ": "Tekstil Entegre",
+  "kapanış: ": "3,91",
+  "piyasa değeri: ": "469,2",
+  "halka açıklık: ": "98,2",
+  "sermaye: ": "120,0"
+},
+{
+  "_id": {
+    "$oid": "657432292071ea98edd76f16"
+  },
+  "kod: ": "BRKSN",
+  "hisse adı: ": "Berkosan Yalıtım",
+  "sektör: ": "İnşaat Malzemeleri",
+  "kapanış: ": "23,96",
+  "piyasa değeri: ": "747,6",
+  "halka açıklık: ": "66,8",
+  "sermaye: ": "31,2"
+},
+{
+  "_id": {
+    "$oid": "657432292071ea98edd76f17"
+  },
+  "kod: ": "BRKVY",
+  "hisse adı: ": "Birikim Varlık",
+  "sektör: ": "Aracı Kurumlar",
+  "kapanış: ": "54,70",
+  "piyasa değeri: ": "3.063,2",
+  "halka açıklık: ": "21,4",
+  "sermaye: ": "56,0"
+},
+{
+  "_id": {
+    "$oid": "657432292071ea98edd76f18"
+  },
+  "kod: ": "BRLSM",
+  "hisse adı: ": "Birlesim Mühendislik",
+  "sektör: ": "Dayanıklı Tüketim",
+  "kapanış: ": "25,18",
+  "piyasa değeri: ": "5.640,3",
+  "halka açıklık: ": "48,0",
+  "sermaye: ": "224,0"
+},
+{
+  "_id": {
+    "$oid": "6574322a2071ea98edd76f19"
+  },
+  "kod: ": "BRMEN",
+  "hisse adı: ": "Birlik Mensucat",
+  "sektör: ": "Tekstil Entegre",
+  "kapanış: ": "4,51",
+  "piyasa değeri: ": "201,3",
+  "halka açıklık: ": "65,1",
+  "sermaye: ": "44,6"
+},
+{
+  "_id": {
+    "$oid": "6574322a2071ea98edd76f1a"
+  },
+  "kod: ": "BRSAN",
+  "hisse adı: ": "Borusan Mannesmann",
+  "sektör: ": "Demir-Çelik Temel",
+  "kapanış: ": "677,00",
+  "piyasa değeri: ": "95.964,8",
+  "halka açıklık: ": "19,3",
+  "sermaye: ": "141,8"
+},
+{
+  "_id": {
+    "$oid": "6574322a2071ea98edd76f1b"
+  },
+  "kod: ": "BRYAT",
+  "hisse adı: ": "Borusan Yatırım",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "2.812,50",
+  "piyasa değeri: ": "79.101,6",
+  "halka açıklık: ": "14,1",
+  "sermaye: ": "28,1"
+},
+{
+  "_id": {
+    "$oid": "6574322a2071ea98edd76f1c"
+  },
+  "kod: ": "BSOKE",
+  "hisse adı: ": "Batı Söke Çimento",
+  "sektör: ": "Çimento",
+  "kapanış: ": "14,00",
+  "piyasa değeri: ": "5.600,0",
+  "halka açıklık: ": "25,3",
+  "sermaye: ": "400,0"
+},
+{
+  "_id": {
+    "$oid": "6574322b2071ea98edd76f1d"
+  },
+  "kod: ": "BTCIM",
+  "hisse adı: ": "Batıçim",
+  "sektör: ": "Çimento",
+  "kapanış: ": "155,70",
+  "piyasa değeri: ": "28.026,0",
+  "halka açıklık: ": "43,5",
+  "sermaye: ": "180,0"
+},
+{
+  "_id": {
+    "$oid": "6574322b2071ea98edd76f1e"
+  },
+  "kod: ": "BUCIM",
+  "hisse adı: ": "Bursa Çimento",
+  "sektör: ": "Çimento",
+  "kapanış: ": "7,88",
+  "piyasa değeri: ": "11.820,0",
+  "halka açıklık: ": "36,2",
+  "sermaye: ": "1.500,0"
+},
+{
+  "_id": {
+    "$oid": "6574322b2071ea98edd76f1f"
+  },
+  "kod: ": "BURCE",
+  "hisse adı: ": "Burçelik",
+  "sektör: ": "Demir-Çelik Döküm",
+  "kapanış: ": "158,80",
+  "piyasa değeri: ": "1.337,7",
+  "halka açıklık: ": "52,7",
+  "sermaye: ": "8,4"
+},
+{
+  "_id": {
+    "$oid": "6574322b2071ea98edd76f20"
+  },
+  "kod: ": "BURVA",
+  "hisse adı: ": "Burçelik Vana Sanayii",
+  "sektör: ": "İnşaat Malzemeleri",
+  "kapanış: ": "84,15",
+  "piyasa değeri: ": "618,3",
+  "halka açıklık: ": "59,7",
+  "sermaye: ": "7,3"
+},
+{
+  "_id": {
+    "$oid": "6574322b2071ea98edd76f21"
+  },
+  "kod: ": "BVSAN",
+  "hisse adı: ": "Bülbüloğlu Vinç",
+  "sektör: ": "İnşaat Malzemeleri",
+  "kapanış: ": "93,50",
+  "piyasa değeri: ": "3.515,6",
+  "halka açıklık: ": "30,6",
+  "sermaye: ": "37,6"
+},
+{
+  "_id": {
+    "$oid": "6574322c2071ea98edd76f22"
+  },
+  "kod: ": "BYDNR",
+  "hisse adı: ": "Baydöner",
+  "sektör: ": "Gıda",
+  "kapanış: ": "28,30",
+  "piyasa değeri: ": "2.377,2",
+  "halka açıklık: ": "21,4",
+  "sermaye: ": "84,0"
+},
+{
+  "_id": {
+    "$oid": "6574322c2071ea98edd76f23"
+  },
+  "kod: ": "CANTE",
+  "hisse adı: ": "Çan2 Termik A.S",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "18,93",
+  "piyasa değeri: ": "17.758,6",
+  "halka açıklık: ": "41,5",
+  "sermaye: ": "938,1"
+},
+{
+  "_id": {
+    "$oid": "6574322c2071ea98edd76f24"
+  },
+  "kod: ": "CASA",
+  "hisse adı: ": "Casa Emtia Petrol Kim.Tür.AŞ",
+  "sektör: ": "Gıda",
+  "kapanış: ": "110,50",
+  "piyasa değeri: ": "541,5",
+  "halka açıklık: ": "99,3",
+  "sermaye: ": "4,9"
+},
+{
+  "_id": {
+    "$oid": "6574322c2071ea98edd76f25"
+  },
+  "kod: ": "CATES",
+  "hisse adı: ": "Çates Elektrik",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "69,10",
+  "piyasa değeri: ": "11.415,3",
+  "halka açıklık: ": "20,0",
+  "sermaye: ": "165,2"
+},
+{
+  "_id": {
+    "$oid": "6574322c2071ea98edd76f26"
+  },
+  "kod: ": "CCOLA",
+  "hisse adı: ": "Coca-Cola İçecek A.Ş",
+  "sektör: ": "Meşrubat / İçecek",
+  "kapanış: ": "440,00",
+  "piyasa değeri: ": "111.923,1",
+  "halka açıklık: ": "28,9",
+  "sermaye: ": "254,4"
+},
+{
+  "_id": {
+    "$oid": "6574322d2071ea98edd76f27"
+  },
+  "kod: ": "CELHA",
+  "hisse adı: ": "Çelik Halat",
+  "sektör: ": "Demir-Çelik Temel",
+  "kapanış: ": "44,20",
+  "piyasa değeri: ": "1.834,3",
+  "halka açıklık: ": "29,7",
+  "sermaye: ": "41,5"
+},
+{
+  "_id": {
+    "$oid": "6574322d2071ea98edd76f28"
+  },
+  "kod: ": "CEMAS",
+  "hisse adı: ": "Çemaş Döküm",
+  "sektör: ": "Demir-Çelik Döküm",
+  "kapanış: ": "6,58",
+  "piyasa değeri: ": "5.204,8",
+  "halka açıklık: ": "94,6",
+  "sermaye: ": "791,0"
+},
+{
+  "_id": {
+    "$oid": "6574322d2071ea98edd76f29"
+  },
+  "kod: ": "CEMTS",
+  "hisse adı: ": "Çemtas",
+  "sektör: ": "Demir-Çelik Temel",
+  "kapanış: ": "11,05",
+  "piyasa değeri: ": "5.525,0",
+  "halka açıklık: ": "42,1",
+  "sermaye: ": "500,0"
+},
+{
+  "_id": {
+    "$oid": "6574322d2071ea98edd76f2a"
+  },
+  "kod: ": "CEOEM",
+  "hisse adı: ": "CEO Event Medya",
+  "sektör: ": "Medya",
+  "kapanış: ": "23,08",
+  "piyasa değeri: ": "1.015,5",
+  "halka açıklık: ": "45,0",
+  "sermaye: ": "44,0"
+},
+{
+  "_id": {
+    "$oid": "6574322d2071ea98edd76f2b"
+  },
+  "kod: ": "CIMSA",
+  "hisse adı: ": "Çimsa",
+  "sektör: ": "Çimento",
+  "kapanış: ": "31,70",
+  "piyasa değeri: ": "29.975,2",
+  "halka açıklık: ": "45,1",
+  "sermaye: ": "945,6"
+},
+{
+  "_id": {
+    "$oid": "6574322e2071ea98edd76f2c"
+  },
+  "kod: ": "CLEBI",
+  "hisse adı: ": "Çelebi",
+  "sektör: ": "Havayolları ve Hizm.",
+  "kapanış: ": "924,50",
+  "piyasa değeri: ": "22.465,4",
+  "halka açıklık: ": "10,0",
+  "sermaye: ": "24,3"
+},
+{
+  "_id": {
+    "$oid": "6574322f2071ea98edd76f2d"
+  },
+  "kod: ": "CMBTN",
+  "hisse adı: ": "Çimbeton",
+  "sektör: ": "Çimento",
+  "kapanış: ": "2.142,00",
+  "piyasa değeri: ": "3.791,3",
+  "halka açıklık: ": "49,5",
+  "sermaye: ": "1,8"
+},
+{
+  "_id": {
+    "$oid": "6574322f2071ea98edd76f2e"
+  },
+  "kod: ": "CMENT",
+  "hisse adı: ": "Çimentaş",
+  "sektör: ": "Çimento",
+  "kapanış: ": "220,10",
+  "piyasa değeri: ": "19.173,5",
+  "halka açıklık: ": "2,7",
+  "sermaye: ": "87,1"
+},
+{
+  "_id": {
+    "$oid": "6574322f2071ea98edd76f2f"
+  },
+  "kod: ": "CONSE",
+  "hisse adı: ": "Consus Enerji",
+  "sektör: ": "Elektrik Üretim",
+  "kapanış: ": "6,05",
+  "piyasa değeri: ": "2.332,3",
+  "halka açıklık: ": "49,0",
+  "sermaye: ": "385,5"
+},
+{
+  "_id": {
+    "$oid": "6574322f2071ea98edd76f30"
+  },
+  "kod: ": "COSMO",
+  "hisse adı: ": "Cosmos Yatırım Holding",
+  "sektör: ": "Holdingler",
+  "kapanış: ": "138,90",
+  "piyasa değeri: ": "902,1",
+  "halka açıklık: ": "68,0",
+  "sermaye: ": "6,5"
+},
+{
+  "_id": {
+    "$oid": "6574322f2071ea98edd76f31"
+  },
+  "kod: ": "CRDFA",
+  "hisse adı: ": "Creditwest Faktoring",
+  "sektör: ": "Fin.Kiralama ve Faktoring",
+  "kapanış: ": "6,76",
+  "piyasa değeri: ": "676,0",
+  "halka açıklık: ": "70,5",
+  "sermaye: ": "100,0"
+},
+{
+  "_id": {
+    "$oid": "657432302071ea98edd76f32"
+  },
+  "kod: ": "CRFSA",
+  "hisse adı: ": "Carrefoursa",
+  "sektör: ": "Perakande - Ticaret",
+  "kapanış: ": "123,50",
+  "piyasa değeri: ": "15.780,1",
+  "halka açıklık: ": "10,7",
+  "sermaye: ": "127,8"
+}]

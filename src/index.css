@@ -223,3 +223,18 @@
   margin-top: 50px;
 }
 
+.hover-link {
+  color: white; /* Normal durumda beyaz renk */
+}
+
+.hover-link:hover {
+  color: rgb(12, 12, 12); /* Üzerine gelindiğinde gri renk */
+}
+
+.hover-link-sub {
+  color: rgb(12, 12, 12); /* Normal durumda beyaz renk */
+}
+
+.hover-link-sub:hover {
+  color: rgb(12, 12, 12); /* Üzerine gelindiğinde gri renk */
+}

@@ -5,6 +5,7 @@ import card1Image from "../../assets/875d1ca2-f83c-4d87-b8f5-e23f04004965.webp";
 import card2Image from "../../assets/2015fd73-b2f0-4d4f-8ae6-688f9d64d57a.webp";
 import card3Image from "../../assets/b70d7e63-41ca-4ec5-94ea-b0462ed9c49b.webp";
 import { Divider } from "primereact/divider";
+import Chart from "./Chart.jsx";
 
 export default function DefaultPage() {
   const [page, setPage] = useState("page1");
@@ -63,11 +64,11 @@ export default function DefaultPage() {
   };
 
   const PageContent2 = () => {
-    return <>slm2</>;
+    return <>test2</>;
   };
 
   const PageContent3 = () => {
-    return <>slm3</>;
+    return <>test3</>;
   };
 
   return (
@@ -116,6 +117,14 @@ export default function DefaultPage() {
       </div>
       <Divider />
 
+      <div class=" grid justify-content-center">
+        <div class="col-6 ">
+          <Chart />
+        </div>
+      </div>
+
+      <Divider />
+
       <div class="mt-5">
         <div className="card flex justify-content-center flex-wrap w-full">
           <Card
@@ -153,7 +162,8 @@ export default function DefaultPage() {
               Finansal büyümenin sürdürülebilirliği, veri güvenliğinizin
               sağlamlığına bağlıdır. Biz, piyasalardaki en son hareketleri takip
               ederken, sizin için en değerli olan bilgilerin korunmasına öncelik
-              veriyoruz. Yatırımlarınızı koruma altına alın, piyasada güvenle yükselin.
+              veriyoruz. Yatırımlarınızı koruma altına alın, piyasada güvenle
+              yükselin.
             </p>
           </Card>
         </div>
