@@ -18,7 +18,7 @@ function App() {
           <div class="banner">
             <Banner />
           </div>
-          <div class="grid flex">
+          <div class="grid">
             
             <div class="page">
               <BrowserRouter>
