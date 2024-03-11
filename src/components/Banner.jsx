@@ -45,9 +45,12 @@ export default function Banner() {
       },
     },
     {
-      label: "Sayfa 1",
+      label: "Piyasalar",
       icon: "pi pi-star",
       template: itemRenderer,
+      command: () => {
+        window.location = "markets";
+      },
     },
     {
       label: "Sayfa 2",

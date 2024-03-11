@@ -7,6 +7,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Contact from "./pages/Contact";
 import Banner from "./components/Banner";
+import Markets from "./pages/Markets";
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
                   <Route index element={<Home />} />
                   <Route path="/home" element={<Home />} />
                   <Route path="/contact" element={<Contact />} />
+                  <Route path="/markets" element={<Markets />} />
                 </Routes>
               </BrowserRouter>
             </div>
