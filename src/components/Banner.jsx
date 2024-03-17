@@ -117,8 +117,8 @@ export default function Banner() {
 
   const start = (
     <div className="flex align-items-center gap-2">
-      <HamburgerMenu /> {/* HamburgerMenu bileşenini ekledik */}
-      <img alt="logo" src={Logo} height="90" className="mr-2 smallLogo " style={{marginLeft:"145px"}}></img>
+      <HamburgerMenu /> 
+      <img alt="logo" src={Logo} height="90" className="mr-2 smallLogo " ></img>
     </div>
   );
 
@@ -139,7 +139,6 @@ export default function Banner() {
   return (
     <div className="card ">
       <Menubar
-        //model={items}
         start={start}
         end={end}
         style={{ backgroundColor: "#14222E" }}

@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Menubar } from "primereact/menubar";
 import { Badge } from "primereact/badge";
-import Logo from "../assets/transparent_background_image.png";
+import Logo from "../assets/transparent_background_image.png"; // Logo dosyanızın yolunu buraya ekleyin
 
 const HamburgerMenu = () => {
   const [mobileMenuVisible, setMobileMenuVisible] = useState(false);
@@ -15,8 +15,8 @@ const HamburgerMenu = () => {
       className="flex align-items-center p-menuitem-link hover-link"
       onClick={() => handleMenuClick(item)}
     >
-      <span className={item.icon} />
-      <span className="mx-2 ">{item.label}</span>
+      {item.icon && <span className={item.icon} />}
+      <span className="mx-2">{item.label}</span>
       {item.badge && <Badge className="ml-auto" value={item.badge} />}
       {item.shortcut && (
         <span className="ml-auto border-1 surface-border border-round surface-100 text-xs p-1">
@@ -136,7 +136,13 @@ const HamburgerMenu = () => {
             zIndex: "998",
           }}
         >
-          <Menubar model={items} style={{ backgroundColor: "#14222E", border: 'none', paddingTop:"80px" }} />
+          <Menubar model={items} style={{ backgroundColor: "#14222E", border: 'none', paddingTop:"80px", maxWidth:"200px"}} />
+          <div style={{ position: "absolute", bottom: "20px", left: "95px", color: "white", fontSize: "0.8rem" }}>
+            Stock Market 2024
+          </div>
+          <div style={{ position: "absolute", bottom: "50px", left: "110px" }}>
+            <img alt="logo" src={Logo} height="90" className="mr-2 smallLogo"  />
+          </div>
         </div>
       )}
     </div>
