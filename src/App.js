@@ -8,6 +8,7 @@ import Home from "./pages/Home";
 import Contact from "./pages/Contact";
 import Banner from "./components/Banner";
 import Markets from "./pages/Markets";
+import Hisseler from "./pages/Hisseler";
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
                   <Route path="/home" element={<Home />} />
                   <Route path="/contact" element={<Contact />} />
                   <Route path="/markets" element={<Markets />} />
+                  <Route path="/hisse-senetleri" element={<Hisseler />} />
                 </Routes>
               </BrowserRouter>
             </div>

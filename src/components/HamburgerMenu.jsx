@@ -44,47 +44,50 @@ const HamburgerMenu = () => {
       },
     },
     {
-      label: "Sayfa 2",
-      icon: "pi pi-cog",
+      label: "Hisse Senetleri",
+      icon: "pi pi-dollar",
       template: itemRenderer,
-      items: [
-        {
-          label: "sub 1",
-          icon: "pi pi-bolt",
-          template: itemRenderer,
-        },
-        {
-          label: "sub 2",
-          icon: "pi pi-server",
-          template: itemRenderer,
-        },
-        {
-          label: "sub 3",
-          icon: "pi pi-pencil",
-          template: itemRenderer,
-        },
-        {
-          separator: true,
-        },
-        {
-          label: "sub 4",
-          icon: "pi pi-palette",
-          items: [
-            {
-              label: "sub 4.1",
-              icon: "pi pi-palette",
-              badge: 2,
-              template: itemRenderer,
-            },
-            {
-              label: "sub 4.2",
-              icon: "pi pi-palette",
-              badge: 3,
-              template: itemRenderer,
-            },
-          ],
-        },
-      ],
+      command: () => {
+        window.location = "hisse-senetleri";
+      },
+      // items: [
+      //   {
+      //     label: "sub 1",
+      //     icon: "pi pi-bolt",
+      //     template: itemRenderer,
+      //   },
+      //   {
+      //     label: "sub 2",
+      //     icon: "pi pi-server",
+      //     template: itemRenderer,
+      //   },
+      //   {
+      //     label: "sub 3",
+      //     icon: "pi pi-pencil",
+      //     template: itemRenderer,
+      //   },
+      //   {
+      //     separator: true,
+      //   },
+      //   {
+      //     label: "sub 4",
+      //     icon: "pi pi-palette",
+      //     items: [
+      //       {
+      //         label: "sub 4.1",
+      //         icon: "pi pi-palette",
+      //         badge: 2,
+      //         template: itemRenderer,
+      //       },
+      //       {
+      //         label: "sub 4.2",
+      //         icon: "pi pi-palette",
+      //         badge: 3,
+      //         template: itemRenderer,
+      //       },
+      //     ],
+      //   },
+      // ],
     },
     {
       label: "İletişim",
