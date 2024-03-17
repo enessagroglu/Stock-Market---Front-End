@@ -1,0 +1,315 @@
+[{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca2e"
+  },
+  "sektorId": "S8212",
+  "sektorAdi": "BANKALAR"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca30"
+  },
+  "sektorId": "S8346",
+  "sektorAdi": "BORSA YATIRIM FONLARI"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca2c"
+  },
+  "sektorId": "S8308",
+  "sektorAdi": "ANA METAL SANAYI"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca32"
+  },
+  "sektorId": "S8300",
+  "sektorAdi": "DIGER IMALAT SANAYI"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca31"
+  },
+  "sektorId": "S8280",
+  "sektorAdi": "BURO YONETIMI BURO DESTEGI FAALIYETLERI"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca39"
+  },
+  "sektorId": "S8282",
+  "sektorAdi": "GIDA ICECEK VE TUTUN"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca37"
+  },
+  "sektorId": "S8298",
+  "sektorAdi": "GAYRI MENKUL FAALIYETLERI"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca3e"
+  },
+  "sektorId": "S8220",
+  "sektorAdi": "HOLDINGLER VE YATIRIM SIRKETLERI"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca38"
+  },
+  "sektorId": "S8234",
+  "sektorAdi": "GAYRIMENKUL YATIRIM ORTAKLIKLARI"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca3f"
+  },
+  "sektorId": "S8338",
+  "sektorAdi": "HUKUK VE MUHASEBE FAALIYETLERI"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca3b"
+  },
+  "sektorId": "S8324",
+  "sektorAdi": "GUVENLIK VE SORUSTURMA FAALIYETLERI"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca41"
+  },
+  "sektorId": "S8252",
+  "sektorAdi": "INSAN SAGLIGI VE SOSYAL HIZMETLER"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca43"
+  },
+  "sektorId": "S8316",
+  "sektorAdi": "KIMYA ILAC PETROL LASTIK VE PLASTIK"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca44"
+  },
+  "sektorId": "S8302",
+  "sektorAdi": "KIRALAMA VE LEASING FAALIYETLERI"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca46"
+  },
+  "sektorId": "S8240",
+  "sektorAdi": "LOKANTALAR VE OTELLER"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca48"
+  },
+  "sektorId": "S8292",
+  "sektorAdi": "METAL CEVHERI MADENCILIGI"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca49"
+  },
+  "sektorId": "S8312",
+  "sektorAdi": "METAL ESYA MAKINE ELEKT CHAZ ULASIM ARAC"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca4c"
+  },
+  "sektorId": "S8236",
+  "sektorAdi": "PERAKENDE TICARET"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca4b"
+  },
+  "sektorId": "S8274",
+  "sektorAdi": "ORMAN URUNLERI VE MOBILYA"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca54"
+  },
+  "sektorId": "S8284",
+  "sektorAdi": "TEKSTIL GIYIM ESYASI VE DERI"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca52"
+  },
+  "sektorId": "S8320",
+  "sektorAdi": "TAS VE TOPRAGA DAYALI"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca56"
+  },
+  "sektorId": "S8244",
+  "sektorAdi": "ULASTIRMA VE DEPOLAMA"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca33"
+  },
+  "sektorId": "S8348",
+  "sektorAdi": "ELEKTRIK GAZ VE BUHAR"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca34"
+  },
+  "sektorId": "S8208",
+  "sektorAdi": "FINANSAL KIRALAMA VE FAKTORING SIRKETLER"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca36"
+  },
+  "sektorId": "S8350",
+  "sektorAdi": "FONLAR"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca3a"
+  },
+  "sektorId": "S8248",
+  "sektorAdi": "GIRISIM SERMAYESI YATIRIM ORTAKLIKLARI"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca3c"
+  },
+  "sektorId": "S8242",
+  "sektorAdi": "HABERLESME"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca42"
+  },
+  "sektorId": "S8278",
+  "sektorAdi": "KAGIT VE KAGIT URUNLERI BASIM VE YAYIN"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca45"
+  },
+  "sektorId": "S8272",
+  "sektorAdi": "KOMUR VE LINYIT MADENCILIGI"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca4a"
+  },
+  "sektorId": "S8328",
+  "sektorAdi": "MIMARLIK VE MUHENDISLIK FAALIYETLERI"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca4f"
+  },
+  "sektorId": "S8310",
+  "sektorAdi": "SEYAHAT ACENTESI TUR OPERATORU"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca2d"
+  },
+  "sektorId": "S8216",
+  "sektorAdi": "ARACI KURUMLAR"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca2f"
+  },
+  "sektorId": "S8226",
+  "sektorAdi": "BILISIM"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca35"
+  },
+  "sektorId": "S81500",
+  "sektorAdi": "FINANSMAN SIRKETLERI"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca3d"
+  },
+  "sektorId": "S8294",
+  "sektorAdi": "HAM PETROL VE DOGALGAZ CIKARTILMASI"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca40"
+  },
+  "sektorId": "S8304",
+  "sektorAdi": "INSAAT VE BAYINDIRLIK ISLERI"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca47"
+  },
+  "sektorId": "S8238",
+  "sektorAdi": "MENKUL KIYMET YATIRIM ORTAKLIKLARI"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca4d"
+  },
+  "sektorId": "S8254",
+  "sektorAdi": "SANAT EGLENCE BOS ZAMANLARI DEGERLENDIR"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca4e"
+  },
+  "sektorId": "S8222",
+  "sektorAdi": "SAVUNMA"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca50"
+  },
+  "sektorId": "S8210",
+  "sektorAdi": "SIGORTA SIRKETLERI"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca51"
+  },
+  "sektorId": "S8266",
+  "sektorAdi": "TARIM VE HAYVANCILIK AVCILIK"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca53"
+  },
+  "sektorId": "S8224",
+  "sektorAdi": "TEKNOLOJI"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca55"
+  },
+  "sektorId": "S8232",
+  "sektorAdi": "TOPTAN TICARET"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca57"
+  },
+  "sektorId": "S81502",
+  "sektorAdi": "VARLIK KIRALAMA SIRKETLERI"
+},
+{
+  "_id": {
+    "$oid": "65701bc8bce9e675ac97ca58"
+  },
+  "sektorId": "S81504",
+  "sektorAdi": "VARLIK YONETIM SIRKETLERI"
+}]
