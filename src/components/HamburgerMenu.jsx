@@ -1,15 +1,19 @@
-import React from "react";
-import HamburgerMenu from "./HamburgerMenu"; // HamburgerMenu bileşenini ekledik
+import React, { useState } from "react";
 import { Menubar } from "primereact/menubar";
-import { InputText } from "primereact/inputtext";
 import { Badge } from "primereact/badge";
-import { Avatar } from "primereact/avatar";
 import Logo from "../assets/transparent_background_image.png";
 
-export default function Banner() {
+const HamburgerMenu = () => {
+  const [mobileMenuVisible, setMobileMenuVisible] = useState(false);
+
+  const toggleMobileMenu = () => {
+    setMobileMenuVisible(!mobileMenuVisible);
+  };
+
   const itemRenderer = (item) => (
     <a
       className="flex align-items-center p-menuitem-link hover-link"
+      onClick={() => handleMenuClick(item)}
     >
       <span className={item.icon} />
       <span className="mx-2 ">{item.label}</span>
@@ -22,20 +26,6 @@ export default function Banner() {
     </a>
   );
 
-  const itemRendererSub = (item) => (
-    <a
-      className="flex align-items-center p-menuitem-link hover-link-sub"
-    >
-      <span className={item.icon} />
-      <span className="mx-2 ">{item.label}</span>
-      {item.badge && <Badge className="ml-auto" value={item.badge} />}
-      {item.shortcut && (
-        <span className="ml-auto border-1 surface-border border-round surface-100 text-xs p-1">
-          {item.shortcut}
-        </span>
-      )}
-    </a>
-  );
   const items = [
     {
       label: "Anasayfa",
@@ -61,17 +51,17 @@ export default function Banner() {
         {
           label: "sub 1",
           icon: "pi pi-bolt",
-          template: itemRendererSub,
+          template: itemRenderer,
         },
         {
           label: "sub 2",
           icon: "pi pi-server",
-          template: itemRendererSub,
+          template: itemRenderer,
         },
         {
           label: "sub 3",
           icon: "pi pi-pencil",
-          template: itemRendererSub,
+          template: itemRenderer,
         },
         {
           separator: true,
@@ -84,13 +74,13 @@ export default function Banner() {
               label: "sub 4.1",
               icon: "pi pi-palette",
               badge: 2,
-              template: itemRendererSub,
+              template: itemRenderer,
             },
             {
               label: "sub 4.2",
               icon: "pi pi-palette",
               badge: 3,
-              template: itemRendererSub,
+              template: itemRenderer,
             },
           ],
         },
@@ -105,45 +95,52 @@ export default function Banner() {
       },
     },
     {
-        label: "Mesaj",
-        icon: "pi pi-envelope",
-        badge:4,
-        template: itemRenderer,
-        command: () => {
+      label: "Mesaj",
+      icon: "pi pi-envelope",
+      badge: 4,
+      template: itemRenderer,
+      command: () => {
         //   window.location = "contact";
-        },
       },
+    },
   ];
 
-  const start = (
-    <div className="flex align-items-center gap-2">
-      <HamburgerMenu /> {/* HamburgerMenu bileşenini ekledik */}
-      <img alt="logo" src={Logo} height="90" className="mr-2 smallLogo " style={{marginLeft:"145px"}}></img>
-    </div>
-  );
-
-  const end = (
-    <div className="flex align-items-center gap-2">
-      <InputText
-        placeholder="Search"
-        type="text"
-        className="w-8rem sm:w-auto"
-      />
-      <Avatar
-        image="https://primefaces.org/cdn/primereact/images/avatar/onyamalimba.png"
-        shape="circle"
-      />
-    </div>
-  );
+  const handleMenuClick = (item) => {
+    if (item.command) {
+      item.command();
+    }
+    setMobileMenuVisible(false); // Menü öğesine tıklandığında mobil menüyü kapat
+  };
 
   return (
-    <div className="card ">
-      <Menubar
-        //model={items}
-        start={start}
-        end={end}
-        style={{ backgroundColor: "#14222E" }}
-      />
+    <div>
+      <div className="flex align-items-center gap-2">
+        <button
+          className="p-button p-button-text p-d-flex p-jc-center p-ai-center"
+          onClick={toggleMobileMenu}
+          style={{ zIndex: "999" }}
+        >
+          <span className="pi pi-bars" style={{ fontSize: "1.5rem" }}></span>
+        </button>
+      </div>
+      {mobileMenuVisible && (
+        <div
+          className="p-shadow-16"
+          style={{
+            position: "fixed",
+            top: "0",
+            left: "0",
+            bottom: "0",
+            width: "15%",
+            backgroundColor: "#14222E",
+            zIndex: "998",
+          }}
+        >
+          <Menubar model={items} style={{ backgroundColor: "#14222E", border: 'none', paddingTop:"80px" }} />
+        </div>
+      )}
     </div>
   );
-}
+};
+
+export default HamburgerMenu;
