@@ -2,6 +2,7 @@ import Bist100 from "../components/Markets/Bist100";
 import { Card } from "primereact/card";
 import { Divider } from "primereact/divider";
 import Sector from "../components/Markets/Sector";
+import Highlights from "../components/Markets/Highlights";
 
 export default function Markets() {
   return (
@@ -25,6 +26,11 @@ export default function Markets() {
         </Card>
       </div>
       <Divider />
+      <div className="col-12">
+        <div className="">
+          <Highlights />
+        </div>
+      </div>
     </>
   );
 }

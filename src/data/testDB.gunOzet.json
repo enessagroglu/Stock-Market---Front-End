@@ -1,0 +1,4848 @@
+[{
+  "_id": {
+    "$oid": "65ff31a0a20e5f46ee392abd"
+  },
+  "kod: ": "A1CAP",
+  "son: ": 30.06,
+  "fark%: ": 1.62,
+  "en düsük: ": 29.46,
+  "en yuksek: ": 30.14,
+  "aofs: ": 29.78,
+  "hacim lot: ": 2302059,
+  "hacim tl: ": 68556969.56
+},
+{
+  "_id": {
+    "$oid": "65ff31a0a20e5f46ee392abe"
+  },
+  "kod: ": "ACSEL",
+  "son: ": 163.7,
+  "fark%: ": 4.13,
+  "en düsük: ": 156,
+  "en yuksek: ": 165.9,
+  "aofs: ": 161.13,
+  "hacim lot: ": 290727,
+  "hacim tl: ": 46844169.4
+},
+{
+  "_id": {
+    "$oid": "65ff31a0a20e5f46ee392abf"
+  },
+  "kod: ": "ADEL",
+  "son: ": 685,
+  "fark%: ": -2,
+  "en düsük: ": 650.5,
+  "en yuksek: ": 712.5,
+  "aofs: ": 681.42,
+  "hacim lot: ": 999950,
+  "hacim tl: ": 681384964.5
+},
+{
+  "_id": {
+    "$oid": "65ff31a0a20e5f46ee392ac0"
+  },
+  "kod: ": "ADESE",
+  "son: ": 2.43,
+  "fark%: ": -0.82,
+  "en düsük: ": 2.38,
+  "en yuksek: ": 2.48,
+  "aofs: ": 2.44,
+  "hacim lot: ": 42858249,
+  "hacim tl: ": 104706512.33
+},
+{
+  "_id": {
+    "$oid": "65ff31a1a20e5f46ee392ac1"
+  },
+  "kod: ": "ADGYO",
+  "son: ": 30,
+  "fark%: ": -1.57,
+  "en düsük: ": 29.8,
+  "en yuksek: ": 31,
+  "aofs: ": 30.53,
+  "hacim lot: ": 1904539,
+  "hacim tl: ": 58144738.42
+},
+{
+  "_id": {
+    "$oid": "65ff31a1a20e5f46ee392ac2"
+  },
+  "kod: ": "AEFES",
+  "son: ": 154.5,
+  "fark%: ": 1.58,
+  "en düsük: ": 147.4,
+  "en yuksek: ": 156.8,
+  "aofs: ": 153.98,
+  "hacim lot: ": 6546908,
+  "hacim tl: ": 1008122318.8
+},
+{
+  "_id": {
+    "$oid": "65ff31a1a20e5f46ee392ac3"
+  },
+  "kod: ": "AFYON",
+  "son: ": 11.98,
+  "fark%: ": 1.35,
+  "en düsük: ": 11.82,
+  "en yuksek: ": 12.17,
+  "aofs: ": 11.97,
+  "hacim lot: ": 4308833,
+  "hacim tl: ": 51584139.75
+},
+{
+  "_id": {
+    "$oid": "65ff31a1a20e5f46ee392ac4"
+  },
+  "kod: ": "AGESA",
+  "son: ": 75.35,
+  "fark%: ": -2.14,
+  "en düsük: ": 74.75,
+  "en yuksek: ": 77.35,
+  "aofs: ": 76.05,
+  "hacim lot: ": 308488,
+  "hacim tl: ": 23458878
+},
+{
+  "_id": {
+    "$oid": "65ff31a1a20e5f46ee392ac5"
+  },
+  "kod: ": "AGHOL",
+  "son: ": 262.5,
+  "fark%: ": 3.75,
+  "en düsük: ": 247.5,
+  "en yuksek: ": 268.75,
+  "aofs: ": 258.28,
+  "hacim lot: ": 1724984,
+  "hacim tl: ": 445534643.75
+},
+{
+  "_id": {
+    "$oid": "65ff31a2a20e5f46ee392ac6"
+  },
+  "kod: ": "AGROT",
+  "son: ": 30.7,
+  "fark%: ": -2.54,
+  "en düsük: ": 30.38,
+  "en yuksek: ": 31.9,
+  "aofs: ": 31.14,
+  "hacim lot: ": 15206159,
+  "hacim tl: ": 473562860.92
+},
+{
+  "_id": {
+    "$oid": "65ff31a2a20e5f46ee392ac7"
+  },
+  "kod: ": "AGYO",
+  "son: ": 9.7,
+  "fark%: ": -2.32,
+  "en düsük: ": 9.67,
+  "en yuksek: ": 10.09,
+  "aofs: ": 9.88,
+  "hacim lot: ": 2959948,
+  "hacim tl: ": 29250771.38
+},
+{
+  "_id": {
+    "$oid": "65ff31a2a20e5f46ee392ac8"
+  },
+  "kod: ": "AHGAZ",
+  "son: ": 14.45,
+  "fark%: ": 2.41,
+  "en düsük: ": 13.92,
+  "en yuksek: ": 14.45,
+  "aofs: ": 14.22,
+  "hacim lot: ": 16919825,
+  "hacim tl: ": 240631824.62
+},
+{
+  "_id": {
+    "$oid": "65ff31a2a20e5f46ee392ac9"
+  },
+  "kod: ": "AKBNK",
+  "son: ": 45.82,
+  "fark%: ": 1.73,
+  "en düsük: ": 45.02,
+  "en yuksek: ": 46.38,
+  "aofs: ": 45.8,
+  "hacim lot: ": 88011898,
+  "hacim tl: ": 4031331852.06
+},
+{
+  "_id": {
+    "$oid": "65ff31a2a20e5f46ee392aca"
+  },
+  "kod: ": "AKCNS",
+  "son: ": 147.3,
+  "fark%: ": 1.24,
+  "en düsük: ": 146,
+  "en yuksek: ": 150.6,
+  "aofs: ": 148.25,
+  "hacim lot: ": 910735,
+  "hacim tl: ": 135018060
+},
+{
+  "_id": {
+    "$oid": "65ff31a3a20e5f46ee392acb"
+  },
+  "kod: ": "AKENR",
+  "son: ": 9.64,
+  "fark%: ": 9.92,
+  "en düsük: ": 9.64,
+  "en yuksek: ": 9.64,
+  "aofs: ": 9.64,
+  "hacim lot: ": 4799107,
+  "hacim tl: ": 46263391.48
+},
+{
+  "_id": {
+    "$oid": "65ff31a3a20e5f46ee392acc"
+  },
+  "kod: ": "AKFGY",
+  "son: ": 2.26,
+  "fark%: ": -2.16,
+  "en düsük: ": 2.24,
+  "en yuksek: ": 2.34,
+  "aofs: ": 2.29,
+  "hacim lot: ": 74091110,
+  "hacim tl: ": 169624951.67
+},
+{
+  "_id": {
+    "$oid": "65ff31a3a20e5f46ee392acd"
+  },
+  "kod: ": "AKFYE",
+  "son: ": 24.44,
+  "fark%: ": -3.86,
+  "en düsük: ": 24.3,
+  "en yuksek: ": 25.8,
+  "aofs: ": 24.98,
+  "hacim lot: ": 17476540,
+  "hacim tl: ": 436583452.9
+},
+{
+  "_id": {
+    "$oid": "65ff31a3a20e5f46ee392ace"
+  },
+  "kod: ": "AKGRT",
+  "son: ": 6.24,
+  "fark%: ": -0.16,
+  "en düsük: ": 6.11,
+  "en yuksek: ": 6.41,
+  "aofs: ": 6.28,
+  "hacim lot: ": 28800804,
+  "hacim tl: ": 180874099.26
+},
+{
+  "_id": {
+    "$oid": "65ff31a3a20e5f46ee392acf"
+  },
+  "kod: ": "AKMGY",
+  "son: ": 300.75,
+  "fark%: ": 0.25,
+  "en düsük: ": 284.25,
+  "en yuksek: ": 315,
+  "aofs: ": 299.5,
+  "hacim lot: ": 242844,
+  "hacim tl: ": 72731730.75
+},
+{
+  "_id": {
+    "$oid": "65ff31a3a20e5f46ee392ad0"
+  },
+  "kod: ": "AKSA",
+  "son: ": 98.05,
+  "fark%: ": -2.24,
+  "en düsük: ": 97.35,
+  "en yuksek: ": 102,
+  "aofs: ": 100.84,
+  "hacim lot: ": 3766864,
+  "hacim tl: ": 379831231.45
+},
+{
+  "_id": {
+    "$oid": "65ff31a4a20e5f46ee392ad1"
+  },
+  "kod: ": "AKSEN",
+  "son: ": 35.08,
+  "fark%: ": -0.17,
+  "en düsük: ": 34.94,
+  "en yuksek: ": 36.12,
+  "aofs: ": 35.49,
+  "hacim lot: ": 5408705,
+  "hacim tl: ": 191925527.28
+},
+{
+  "_id": {
+    "$oid": "65ff31a4a20e5f46ee392ad2"
+  },
+  "kod: ": "AKSGY",
+  "son: ": 16.5,
+  "fark%: ": -1.2,
+  "en düsük: ": 16.32,
+  "en yuksek: ": 16.98,
+  "aofs: ": 16.65,
+  "hacim lot: ": 2586319,
+  "hacim tl: ": 43069831.5
+},
+{
+  "_id": {
+    "$oid": "65ff31a4a20e5f46ee392ad3"
+  },
+  "kod: ": "AKSUE",
+  "son: ": 13.63,
+  "fark%: ": -0.51,
+  "en düsük: ": 13.5,
+  "en yuksek: ": 13.92,
+  "aofs: ": 13.71,
+  "hacim lot: ": 669173,
+  "hacim tl: ": 9171459
+},
+{
+  "_id": {
+    "$oid": "65ff31a4a20e5f46ee392ad4"
+  },
+  "kod: ": "AKYHO",
+  "son: ": 6.1,
+  "fark%: ": -3.79,
+  "en düsük: ": 5.87,
+  "en yuksek: ": 6.21,
+  "aofs: ": 6.07,
+  "hacim lot: ": 27262666,
+  "hacim tl: ": 165438204.36
+},
+{
+  "_id": {
+    "$oid": "65ff31a4a20e5f46ee392ad5"
+  },
+  "kod: ": "ALARK",
+  "son: ": 129.7,
+  "fark%: ": -0.77,
+  "en düsük: ": 129,
+  "en yuksek: ": 134.3,
+  "aofs: ": 132.15,
+  "hacim lot: ": 7058147,
+  "hacim tl: ": 932753109.7
+},
+{
+  "_id": {
+    "$oid": "65ff31a5a20e5f46ee392ad6"
+  },
+  "kod: ": "ALBRK",
+  "son: ": 4.31,
+  "fark%: ": -1.15,
+  "en düsük: ": 4.3,
+  "en yuksek: ": 4.4,
+  "aofs: ": 4.34,
+  "hacim lot: ": 14667997,
+  "hacim tl: ": 63604347.6
+},
+{
+  "_id": {
+    "$oid": "65ff31a5a20e5f46ee392ad7"
+  },
+  "kod: ": "ALCAR",
+  "son: ": 1561,
+  "fark%: ": 2.83,
+  "en düsük: ": 1520,
+  "en yuksek: ": 1603,
+  "aofs: ": 1565.34,
+  "hacim lot: ": 93673,
+  "hacim tl: ": 146629874
+},
+{
+  "_id": {
+    "$oid": "65ff31a5a20e5f46ee392ad8"
+  },
+  "kod: ": "ALCTL",
+  "son: ": 118.5,
+  "fark%: ": -4.74,
+  "en düsük: ": 118.5,
+  "en yuksek: ": 126.8,
+  "aofs: ": 122.4,
+  "hacim lot: ": 517875,
+  "hacim tl: ": 63389600.9
+},
+{
+  "_id": {
+    "$oid": "65ff31a5a20e5f46ee392ad9"
+  },
+  "kod: ": "ALFAS",
+  "son: ": 90.15,
+  "fark%: ": 1.63,
+  "en düsük: ": 88.7,
+  "en yuksek: ": 91.55,
+  "aofs: ": 89.99,
+  "hacim lot: ": 3147521,
+  "hacim tl: ": 283234562.6
+},
+{
+  "_id": {
+    "$oid": "65ff31a5a20e5f46ee392ada"
+  },
+  "kod: ": "ALGYO",
+  "son: ": 43.84,
+  "fark%: ": -2.32,
+  "en düsük: ": 43.56,
+  "en yuksek: ": 45.1,
+  "aofs: ": 44.38,
+  "hacim lot: ": 1387358,
+  "hacim tl: ": 61576954.72
+},
+{
+  "_id": {
+    "$oid": "65ff31a6a20e5f46ee392adb"
+  },
+  "kod: ": "ALKA",
+  "son: ": 30.9,
+  "fark%: ": -1.59,
+  "en düsük: ": 30.42,
+  "en yuksek: ": 31.76,
+  "aofs: ": 31.16,
+  "hacim lot: ": 879093,
+  "hacim tl: ": 27391652.08
+},
+{
+  "_id": {
+    "$oid": "65ff31a6a20e5f46ee392adc"
+  },
+  "kod: ": "ALKIM",
+  "son: ": 36.4,
+  "fark%: ": -2.62,
+  "en düsük: ": 36.2,
+  "en yuksek: ": 37.46,
+  "aofs: ": 36.89,
+  "hacim lot: ": 509432,
+  "hacim tl: ": 18793180.7
+},
+{
+  "_id": {
+    "$oid": "65ff31a6a20e5f46ee392add"
+  },
+  "kod: ": "ALMAD",
+  "son: ": 7.84,
+  "fark%: ": 0.51,
+  "en düsük: ": 7.63,
+  "en yuksek: ": 7.97,
+  "aofs: ": 7.79,
+  "hacim lot: ": 2724314,
+  "hacim tl: ": 21230963.04
+},
+{
+  "_id": {
+    "$oid": "65ff31a6a20e5f46ee392ade"
+  },
+  "kod: ": "ALTINS1",
+  "son: ": 24.18,
+  "fark%: ": 1.3,
+  "en düsük: ": 23.79,
+  "en yuksek: ": 24.24,
+  "aofs: ": 24.04,
+  "hacim lot: ": 35856021,
+  "hacim tl: ": 861821343.04
+},
+{
+  "_id": {
+    "$oid": "65ff31a6a20e5f46ee392adf"
+  },
+  "kod: ": "ALVES",
+  "son: ": 63.25,
+  "fark%: ": -4.24,
+  "en düsük: ": 59.75,
+  "en yuksek: ": 71,
+  "aofs: ": 66.82,
+  "hacim lot: ": 47925535,
+  "hacim tl: ": 3202255728.5
+},
+{
+  "_id": {
+    "$oid": "65ff31a7a20e5f46ee392ae0"
+  },
+  "kod: ": "ANELE",
+  "son: ": 17.94,
+  "fark%: ": -0.88,
+  "en düsük: ": 17.51,
+  "en yuksek: ": 18.22,
+  "aofs: ": 17.85,
+  "hacim lot: ": 792322,
+  "hacim tl: ": 14142832.44
+},
+{
+  "_id": {
+    "$oid": "65ff31a7a20e5f46ee392ae1"
+  },
+  "kod: ": "ANGEN",
+  "son: ": 12.55,
+  "fark%: ": -0.48,
+  "en düsük: ": 12.51,
+  "en yuksek: ": 12.97,
+  "aofs: ": 12.71,
+  "hacim lot: ": 2581547,
+  "hacim tl: ": 32817896.68
+},
+{
+  "_id": {
+    "$oid": "65ff31a7a20e5f46ee392ae2"
+  },
+  "kod: ": "ANHYT",
+  "son: ": 50,
+  "fark%: ": 0.81,
+  "en düsük: ": 49.22,
+  "en yuksek: ": 50.95,
+  "aofs: ": 50.05,
+  "hacim lot: ": 2228844,
+  "hacim tl: ": 111547693.45
+},
+{
+  "_id": {
+    "$oid": "65ff31a7a20e5f46ee392ae3"
+  },
+  "kod: ": "ANSGR",
+  "son: ": 71.9,
+  "fark%: ": -4.58,
+  "en düsük: ": 71.9,
+  "en yuksek: ": 76.1,
+  "aofs: ": 73.53,
+  "hacim lot: ": 2068962,
+  "hacim tl: ": 152129481.05
+},
+{
+  "_id": {
+    "$oid": "65ff31a7a20e5f46ee392ae4"
+  },
+  "kod: ": "ARASE",
+  "son: ": 61.8,
+  "fark%: ": -0.32,
+  "en düsük: ": 60.85,
+  "en yuksek: ": 63.45,
+  "aofs: ": 62.19,
+  "hacim lot: ": 1086799,
+  "hacim tl: ": 67590453.5
+},
+{
+  "_id": {
+    "$oid": "65ff31a8a20e5f46ee392ae5"
+  },
+  "kod: ": "ARCLK",
+  "son: ": 145.3,
+  "fark%: ": -3.58,
+  "en düsük: ": 144.6,
+  "en yuksek: ": 149.9,
+  "aofs: ": 147.36,
+  "hacim lot: ": 3772931,
+  "hacim tl: ": 555984080
+},
+{
+  "_id": {
+    "$oid": "65ff31a8a20e5f46ee392ae6"
+  },
+  "kod: ": "ARDYZ",
+  "son: ": 44.02,
+  "fark%: ": -5.09,
+  "en düsük: ": 43.68,
+  "en yuksek: ": 46.78,
+  "aofs: ": 44.9,
+  "hacim lot: ": 5651127,
+  "hacim tl: ": 253721667.88
+},
+{
+  "_id": {
+    "$oid": "65ff31a8a20e5f46ee392ae7"
+  },
+  "kod: ": "ARENA",
+  "son: ": 45.68,
+  "fark%: ": -4.91,
+  "en düsük: ": 45.52,
+  "en yuksek: ": 48.38,
+  "aofs: ": 46.92,
+  "hacim lot: ": 516382,
+  "hacim tl: ": 24226287.14
+},
+{
+  "_id": {
+    "$oid": "65ff31a8a20e5f46ee392ae8"
+  },
+  "kod: ": "ARSAN",
+  "son: ": 13.24,
+  "fark%: ": -2.14,
+  "en düsük: ": 13.18,
+  "en yuksek: ": 13.64,
+  "aofs: ": 13.39,
+  "hacim lot: ": 740035,
+  "hacim tl: ": 9911810.16
+},
+{
+  "_id": {
+    "$oid": "65ff31a8a20e5f46ee392ae9"
+  },
+  "kod: ": "ARTMS",
+  "son: ": 54,
+  "fark%: ": 2.56,
+  "en düsük: ": 50.55,
+  "en yuksek: ": 55.5,
+  "aofs: ": 52.7,
+  "hacim lot: ": 3206072,
+  "hacim tl: ": 168956595.15
+},
+{
+  "_id": {
+    "$oid": "65ff31a9a20e5f46ee392aea"
+  },
+  "kod: ": "ARZUM",
+  "son: ": 49.88,
+  "fark%: ": -3.52,
+  "en düsük: ": 49.32,
+  "en yuksek: ": 53.3,
+  "aofs: ": 51.17,
+  "hacim lot: ": 1996764,
+  "hacim tl: ": 102179601.75
+},
+{
+  "_id": {
+    "$oid": "65ff31a9a20e5f46ee392aeb"
+  },
+  "kod: ": "ASELS",
+  "son: ": 56.35,
+  "fark%: ": -2.68,
+  "en düsük: ": 56.2,
+  "en yuksek: ": 58.45,
+  "aofs: ": 57.54,
+  "hacim lot: ": 64620917,
+  "hacim tl: ": 3718480814.65
+},
+{
+  "_id": {
+    "$oid": "65ff31a9a20e5f46ee392aec"
+  },
+  "kod: ": "ASGYO",
+  "son: ": 14.26,
+  "fark%: ": 0.14,
+  "en düsük: ": 14.15,
+  "en yuksek: ": 14.34,
+  "aofs: ": 14.24,
+  "hacim lot: ": 5868640,
+  "hacim tl: ": 83571404.79
+},
+{
+  "_id": {
+    "$oid": "65ff31a9a20e5f46ee392aed"
+  },
+  "kod: ": "ASTOR",
+  "son: ": 95.85,
+  "fark%: ": -1.54,
+  "en düsük: ": 95.3,
+  "en yuksek: ": 97.4,
+  "aofs: ": 96.41,
+  "hacim lot: ": 13433443,
+  "hacim tl: ": 1295175558.65
+},
+{
+  "_id": {
+    "$oid": "65ff31a9a20e5f46ee392aee"
+  },
+  "kod: ": "ASUZU",
+  "son: ": 78.05,
+  "fark%: ": 8.4,
+  "en düsük: ": 71.55,
+  "en yuksek: ": 79.2,
+  "aofs: ": 77.13,
+  "hacim lot: ": 6056432,
+  "hacim tl: ": 467115210.3
+},
+{
+  "_id": {
+    "$oid": "65ff31a9a20e5f46ee392aef"
+  },
+  "kod: ": "ATAGY",
+  "son: ": 13.11,
+  "fark%: ": -3.25,
+  "en düsük: ": 12.81,
+  "en yuksek: ": 13.54,
+  "aofs: ": 13.12,
+  "hacim lot: ": 296015,
+  "hacim tl: ": 3884037.42
+},
+{
+  "_id": {
+    "$oid": "65ff31aaa20e5f46ee392af0"
+  },
+  "kod: ": "ATAKP",
+  "son: ": 43.26,
+  "fark%: ": -6.16,
+  "en düsük: ": 42,
+  "en yuksek: ": 47.2,
+  "aofs: ": 44.88,
+  "hacim lot: ": 2048132,
+  "hacim tl: ": 91910932.3
+},
+{
+  "_id": {
+    "$oid": "65ff31aaa20e5f46ee392af1"
+  },
+  "kod: ": "ATATP",
+  "son: ": 107.6,
+  "fark%: ": -1.74,
+  "en düsük: ": 106,
+  "en yuksek: ": 114.5,
+  "aofs: ": 109.94,
+  "hacim lot: ": 939142,
+  "hacim tl: ": 103249078.1
+},
+{
+  "_id": {
+    "$oid": "65ff31aaa20e5f46ee392af2"
+  },
+  "kod: ": "ATEKS",
+  "son: ": 143.9,
+  "fark%: ": 1.62,
+  "en düsük: ": 139.3,
+  "en yuksek: ": 145.4,
+  "aofs: ": 141.31,
+  "hacim lot: ": 93167,
+  "hacim tl: ": 13165736.7
+},
+{
+  "_id": {
+    "$oid": "65ff31aaa20e5f46ee392af3"
+  },
+  "kod: ": "ATLAS",
+  "son: ": 5.74,
+  "fark%: ": 5.9,
+  "en düsük: ": 5.4,
+  "en yuksek: ": 5.84,
+  "aofs: ": 5.63,
+  "hacim lot: ": 2196966,
+  "hacim tl: ": 12357702.46
+},
+{
+  "_id": {
+    "$oid": "65ff31aaa20e5f46ee392af4"
+  },
+  "kod: ": "ATSYH",
+  "son: ": 48.5,
+  "fark%: ": 1.08,
+  "en düsük: ": 47.98,
+  "en yuksek: ": 48.8,
+  "aofs: ": 48.38,
+  "hacim lot: ": 85049,
+  "hacim tl: ": 4114397.86
+},
+{
+  "_id": {
+    "$oid": "65ff31aba20e5f46ee392af5"
+  },
+  "kod: ": "AVGYO",
+  "son: ": 7.85,
+  "fark%: ": 0,
+  "en düsük: ": 7.84,
+  "en yuksek: ": 8.01,
+  "aofs: ": 7.93,
+  "hacim lot: ": 428949,
+  "hacim tl: ": 3402521.95
+},
+{
+  "_id": {
+    "$oid": "65ff31aba20e5f46ee392af6"
+  },
+  "kod: ": "AVHOL",
+  "son: ": 47.62,
+  "fark%: ": -0.5,
+  "en düsük: ": 46.7,
+  "en yuksek: ": 48.68,
+  "aofs: ": 47.64,
+  "hacim lot: ": 974071,
+  "hacim tl: ": 46405608.58
+},
+{
+  "_id": {
+    "$oid": "65ff31aba20e5f46ee392af7"
+  },
+  "kod: ": "AVOD",
+  "son: ": 3.59,
+  "fark%: ": 2.57,
+  "en düsük: ": 3.37,
+  "en yuksek: ": 3.59,
+  "aofs: ": 3.47,
+  "hacim lot: ": 9482403,
+  "hacim tl: ": 32862955.45
+},
+{
+  "_id": {
+    "$oid": "65ff31aba20e5f46ee392af8"
+  },
+  "kod: ": "AVPGY",
+  "son: ": 44.08,
+  "fark%: ": 7.88,
+  "en düsük: ": 40.98,
+  "en yuksek: ": 44.94,
+  "aofs: ": 43.44,
+  "hacim lot: ": 13239178,
+  "hacim tl: ": 575119361.06
+},
+{
+  "_id": {
+    "$oid": "65ff31aba20e5f46ee392af9"
+  },
+  "kod: ": "AVTUR",
+  "son: ": 11.12,
+  "fark%: ": -5.76,
+  "en düsük: ": 11.01,
+  "en yuksek: ": 11.8,
+  "aofs: ": 11.27,
+  "hacim lot: ": 1038903,
+  "hacim tl: ": 11711674.8
+},
+{
+  "_id": {
+    "$oid": "65ff31aca20e5f46ee392afa"
+  },
+  "kod: ": "AYCES",
+  "son: ": 754.5,
+  "fark%: ": -0.92,
+  "en düsük: ": 744,
+  "en yuksek: ": 776,
+  "aofs: ": 760.38,
+  "hacim lot: ": 125908,
+  "hacim tl: ": 95737512
+},
+{
+  "_id": {
+    "$oid": "65ff31aca20e5f46ee392afb"
+  },
+  "kod: ": "AYDEM",
+  "son: ": 30.34,
+  "fark%: ": 1.07,
+  "en düsük: ": 29.6,
+  "en yuksek: ": 30.38,
+  "aofs: ": 30.02,
+  "hacim lot: ": 2334366,
+  "hacim tl: ": 70068025.7
+},
+{
+  "_id": {
+    "$oid": "65ff31aca20e5f46ee392afc"
+  },
+  "kod: ": "AYEN",
+  "son: ": 26.5,
+  "fark%: ": 1.69,
+  "en düsük: ": 26,
+  "en yuksek: ": 27.18,
+  "aofs: ": 26.65,
+  "hacim lot: ": 1032031,
+  "hacim tl: ": 27505976.28
+},
+{
+  "_id": {
+    "$oid": "65ff31aca20e5f46ee392afd"
+  },
+  "kod: ": "AYES",
+  "son: ": 42.02,
+  "fark%: ": -5.53,
+  "en düsük: ": 42,
+  "en yuksek: ": 44,
+  "aofs: ": 42.86,
+  "hacim lot: ": 96313,
+  "hacim tl: ": 4127491.28
+},
+{
+  "_id": {
+    "$oid": "65ff31aca20e5f46ee392afe"
+  },
+  "kod: ": "AYGAZ",
+  "son: ": 158.4,
+  "fark%: ": 1.73,
+  "en düsük: ": 153.4,
+  "en yuksek: ": 159.1,
+  "aofs: ": 156.86,
+  "hacim lot: ": 1034075,
+  "hacim tl: ": 161920053
+},
+{
+  "_id": {
+    "$oid": "65ff31ada20e5f46ee392aff"
+  },
+  "kod: ": "AZTEK",
+  "son: ": 118.8,
+  "fark%: ": 10,
+  "en düsük: ": 110,
+  "en yuksek: ": 118.8,
+  "aofs: ": 115.28,
+  "hacim lot: ": 1504094,
+  "hacim tl: ": 173392075.5
+},
+{
+  "_id": {
+    "$oid": "65ff31ada20e5f46ee392b00"
+  },
+  "kod: ": "BAGFS",
+  "son: ": 23.82,
+  "fark%: ": -1.16,
+  "en düsük: ": 23.56,
+  "en yuksek: ": 24.34,
+  "aofs: ": 24.03,
+  "hacim lot: ": 1967900,
+  "hacim tl: ": 47281693.88
+},
+{
+  "_id": {
+    "$oid": "65ff31ada20e5f46ee392b01"
+  },
+  "kod: ": "BAKAB",
+  "son: ": 43.02,
+  "fark%: ": -3.11,
+  "en düsük: ": 42.52,
+  "en yuksek: ": 45.04,
+  "aofs: ": 43.71,
+  "hacim lot: ": 303067,
+  "hacim tl: ": 13246426.46
+},
+{
+  "_id": {
+    "$oid": "65ff31ada20e5f46ee392b02"
+  },
+  "kod: ": "BALAT",
+  "son: ": 26.4,
+  "fark%: ": -0.75,
+  "en düsük: ": 26.4,
+  "en yuksek: ": 26.6,
+  "aofs: ": 26.5,
+  "hacim lot: ": 68839,
+  "hacim tl: ": 1824125.52
+},
+{
+  "_id": {
+    "$oid": "65ff31ada20e5f46ee392b03"
+  },
+  "kod: ": "BANVT",
+  "son: ": 165.5,
+  "fark%: ": 1.91,
+  "en düsük: ": 162.5,
+  "en yuksek: ": 175,
+  "aofs: ": 169.42,
+  "hacim lot: ": 634277,
+  "hacim tl: ": 107456937.3
+},
+{
+  "_id": {
+    "$oid": "65ff31aea20e5f46ee392b04"
+  },
+  "kod: ": "BARMA",
+  "son: ": 18.18,
+  "fark%: ": 0.33,
+  "en düsük: ": 18,
+  "en yuksek: ": 18.34,
+  "aofs: ": 18.17,
+  "hacim lot: ": 1036045,
+  "hacim tl: ": 18821271.75
+},
+{
+  "_id": {
+    "$oid": "65ff31aea20e5f46ee392b05"
+  },
+  "kod: ": "BASCM",
+  "son: ": 17.2,
+  "fark%: ": 1.9,
+  "en düsük: ": 16.91,
+  "en yuksek: ": 17.25,
+  "aofs: ": 17.16,
+  "hacim lot: ": 186715,
+  "hacim tl: ": 3203378.9
+},
+{
+  "_id": {
+    "$oid": "65ff31aea20e5f46ee392b06"
+  },
+  "kod: ": "BASGZ",
+  "son: ": 19.95,
+  "fark%: ": -0.65,
+  "en düsük: ": 19.72,
+  "en yuksek: ": 20.28,
+  "aofs: ": 19.99,
+  "hacim lot: ": 1696436,
+  "hacim tl: ": 33911076.9
+},
+{
+  "_id": {
+    "$oid": "65ff31aea20e5f46ee392b07"
+  },
+  "kod: ": "BAYRK",
+  "son: ": 56.55,
+  "fark%: ": 2.82,
+  "en düsük: ": 52.6,
+  "en yuksek: ": 56.95,
+  "aofs: ": 54.98,
+  "hacim lot: ": 3223468,
+  "hacim tl: ": 177234041.05
+},
+{
+  "_id": {
+    "$oid": "65ff31aea20e5f46ee392b08"
+  },
+  "kod: ": "BEGYO",
+  "son: ": 4.28,
+  "fark%: ": -9.89,
+  "en düsük: ": 4.28,
+  "en yuksek: ": 4.84,
+  "aofs: ": 4.43,
+  "hacim lot: ": 102300788,
+  "hacim tl: ": 453109686.43
+},
+{
+  "_id": {
+    "$oid": "65ff31afa20e5f46ee392b09"
+  },
+  "kod: ": "BERA",
+  "son: ": 19.82,
+  "fark%: ": 9.99,
+  "en düsük: ": 17.89,
+  "en yuksek: ": 19.82,
+  "aofs: ": 18.92,
+  "hacim lot: ": 36259574,
+  "hacim tl: ": 686121669.5
+},
+{
+  "_id": {
+    "$oid": "65ff31afa20e5f46ee392b0a"
+  },
+  "kod: ": "BEYAZ",
+  "son: ": 22.12,
+  "fark%: ": -2.64,
+  "en düsük: ": 21.98,
+  "en yuksek: ": 23.74,
+  "aofs: ": 22.78,
+  "hacim lot: ": 2481683,
+  "hacim tl: ": 56528049.3
+},
+{
+  "_id": {
+    "$oid": "65ff31afa20e5f46ee392b0b"
+  },
+  "kod: ": "BFREN",
+  "son: ": 1124,
+  "fark%: ": 2.27,
+  "en düsük: ": 1099,
+  "en yuksek: ": 1163,
+  "aofs: ": 1132.26,
+  "hacim lot: ": 222325,
+  "hacim tl: ": 251730036
+},
+{
+  "_id": {
+    "$oid": "65ff31afa20e5f46ee392b0c"
+  },
+  "kod: ": "BIENY",
+  "son: ": 41.6,
+  "fark%: ": 1.91,
+  "en düsük: ": 40.78,
+  "en yuksek: ": 42.44,
+  "aofs: ": 41.51,
+  "hacim lot: ": 3669946,
+  "hacim tl: ": 152351952.44
+},
+{
+  "_id": {
+    "$oid": "65ff31afa20e5f46ee392b0d"
+  },
+  "kod: ": "BIGCH",
+  "son: ": 29.38,
+  "fark%: ": -3.67,
+  "en düsük: ": 29.38,
+  "en yuksek: ": 30.62,
+  "aofs: ": 29.87,
+  "hacim lot: ": 534921,
+  "hacim tl: ": 15977900.16
+},
+{
+  "_id": {
+    "$oid": "65ff31b0a20e5f46ee392b0e"
+  },
+  "kod: ": "BIMAS",
+  "son: ": 370.5,
+  "fark%: ": -3.52,
+  "en düsük: ": 370.5,
+  "en yuksek: ": 392.5,
+  "aofs: ": 382.68,
+  "hacim lot: ": 5247829,
+  "hacim tl: ": 2008230963
+},
+{
+  "_id": {
+    "$oid": "65ff31b0a20e5f46ee392b0f"
+  },
+  "kod: ": "BINHO",
+  "son: ": 559.5,
+  "fark%: ": 6.67,
+  "en düsük: ": 519.5,
+  "en yuksek: ": 576.5,
+  "aofs: ": 548.96,
+  "hacim lot: ": 1933795,
+  "hacim tl: ": 1061584113
+},
+{
+  "_id": {
+    "$oid": "65ff31b0a20e5f46ee392b10"
+  },
+  "kod: ": "BIOEN",
+  "son: ": 18.59,
+  "fark%: ": 3.28,
+  "en düsük: ": 17.98,
+  "en yuksek: ": 18.59,
+  "aofs: ": 18.16,
+  "hacim lot: ": 4143667,
+  "hacim tl: ": 75262332.62
+},
+{
+  "_id": {
+    "$oid": "65ff31b0a20e5f46ee392b11"
+  },
+  "kod: ": "BIZIM",
+  "son: ": 44.9,
+  "fark%: ": -3.98,
+  "en düsük: ": 44.68,
+  "en yuksek: ": 46.9,
+  "aofs: ": 45.51,
+  "hacim lot: ": 387921,
+  "hacim tl: ": 17654873.8
+},
+{
+  "_id": {
+    "$oid": "65ff31b0a20e5f46ee392b12"
+  },
+  "kod: ": "BJKAS",
+  "son: ": 66,
+  "fark%: ": 3.29,
+  "en düsük: ": 63.6,
+  "en yuksek: ": 67.95,
+  "aofs: ": 65.31,
+  "hacim lot: ": 964539,
+  "hacim tl: ": 62996731.7
+},
+{
+  "_id": {
+    "$oid": "65ff31b1a20e5f46ee392b13"
+  },
+  "kod: ": "BLCYT",
+  "son: ": 16.58,
+  "fark%: ": -2.24,
+  "en düsük: ": 16.4,
+  "en yuksek: ": 17.17,
+  "aofs: ": 16.81,
+  "hacim lot: ": 1127482,
+  "hacim tl: ": 18952554.3
+},
+{
+  "_id": {
+    "$oid": "65ff31b1a20e5f46ee392b14"
+  },
+  "kod: ": "BMSCH",
+  "son: ": 24.24,
+  "fark%: ": 2.97,
+  "en düsük: ": 22.7,
+  "en yuksek: ": 24.7,
+  "aofs: ": 23.98,
+  "hacim lot: ": 1265200,
+  "hacim tl: ": 30340523.02
+},
+{
+  "_id": {
+    "$oid": "65ff31b1a20e5f46ee392b15"
+  },
+  "kod: ": "BMSTL",
+  "son: ": 32.78,
+  "fark%: ": -0.91,
+  "en düsük: ": 32.72,
+  "en yuksek: ": 33.5,
+  "aofs: ": 32.97,
+  "hacim lot: ": 618379,
+  "hacim tl: ": 20387229.82
+},
+{
+  "_id": {
+    "$oid": "65ff31b1a20e5f46ee392b16"
+  },
+  "kod: ": "BNTAS",
+  "son: ": 15.69,
+  "fark%: ": -0.06,
+  "en düsük: ": 15.01,
+  "en yuksek: ": 16.16,
+  "aofs: ": 15.46,
+  "hacim lot: ": 3456684,
+  "hacim tl: ": 53429882.63
+},
+{
+  "_id": {
+    "$oid": "65ff31b1a20e5f46ee392b17"
+  },
+  "kod: ": "BOBET",
+  "son: ": 34.58,
+  "fark%: ": 0.29,
+  "en düsük: ": 34.06,
+  "en yuksek: ": 35.5,
+  "aofs: ": 34.68,
+  "hacim lot: ": 3201771,
+  "hacim tl: ": 111042825.42
+},
+{
+  "_id": {
+    "$oid": "65ff31b1a20e5f46ee392b18"
+  },
+  "kod: ": "BORLS",
+  "son: ": 35.22,
+  "fark%: ": 6.86,
+  "en düsük: ": 32.98,
+  "en yuksek: ": 36.24,
+  "aofs: ": 35.22,
+  "hacim lot: ": 8220968,
+  "hacim tl: ": 289530391.78
+},
+{
+  "_id": {
+    "$oid": "65ff31b2a20e5f46ee392b19"
+  },
+  "kod: ": "BORSK",
+  "son: ": 40.3,
+  "fark%: ": 1.77,
+  "en düsük: ": 39.24,
+  "en yuksek: ": 40.98,
+  "aofs: ": 40.07,
+  "hacim lot: ": 6450512,
+  "hacim tl: ": 258475960.38
+},
+{
+  "_id": {
+    "$oid": "65ff31b2a20e5f46ee392b1a"
+  },
+  "kod: ": "BOSSA",
+  "son: ": 10.23,
+  "fark%: ": -1.16,
+  "en düsük: ": 10.18,
+  "en yuksek: ": 10.5,
+  "aofs: ": 10.32,
+  "hacim lot: ": 500997,
+  "hacim tl: ": 5172251.56
+},
+{
+  "_id": {
+    "$oid": "65ff31b2a20e5f46ee392b1b"
+  },
+  "kod: ": "BRISA",
+  "son: ": 133.8,
+  "fark%: ": -3.6,
+  "en düsük: ": 133.4,
+  "en yuksek: ": 143,
+  "aofs: ": 137.38,
+  "hacim lot: ": 1412522,
+  "hacim tl: ": 194049602.6
+},
+{
+  "_id": {
+    "$oid": "65ff31b2a20e5f46ee392b1c"
+  },
+  "kod: ": "BRKO",
+  "son: ": 4.06,
+  "fark%: ": -1.69,
+  "en düsük: ": 4.06,
+  "en yuksek: ": 4.18,
+  "aofs: ": 4.13,
+  "hacim lot: ": 663884,
+  "hacim tl: ": 2740565.64
+},
+{
+  "_id": {
+    "$oid": "65ff31b2a20e5f46ee392b1d"
+  },
+  "kod: ": "BRKSN",
+  "son: ": 50.95,
+  "fark%: ": 6.23,
+  "en düsük: ": 47.16,
+  "en yuksek: ": 50.95,
+  "aofs: ": 49.42,
+  "hacim lot: ": 1410379,
+  "hacim tl: ": 69703764.05
+},
+{
+  "_id": {
+    "$oid": "65ff31b3a20e5f46ee392b1e"
+  },
+  "kod: ": "BRKVY",
+  "son: ": 215.1,
+  "fark%: ": -1.47,
+  "en düsük: ": 208,
+  "en yuksek: ": 225,
+  "aofs: ": 214.27,
+  "hacim lot: ": 121950,
+  "hacim tl: ": 26130033.4
+},
+{
+  "_id": {
+    "$oid": "65ff31b3a20e5f46ee392b1f"
+  },
+  "kod: ": "BRLSM",
+  "son: ": 27.3,
+  "fark%: ": -4.21,
+  "en düsük: ": 27,
+  "en yuksek: ": 28.78,
+  "aofs: ": 27.68,
+  "hacim lot: ": 5553310,
+  "hacim tl: ": 153714503.4
+},
+{
+  "_id": {
+    "$oid": "65ff31b3a20e5f46ee392b20"
+  },
+  "kod: ": "BRMEN",
+  "son: ": 7.46,
+  "fark%: ": 1.5,
+  "en düsük: ": 7.3,
+  "en yuksek: ": 7.7,
+  "aofs: ": 7.64,
+  "hacim lot: ": 305292,
+  "hacim tl: ": 2333529.93
+},
+{
+  "_id": {
+    "$oid": "65ff31b3a20e5f46ee392b21"
+  },
+  "kod: ": "BRSAN",
+  "son: ": 676,
+  "fark%: ": 4.32,
+  "en düsük: ": 671.5,
+  "en yuksek: ": 712.5,
+  "aofs: ": 691.54,
+  "hacim lot: ": 4678863,
+  "hacim tl: ": 3235634429.5
+},
+{
+  "_id": {
+    "$oid": "65ff31b3a20e5f46ee392b22"
+  },
+  "kod: ": "BRYAT",
+  "son: ": 3640,
+  "fark%: ": -2.54,
+  "en düsük: ": 3625,
+  "en yuksek: ": 3897.5,
+  "aofs: ": 3788.24,
+  "hacim lot: ": 223756,
+  "hacim tl: ": 847640725
+},
+{
+  "_id": {
+    "$oid": "65ff31b4a20e5f46ee392b23"
+  },
+  "kod: ": "BSOKE",
+  "son: ": 20.68,
+  "fark%: ": 0.78,
+  "en düsük: ": 19.97,
+  "en yuksek: ": 20.7,
+  "aofs: ": 20.33,
+  "hacim lot: ": 2386352,
+  "hacim tl: ": 48516570.21
+},
+{
+  "_id": {
+    "$oid": "65ff31b4a20e5f46ee392b24"
+  },
+  "kod: ": "BTCIM",
+  "son: ": 121.3,
+  "fark%: ": 1.08,
+  "en düsük: ": 118.5,
+  "en yuksek: ": 124,
+  "aofs: ": 120.74,
+  "hacim lot: ": 1397739,
+  "hacim tl: ": 168760369.2
+},
+{
+  "_id": {
+    "$oid": "65ff31b4a20e5f46ee392b25"
+  },
+  "kod: ": "BUCIM",
+  "son: ": 7.87,
+  "fark%: ": -0.63,
+  "en düsük: ": 7.84,
+  "en yuksek: ": 7.94,
+  "aofs: ": 7.89,
+  "hacim lot: ": 13250490,
+  "hacim tl: ": 104587076.1
+},
+{
+  "_id": {
+    "$oid": "65ff31b4a20e5f46ee392b26"
+  },
+  "kod: ": "BURCE",
+  "son: ": 173,
+  "fark%: ": -2.81,
+  "en düsük: ": 173,
+  "en yuksek: ": 181.4,
+  "aofs: ": 176.98,
+  "hacim lot: ": 226746,
+  "hacim tl: ": 40128852.1
+},
+{
+  "_id": {
+    "$oid": "65ff31b4a20e5f46ee392b27"
+  },
+  "kod: ": "BURVA",
+  "son: ": 153.9,
+  "fark%: ": -7.01,
+  "en düsük: ": 151.7,
+  "en yuksek: ": 163.4,
+  "aofs: ": 156.56,
+  "hacim lot: ": 188393,
+  "hacim tl: ": 29495315.9
+},
+{
+  "_id": {
+    "$oid": "65ff31b5a20e5f46ee392b28"
+  },
+  "kod: ": "BVSAN",
+  "son: ": 102,
+  "fark%: ": 1.09,
+  "en düsük: ": 101.9,
+  "en yuksek: ": 110.9,
+  "aofs: ": 106.47,
+  "hacim lot: ": 1691320,
+  "hacim tl: ": 180079711.2
+},
+{
+  "_id": {
+    "$oid": "65ff31b5a20e5f46ee392b29"
+  },
+  "kod: ": "BYDNR",
+  "son: ": 29,
+  "fark%: ": 0.69,
+  "en düsük: ": 28.72,
+  "en yuksek: ": 29.62,
+  "aofs: ": 29.19,
+  "hacim lot: ": 800285,
+  "hacim tl: ": 23361031.42
+},
+{
+  "_id": {
+    "$oid": "65ff31b5a20e5f46ee392b2a"
+  },
+  "kod: ": "CANTE",
+  "son: ": 16.81,
+  "fark%: ": -1.12,
+  "en düsük: ": 16.7,
+  "en yuksek: ": 17.2,
+  "aofs: ": 16.95,
+  "hacim lot: ": 11109452,
+  "hacim tl: ": 188280817.27
+},
+{
+  "_id": {
+    "$oid": "65ff31b5a20e5f46ee392b2b"
+  },
+  "kod: ": "CASA",
+  "son: ": 99.1,
+  "fark%: ": -3.97,
+  "en düsük: ": 99.1,
+  "en yuksek: ": 101.8,
+  "aofs: ": 99.77,
+  "hacim lot: ": 67811,
+  "hacim tl: ": 6765220.6
+},
+{
+  "_id": {
+    "$oid": "65ff31b5a20e5f46ee392b2c"
+  },
+  "kod: ": "CATES",
+  "son: ": 58.5,
+  "fark%: ": 1.12,
+  "en düsük: ": 57.1,
+  "en yuksek: ": 61.1,
+  "aofs: ": 59.05,
+  "hacim lot: ": 3319789,
+  "hacim tl: ": 196016764.7
+},
+{
+  "_id": {
+    "$oid": "65ff31b6a20e5f46ee392b2d"
+  },
+  "kod: ": "CCOLA",
+  "son: ": 580.5,
+  "fark%: ": -0.17,
+  "en düsük: ": 578,
+  "en yuksek: ": 598,
+  "aofs: ": 585.93,
+  "hacim lot: ": 985515,
+  "hacim tl: ": 577455435
+},
+{
+  "_id": {
+    "$oid": "65ff31b6a20e5f46ee392b2e"
+  },
+  "kod: ": "CELHA",
+  "son: ": 42.98,
+  "fark%: ": -0.05,
+  "en düsük: ": 41.9,
+  "en yuksek: ": 43.24,
+  "aofs: ": 42.66,
+  "hacim lot: ": 305230,
+  "hacim tl: ": 13021429.64
+},
+{
+  "_id": {
+    "$oid": "65ff31b6a20e5f46ee392b2f"
+  },
+  "kod: ": "CEMAS",
+  "son: ": 5.05,
+  "fark%: ": 1.2,
+  "en düsük: ": 5,
+  "en yuksek: ": 5.16,
+  "aofs: ": 5.08,
+  "hacim lot: ": 41532731,
+  "hacim tl: ": 211051581.25
+},
+{
+  "_id": {
+    "$oid": "65ff31b6a20e5f46ee392b30"
+  },
+  "kod: ": "CEMTS",
+  "son: ": 10.02,
+  "fark%: ": -2.34,
+  "en düsük: ": 9.98,
+  "en yuksek: ": 10.49,
+  "aofs: ": 10.18,
+  "hacim lot: ": 6372610,
+  "hacim tl: ": 64869213.02
+},
+{
+  "_id": {
+    "$oid": "65ff31b6a20e5f46ee392b31"
+  },
+  "kod: ": "CEOEM",
+  "son: ": 19.2,
+  "fark%: ": 1.05,
+  "en düsük: ": 18.67,
+  "en yuksek: ": 19.54,
+  "aofs: ": 18.99,
+  "hacim lot: ": 701243,
+  "hacim tl: ": 13316450.54
+},
+{
+  "_id": {
+    "$oid": "65ff31b7a20e5f46ee392b32"
+  },
+  "kod: ": "CIMSA",
+  "son: ": 32.14,
+  "fark%: ": 1.45,
+  "en düsük: ": 31.68,
+  "en yuksek: ": 32.78,
+  "aofs: ": 32.23,
+  "hacim lot: ": 8818938,
+  "hacim tl: ": 284231230.26
+},
+{
+  "_id": {
+    "$oid": "65ff31b7a20e5f46ee392b33"
+  },
+  "kod: ": "CLEBI",
+  "son: ": 1635,
+  "fark%: ": 3.09,
+  "en düsük: ": 1545,
+  "en yuksek: ": 1694,
+  "aofs: ": 1644.55,
+  "hacim lot: ": 388422,
+  "hacim tl: ": 638781028
+},
+{
+  "_id": {
+    "$oid": "65ff31b7a20e5f46ee392b34"
+  },
+  "kod: ": "CMBTN",
+  "son: ": 4210,
+  "fark%: ": 4.27,
+  "en düsük: ": 4020,
+  "en yuksek: ": 4250,
+  "aofs: ": 4166.16,
+  "hacim lot: ": 73063,
+  "hacim tl: ": 304392215
+},
+{
+  "_id": {
+    "$oid": "65ff31b7a20e5f46ee392b35"
+  },
+  "kod: ": "CMENT",
+  "son: ": 545,
+  "fark%: ": -4.47,
+  "en düsük: ": 545,
+  "en yuksek: ": 550.5,
+  "aofs: ": 550.08,
+  "hacim lot: ": 25797,
+  "hacim tl: ": 14190435.5
+},
+{
+  "_id": {
+    "$oid": "65ff31b7a20e5f46ee392b36"
+  },
+  "kod: ": "CONSE",
+  "son: ": 5.71,
+  "fark%: ": 0,
+  "en düsük: ": 5.68,
+  "en yuksek: ": 5.81,
+  "aofs: ": 5.74,
+  "hacim lot: ": 3888805,
+  "hacim tl: ": 22315750.33
+},
+{
+  "_id": {
+    "$oid": "65ff31b8a20e5f46ee392b37"
+  },
+  "kod: ": "COSMO",
+  "son: ": 139.5,
+  "fark%: ": -2.11,
+  "en düsük: ": 137.5,
+  "en yuksek: ": 144.6,
+  "aofs: ": 140.64,
+  "hacim lot: ": 166247,
+  "hacim tl: ": 23381481.1
+},
+{
+  "_id": {
+    "$oid": "65ff31b8a20e5f46ee392b38"
+  },
+  "kod: ": "CRDFA",
+  "son: ": 7.37,
+  "fark%: ": -3.41,
+  "en düsük: ": 7.33,
+  "en yuksek: ": 7.76,
+  "aofs: ": 7.54,
+  "hacim lot: ": 6869140,
+  "hacim tl: ": 51794304.3
+},
+{
+  "_id": {
+    "$oid": "65ff31b8a20e5f46ee392b39"
+  },
+  "kod: ": "CRFSA",
+  "son: ": 161.7,
+  "fark%: ": 5.69,
+  "en düsük: ": 153.2,
+  "en yuksek: ": 162.9,
+  "aofs: ": 157.21,
+  "hacim lot: ": 823845,
+  "hacim tl: ": 129519362.5
+},
+{
+  "_id": {
+    "$oid": "65ff31b8a20e5f46ee392b3a"
+  },
+  "kod: ": "CUSAN",
+  "son: ": 24.7,
+  "fark%: ": -6.01,
+  "en düsük: ": 24.34,
+  "en yuksek: ": 26.76,
+  "aofs: ": 24.98,
+  "hacim lot: ": 3279884,
+  "hacim tl: ": 81929482.8
+},
+{
+  "_id": {
+    "$oid": "65ff31b8a20e5f46ee392b3b"
+  },
+  "kod: ": "CVKMD",
+  "son: ": 427.75,
+  "fark%: ": 4.71,
+  "en düsük: ": 409,
+  "en yuksek: ": 428.75,
+  "aofs: ": 419.6,
+  "hacim lot: ": 551569,
+  "hacim tl: ": 231438543
+},
+{
+  "_id": {
+    "$oid": "65ff31b9a20e5f46ee392b3c"
+  },
+  "kod: ": "CWENE",
+  "son: ": 272,
+  "fark%: ": 0.93,
+  "en düsük: ": 269.75,
+  "en yuksek: ": 277.25,
+  "aofs: ": 273.06,
+  "hacim lot: ": 899976,
+  "hacim tl: ": 245745570.25
+},
+{
+  "_id": {
+    "$oid": "65ff31b9a20e5f46ee392b3d"
+  },
+  "kod: ": "DAGHL",
+  "son: ": 17.44,
+  "fark%: ": -2.41,
+  "en düsük: ": 16.16,
+  "en yuksek: ": 17.87,
+  "aofs: ": 17.27,
+  "hacim lot: ": 984707,
+  "hacim tl: ": 17001805.93
+},
+{
+  "_id": {
+    "$oid": "65ff31b9a20e5f46ee392b3e"
+  },
+  "kod: ": "DAGI",
+  "son: ": 7.9,
+  "fark%: ": -0.75,
+  "en düsük: ": 7.75,
+  "en yuksek: ": 8.07,
+  "aofs: ": 7.93,
+  "hacim lot: ": 951289,
+  "hacim tl: ": 7547418.51
+},
+{
+  "_id": {
+    "$oid": "65ff31b9a20e5f46ee392b3f"
+  },
+  "kod: ": "DAPGM",
+  "son: ": 31.2,
+  "fark%: ": 0,
+  "en düsük: ": 30.22,
+  "en yuksek: ": 33.98,
+  "aofs: ": 32.04,
+  "hacim lot: ": 11898258,
+  "hacim tl: ": 381224155.18
+},
+{
+  "_id": {
+    "$oid": "65ff31b9a20e5f46ee392b40"
+  },
+  "kod: ": "DARDL",
+  "son: ": 6.46,
+  "fark%: ": -0.77,
+  "en düsük: ": 6.4,
+  "en yuksek: ": 6.61,
+  "aofs: ": 6.5,
+  "hacim lot: ": 5020739,
+  "hacim tl: ": 32648529.83
+},
+{
+  "_id": {
+    "$oid": "65ff31baa20e5f46ee392b41"
+  },
+  "kod: ": "DENGE",
+  "son: ": 2.92,
+  "fark%: ": -2.34,
+  "en düsük: ": 2.87,
+  "en yuksek: ": 3.01,
+  "aofs: ": 2.93,
+  "hacim lot: ": 13958788,
+  "hacim tl: ": 40960001.32
+},
+{
+  "_id": {
+    "$oid": "65ff31baa20e5f46ee392b42"
+  },
+  "kod: ": "DERHL",
+  "son: ": 11.53,
+  "fark%: ": 9.91,
+  "en düsük: ": 10.56,
+  "en yuksek: ": 11.53,
+  "aofs: ": 11.17,
+  "hacim lot: ": 8699318,
+  "hacim tl: ": 97178580.32
+},
+{
+  "_id": {
+    "$oid": "65ff31baa20e5f46ee392b43"
+  },
+  "kod: ": "DERIM",
+  "son: ": 29,
+  "fark%: ": -1.63,
+  "en düsük: ": 27.78,
+  "en yuksek: ": 29.48,
+  "aofs: ": 28.57,
+  "hacim lot: ": 329732,
+  "hacim tl: ": 9420795.16
+},
+{
+  "_id": {
+    "$oid": "65ff31baa20e5f46ee392b44"
+  },
+  "kod: ": "DESA",
+  "son: ": 23.5,
+  "fark%: ": -0.42,
+  "en düsük: ": 23.24,
+  "en yuksek: ": 24.28,
+  "aofs: ": 23.8,
+  "hacim lot: ": 910384,
+  "hacim tl: ": 21664855.22
+},
+{
+  "_id": {
+    "$oid": "65ff31baa20e5f46ee392b45"
+  },
+  "kod: ": "DESPC",
+  "son: ": 63.8,
+  "fark%: ": 10,
+  "en düsük: ": 59.1,
+  "en yuksek: ": 63.8,
+  "aofs: ": 63.43,
+  "hacim lot: ": 860860,
+  "hacim tl: ": 54599931
+},
+{
+  "_id": {
+    "$oid": "65ff31bba20e5f46ee392b46"
+  },
+  "kod: ": "DEVA",
+  "son: ": 77,
+  "fark%: ": 0.65,
+  "en düsük: ": 76.5,
+  "en yuksek: ": 78.2,
+  "aofs: ": 77.25,
+  "hacim lot: ": 571478,
+  "hacim tl: ": 44146705.05
+},
+{
+  "_id": {
+    "$oid": "65ff31bba20e5f46ee392b47"
+  },
+  "kod: ": "DGATE",
+  "son: ": 49.38,
+  "fark%: ": -3.18,
+  "en düsük: ": 46.52,
+  "en yuksek: ": 54,
+  "aofs: ": 51.74,
+  "hacim lot: ": 627491,
+  "hacim tl: ": 32466750.34
+},
+{
+  "_id": {
+    "$oid": "65ff31bba20e5f46ee392b48"
+  },
+  "kod: ": "DGGYO",
+  "son: ": 34.14,
+  "fark%: ": 0.35,
+  "en düsük: ": 32.78,
+  "en yuksek: ": 34.9,
+  "aofs: ": 34.09,
+  "hacim lot: ": 574407,
+  "hacim tl: ": 19578643.14
+},
+{
+  "_id": {
+    "$oid": "65ff31bba20e5f46ee392b49"
+  },
+  "kod: ": "DGNMO",
+  "son: ": 11.05,
+  "fark%: ": -1.69,
+  "en düsük: ": 11.02,
+  "en yuksek: ": 11.34,
+  "aofs: ": 11.17,
+  "hacim lot: ": 3190298,
+  "hacim tl: ": 35623820.2
+},
+{
+  "_id": {
+    "$oid": "65ff31bba20e5f46ee392b4a"
+  },
+  "kod: ": "DIRIT",
+  "son: ": 16.03,
+  "fark%: ": -2.85,
+  "en düsük: ": 15.69,
+  "en yuksek: ": 16.2,
+  "aofs: ": 15.8,
+  "hacim lot: ": 153647,
+  "hacim tl: ": 2428252.59
+},
+{
+  "_id": {
+    "$oid": "65ff31bca20e5f46ee392b4b"
+  },
+  "kod: ": "DITAS",
+  "son: ": 18.04,
+  "fark%: ": -1.9,
+  "en düsük: ": 17.78,
+  "en yuksek: ": 19.21,
+  "aofs: ": 18.45,
+  "hacim lot: ": 641439,
+  "hacim tl: ": 11832198.55
+},
+{
+  "_id": {
+    "$oid": "65ff31bca20e5f46ee392b4c"
+  },
+  "kod: ": "DMRGD",
+  "son: ": 14.01,
+  "fark%: ": -1.2,
+  "en düsük: ": 13.93,
+  "en yuksek: ": 14.45,
+  "aofs: ": 14.12,
+  "hacim lot: ": 3072183,
+  "hacim tl: ": 43386273.54
+},
+{
+  "_id": {
+    "$oid": "65ff31bca20e5f46ee392b4d"
+  },
+  "kod: ": "DMSAS",
+  "son: ": 5.83,
+  "fark%: ": 0.52,
+  "en düsük: ": 5.79,
+  "en yuksek: ": 6.04,
+  "aofs: ": 5.89,
+  "hacim lot: ": 2911900,
+  "hacim tl: ": 17162004.88
+},
+{
+  "_id": {
+    "$oid": "65ff31bca20e5f46ee392b4e"
+  },
+  "kod: ": "DNISI",
+  "son: ": 16.8,
+  "fark%: ": -2.55,
+  "en düsük: ": 16.76,
+  "en yuksek: ": 17.55,
+  "aofs: ": 17.05,
+  "hacim lot: ": 808307,
+  "hacim tl: ": 13784296.13
+},
+{
+  "_id": {
+    "$oid": "65ff31bca20e5f46ee392b4f"
+  },
+  "kod: ": "DOAS",
+  "son: ": 326.75,
+  "fark%: ": 4.31,
+  "en düsük: ": 313.25,
+  "en yuksek: ": 327.75,
+  "aofs: ": 322.22,
+  "hacim lot: ": 5482454,
+  "hacim tl: ": 1766571039
+},
+{
+  "_id": {
+    "$oid": "65ff31bda20e5f46ee392b50"
+  },
+  "kod: ": "DOBUR",
+  "son: ": 195.5,
+  "fark%: ": -3.22,
+  "en düsük: ": 184.9,
+  "en yuksek: ": 202,
+  "aofs: ": 193.44,
+  "hacim lot: ": 199276,
+  "hacim tl: ": 38547799.4
+},
+{
+  "_id": {
+    "$oid": "65ff31bda20e5f46ee392b51"
+  },
+  "kod: ": "DOCO",
+  "son: ": 4972.5,
+  "fark%: ": 3.32,
+  "en düsük: ": 4810,
+  "en yuksek: ": 4972.5,
+  "aofs: ": 4881.98,
+  "hacim lot: ": 18283,
+  "hacim tl: ": 89257187.5
+},
+{
+  "_id": {
+    "$oid": "65ff31bda20e5f46ee392b52"
+  },
+  "kod: ": "DOFER",
+  "son: ": 41.58,
+  "fark%: ": 2.62,
+  "en düsük: ": 40.5,
+  "en yuksek: ": 44.56,
+  "aofs: ": 43.49,
+  "hacim lot: ": 6205460,
+  "hacim tl: ": 269871701.58
+},
+{
+  "_id": {
+    "$oid": "65ff31bda20e5f46ee392b53"
+  },
+  "kod: ": "DOGUB",
+  "son: ": 22.24,
+  "fark%: ": -0.45,
+  "en düsük: ": 22.08,
+  "en yuksek: ": 23.8,
+  "aofs: ": 22.96,
+  "hacim lot: ": 1932176,
+  "hacim tl: ": 44371033.46
+},
+{
+  "_id": {
+    "$oid": "65ff31bda20e5f46ee392b54"
+  },
+  "kod: ": "DOHOL",
+  "son: ": 12.98,
+  "fark%: ": 1.17,
+  "en düsük: ": 12.75,
+  "en yuksek: ": 13.3,
+  "aofs: ": 13.08,
+  "hacim lot: ": 59222873,
+  "hacim tl: ": 774479797.9
+},
+{
+  "_id": {
+    "$oid": "65ff31bda20e5f46ee392b55"
+  },
+  "kod: ": "DOKTA",
+  "son: ": 33.48,
+  "fark%: ": -0.95,
+  "en düsük: ": 33.16,
+  "en yuksek: ": 34.06,
+  "aofs: ": 33.66,
+  "hacim lot: ": 492316,
+  "hacim tl: ": 16571120.02
+},
+{
+  "_id": {
+    "$oid": "65ff31bea20e5f46ee392b56"
+  },
+  "kod: ": "DURDO",
+  "son: ": 16.26,
+  "fark%: ": -2.75,
+  "en düsük: ": 15.91,
+  "en yuksek: ": 16.74,
+  "aofs: ": 16.35,
+  "hacim lot: ": 382730,
+  "hacim tl: ": 6259087.25
+},
+{
+  "_id": {
+    "$oid": "65ff31bea20e5f46ee392b57"
+  },
+  "kod: ": "DYOBY",
+  "son: ": 35.46,
+  "fark%: ": 5.72,
+  "en düsük: ": 33.6,
+  "en yuksek: ": 36.88,
+  "aofs: ": 35.67,
+  "hacim lot: ": 3161967,
+  "hacim tl: ": 112779497.72
+},
+{
+  "_id": {
+    "$oid": "65ff31bea20e5f46ee392b58"
+  },
+  "kod: ": "DZGYO",
+  "son: ": 4.73,
+  "fark%: ": -0.63,
+  "en düsük: ": 4.54,
+  "en yuksek: ": 4.78,
+  "aofs: ": 4.72,
+  "hacim lot: ": 1756429,
+  "hacim tl: ": 8281832.98
+},
+{
+  "_id": {
+    "$oid": "65ff31bea20e5f46ee392b59"
+  },
+  "kod: ": "EBEBK",
+  "son: ": 55.7,
+  "fark%: ": -3.88,
+  "en düsük: ": 54.95,
+  "en yuksek: ": 59.05,
+  "aofs: ": 56.34,
+  "hacim lot: ": 2793651,
+  "hacim tl: ": 157395555.25
+},
+{
+  "_id": {
+    "$oid": "65ff31bea20e5f46ee392b5a"
+  },
+  "kod: ": "ECILC",
+  "son: ": 54.5,
+  "fark%: ": 0.46,
+  "en düsük: ": 53.95,
+  "en yuksek: ": 55.35,
+  "aofs: ": 54.75,
+  "hacim lot: ": 6277393,
+  "hacim tl: ": 343676190.95
+},
+{
+  "_id": {
+    "$oid": "65ff31bfa20e5f46ee392b5b"
+  },
+  "kod: ": "ECZYT",
+  "son: ": 240.4,
+  "fark%: ": 0.71,
+  "en düsük: ": 237.1,
+  "en yuksek: ": 244.5,
+  "aofs: ": 240.61,
+  "hacim lot: ": 364145,
+  "hacim tl: ": 87618013.4
+},
+{
+  "_id": {
+    "$oid": "65ff31bfa20e5f46ee392b5c"
+  },
+  "kod: ": "EDATA",
+  "son: ": 26.06,
+  "fark%: ": 1.88,
+  "en düsük: ": 25.46,
+  "en yuksek: ": 27.62,
+  "aofs: ": 26.45,
+  "hacim lot: ": 6637938,
+  "hacim tl: ": 175537110.88
+},
+{
+  "_id": {
+    "$oid": "65ff31bfa20e5f46ee392b5d"
+  },
+  "kod: ": "EDIP",
+  "son: ": 16.38,
+  "fark%: ": 0.99,
+  "en düsük: ": 16.16,
+  "en yuksek: ": 17.84,
+  "aofs: ": 16.95,
+  "hacim lot: ": 5080465,
+  "hacim tl: ": 86099994.53
+},
+{
+  "_id": {
+    "$oid": "65ff31bfa20e5f46ee392b5e"
+  },
+  "kod: ": "EGEEN",
+  "son: ": 15802.5,
+  "fark%: ": 6.06,
+  "en düsük: ": 15057.5,
+  "en yuksek: ": 16217.5,
+  "aofs: ": 15800.62,
+  "hacim lot: ": 47165,
+  "hacim tl: ": 745236230
+},
+{
+  "_id": {
+    "$oid": "65ff31bfa20e5f46ee392b5f"
+  },
+  "kod: ": "EGEPO",
+  "son: ": 18.98,
+  "fark%: ": 3.43,
+  "en düsük: ": 18.5,
+  "en yuksek: ": 20.18,
+  "aofs: ": 19.4,
+  "hacim lot: ": 3445200,
+  "hacim tl: ": 66840409.22
+},
+{
+  "_id": {
+    "$oid": "65ff31c0a20e5f46ee392b60"
+  },
+  "kod: ": "EGGUB",
+  "son: ": 44.78,
+  "fark%: ": -2.01,
+  "en düsük: ": 44.5,
+  "en yuksek: ": 46.24,
+  "aofs: ": 45.37,
+  "hacim lot: ": 454628,
+  "hacim tl: ": 20626818.48
+},
+{
+  "_id": {
+    "$oid": "65ff31c0a20e5f46ee392b61"
+  },
+  "kod: ": "EGPRO",
+  "son: ": 222.2,
+  "fark%: ": 2.4,
+  "en düsük: ": 218,
+  "en yuksek: ": 224.4,
+  "aofs: ": 220.91,
+  "hacim lot: ": 360775,
+  "hacim tl: ": 79700310.1
+},
+{
+  "_id": {
+    "$oid": "65ff31c0a20e5f46ee392b62"
+  },
+  "kod: ": "EGSER",
+  "son: ": 3.74,
+  "fark%: ": -0.27,
+  "en düsük: ": 3.71,
+  "en yuksek: ": 3.8,
+  "aofs: ": 3.75,
+  "hacim lot: ": 2153897,
+  "hacim tl: ": 8081751.94
+},
+{
+  "_id": {
+    "$oid": "65ff31c0a20e5f46ee392b63"
+  },
+  "kod: ": "EKGYO",
+  "son: ": 10.03,
+  "fark%: ": -4.57,
+  "en düsük: ": 10.03,
+  "en yuksek: ": 10.54,
+  "aofs: ": 10.27,
+  "hacim lot: ": 144260449,
+  "hacim tl: ": 1481207103.97
+},
+{
+  "_id": {
+    "$oid": "65ff31c0a20e5f46ee392b64"
+  },
+  "kod: ": "EKIZ",
+  "son: ": 74.5,
+  "fark%: ": -5.34,
+  "en düsük: ": 70.85,
+  "en yuksek: ": 76.65,
+  "aofs: ": 72.79,
+  "hacim lot: ": 84125,
+  "hacim tl: ": 6123315.55
+},
+{
+  "_id": {
+    "$oid": "65ff31c1a20e5f46ee392b65"
+  },
+  "kod: ": "EKOS",
+  "son: ": 48.36,
+  "fark%: ": 0.5,
+  "en düsük: ": 47.4,
+  "en yuksek: ": 48.8,
+  "aofs: ": 48.03,
+  "hacim lot: ": 4699314,
+  "hacim tl: ": 225715288.32
+},
+{
+  "_id": {
+    "$oid": "65ff31c1a20e5f46ee392b66"
+  },
+  "kod: ": "EKSUN",
+  "son: ": 64.8,
+  "fark%: ": 5.37,
+  "en düsük: ": 61.5,
+  "en yuksek: ": 67.65,
+  "aofs: ": 64.42,
+  "hacim lot: ": 2265374,
+  "hacim tl: ": 145923340.6
+},
+{
+  "_id": {
+    "$oid": "65ff31c1a20e5f46ee392b67"
+  },
+  "kod: ": "ELITE",
+  "son: ": 50.1,
+  "fark%: ": -5.92,
+  "en düsük: ": 49.62,
+  "en yuksek: ": 53.5,
+  "aofs: ": 51.15,
+  "hacim lot: ": 2143981,
+  "hacim tl: ": 109653415.42
+},
+{
+  "_id": {
+    "$oid": "65ff31c1a20e5f46ee392b68"
+  },
+  "kod: ": "EMKEL",
+  "son: ": 16.11,
+  "fark%: ": -3.42,
+  "en düsük: ": 15.9,
+  "en yuksek: ": 16.96,
+  "aofs: ": 16.22,
+  "hacim lot: ": 4385454,
+  "hacim tl: ": 71134691.89
+},
+{
+  "_id": {
+    "$oid": "65ff31c1a20e5f46ee392b69"
+  },
+  "kod: ": "EMNIS",
+  "son: ": 263.25,
+  "fark%: ": 4.67,
+  "en düsük: ": 251.5,
+  "en yuksek: ": 263.25,
+  "aofs: ": 254.16,
+  "hacim lot: ": 18765,
+  "hacim tl: ": 4769319.25
+},
+{
+  "_id": {
+    "$oid": "65ff31c2a20e5f46ee392b6a"
+  },
+  "kod: ": "ENERY",
+  "son: ": 173.1,
+  "fark%: ": 6.65,
+  "en düsük: ": 162.5,
+  "en yuksek: ": 176.4,
+  "aofs: ": 168.97,
+  "hacim lot: ": 2666776,
+  "hacim tl: ": 450598725
+},
+{
+  "_id": {
+    "$oid": "65ff31c2a20e5f46ee392b6b"
+  },
+  "kod: ": "ENJSA",
+  "son: ": 57.35,
+  "fark%: ": -0.69,
+  "en düsük: ": 57.2,
+  "en yuksek: ": 58.6,
+  "aofs: ": 57.9,
+  "hacim lot: ": 5866135,
+  "hacim tl: ": 339652624.7
+},
+{
+  "_id": {
+    "$oid": "65ff31c2a20e5f46ee392b6c"
+  },
+  "kod: ": "ENKAI",
+  "son: ": 35.72,
+  "fark%: ": 1.08,
+  "en düsük: ": 35.38,
+  "en yuksek: ": 36.22,
+  "aofs: ": 35.8,
+  "hacim lot: ": 29250546,
+  "hacim tl: ": 1047384888.44
+},
+{
+  "_id": {
+    "$oid": "65ff31c2a20e5f46ee392b6d"
+  },
+  "kod: ": "ENSRI",
+  "son: ": 33.3,
+  "fark%: ": -10,
+  "en düsük: ": 33.3,
+  "en yuksek: ": 36.98,
+  "aofs: ": 34.37,
+  "hacim lot: ": 5680797,
+  "hacim tl: ": 195237838.2
+},
+{
+  "_id": {
+    "$oid": "65ff31c2a20e5f46ee392b6e"
+  },
+  "kod: ": "EPLAS",
+  "son: ": 6.02,
+  "fark%: ": -1.15,
+  "en düsük: ": 6,
+  "en yuksek: ": 6.15,
+  "aofs: ": 6.06,
+  "hacim lot: ": 2070525,
+  "hacim tl: ": 12555487.44
+},
+{
+  "_id": {
+    "$oid": "65ff31c3a20e5f46ee392b6f"
+  },
+  "kod: ": "ERBOS",
+  "son: ": 292.5,
+  "fark%: ": -1.18,
+  "en düsük: ": 286,
+  "en yuksek: ": 298.75,
+  "aofs: ": 292.09,
+  "hacim lot: ": 301145,
+  "hacim tl: ": 87960933.25
+},
+{
+  "_id": {
+    "$oid": "65ff31c3a20e5f46ee392b70"
+  },
+  "kod: ": "ERCB",
+  "son: ": 161.5,
+  "fark%: ": -1.22,
+  "en düsük: ": 160.4,
+  "en yuksek: ": 167.3,
+  "aofs: ": 163.8,
+  "hacim lot: ": 773829,
+  "hacim tl: ": 126753510
+},
+{
+  "_id": {
+    "$oid": "65ff31c3a20e5f46ee392b71"
+  },
+  "kod: ": "EREGL",
+  "son: ": 43.3,
+  "fark%: ": -1.23,
+  "en düsük: ": 43.18,
+  "en yuksek: ": 44.24,
+  "aofs: ": 43.81,
+  "hacim lot: ": 78392992,
+  "hacim tl: ": 3433990601.5
+},
+{
+  "_id": {
+    "$oid": "65ff31c3a20e5f46ee392b72"
+  },
+  "kod: ": "ERSU",
+  "son: ": 34.24,
+  "fark%: ": 9.96,
+  "en düsük: ": 29.58,
+  "en yuksek: ": 34.24,
+  "aofs: ": 33.22,
+  "hacim lot: ": 3279784,
+  "hacim tl: ": 108948864.64
+},
+{
+  "_id": {
+    "$oid": "65ff31c3a20e5f46ee392b73"
+  },
+  "kod: ": "ESCAR",
+  "son: ": 231.9,
+  "fark%: ": -2.97,
+  "en düsük: ": 228.3,
+  "en yuksek: ": 243.9,
+  "aofs: ": 235.65,
+  "hacim lot: ": 402053,
+  "hacim tl: ": 94743138.2
+},
+{
+  "_id": {
+    "$oid": "65ff31c4a20e5f46ee392b74"
+  },
+  "kod: ": "ESCOM",
+  "son: ": 79.15,
+  "fark%: ": -4.35,
+  "en düsük: ": 79,
+  "en yuksek: ": 85.5,
+  "aofs: ": 81.46,
+  "hacim lot: ": 641653,
+  "hacim tl: ": 52268233
+},
+{
+  "_id": {
+    "$oid": "65ff31c4a20e5f46ee392b75"
+  },
+  "kod: ": "ESEN",
+  "son: ": 19.8,
+  "fark%: ": -0.55,
+  "en düsük: ": 19.75,
+  "en yuksek: ": 20.42,
+  "aofs: ": 20.01,
+  "hacim lot: ": 2019111,
+  "hacim tl: ": 40393207.34
+},
+{
+  "_id": {
+    "$oid": "65ff31c4a20e5f46ee392b76"
+  },
+  "kod: ": "ETILR",
+  "son: ": 17,
+  "fark%: ": 3.79,
+  "en düsük: ": 16.1,
+  "en yuksek: ": 17.5,
+  "aofs: ": 16.56,
+  "hacim lot: ": 1616507,
+  "hacim tl: ": 26770391.95
+},
+{
+  "_id": {
+    "$oid": "65ff31c4a20e5f46ee392b77"
+  },
+  "kod: ": "ETYAT",
+  "son: ": 15.4,
+  "fark%: ": -4.64,
+  "en düsük: ": 15.3,
+  "en yuksek: ": 16.39,
+  "aofs: ": 15.69,
+  "hacim lot: ": 531577,
+  "hacim tl: ": 8342623.96
+},
+{
+  "_id": {
+    "$oid": "65ff31c4a20e5f46ee392b78"
+  },
+  "kod: ": "EUHOL",
+  "son: ": 3.34,
+  "fark%: ": -4.3,
+  "en düsük: ": 3.31,
+  "en yuksek: ": 3.49,
+  "aofs: ": 3.39,
+  "hacim lot: ": 17652495,
+  "hacim tl: ": 59914563.59
+},
+{
+  "_id": {
+    "$oid": "65ff31c5a20e5f46ee392b79"
+  },
+  "kod: ": "EUKYO",
+  "son: ": 21.62,
+  "fark%: ": 3.64,
+  "en düsük: ": 21.62,
+  "en yuksek: ": 22,
+  "aofs: ": 21.92,
+  "hacim lot: ": 128977,
+  "hacim tl: ": 2827268.34
+},
+{
+  "_id": {
+    "$oid": "65ff31c5a20e5f46ee392b7a"
+  },
+  "kod: ": "EUPWR",
+  "son: ": 150.1,
+  "fark%: ": 0.74,
+  "en düsük: ": 148.3,
+  "en yuksek: ": 152.6,
+  "aofs: ": 150.07,
+  "hacim lot: ": 2132106,
+  "hacim tl: ": 319960452.2
+},
+{
+  "_id": {
+    "$oid": "65ff31c5a20e5f46ee392b7b"
+  },
+  "kod: ": "EUREN",
+  "son: ": 16.05,
+  "fark%: ": -0.62,
+  "en düsük: ": 15.87,
+  "en yuksek: ": 16.73,
+  "aofs: ": 16.34,
+  "hacim lot: ": 16116937,
+  "hacim tl: ": 263401520.01
+},
+{
+  "_id": {
+    "$oid": "65ff31c5a20e5f46ee392b7c"
+  },
+  "kod: ": "EUYO",
+  "son: ": 17.91,
+  "fark%: ": -7.25,
+  "en düsük: ": 17.38,
+  "en yuksek: ": 18.76,
+  "aofs: ": 17.88,
+  "hacim lot: ": 1636235,
+  "hacim tl: ": 29258494.91
+},
+{
+  "_id": {
+    "$oid": "65ff31c5a20e5f46ee392b7d"
+  },
+  "kod: ": "EYGYO",
+  "son: ": 10.57,
+  "fark%: ": 0.09,
+  "en düsük: ": 10.51,
+  "en yuksek: ": 11,
+  "aofs: ": 10.71,
+  "hacim lot: ": 2775054,
+  "hacim tl: ": 29712164.18
+},
+{
+  "_id": {
+    "$oid": "65ff31c6a20e5f46ee392b7e"
+  },
+  "kod: ": "FADE",
+  "son: ": 16.71,
+  "fark%: ": 0.66,
+  "en düsük: ": 16.62,
+  "en yuksek: ": 17.01,
+  "aofs: ": 16.8,
+  "hacim lot: ": 1518297,
+  "hacim tl: ": 25513157.67
+},
+{
+  "_id": {
+    "$oid": "65ff31c6a20e5f46ee392b7f"
+  },
+  "kod: ": "FENER",
+  "son: ": 83.2,
+  "fark%: ": -2.8,
+  "en düsük: ": 82.9,
+  "en yuksek: ": 87.05,
+  "aofs: ": 84.6,
+  "hacim lot: ": 1205061,
+  "hacim tl: ": 101947887.8
+},
+{
+  "_id": {
+    "$oid": "65ff31c6a20e5f46ee392b80"
+  },
+  "kod: ": "FLAP",
+  "son: ": 12.41,
+  "fark%: ": -3.42,
+  "en düsük: ": 12.32,
+  "en yuksek: ": 13.1,
+  "aofs: ": 12.71,
+  "hacim lot: ": 8518060,
+  "hacim tl: ": 108284169.71
+},
+{
+  "_id": {
+    "$oid": "65ff31c6a20e5f46ee392b81"
+  },
+  "kod: ": "FMIZP",
+  "son: ": 340.5,
+  "fark%: ": 0.37,
+  "en düsük: ": 330,
+  "en yuksek: ": 352.5,
+  "aofs: ": 340.73,
+  "hacim lot: ": 474775,
+  "hacim tl: ": 161770810
+},
+{
+  "_id": {
+    "$oid": "65ff31c6a20e5f46ee392b82"
+  },
+  "kod: ": "FONET",
+  "son: ": 24.44,
+  "fark%: ": 6.35,
+  "en düsük: ": 21.5,
+  "en yuksek: ": 24.98,
+  "aofs: ": 23.43,
+  "hacim lot: ": 13694900,
+  "hacim tl: ": 320896554.98
+},
+{
+  "_id": {
+    "$oid": "65ff31c7a20e5f46ee392b83"
+  },
+  "kod: ": "FORMT",
+  "son: ": 2.69,
+  "fark%: ": -1.82,
+  "en düsük: ": 2.66,
+  "en yuksek: ": 2.76,
+  "aofs: ": 2.71,
+  "hacim lot: ": 21445203,
+  "hacim tl: ": 58129947.11
+},
+{
+  "_id": {
+    "$oid": "65ff31c7a20e5f46ee392b84"
+  },
+  "kod: ": "FORTE",
+  "son: ": 74.55,
+  "fark%: ": -6.99,
+  "en düsük: ": 74.25,
+  "en yuksek: ": 84.9,
+  "aofs: ": 77.85,
+  "hacim lot: ": 3338682,
+  "hacim tl: ": 259917916.3
+},
+{
+  "_id": {
+    "$oid": "65ff31c7a20e5f46ee392b85"
+  },
+  "kod: ": "FRIGO",
+  "son: ": 7.63,
+  "fark%: ": -2.68,
+  "en düsük: ": 7.58,
+  "en yuksek: ": 7.95,
+  "aofs: ": 7.72,
+  "hacim lot: ": 1916535,
+  "hacim tl: ": 14796137.61
+},
+{
+  "_id": {
+    "$oid": "65ff31c7a20e5f46ee392b86"
+  },
+  "kod: ": "FROTO",
+  "son: ": 1144,
+  "fark%: ": -5.22,
+  "en düsük: ": 1130,
+  "en yuksek: ": 1206,
+  "aofs: ": 1168.3,
+  "hacim lot: ": 1091756,
+  "hacim tl: ": 1275495748
+},
+{
+  "_id": {
+    "$oid": "65ff31c7a20e5f46ee392b87"
+  },
+  "kod: ": "FZLGY",
+  "son: ": 12.1,
+  "fark%: ": -0.08,
+  "en düsük: ": 12.04,
+  "en yuksek: ": 12.27,
+  "aofs: ": 12.14,
+  "hacim lot: ": 2866923,
+  "hacim tl: ": 34797427.66
+},
+{
+  "_id": {
+    "$oid": "65ff31c8a20e5f46ee392b88"
+  },
+  "kod: ": "GARAN",
+  "son: ": 68.8,
+  "fark%: ": 1.25,
+  "en düsük: ": 67.6,
+  "en yuksek: ": 70.5,
+  "aofs: ": 68.92,
+  "hacim lot: ": 40240747,
+  "hacim tl: ": 2773211212.85
+},
+{
+  "_id": {
+    "$oid": "65ff31c8a20e5f46ee392b89"
+  },
+  "kod: ": "GARFA",
+  "son: ": 191.5,
+  "fark%: ": -5.43,
+  "en düsük: ": 184.5,
+  "en yuksek: ": 202,
+  "aofs: ": 192.59,
+  "hacim lot: ": 495643,
+  "hacim tl: ": 95456038.9
+},
+{
+  "_id": {
+    "$oid": "65ff31c8a20e5f46ee392b8a"
+  },
+  "kod: ": "GEDIK",
+  "son: ": 13.86,
+  "fark%: ": 0.65,
+  "en düsük: ": 13.74,
+  "en yuksek: ": 14.06,
+  "aofs: ": 13.89,
+  "hacim lot: ": 1172525,
+  "hacim tl: ": 16288105.42
+},
+{
+  "_id": {
+    "$oid": "65ff31c8a20e5f46ee392b8b"
+  },
+  "kod: ": "GEDZA",
+  "son: ": 26.84,
+  "fark%: ": -2.75,
+  "en düsük: ": 26.5,
+  "en yuksek: ": 27.82,
+  "aofs: ": 27.09,
+  "hacim lot: ": 797795,
+  "hacim tl: ": 21611801.76
+},
+{
+  "_id": {
+    "$oid": "65ff31c8a20e5f46ee392b8c"
+  },
+  "kod: ": "GENIL",
+  "son: ": 73,
+  "fark%: ": -2.99,
+  "en düsük: ": 70.25,
+  "en yuksek: ": 76.35,
+  "aofs: ": 72.84,
+  "hacim lot: ": 2175474,
+  "hacim tl: ": 158452655.1
+},
+{
+  "_id": {
+    "$oid": "65ff31c8a20e5f46ee392b8d"
+  },
+  "kod: ": "GENTS",
+  "son: ": 9.89,
+  "fark%: ": -3.51,
+  "en düsük: ": 9.81,
+  "en yuksek: ": 10.35,
+  "aofs: ": 10,
+  "hacim lot: ": 1737630,
+  "hacim tl: ": 17367271.53
+},
+{
+  "_id": {
+    "$oid": "65ff31c9a20e5f46ee392b8e"
+  },
+  "kod: ": "GEREL",
+  "son: ": 39.6,
+  "fark%: ": -3.27,
+  "en düsük: ": 39.56,
+  "en yuksek: ": 42.5,
+  "aofs: ": 40.52,
+  "hacim lot: ": 8410479,
+  "hacim tl: ": 340762822.98
+},
+{
+  "_id": {
+    "$oid": "65ff31c9a20e5f46ee392b8f"
+  },
+  "kod: ": "GESAN",
+  "son: ": 67.4,
+  "fark%: ": 0.45,
+  "en düsük: ": 67,
+  "en yuksek: ": 68.9,
+  "aofs: ": 67.87,
+  "hacim lot: ": 3966287,
+  "hacim tl: ": 269181882.05
+},
+{
+  "_id": {
+    "$oid": "65ff31c9a20e5f46ee392b90"
+  },
+  "kod: ": "GIPTA",
+  "son: ": 45.46,
+  "fark%: ": -0.35,
+  "en düsük: ": 43.92,
+  "en yuksek: ": 45.92,
+  "aofs: ": 45.01,
+  "hacim lot: ": 2546842,
+  "hacim tl: ": 114627659.78
+},
+{
+  "_id": {
+    "$oid": "65ff31c9a20e5f46ee392b91"
+  },
+  "kod: ": "GLBMD",
+  "son: ": 38.1,
+  "fark%: ": 0.95,
+  "en düsük: ": 37.12,
+  "en yuksek: ": 38.18,
+  "aofs: ": 37.73,
+  "hacim lot: ": 325418,
+  "hacim tl: ": 12279283.86
+},
+{
+  "_id": {
+    "$oid": "65ff31c9a20e5f46ee392b92"
+  },
+  "kod: ": "GLCVY",
+  "son: ": 49.62,
+  "fark%: ": 4.82,
+  "en düsük: ": 45.86,
+  "en yuksek: ": 50.95,
+  "aofs: ": 48.7,
+  "hacim lot: ": 3081921,
+  "hacim tl: ": 150089797.55
+},
+{
+  "_id": {
+    "$oid": "65ff31caa20e5f46ee392b93"
+  },
+  "kod: ": "GLRYH",
+  "son: ": 12.29,
+  "fark%: ": -0.16,
+  "en düsük: ": 12.08,
+  "en yuksek: ": 12.43,
+  "aofs: ": 12.21,
+  "hacim lot: ": 1435549,
+  "hacim tl: ": 17533439.44
+},
+{
+  "_id": {
+    "$oid": "65ff31caa20e5f46ee392b94"
+  },
+  "kod: ": "GLYHO",
+  "son: ": 12.95,
+  "fark%: ": 2.86,
+  "en düsük: ": 12.57,
+  "en yuksek: ": 13.32,
+  "aofs: ": 12.97,
+  "hacim lot: ": 27275229,
+  "hacim tl: ": 353853443.15
+},
+{
+  "_id": {
+    "$oid": "65ff31caa20e5f46ee392b95"
+  },
+  "kod: ": "GMTAS",
+  "son: ": 8.4,
+  "fark%: ": -1.75,
+  "en düsük: ": 8.31,
+  "en yuksek: ": 8.63,
+  "aofs: ": 8.47,
+  "hacim lot: ": 1612983,
+  "hacim tl: ": 13662964.53
+},
+{
+  "_id": {
+    "$oid": "65ff31caa20e5f46ee392b96"
+  },
+  "kod: ": "GOKNR",
+  "son: ": 22.64,
+  "fark%: ": 2.91,
+  "en düsük: ": 22.2,
+  "en yuksek: ": 22.96,
+  "aofs: ": 22.56,
+  "hacim lot: ": 3408853,
+  "hacim tl: ": 76888210.1
+},
+{
+  "_id": {
+    "$oid": "65ff31caa20e5f46ee392b97"
+  },
+  "kod: ": "GOLTS",
+  "son: ": 407,
+  "fark%: ": 10,
+  "en düsük: ": 365,
+  "en yuksek: ": 407,
+  "aofs: ": 390.75,
+  "hacim lot: ": 1380475,
+  "hacim tl: ": 539419610.25
+},
+{
+  "_id": {
+    "$oid": "65ff31cba20e5f46ee392b98"
+  },
+  "kod: ": "GOODY",
+  "son: ": 23.16,
+  "fark%: ": -2.36,
+  "en düsük: ": 23.04,
+  "en yuksek: ": 24.32,
+  "aofs: ": 23.71,
+  "hacim lot: ": 1783005,
+  "hacim tl: ": 42268552.4
+},
+{
+  "_id": {
+    "$oid": "65ff31cba20e5f46ee392b99"
+  },
+  "kod: ": "GOZDE",
+  "son: ": 25.92,
+  "fark%: ": -1.59,
+  "en düsük: ": 25.82,
+  "en yuksek: ": 26.7,
+  "aofs: ": 26.23,
+  "hacim lot: ": 1911177,
+  "hacim tl: ": 50129180.56
+},
+{
+  "_id": {
+    "$oid": "65ff31cba20e5f46ee392b9a"
+  },
+  "kod: ": "GRNYO",
+  "son: ": 10.2,
+  "fark%: ": 9.09,
+  "en düsük: ": 9.27,
+  "en yuksek: ": 10.28,
+  "aofs: ": 10.12,
+  "hacim lot: ": 3602026,
+  "hacim tl: ": 36436651.42
+},
+{
+  "_id": {
+    "$oid": "65ff31cba20e5f46ee392b9b"
+  },
+  "kod: ": "GRSEL",
+  "son: ": 72.4,
+  "fark%: ": -4.74,
+  "en düsük: ": 72.4,
+  "en yuksek: ": 76.95,
+  "aofs: ": 74.02,
+  "hacim lot: ": 1078435,
+  "hacim tl: ": 79829561.5
+},
+{
+  "_id": {
+    "$oid": "65ff31cba20e5f46ee392b9c"
+  },
+  "kod: ": "GRTRK",
+  "son: ": 70,
+  "fark%: ": -0.21,
+  "en düsük: ": 67.9,
+  "en yuksek: ": 70.9,
+  "aofs: ": 69.46,
+  "hacim lot: ": 860641,
+  "hacim tl: ": 59776069.75
+},
+{
+  "_id": {
+    "$oid": "65ff31cca20e5f46ee392b9d"
+  },
+  "kod: ": "GSDDE",
+  "son: ": 9.3,
+  "fark%: ": 0,
+  "en düsük: ": 9.15,
+  "en yuksek: ": 9.44,
+  "aofs: ": 9.31,
+  "hacim lot: ": 1087802,
+  "hacim tl: ": 10131092.98
+},
+{
+  "_id": {
+    "$oid": "65ff31cca20e5f46ee392b9e"
+  },
+  "kod: ": "GSDHO",
+  "son: ": 3.96,
+  "fark%: ": -1.74,
+  "en düsük: ": 3.95,
+  "en yuksek: ": 4.07,
+  "aofs: ": 4.02,
+  "hacim lot: ": 15052990,
+  "hacim tl: ": 60484450.39
+},
+{
+  "_id": {
+    "$oid": "65ff31cca20e5f46ee392b9f"
+  },
+  "kod: ": "GSRAY",
+  "son: ": 6.68,
+  "fark%: ": -0.74,
+  "en düsük: ": 6.64,
+  "en yuksek: ": 6.77,
+  "aofs: ": 6.71,
+  "hacim lot: ": 15461301,
+  "hacim tl: ": 103731305.85
+},
+{
+  "_id": {
+    "$oid": "65ff31cca20e5f46ee392ba0"
+  },
+  "kod: ": "GUBRF",
+  "son: ": 161,
+  "fark%: ": -0.31,
+  "en düsük: ": 160.7,
+  "en yuksek: ": 163.9,
+  "aofs: ": 162.2,
+  "hacim lot: ": 4221091,
+  "hacim tl: ": 684639946.4
+},
+{
+  "_id": {
+    "$oid": "65ff31cca20e5f46ee392ba1"
+  },
+  "kod: ": "GWIND",
+  "son: ": 23.34,
+  "fark%: ": -4.89,
+  "en düsük: ": 23,
+  "en yuksek: ": 23.84,
+  "aofs: ": 23.52,
+  "hacim lot: ": 9484777,
+  "hacim tl: ": 223115595.14
+},
+{
+  "_id": {
+    "$oid": "65ff31cda20e5f46ee392ba2"
+  },
+  "kod: ": "GZNMI",
+  "son: ": 49,
+  "fark%: ": -1.53,
+  "en düsük: ": 47.76,
+  "en yuksek: ": 50.05,
+  "aofs: ": 48.95,
+  "hacim lot: ": 773845,
+  "hacim tl: ": 37881946.12
+},
+{
+  "_id": {
+    "$oid": "65ff31cda20e5f46ee392ba3"
+  },
+  "kod: ": "HALKB",
+  "son: ": 13.35,
+  "fark%: ": -1.55,
+  "en düsük: ": 13.26,
+  "en yuksek: ": 13.72,
+  "aofs: ": 13.51,
+  "hacim lot: ": 44848301,
+  "hacim tl: ": 606095361.63
+},
+{
+  "_id": {
+    "$oid": "65ff31cda20e5f46ee392ba4"
+  },
+  "kod: ": "HATEK",
+  "son: ": 13.87,
+  "fark%: ": -1.84,
+  "en düsük: ": 13.54,
+  "en yuksek: ": 14.35,
+  "aofs: ": 13.96,
+  "hacim lot: ": 1580670,
+  "hacim tl: ": 22063084.9
+},
+{
+  "_id": {
+    "$oid": "65ff31cda20e5f46ee392ba5"
+  },
+  "kod: ": "HATSN",
+  "son: ": 66.5,
+  "fark%: ": -1.63,
+  "en düsük: ": 65.5,
+  "en yuksek: ": 69.45,
+  "aofs: ": 67.56,
+  "hacim lot: ": 3252612,
+  "hacim tl: ": 219756060.85
+},
+{
+  "_id": {
+    "$oid": "65ff31cda20e5f46ee392ba6"
+  },
+  "kod: ": "HDFGS",
+  "son: ": 1.92,
+  "fark%: ": -0.52,
+  "en düsük: ": 1.87,
+  "en yuksek: ": 1.95,
+  "aofs: ": 1.91,
+  "hacim lot: ": 22332598,
+  "hacim tl: ": 42613573.37
+},
+{
+  "_id": {
+    "$oid": "65ff31cea20e5f46ee392ba7"
+  },
+  "kod: ": "HEDEF",
+  "son: ": 25.16,
+  "fark%: ": -1.26,
+  "en düsük: ": 25.04,
+  "en yuksek: ": 26.6,
+  "aofs: ": 25.5,
+  "hacim lot: ": 471996,
+  "hacim tl: ": 12036935.32
+},
+{
+  "_id": {
+    "$oid": "65ff31cea20e5f46ee392ba8"
+  },
+  "kod: ": "HEKTS",
+  "son: ": 17.17,
+  "fark%: ": -0.52,
+  "en düsük: ": 17.09,
+  "en yuksek: ": 17.65,
+  "aofs: ": 17.37,
+  "hacim lot: ": 68870175,
+  "hacim tl: ": 1196461461.44
+},
+{
+  "_id": {
+    "$oid": "65ff31cea20e5f46ee392ba9"
+  },
+  "kod: ": "HKTM",
+  "son: ": 19.85,
+  "fark%: ": -2.5,
+  "en düsük: ": 19.83,
+  "en yuksek: ": 20.5,
+  "aofs: ": 20.12,
+  "hacim lot: ": 1396188,
+  "hacim tl: ": 28095027.43
+},
+{
+  "_id": {
+    "$oid": "65ff31cea20e5f46ee392baa"
+  },
+  "kod: ": "HLGYO",
+  "son: ": 3.01,
+  "fark%: ": -1.95,
+  "en düsük: ": 3,
+  "en yuksek: ": 3.1,
+  "aofs: ": 3.06,
+  "hacim lot: ": 22943819,
+  "hacim tl: ": 70177849.64
+},
+{
+  "_id": {
+    "$oid": "65ff31cea20e5f46ee392bab"
+  },
+  "kod: ": "HTTBT",
+  "son: ": 64.8,
+  "fark%: ": 7.02,
+  "en düsük: ": 60.85,
+  "en yuksek: ": 64.8,
+  "aofs: ": 63.52,
+  "hacim lot: ": 550589,
+  "hacim tl: ": 34970679.65
+},
+{
+  "_id": {
+    "$oid": "65ff31cfa20e5f46ee392bac"
+  },
+  "kod: ": "HUBVC",
+  "son: ": 13.05,
+  "fark%: ": 0.38,
+  "en düsük: ": 13.02,
+  "en yuksek: ": 13.8,
+  "aofs: ": 13.31,
+  "hacim lot: ": 2759949,
+  "hacim tl: ": 36744197.51
+},
+{
+  "_id": {
+    "$oid": "65ff3322c52a65e47e1f21e4"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:06.860Z"
+  },
+  "kod: ": "A1CAP",
+  "son: ": 30.06,
+  "fark%: ": 1.62,
+  "en düsük: ": 29.46,
+  "en yuksek: ": 30.14,
+  "aofs: ": 29.78,
+  "hacim lot: ": 2302059,
+  "hacim tl: ": 68556969.56
+},
+{
+  "_id": {
+    "$oid": "65ff3323c52a65e47e1f21e5"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:07.104Z"
+  },
+  "kod: ": "ACSEL",
+  "son: ": 163.7,
+  "fark%: ": 4.13,
+  "en düsük: ": 156,
+  "en yuksek: ": 165.9,
+  "aofs: ": 161.13,
+  "hacim lot: ": 290727,
+  "hacim tl: ": 46844169.4
+},
+{
+  "_id": {
+    "$oid": "65ff3323c52a65e47e1f21e6"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:07.298Z"
+  },
+  "kod: ": "ADEL",
+  "son: ": 685,
+  "fark%: ": -2,
+  "en düsük: ": 650.5,
+  "en yuksek: ": 712.5,
+  "aofs: ": 681.42,
+  "hacim lot: ": 999950,
+  "hacim tl: ": 681384964.5
+},
+{
+  "_id": {
+    "$oid": "65ff3323c52a65e47e1f21e7"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:07.490Z"
+  },
+  "kod: ": "ADESE",
+  "son: ": 2.43,
+  "fark%: ": -0.82,
+  "en düsük: ": 2.38,
+  "en yuksek: ": 2.48,
+  "aofs: ": 2.44,
+  "hacim lot: ": 42858249,
+  "hacim tl: ": 104706512.33
+},
+{
+  "_id": {
+    "$oid": "65ff3323c52a65e47e1f21e8"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:07.685Z"
+  },
+  "kod: ": "ADGYO",
+  "son: ": 30,
+  "fark%: ": -1.57,
+  "en düsük: ": 29.8,
+  "en yuksek: ": 31,
+  "aofs: ": 30.53,
+  "hacim lot: ": 1904539,
+  "hacim tl: ": 58144738.42
+},
+{
+  "_id": {
+    "$oid": "65ff3323c52a65e47e1f21e9"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:07.884Z"
+  },
+  "kod: ": "AEFES",
+  "son: ": 154.5,
+  "fark%: ": 1.58,
+  "en düsük: ": 147.4,
+  "en yuksek: ": 156.8,
+  "aofs: ": 153.98,
+  "hacim lot: ": 6546908,
+  "hacim tl: ": 1008122318.8
+},
+{
+  "_id": {
+    "$oid": "65ff3324c52a65e47e1f21ea"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:08.076Z"
+  },
+  "kod: ": "AFYON",
+  "son: ": 11.98,
+  "fark%: ": 1.35,
+  "en düsük: ": 11.82,
+  "en yuksek: ": 12.17,
+  "aofs: ": 11.97,
+  "hacim lot: ": 4308833,
+  "hacim tl: ": 51584139.75
+},
+{
+  "_id": {
+    "$oid": "65ff3324c52a65e47e1f21eb"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:08.270Z"
+  },
+  "kod: ": "AGESA",
+  "son: ": 75.35,
+  "fark%: ": -2.14,
+  "en düsük: ": 74.75,
+  "en yuksek: ": 77.35,
+  "aofs: ": 76.05,
+  "hacim lot: ": 308488,
+  "hacim tl: ": 23458878
+},
+{
+  "_id": {
+    "$oid": "65ff3324c52a65e47e1f21ec"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:08.465Z"
+  },
+  "kod: ": "AGHOL",
+  "son: ": 262.5,
+  "fark%: ": 3.75,
+  "en düsük: ": 247.5,
+  "en yuksek: ": 268.75,
+  "aofs: ": 258.28,
+  "hacim lot: ": 1724984,
+  "hacim tl: ": 445534643.75
+},
+{
+  "_id": {
+    "$oid": "65ff3324c52a65e47e1f21ed"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:08.659Z"
+  },
+  "kod: ": "AGROT",
+  "son: ": 30.7,
+  "fark%: ": -2.54,
+  "en düsük: ": 30.38,
+  "en yuksek: ": 31.9,
+  "aofs: ": 31.14,
+  "hacim lot: ": 15206159,
+  "hacim tl: ": 473562860.92
+},
+{
+  "_id": {
+    "$oid": "65ff3324c52a65e47e1f21ee"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:08.855Z"
+  },
+  "kod: ": "AGYO",
+  "son: ": 9.7,
+  "fark%: ": -2.32,
+  "en düsük: ": 9.67,
+  "en yuksek: ": 10.09,
+  "aofs: ": 9.88,
+  "hacim lot: ": 2959948,
+  "hacim tl: ": 29250771.38
+},
+{
+  "_id": {
+    "$oid": "65ff3325c52a65e47e1f21ef"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:09.047Z"
+  },
+  "kod: ": "AHGAZ",
+  "son: ": 14.45,
+  "fark%: ": 2.41,
+  "en düsük: ": 13.92,
+  "en yuksek: ": 14.45,
+  "aofs: ": 14.22,
+  "hacim lot: ": 16919825,
+  "hacim tl: ": 240631824.62
+},
+{
+  "_id": {
+    "$oid": "65ff3325c52a65e47e1f21f0"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:09.248Z"
+  },
+  "kod: ": "AKBNK",
+  "son: ": 45.82,
+  "fark%: ": 1.73,
+  "en düsük: ": 45.02,
+  "en yuksek: ": 46.38,
+  "aofs: ": 45.8,
+  "hacim lot: ": 88011898,
+  "hacim tl: ": 4031331852.06
+},
+{
+  "_id": {
+    "$oid": "65ff333f192e7ba3a02cf2b4"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:35.859Z"
+  },
+  "kod: ": "A1CAP",
+  "son: ": 30.06,
+  "fark%: ": 1.62,
+  "en düsük: ": 29.46,
+  "en yuksek: ": 30.14,
+  "aofs: ": 29.78,
+  "hacim lot: ": 2302059,
+  "hacim tl: ": 68556969.56
+},
+{
+  "_id": {
+    "$oid": "65ff3340192e7ba3a02cf2b5"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:36.106Z"
+  },
+  "kod: ": "ACSEL",
+  "son: ": 163.7,
+  "fark%: ": 4.13,
+  "en düsük: ": 156,
+  "en yuksek: ": 165.9,
+  "aofs: ": 161.13,
+  "hacim lot: ": 290727,
+  "hacim tl: ": 46844169.4
+},
+{
+  "_id": {
+    "$oid": "65ff3340192e7ba3a02cf2b6"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:36.300Z"
+  },
+  "kod: ": "ADEL",
+  "son: ": 685,
+  "fark%: ": -2,
+  "en düsük: ": 650.5,
+  "en yuksek: ": 712.5,
+  "aofs: ": 681.42,
+  "hacim lot: ": 999950,
+  "hacim tl: ": 681384964.5
+},
+{
+  "_id": {
+    "$oid": "65ff3340192e7ba3a02cf2b7"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:36.493Z"
+  },
+  "kod: ": "ADESE",
+  "son: ": 2.43,
+  "fark%: ": -0.82,
+  "en düsük: ": 2.38,
+  "en yuksek: ": 2.48,
+  "aofs: ": 2.44,
+  "hacim lot: ": 42858249,
+  "hacim tl: ": 104706512.33
+},
+{
+  "_id": {
+    "$oid": "65ff3340192e7ba3a02cf2b8"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:36.689Z"
+  },
+  "kod: ": "ADGYO",
+  "son: ": 30,
+  "fark%: ": -1.57,
+  "en düsük: ": 29.8,
+  "en yuksek: ": 31,
+  "aofs: ": 30.53,
+  "hacim lot: ": 1904539,
+  "hacim tl: ": 58144738.42
+},
+{
+  "_id": {
+    "$oid": "65ff3340192e7ba3a02cf2b9"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:36.884Z"
+  },
+  "kod: ": "AEFES",
+  "son: ": 154.5,
+  "fark%: ": 1.58,
+  "en düsük: ": 147.4,
+  "en yuksek: ": 156.8,
+  "aofs: ": 153.98,
+  "hacim lot: ": 6546908,
+  "hacim tl: ": 1008122318.8
+},
+{
+  "_id": {
+    "$oid": "65ff3341192e7ba3a02cf2ba"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:37.077Z"
+  },
+  "kod: ": "AFYON",
+  "son: ": 11.98,
+  "fark%: ": 1.35,
+  "en düsük: ": 11.82,
+  "en yuksek: ": 12.17,
+  "aofs: ": 11.97,
+  "hacim lot: ": 4308833,
+  "hacim tl: ": 51584139.75
+},
+{
+  "_id": {
+    "$oid": "65ff3341192e7ba3a02cf2bb"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:37.271Z"
+  },
+  "kod: ": "AGESA",
+  "son: ": 75.35,
+  "fark%: ": -2.14,
+  "en düsük: ": 74.75,
+  "en yuksek: ": 77.35,
+  "aofs: ": 76.05,
+  "hacim lot: ": 308488,
+  "hacim tl: ": 23458878
+},
+{
+  "_id": {
+    "$oid": "65ff3341192e7ba3a02cf2bc"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:37.467Z"
+  },
+  "kod: ": "AGHOL",
+  "son: ": 262.5,
+  "fark%: ": 3.75,
+  "en düsük: ": 247.5,
+  "en yuksek: ": 268.75,
+  "aofs: ": 258.28,
+  "hacim lot: ": 1724984,
+  "hacim tl: ": 445534643.75
+},
+{
+  "_id": {
+    "$oid": "65ff3341192e7ba3a02cf2bd"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:37.660Z"
+  },
+  "kod: ": "AGROT",
+  "son: ": 30.7,
+  "fark%: ": -2.54,
+  "en düsük: ": 30.38,
+  "en yuksek: ": 31.9,
+  "aofs: ": 31.14,
+  "hacim lot: ": 15206159,
+  "hacim tl: ": 473562860.92
+},
+{
+  "_id": {
+    "$oid": "65ff3341192e7ba3a02cf2be"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:37.855Z"
+  },
+  "kod: ": "AGYO",
+  "son: ": 9.7,
+  "fark%: ": -2.32,
+  "en düsük: ": 9.67,
+  "en yuksek: ": 10.09,
+  "aofs: ": 9.88,
+  "hacim lot: ": 2959948,
+  "hacim tl: ": 29250771.38
+},
+{
+  "_id": {
+    "$oid": "65ff3342192e7ba3a02cf2bf"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:38.052Z"
+  },
+  "kod: ": "AHGAZ",
+  "son: ": 14.45,
+  "fark%: ": 2.41,
+  "en düsük: ": 13.92,
+  "en yuksek: ": 14.45,
+  "aofs: ": 14.22,
+  "hacim lot: ": 16919825,
+  "hacim tl: ": 240631824.62
+},
+{
+  "_id": {
+    "$oid": "65ff3342192e7ba3a02cf2c0"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:38.246Z"
+  },
+  "kod: ": "AKBNK",
+  "son: ": 45.82,
+  "fark%: ": 1.73,
+  "en düsük: ": 45.02,
+  "en yuksek: ": 46.38,
+  "aofs: ": 45.8,
+  "hacim lot: ": 88011898,
+  "hacim tl: ": 4031331852.06
+},
+{
+  "_id": {
+    "$oid": "65ff3342192e7ba3a02cf2c1"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:38.443Z"
+  },
+  "kod: ": "AKCNS",
+  "son: ": 147.3,
+  "fark%: ": 1.24,
+  "en düsük: ": 146,
+  "en yuksek: ": 150.6,
+  "aofs: ": 148.25,
+  "hacim lot: ": 910735,
+  "hacim tl: ": 135018060
+},
+{
+  "_id": {
+    "$oid": "65ff3342192e7ba3a02cf2c2"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:38.640Z"
+  },
+  "kod: ": "AKENR",
+  "son: ": 9.64,
+  "fark%: ": 9.92,
+  "en düsük: ": 9.64,
+  "en yuksek: ": 9.64,
+  "aofs: ": 9.64,
+  "hacim lot: ": 4799107,
+  "hacim tl: ": 46263391.48
+},
+{
+  "_id": {
+    "$oid": "65ff3342192e7ba3a02cf2c3"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:38.840Z"
+  },
+  "kod: ": "AKFGY",
+  "son: ": 2.26,
+  "fark%: ": -2.16,
+  "en düsük: ": 2.24,
+  "en yuksek: ": 2.34,
+  "aofs: ": 2.29,
+  "hacim lot: ": 74091110,
+  "hacim tl: ": 169624951.67
+},
+{
+  "_id": {
+    "$oid": "65ff3343192e7ba3a02cf2c4"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:39.035Z"
+  },
+  "kod: ": "AKFYE",
+  "son: ": 24.44,
+  "fark%: ": -3.86,
+  "en düsük: ": 24.3,
+  "en yuksek: ": 25.8,
+  "aofs: ": 24.98,
+  "hacim lot: ": 17476540,
+  "hacim tl: ": 436583452.9
+},
+{
+  "_id": {
+    "$oid": "65ff3343192e7ba3a02cf2c5"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:39.227Z"
+  },
+  "kod: ": "AKGRT",
+  "son: ": 6.24,
+  "fark%: ": -0.16,
+  "en düsük: ": 6.11,
+  "en yuksek: ": 6.41,
+  "aofs: ": 6.28,
+  "hacim lot: ": 28800804,
+  "hacim tl: ": 180874099.26
+},
+{
+  "_id": {
+    "$oid": "65ff3343192e7ba3a02cf2c6"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:39.426Z"
+  },
+  "kod: ": "AKMGY",
+  "son: ": 300.75,
+  "fark%: ": 0.25,
+  "en düsük: ": 284.25,
+  "en yuksek: ": 315,
+  "aofs: ": 299.5,
+  "hacim lot: ": 242844,
+  "hacim tl: ": 72731730.75
+},
+{
+  "_id": {
+    "$oid": "65ff3343192e7ba3a02cf2c7"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:39.621Z"
+  },
+  "kod: ": "AKSA",
+  "son: ": 98.05,
+  "fark%: ": -2.24,
+  "en düsük: ": 97.35,
+  "en yuksek: ": 102,
+  "aofs: ": 100.84,
+  "hacim lot: ": 3766864,
+  "hacim tl: ": 379831231.45
+},
+{
+  "_id": {
+    "$oid": "65ff3343192e7ba3a02cf2c8"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:39.817Z"
+  },
+  "kod: ": "AKSEN",
+  "son: ": 35.08,
+  "fark%: ": -0.17,
+  "en düsük: ": 34.94,
+  "en yuksek: ": 36.12,
+  "aofs: ": 35.49,
+  "hacim lot: ": 5408705,
+  "hacim tl: ": 191925527.28
+},
+{
+  "_id": {
+    "$oid": "65ff3344192e7ba3a02cf2c9"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:40.011Z"
+  },
+  "kod: ": "AKSGY",
+  "son: ": 16.5,
+  "fark%: ": -1.2,
+  "en düsük: ": 16.32,
+  "en yuksek: ": 16.98,
+  "aofs: ": 16.65,
+  "hacim lot: ": 2586319,
+  "hacim tl: ": 43069831.5
+},
+{
+  "_id": {
+    "$oid": "65ff3344192e7ba3a02cf2ca"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:40.204Z"
+  },
+  "kod: ": "AKSUE",
+  "son: ": 13.63,
+  "fark%: ": -0.51,
+  "en düsük: ": 13.5,
+  "en yuksek: ": 13.92,
+  "aofs: ": 13.71,
+  "hacim lot: ": 669173,
+  "hacim tl: ": 9171459
+},
+{
+  "_id": {
+    "$oid": "65ff3344192e7ba3a02cf2cb"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:40.393Z"
+  },
+  "kod: ": "AKYHO",
+  "son: ": 6.1,
+  "fark%: ": -3.79,
+  "en düsük: ": 5.87,
+  "en yuksek: ": 6.21,
+  "aofs: ": 6.07,
+  "hacim lot: ": 27262666,
+  "hacim tl: ": 165438204.36
+},
+{
+  "_id": {
+    "$oid": "65ff3344192e7ba3a02cf2cc"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:40.589Z"
+  },
+  "kod: ": "ALARK",
+  "son: ": 129.7,
+  "fark%: ": -0.77,
+  "en düsük: ": 129,
+  "en yuksek: ": 134.3,
+  "aofs: ": 132.15,
+  "hacim lot: ": 7058147,
+  "hacim tl: ": 932753109.7
+},
+{
+  "_id": {
+    "$oid": "65ff3344192e7ba3a02cf2cd"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:40.786Z"
+  },
+  "kod: ": "ALBRK",
+  "son: ": 4.31,
+  "fark%: ": -1.15,
+  "en düsük: ": 4.3,
+  "en yuksek: ": 4.4,
+  "aofs: ": 4.34,
+  "hacim lot: ": 14667997,
+  "hacim tl: ": 63604347.6
+},
+{
+  "_id": {
+    "$oid": "65ff3344192e7ba3a02cf2ce"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:53:40.979Z"
+  },
+  "kod: ": "ALCAR",
+  "son: ": 1561,
+  "fark%: ": 2.83,
+  "en düsük: ": 1520,
+  "en yuksek: ": 1603,
+  "aofs: ": 1565.34,
+  "hacim lot: ": 93673,
+  "hacim tl: ": 146629874
+},
+{
+  "_id": {
+    "$oid": "65ff33ac4543601a039a8879"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:24.401Z"
+  },
+  "kod: ": "A1CAP",
+  "son: ": 30.06,
+  "fark%: ": 1.62,
+  "en düsük: ": 29.46,
+  "en yuksek: ": 30.14,
+  "aofs: ": 29.78,
+  "hacim lot: ": 2302059,
+  "hacim tl: ": 68556969.56
+},
+{
+  "_id": {
+    "$oid": "65ff33ac4543601a039a887a"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:24.655Z"
+  },
+  "kod: ": "ACSEL",
+  "son: ": 163.7,
+  "fark%: ": 4.13,
+  "en düsük: ": 156,
+  "en yuksek: ": 165.9,
+  "aofs: ": 161.13,
+  "hacim lot: ": 290727,
+  "hacim tl: ": 46844169.4
+},
+{
+  "_id": {
+    "$oid": "65ff33ac4543601a039a887b"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:24.856Z"
+  },
+  "kod: ": "ADEL",
+  "son: ": 685,
+  "fark%: ": -2,
+  "en düsük: ": 650.5,
+  "en yuksek: ": 712.5,
+  "aofs: ": 681.42,
+  "hacim lot: ": 999950,
+  "hacim tl: ": 681384964.5
+},
+{
+  "_id": {
+    "$oid": "65ff33ad4543601a039a887c"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:25.050Z"
+  },
+  "kod: ": "ADESE",
+  "son: ": 2.43,
+  "fark%: ": -0.82,
+  "en düsük: ": 2.38,
+  "en yuksek: ": 2.48,
+  "aofs: ": 2.44,
+  "hacim lot: ": 42858249,
+  "hacim tl: ": 104706512.33
+},
+{
+  "_id": {
+    "$oid": "65ff33ad4543601a039a887d"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:25.257Z"
+  },
+  "kod: ": "ADGYO",
+  "son: ": 30,
+  "fark%: ": -1.57,
+  "en düsük: ": 29.8,
+  "en yuksek: ": 31,
+  "aofs: ": 30.53,
+  "hacim lot: ": 1904539,
+  "hacim tl: ": 58144738.42
+},
+{
+  "_id": {
+    "$oid": "65ff33ad4543601a039a887e"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:25.452Z"
+  },
+  "kod: ": "AEFES",
+  "son: ": 154.5,
+  "fark%: ": 1.58,
+  "en düsük: ": 147.4,
+  "en yuksek: ": 156.8,
+  "aofs: ": 153.98,
+  "hacim lot: ": 6546908,
+  "hacim tl: ": 1008122318.8
+},
+{
+  "_id": {
+    "$oid": "65ff33ad4543601a039a887f"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:25.649Z"
+  },
+  "kod: ": "AFYON",
+  "son: ": 11.98,
+  "fark%: ": 1.35,
+  "en düsük: ": 11.82,
+  "en yuksek: ": 12.17,
+  "aofs: ": 11.97,
+  "hacim lot: ": 4308833,
+  "hacim tl: ": 51584139.75
+},
+{
+  "_id": {
+    "$oid": "65ff33ad4543601a039a8880"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:25.856Z"
+  },
+  "kod: ": "AGESA",
+  "son: ": 75.35,
+  "fark%: ": -2.14,
+  "en düsük: ": 74.75,
+  "en yuksek: ": 77.35,
+  "aofs: ": 76.05,
+  "hacim lot: ": 308488,
+  "hacim tl: ": 23458878
+},
+{
+  "_id": {
+    "$oid": "65ff33ae4543601a039a8881"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:26.049Z"
+  },
+  "kod: ": "AGHOL",
+  "son: ": 262.5,
+  "fark%: ": 3.75,
+  "en düsük: ": 247.5,
+  "en yuksek: ": 268.75,
+  "aofs: ": 258.28,
+  "hacim lot: ": 1724984,
+  "hacim tl: ": 445534643.75
+},
+{
+  "_id": {
+    "$oid": "65ff33ae4543601a039a8882"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:26.244Z"
+  },
+  "kod: ": "AGROT",
+  "son: ": 30.7,
+  "fark%: ": -2.54,
+  "en düsük: ": 30.38,
+  "en yuksek: ": 31.9,
+  "aofs: ": 31.14,
+  "hacim lot: ": 15206159,
+  "hacim tl: ": 473562860.92
+},
+{
+  "_id": {
+    "$oid": "65ff33ae4543601a039a8883"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:26.441Z"
+  },
+  "kod: ": "AGYO",
+  "son: ": 9.7,
+  "fark%: ": -2.32,
+  "en düsük: ": 9.67,
+  "en yuksek: ": 10.09,
+  "aofs: ": 9.88,
+  "hacim lot: ": 2959948,
+  "hacim tl: ": 29250771.38
+},
+{
+  "_id": {
+    "$oid": "65ff33ae4543601a039a8884"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:26.642Z"
+  },
+  "kod: ": "AHGAZ",
+  "son: ": 14.45,
+  "fark%: ": 2.41,
+  "en düsük: ": 13.92,
+  "en yuksek: ": 14.45,
+  "aofs: ": 14.22,
+  "hacim lot: ": 16919825,
+  "hacim tl: ": 240631824.62
+},
+{
+  "_id": {
+    "$oid": "65ff33ae4543601a039a8885"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:26.840Z"
+  },
+  "kod: ": "AKBNK",
+  "son: ": 45.82,
+  "fark%: ": 1.73,
+  "en düsük: ": 45.02,
+  "en yuksek: ": 46.38,
+  "aofs: ": 45.8,
+  "hacim lot: ": 88011898,
+  "hacim tl: ": 4031331852.06
+},
+{
+  "_id": {
+    "$oid": "65ff33af4543601a039a8886"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:27.031Z"
+  },
+  "kod: ": "AKCNS",
+  "son: ": 147.3,
+  "fark%: ": 1.24,
+  "en düsük: ": 146,
+  "en yuksek: ": 150.6,
+  "aofs: ": 148.25,
+  "hacim lot: ": 910735,
+  "hacim tl: ": 135018060
+},
+{
+  "_id": {
+    "$oid": "65ff33af4543601a039a8887"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:27.225Z"
+  },
+  "kod: ": "AKENR",
+  "son: ": 9.64,
+  "fark%: ": 9.92,
+  "en düsük: ": 9.64,
+  "en yuksek: ": 9.64,
+  "aofs: ": 9.64,
+  "hacim lot: ": 4799107,
+  "hacim tl: ": 46263391.48
+},
+{
+  "_id": {
+    "$oid": "65ff33af4543601a039a8888"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:27.419Z"
+  },
+  "kod: ": "AKFGY",
+  "son: ": 2.26,
+  "fark%: ": -2.16,
+  "en düsük: ": 2.24,
+  "en yuksek: ": 2.34,
+  "aofs: ": 2.29,
+  "hacim lot: ": 74091110,
+  "hacim tl: ": 169624951.67
+},
+{
+  "_id": {
+    "$oid": "65ff33af4543601a039a8889"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:27.614Z"
+  },
+  "kod: ": "AKFYE",
+  "son: ": 24.44,
+  "fark%: ": -3.86,
+  "en düsük: ": 24.3,
+  "en yuksek: ": 25.8,
+  "aofs: ": 24.98,
+  "hacim lot: ": 17476540,
+  "hacim tl: ": 436583452.9
+},
+{
+  "_id": {
+    "$oid": "65ff33af4543601a039a888a"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:27.813Z"
+  },
+  "kod: ": "AKGRT",
+  "son: ": 6.24,
+  "fark%: ": -0.16,
+  "en düsük: ": 6.11,
+  "en yuksek: ": 6.41,
+  "aofs: ": 6.28,
+  "hacim lot: ": 28800804,
+  "hacim tl: ": 180874099.26
+},
+{
+  "_id": {
+    "$oid": "65ff33b04543601a039a888b"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:28.010Z"
+  },
+  "kod: ": "AKMGY",
+  "son: ": 300.75,
+  "fark%: ": 0.25,
+  "en düsük: ": 284.25,
+  "en yuksek: ": 315,
+  "aofs: ": 299.5,
+  "hacim lot: ": 242844,
+  "hacim tl: ": 72731730.75
+},
+{
+  "_id": {
+    "$oid": "65ff33b04543601a039a888c"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:28.209Z"
+  },
+  "kod: ": "AKSA",
+  "son: ": 98.05,
+  "fark%: ": -2.24,
+  "en düsük: ": 97.35,
+  "en yuksek: ": 102,
+  "aofs: ": 100.84,
+  "hacim lot: ": 3766864,
+  "hacim tl: ": 379831231.45
+},
+{
+  "_id": {
+    "$oid": "65ff33b04543601a039a888d"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:28.402Z"
+  },
+  "kod: ": "AKSEN",
+  "son: ": 35.08,
+  "fark%: ": -0.17,
+  "en düsük: ": 34.94,
+  "en yuksek: ": 36.12,
+  "aofs: ": 35.49,
+  "hacim lot: ": 5408705,
+  "hacim tl: ": 191925527.28
+},
+{
+  "_id": {
+    "$oid": "65ff33b04543601a039a888e"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:28.602Z"
+  },
+  "kod: ": "AKSGY",
+  "son: ": 16.5,
+  "fark%: ": -1.2,
+  "en düsük: ": 16.32,
+  "en yuksek: ": 16.98,
+  "aofs: ": 16.65,
+  "hacim lot: ": 2586319,
+  "hacim tl: ": 43069831.5
+},
+{
+  "_id": {
+    "$oid": "65ff33b04543601a039a888f"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:28.795Z"
+  },
+  "kod: ": "AKSUE",
+  "son: ": 13.63,
+  "fark%: ": -0.51,
+  "en düsük: ": 13.5,
+  "en yuksek: ": 13.92,
+  "aofs: ": 13.71,
+  "hacim lot: ": 669173,
+  "hacim tl: ": 9171459
+},
+{
+  "_id": {
+    "$oid": "65ff33b04543601a039a8890"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:28.987Z"
+  },
+  "kod: ": "AKYHO",
+  "son: ": 6.1,
+  "fark%: ": -3.79,
+  "en düsük: ": 5.87,
+  "en yuksek: ": 6.21,
+  "aofs: ": 6.07,
+  "hacim lot: ": 27262666,
+  "hacim tl: ": 165438204.36
+},
+{
+  "_id": {
+    "$oid": "65ff33b14543601a039a8891"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:29.179Z"
+  },
+  "kod: ": "ALARK",
+  "son: ": 129.7,
+  "fark%: ": -0.77,
+  "en düsük: ": 129,
+  "en yuksek: ": 134.3,
+  "aofs: ": 132.15,
+  "hacim lot: ": 7058147,
+  "hacim tl: ": 932753109.7
+},
+{
+  "_id": {
+    "$oid": "65ff33b14543601a039a8892"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:29.373Z"
+  },
+  "kod: ": "ALBRK",
+  "son: ": 4.31,
+  "fark%: ": -1.15,
+  "en düsük: ": 4.3,
+  "en yuksek: ": 4.4,
+  "aofs: ": 4.34,
+  "hacim lot: ": 14667997,
+  "hacim tl: ": 63604347.6
+},
+{
+  "_id": {
+    "$oid": "65ff33b14543601a039a8893"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:29.571Z"
+  },
+  "kod: ": "ALCAR",
+  "son: ": 1561,
+  "fark%: ": 2.83,
+  "en düsük: ": 1520,
+  "en yuksek: ": 1603,
+  "aofs: ": 1565.34,
+  "hacim lot: ": 93673,
+  "hacim tl: ": 146629874
+},
+{
+  "_id": {
+    "$oid": "65ff33b14543601a039a8894"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:29.768Z"
+  },
+  "kod: ": "ALCTL",
+  "son: ": 118.5,
+  "fark%: ": -4.74,
+  "en düsük: ": 118.5,
+  "en yuksek: ": 126.8,
+  "aofs: ": 122.4,
+  "hacim lot: ": 517875,
+  "hacim tl: ": 63389600.9
+},
+{
+  "_id": {
+    "$oid": "65ff33b14543601a039a8895"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:29.962Z"
+  },
+  "kod: ": "ALFAS",
+  "son: ": 90.15,
+  "fark%: ": 1.63,
+  "en düsük: ": 88.7,
+  "en yuksek: ": 91.55,
+  "aofs: ": 89.99,
+  "hacim lot: ": 3147521,
+  "hacim tl: ": 283234562.6
+},
+{
+  "_id": {
+    "$oid": "65ff33b24543601a039a8896"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:30.158Z"
+  },
+  "kod: ": "ALGYO",
+  "son: ": 43.84,
+  "fark%: ": -2.32,
+  "en düsük: ": 43.56,
+  "en yuksek: ": 45.1,
+  "aofs: ": 44.38,
+  "hacim lot: ": 1387358,
+  "hacim tl: ": 61576954.72
+},
+{
+  "_id": {
+    "$oid": "65ff33b24543601a039a8897"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:30.351Z"
+  },
+  "kod: ": "ALKA",
+  "son: ": 30.9,
+  "fark%: ": -1.59,
+  "en düsük: ": 30.42,
+  "en yuksek: ": 31.76,
+  "aofs: ": 31.16,
+  "hacim lot: ": 879093,
+  "hacim tl: ": 27391652.08
+},
+{
+  "_id": {
+    "$oid": "65ff33b24543601a039a8898"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:30.546Z"
+  },
+  "kod: ": "ALKIM",
+  "son: ": 36.4,
+  "fark%: ": -2.62,
+  "en düsük: ": 36.2,
+  "en yuksek: ": 37.46,
+  "aofs: ": 36.89,
+  "hacim lot: ": 509432,
+  "hacim tl: ": 18793180.7
+},
+{
+  "_id": {
+    "$oid": "65ff33b24543601a039a8899"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:30.743Z"
+  },
+  "kod: ": "ALMAD",
+  "son: ": 7.84,
+  "fark%: ": 0.51,
+  "en düsük: ": 7.63,
+  "en yuksek: ": 7.97,
+  "aofs: ": 7.79,
+  "hacim lot: ": 2724314,
+  "hacim tl: ": 21230963.04
+},
+{
+  "_id": {
+    "$oid": "65ff33b24543601a039a889a"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:30.936Z"
+  },
+  "kod: ": "ALTINS1",
+  "son: ": 24.18,
+  "fark%: ": 1.3,
+  "en düsük: ": 23.79,
+  "en yuksek: ": 24.24,
+  "aofs: ": 24.04,
+  "hacim lot: ": 35856021,
+  "hacim tl: ": 861821343.04
+},
+{
+  "_id": {
+    "$oid": "65ff33b34543601a039a889b"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:31.127Z"
+  },
+  "kod: ": "ALVES",
+  "son: ": 63.25,
+  "fark%: ": -4.24,
+  "en düsük: ": 59.75,
+  "en yuksek: ": 71,
+  "aofs: ": 66.82,
+  "hacim lot: ": 47925535,
+  "hacim tl: ": 3202255728.5
+},
+{
+  "_id": {
+    "$oid": "65ff33b34543601a039a889c"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:31.322Z"
+  },
+  "kod: ": "ANELE",
+  "son: ": 17.94,
+  "fark%: ": -0.88,
+  "en düsük: ": 17.51,
+  "en yuksek: ": 18.22,
+  "aofs: ": 17.85,
+  "hacim lot: ": 792322,
+  "hacim tl: ": 14142832.44
+},
+{
+  "_id": {
+    "$oid": "65ff33b34543601a039a889d"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:31.517Z"
+  },
+  "kod: ": "ANGEN",
+  "son: ": 12.55,
+  "fark%: ": -0.48,
+  "en düsük: ": 12.51,
+  "en yuksek: ": 12.97,
+  "aofs: ": 12.71,
+  "hacim lot: ": 2581547,
+  "hacim tl: ": 32817896.68
+},
+{
+  "_id": {
+    "$oid": "65ff33b34543601a039a889e"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:31.711Z"
+  },
+  "kod: ": "ANHYT",
+  "son: ": 50,
+  "fark%: ": 0.81,
+  "en düsük: ": 49.22,
+  "en yuksek: ": 50.95,
+  "aofs: ": 50.05,
+  "hacim lot: ": 2228844,
+  "hacim tl: ": 111547693.45
+},
+{
+  "_id": {
+    "$oid": "65ff33b34543601a039a889f"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:31.906Z"
+  },
+  "kod: ": "ANSGR",
+  "son: ": 71.9,
+  "fark%: ": -4.58,
+  "en düsük: ": 71.9,
+  "en yuksek: ": 76.1,
+  "aofs: ": 73.53,
+  "hacim lot: ": 2068962,
+  "hacim tl: ": 152129481.05
+},
+{
+  "_id": {
+    "$oid": "65ff33b44543601a039a88a0"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:32.104Z"
+  },
+  "kod: ": "ARASE",
+  "son: ": 61.8,
+  "fark%: ": -0.32,
+  "en düsük: ": 60.85,
+  "en yuksek: ": 63.45,
+  "aofs: ": 62.19,
+  "hacim lot: ": 1086799,
+  "hacim tl: ": 67590453.5
+},
+{
+  "_id": {
+    "$oid": "65ff33b44543601a039a88a1"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:32.298Z"
+  },
+  "kod: ": "ARCLK",
+  "son: ": 145.3,
+  "fark%: ": -3.58,
+  "en düsük: ": 144.6,
+  "en yuksek: ": 149.9,
+  "aofs: ": 147.36,
+  "hacim lot: ": 3772931,
+  "hacim tl: ": 555984080
+},
+{
+  "_id": {
+    "$oid": "65ff33b44543601a039a88a2"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:32.493Z"
+  },
+  "kod: ": "ARDYZ",
+  "son: ": 44.02,
+  "fark%: ": -5.09,
+  "en düsük: ": 43.68,
+  "en yuksek: ": 46.78,
+  "aofs: ": 44.9,
+  "hacim lot: ": 5651127,
+  "hacim tl: ": 253721667.88
+},
+{
+  "_id": {
+    "$oid": "65ff33b44543601a039a88a3"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:32.687Z"
+  },
+  "kod: ": "ARENA",
+  "son: ": 45.68,
+  "fark%: ": -4.91,
+  "en düsük: ": 45.52,
+  "en yuksek: ": 48.38,
+  "aofs: ": 46.92,
+  "hacim lot: ": 516382,
+  "hacim tl: ": 24226287.14
+},
+{
+  "_id": {
+    "$oid": "65ff33b44543601a039a88a4"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:32.882Z"
+  },
+  "kod: ": "ARSAN",
+  "son: ": 13.24,
+  "fark%: ": -2.14,
+  "en düsük: ": 13.18,
+  "en yuksek: ": 13.64,
+  "aofs: ": 13.39,
+  "hacim lot: ": 740035,
+  "hacim tl: ": 9911810.16
+},
+{
+  "_id": {
+    "$oid": "65ff33b54543601a039a88a5"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:33.081Z"
+  },
+  "kod: ": "ARTMS",
+  "son: ": 54,
+  "fark%: ": 2.56,
+  "en düsük: ": 50.55,
+  "en yuksek: ": 55.5,
+  "aofs: ": 52.7,
+  "hacim lot: ": 3206072,
+  "hacim tl: ": 168956595.15
+},
+{
+  "_id": {
+    "$oid": "65ff33b54543601a039a88a6"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:33.273Z"
+  },
+  "kod: ": "ARZUM",
+  "son: ": 49.88,
+  "fark%: ": -3.52,
+  "en düsük: ": 49.32,
+  "en yuksek: ": 53.3,
+  "aofs: ": 51.17,
+  "hacim lot: ": 1996764,
+  "hacim tl: ": 102179601.75
+},
+{
+  "_id": {
+    "$oid": "65ff33b54543601a039a88a7"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:33.469Z"
+  },
+  "kod: ": "ASELS",
+  "son: ": 56.35,
+  "fark%: ": -2.68,
+  "en düsük: ": 56.2,
+  "en yuksek: ": 58.45,
+  "aofs: ": 57.54,
+  "hacim lot: ": 64620917,
+  "hacim tl: ": 3718480814.65
+},
+{
+  "_id": {
+    "$oid": "65ff33b54543601a039a88a8"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:33.663Z"
+  },
+  "kod: ": "ASGYO",
+  "son: ": 14.26,
+  "fark%: ": 0.14,
+  "en düsük: ": 14.15,
+  "en yuksek: ": 14.34,
+  "aofs: ": 14.24,
+  "hacim lot: ": 5868640,
+  "hacim tl: ": 83571404.79
+},
+{
+  "_id": {
+    "$oid": "65ff33b54543601a039a88a9"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:33.858Z"
+  },
+  "kod: ": "ASTOR",
+  "son: ": 95.85,
+  "fark%: ": -1.54,
+  "en düsük: ": 95.3,
+  "en yuksek: ": 97.4,
+  "aofs: ": 96.41,
+  "hacim lot: ": 13433443,
+  "hacim tl: ": 1295175558.65
+},
+{
+  "_id": {
+    "$oid": "65ff33b64543601a039a88aa"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:34.057Z"
+  },
+  "kod: ": "ASUZU",
+  "son: ": 78.05,
+  "fark%: ": 8.4,
+  "en düsük: ": 71.55,
+  "en yuksek: ": 79.2,
+  "aofs: ": 77.13,
+  "hacim lot: ": 6056432,
+  "hacim tl: ": 467115210.3
+},
+{
+  "_id": {
+    "$oid": "65ff33b64543601a039a88ab"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:34.256Z"
+  },
+  "kod: ": "ATAGY",
+  "son: ": 13.11,
+  "fark%: ": -3.25,
+  "en düsük: ": 12.81,
+  "en yuksek: ": 13.54,
+  "aofs: ": 13.12,
+  "hacim lot: ": 296015,
+  "hacim tl: ": 3884037.42
+},
+{
+  "_id": {
+    "$oid": "65ff33b64543601a039a88ac"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:34.453Z"
+  },
+  "kod: ": "ATAKP",
+  "son: ": 43.26,
+  "fark%: ": -6.16,
+  "en düsük: ": 42,
+  "en yuksek: ": 47.2,
+  "aofs: ": 44.88,
+  "hacim lot: ": 2048132,
+  "hacim tl: ": 91910932.3
+},
+{
+  "_id": {
+    "$oid": "65ff33b64543601a039a88ad"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:34.649Z"
+  },
+  "kod: ": "ATATP",
+  "son: ": 107.6,
+  "fark%: ": -1.74,
+  "en düsük: ": 106,
+  "en yuksek: ": 114.5,
+  "aofs: ": 109.94,
+  "hacim lot: ": 939142,
+  "hacim tl: ": 103249078.1
+},
+{
+  "_id": {
+    "$oid": "65ff33b64543601a039a88ae"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:34.843Z"
+  },
+  "kod: ": "ATEKS",
+  "son: ": 143.9,
+  "fark%: ": 1.62,
+  "en düsük: ": 139.3,
+  "en yuksek: ": 145.4,
+  "aofs: ": 141.31,
+  "hacim lot: ": 93167,
+  "hacim tl: ": 13165736.7
+},
+{
+  "_id": {
+    "$oid": "65ff33b74543601a039a88af"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:35.036Z"
+  },
+  "kod: ": "ATLAS",
+  "son: ": 5.74,
+  "fark%: ": 5.9,
+  "en düsük: ": 5.4,
+  "en yuksek: ": 5.84,
+  "aofs: ": 5.63,
+  "hacim lot: ": 2196966,
+  "hacim tl: ": 12357702.46
+},
+{
+  "_id": {
+    "$oid": "65ff33b74543601a039a88b0"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:35.229Z"
+  },
+  "kod: ": "ATSYH",
+  "son: ": 48.5,
+  "fark%: ": 1.08,
+  "en düsük: ": 47.98,
+  "en yuksek: ": 48.8,
+  "aofs: ": 48.38,
+  "hacim lot: ": 85049,
+  "hacim tl: ": 4114397.86
+},
+{
+  "_id": {
+    "$oid": "65ff33b74543601a039a88b1"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:35.423Z"
+  },
+  "kod: ": "AVGYO",
+  "son: ": 7.85,
+  "fark%: ": 0,
+  "en düsük: ": 7.84,
+  "en yuksek: ": 8.01,
+  "aofs: ": 7.93,
+  "hacim lot: ": 428949,
+  "hacim tl: ": 3402521.95
+},
+{
+  "_id": {
+    "$oid": "65ff33b74543601a039a88b2"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:35.618Z"
+  },
+  "kod: ": "AVHOL",
+  "son: ": 47.62,
+  "fark%: ": -0.5,
+  "en düsük: ": 46.7,
+  "en yuksek: ": 48.68,
+  "aofs: ": 47.64,
+  "hacim lot: ": 974071,
+  "hacim tl: ": 46405608.58
+},
+{
+  "_id": {
+    "$oid": "65ff33b74543601a039a88b3"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:35.814Z"
+  },
+  "kod: ": "AVOD",
+  "son: ": 3.59,
+  "fark%: ": 2.57,
+  "en düsük: ": 3.37,
+  "en yuksek: ": 3.59,
+  "aofs: ": 3.47,
+  "hacim lot: ": 9482403,
+  "hacim tl: ": 32862955.45
+},
+{
+  "_id": {
+    "$oid": "65ff33b84543601a039a88b4"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:36.008Z"
+  },
+  "kod: ": "AVPGY",
+  "son: ": 44.08,
+  "fark%: ": 7.88,
+  "en düsük: ": 40.98,
+  "en yuksek: ": 44.94,
+  "aofs: ": 43.44,
+  "hacim lot: ": 13239178,
+  "hacim tl: ": 575119361.06
+},
+{
+  "_id": {
+    "$oid": "65ff33b84543601a039a88b5"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:36.201Z"
+  },
+  "kod: ": "AVTUR",
+  "son: ": 11.12,
+  "fark%: ": -5.76,
+  "en düsük: ": 11.01,
+  "en yuksek: ": 11.8,
+  "aofs: ": 11.27,
+  "hacim lot: ": 1038903,
+  "hacim tl: ": 11711674.8
+},
+{
+  "_id": {
+    "$oid": "65ff33b84543601a039a88b6"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:36.398Z"
+  },
+  "kod: ": "AYCES",
+  "son: ": 754.5,
+  "fark%: ": -0.92,
+  "en düsük: ": 744,
+  "en yuksek: ": 776,
+  "aofs: ": 760.38,
+  "hacim lot: ": 125908,
+  "hacim tl: ": 95737512
+},
+{
+  "_id": {
+    "$oid": "65ff33b84543601a039a88b7"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:36.593Z"
+  },
+  "kod: ": "AYDEM",
+  "son: ": 30.34,
+  "fark%: ": 1.07,
+  "en düsük: ": 29.6,
+  "en yuksek: ": 30.38,
+  "aofs: ": 30.02,
+  "hacim lot: ": 2334366,
+  "hacim tl: ": 70068025.7
+},
+{
+  "_id": {
+    "$oid": "65ff33b84543601a039a88b8"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:36.784Z"
+  },
+  "kod: ": "AYEN",
+  "son: ": 26.5,
+  "fark%: ": 1.69,
+  "en düsük: ": 26,
+  "en yuksek: ": 27.18,
+  "aofs: ": 26.65,
+  "hacim lot: ": 1032031,
+  "hacim tl: ": 27505976.28
+},
+{
+  "_id": {
+    "$oid": "65ff33b84543601a039a88b9"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:36.981Z"
+  },
+  "kod: ": "AYES",
+  "son: ": 42.02,
+  "fark%: ": -5.53,
+  "en düsük: ": 42,
+  "en yuksek: ": 44,
+  "aofs: ": 42.86,
+  "hacim lot: ": 96313,
+  "hacim tl: ": 4127491.28
+},
+{
+  "_id": {
+    "$oid": "65ff33b94543601a039a88ba"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:37.175Z"
+  },
+  "kod: ": "AYGAZ",
+  "son: ": 158.4,
+  "fark%: ": 1.73,
+  "en düsük: ": 153.4,
+  "en yuksek: ": 159.1,
+  "aofs: ": 156.86,
+  "hacim lot: ": 1034075,
+  "hacim tl: ": 161920053
+},
+{
+  "_id": {
+    "$oid": "65ff33b94543601a039a88bb"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:37.366Z"
+  },
+  "kod: ": "AZTEK",
+  "son: ": 118.8,
+  "fark%: ": 10,
+  "en düsük: ": 110,
+  "en yuksek: ": 118.8,
+  "aofs: ": 115.28,
+  "hacim lot: ": 1504094,
+  "hacim tl: ": 173392075.5
+},
+{
+  "_id": {
+    "$oid": "65ff33b94543601a039a88bc"
+  },
+  "tarih: ": {
+    "$date": "2024-03-23T19:55:37.561Z"
+  },
+  "kod: ": "BAGFS",
+  "son: ": 23.82,
+  "fark%: ": -1.16,
+  "en düsük: ": 23.56,
+  "en yuksek: ": 24.34,
+  "aofs: ": 24.03,
+  "hacim lot: ": 1967900,
+  "hacim tl: ": 47281693.88
+}]
