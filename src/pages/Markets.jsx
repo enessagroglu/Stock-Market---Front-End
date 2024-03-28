@@ -15,6 +15,12 @@ export default function Markets() {
         </Card>
       </div>
       <Divider />
+      <div className="col-12">
+        <div className="mb-3">
+          <Highlights />
+        </div>
+      </div>
+      <Divider />
       <div className="col-10 col-offset-1">
         <Card
           title="Fırsatların Dünyası: Hangi Sektör Sizi Bekliyor?"
@@ -25,12 +31,7 @@ export default function Markets() {
           </div>
         </Card>
       </div>
-      <Divider />
-      <div className="col-12">
-        <div className="">
-          <Highlights />
-        </div>
-      </div>
+      
     </>
   );
 }

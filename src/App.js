@@ -9,6 +9,7 @@ import Contact from "./pages/Contact";
 import Banner from "./components/Banner";
 import Markets from "./pages/Markets";
 import Hisseler from "./pages/Hisseler";
+import OneCikanlar from "./components/Markets/OneCikanlar";
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
                   <Route path="/contact" element={<Contact />} />
                   <Route path="/markets" element={<Markets />} />
                   <Route path="/hisse-senetleri" element={<Hisseler />} />
+                  <Route path="/one-cikanlar" element={<OneCikanlar />} />
                 </Routes>
               </BrowserRouter>
             </div>

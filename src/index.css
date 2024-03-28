@@ -239,3 +239,13 @@
   color: rgb(12, 12, 12); /* Üzerine gelindiğinde gri renk */
 }
 
+/* Bağlantıları varsayılan renge geri döndürmek */
+a {
+  color: inherit;
+  text-decoration: none; /* Altı çizgiyi kaldırma */
+}
+
+/* Bağlantıların üzerine gelindiğinde rengini değiştirmeme */
+a:hover {
+  color: inherit;
+}
