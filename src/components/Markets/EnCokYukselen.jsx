@@ -3,11 +3,11 @@ import { Accordion, AccordionTab } from "primereact/accordion";
 import data from "../../data/testDB.gunOzet.json";
 import { useEffect, useState } from "react";
 import { CandleChart } from "./CandleChart";
-import img1 from "../../assets/el-chart.webp";
+import img1 from "../../assets/zirve.webp";
 
 // import CandleData from "./CandleData.jsx";
 
-export default function OneCikanlar() {
+export default function EnCokYukselen() {
   const [veriListesi, setVeriListesi] = useState([]);
 
   useEffect(() => {
@@ -1082,7 +1082,7 @@ export default function OneCikanlar() {
           className="card  justify-content-center flex-wrap w-7 "
           style={{ marginLeft: "20%" }}
         >
-          <Card title="Günün Öne Çıkanları" className="text-blue-700">
+          <Card title="En Çok Yükselenler" className="text-blue-700">
             <div>
               <div className="flex justify-content-center flex-wrap ">
                 <img
@@ -1094,43 +1094,50 @@ export default function OneCikanlar() {
 
               <div>
                 <h3 className="text-blue-700">
-                  Öne Çıkanlar: Yatırımın Öncüleri{" "}
+                  En Çok Yükselenler: Yükselişin Zirvesindekiler
                 </h3>
                 <p>
-                  Yatırım dünyasına adım atarken, doğru bilgi ve derin anlayışla
-                  donanmış olmak gerekir. 'Öne Çıkanlar' kategorimizde yer alan
-                  hisseler, bu iki kritik öğenin titizlikle harmanlanmasıyla
-                  seçilmiştir. Peki, bu hisseler burada neden yer alıyor?
+                  Yatırımın zirvelerinde bir yolculuğa çıkmaya hazır olun. 'En
+                  Çok Yükselenler' kategorimiz, değer kazançlarında liderliği
+                  ele geçiren hisse senetleriyle sizleri karşılıyor. Bu
+                  hisseler, kısa sürede gösterdikleri performansla piyasanın en
+                  hızla yükselen yıldızları arasında yer almaktadır.
                 </p>
                 <p>
-                  Çünkü bu hisseler, piyasaların her dalgalanmasında fırsatları
-                  görebilen, yenilikçi ve sürdürülebilir iş modelleriyle öne
-                  çıkan şirketlerin paylarıdır. Onlar, sadece bugünün değil,
-                  yarının da kazananları olarak belirlenmişlerdir. Finansal güç,
-                  sektörel liderlik, büyüme potansiyeli ve teknolojik ilerleme
-                  gibi parametreler, onları 'Öne Çıkanlar' haline getiren
-                  özelliklerdir.
+                  Bu hisselerin yükselişinin ardında ne var? Güçlü finansal
+                  sonuçlar, stratejik şirket birleşmeleri, sektörel yenilikler
+                  veya oyun değiştiren haberler gibi faktörler, bu hisselerin
+                  yüksek kazançlar elde etmesinin ve yatırımcıların radarında
+                  kalmasının sebepleri arasındadır.
                 </p>
                 <p>
-                  Bu hisseleri keşfederken, yatırım kararlarınızı
-                  şekillendirecek derinlemesine analizler ve piyasa içgörülerine
-                  erişeceksiniz. Amacımız, sizi en güncel ve en etkili
-                  bilgilerle güçlendirmek, böylece yatırım portföyünüzü bilinçli
-                  bir şekilde genişletebilmenizi sağlamaktır. 'Öne Çıkanlar'
-                  sayfamızda, finansal başarıya giden yolda size eşlik edecek,
-                  özenle seçilmiş hisseler bulacaksınız.
+                  'En Çok Yükselenler', anlık piyasa dinamiklerinden fazlasını
+                  sunar; bu hisseler, arka plandaki şirketlerin sağlam yatırım
+                  temelleri ve büyüme potansiyeli sayesinde seçilmiştir.
+                  Kategorimizdeki şirketler, piyasa içerisinde sürdürülebilir
+                  bir başarı yolu çizmekte ve yatırımcıların güvenini sürekli
+                  pekiştirmektedir.
                 </p>
                 <p>
-                  Yatırım yolculuğunuza değer katmak için buradayız, çünkü doğru
-                  yatırım kararları, doğru bilgi ile başlar.
+                  Piyasanın en hızla yükselen hisseleri, sizi sadece bugünün
+                  kazançlarıyla değil, aynı zamanda geleceğin potansiyelleriyle
+                  de buluşturmayı hedefler. Yatırımınızı büyütme ve piyasa
+                  içgörüsü kazanma şansınız için buradayız; güncel analizler ve
+                  trend öngörüleriyle donanımınızı güçlendiriyoruz. 'En Çok
+                  Yükselenler' ile piyasa yükselişlerini kucaklayın.
                 </p>
-                <p>Işte one cikan hissler:</p>
+                <p>
+                  Piyasa zirvelerinin tadını çıkarın ve yatırımınıza değer
+                  katın, çünkü akıllı yatırım kararları, piyasadaki yükseliş
+                  trendlerini takip etmekle başlar.
+                </p>
+                <p>İşte en çok yükselen hisseler:</p>
               </div>
             </div>
 
             <Accordion activeIndex={0}>
               {veriListesi.map((item, index) => (
-                <AccordionTab key={index} header={`${index + 1 }- ${item.kod}`}>
+                <AccordionTab key={index} header={`${index + 1}- ${item.kod}`}>
                   <div>
                     <div className="flex justify-content-around flex-wrap ">
                       <div>

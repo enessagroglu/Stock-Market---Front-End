@@ -10,6 +10,9 @@ import Banner from "./components/Banner";
 import Markets from "./pages/Markets";
 import Hisseler from "./pages/Hisseler";
 import OneCikanlar from "./components/Markets/OneCikanlar";
+import EnCokIslem from "./components/Markets/EnCokIslem";
+import EnCokYukselen from "./components/Markets/EnCokYukselen";
+import EnCokDusen from "./components/Markets/EnCokDusen";
 
 function App() {
   return (
@@ -30,6 +33,9 @@ function App() {
                   <Route path="/markets" element={<Markets />} />
                   <Route path="/hisse-senetleri" element={<Hisseler />} />
                   <Route path="/one-cikanlar" element={<OneCikanlar />} />
+                  <Route path="/en-cok-islem" element={<EnCokIslem />} />
+                  <Route path="/en-cok-yukselen" element={<EnCokYukselen />} />
+                  <Route path="/en-cok-dusen" element={<EnCokDusen />} />
                 </Routes>
               </BrowserRouter>
             </div>

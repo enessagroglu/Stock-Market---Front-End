@@ -3,11 +3,11 @@ import { Accordion, AccordionTab } from "primereact/accordion";
 import data from "../../data/testDB.gunOzet.json";
 import { useEffect, useState } from "react";
 import { CandleChart } from "./CandleChart";
-import img1 from "../../assets/el-chart.webp";
+import img1 from "../../assets/dusus.webp";
 
 // import CandleData from "./CandleData.jsx";
 
-export default function OneCikanlar() {
+export default function EnCokDusen() {
   const [veriListesi, setVeriListesi] = useState([]);
 
   useEffect(() => {
@@ -1082,7 +1082,7 @@ export default function OneCikanlar() {
           className="card  justify-content-center flex-wrap w-7 "
           style={{ marginLeft: "20%" }}
         >
-          <Card title="Günün Öne Çıkanları" className="text-blue-700">
+          <Card title="En Çok Düşenler" className="text-blue-700">
             <div>
               <div className="flex justify-content-center flex-wrap ">
                 <img
@@ -1094,43 +1094,53 @@ export default function OneCikanlar() {
 
               <div>
                 <h3 className="text-blue-700">
-                  Öne Çıkanlar: Yatırımın Öncüleri{" "}
+                  En Çok Düşenler: Fırsatların Derinliklerinde
                 </h3>
                 <p>
-                  Yatırım dünyasına adım atarken, doğru bilgi ve derin anlayışla
-                  donanmış olmak gerekir. 'Öne Çıkanlar' kategorimizde yer alan
-                  hisseler, bu iki kritik öğenin titizlikle harmanlanmasıyla
-                  seçilmiştir. Peki, bu hisseler burada neden yer alıyor?
+                  Piyasanın derinliklerinde saklı fırsatları keşfetmeye hazır
+                  mısınız? 'En Çok Düşenler' kategorimiz, kısa sürede büyük
+                  düşüşler yaşayan hisse senetlerini sizler için bir araya
+                  getiriyor. Bu hisseler, piyasanın en hızla değer kaybeden
+                  varlıkları arasında yer alarak, dikkatli yatırımcılar için
+                  benzersiz fırsatlar sunmaktadır.
                 </p>
                 <p>
-                  Çünkü bu hisseler, piyasaların her dalgalanmasında fırsatları
-                  görebilen, yenilikçi ve sürdürülebilir iş modelleriyle öne
-                  çıkan şirketlerin paylarıdır. Onlar, sadece bugünün değil,
-                  yarının da kazananları olarak belirlenmişlerdir. Finansal güç,
-                  sektörel liderlik, büyüme potansiyeli ve teknolojik ilerleme
-                  gibi parametreler, onları 'Öne Çıkanlar' haline getiren
-                  özelliklerdir.
+                  Bu hisseler neden bu kadar düşüş yaşadı? Piyasa
+                  dalgalanmaları, beklenmedik sektörel olaylar veya şirket içi
+                  gelişmeler gibi faktörler, bu hisselerin değer kaybetmesine
+                  neden olabilir. Ancak her düşüş, gözlemci yatırımcılar için
+                  potansiyel bir toparlanma ve yatırım fırsatı anlamına gelir.
                 </p>
                 <p>
-                  Bu hisseleri keşfederken, yatırım kararlarınızı
-                  şekillendirecek derinlemesine analizler ve piyasa içgörülerine
-                  erişeceksiniz. Amacımız, sizi en güncel ve en etkili
-                  bilgilerle güçlendirmek, böylece yatırım portföyünüzü bilinçli
-                  bir şekilde genişletebilmenizi sağlamaktır. 'Öne Çıkanlar'
-                  sayfamızda, finansal başarıya giden yolda size eşlik edecek,
-                  özenle seçilmiş hisseler bulacaksınız.
+                  'En Çok Düşenler', piyasadaki anlık değişimlerden çok daha
+                  fazlasını temsil eder; bu hisseler, geçici zorluklarla karşı
+                  karşıya kalan, ancak uzun vadede toparlanma ve büyüme
+                  potansiyeline sahip şirketlerden seçilmiştir. Kategorimizdeki
+                  şirketler, piyasada yaşanan dalgalanmalara rağmen gelecekte
+                  güçlü dönüş yapabilecek potansiyeli barındırmaktadır.
                 </p>
                 <p>
-                  Yatırım yolculuğunuza değer katmak için buradayız, çünkü doğru
-                  yatırım kararları, doğru bilgi ile başlar.
+                  Piyasanın en hızla değer kaybeden hisseleri, sizi sadece
+                  bugünün zorluklarıyla değil, aynı zamanda geleceğin yükseliş
+                  potansiyelleriyle de tanıştırır. Yatırımlarınızı bilinçli
+                  şekilde yönetme ve piyasa içgörüsü kazanma fırsatınız için
+                  buradayız; güncel analizler ve derinlemesine incelemelerle
+                  donanımınızı güçlendiriyoruz. 'En Çok Düşenler' ile piyasanın
+                  dalgalarını navige edin.
                 </p>
-                <p>Işte one cikan hissler:</p>
+                <p>
+                  Piyasa dalgalarının ardında yatan fırsatları değerlendirin ve
+                  yatırımınıza derinlik katın, çünkü bilge yatırım kararları,
+                  piyasadaki düşüş trendlerini anlamak ve onlardan faydalanmakla
+                  başlar.
+                </p>
+                <p>İşte en çok değer kaybeden hisseler:</p>
               </div>
             </div>
 
             <Accordion activeIndex={0}>
               {veriListesi.map((item, index) => (
-                <AccordionTab key={index} header={`${index + 1 }- ${item.kod}`}>
+                <AccordionTab key={index} header={`${index + 1}- ${item.kod}`}>
                   <div>
                     <div className="flex justify-content-around flex-wrap ">
                       <div>

@@ -5,10 +5,7 @@ import card3Image from "../../assets/top-gainers.webp";
 import card4Image from "../../assets/top-losers.webp";
 import { BrowserRouter as Router, Link, Route } from "react-router-dom";
 
-
 export default function Highlights() {
- 
-
   const header1 = (
     <img alt="Card" src={card1Image} className="border-round-top-xl" />
   );
@@ -48,45 +45,64 @@ export default function Highlights() {
               </p>
             </Card>
           </Link>
-          <Card
-            title="En Çok İşlem Görenler"
-            header={header1}
-            className="md:w-25rem mr-5"
-          >
-            <p className="m-0">
-              Piyasanın Nabzını Tutun! Bu kategori, piyasadaki en popüler ve
-              aktif hisse senetlerini içerir, böylece yatırımcılar olarak her
-              anı kaçırmazsınız. İşlem hacmi yüksek olan bu hisseler, potansiyel
-              fırsatları gözden kaçırmamanızı sağlar. Piyasadaki hareketliliği
-              yakından takip etmek ve portföyünüzü güçlendirmek için 'En Çok
-              İşlem Görenler' kategorimize göz atmayı unutmayın!
-            </p>
-          </Card>
-          <Card
-            title="En Çok Yükselenler"
-            header={header3}
-            className="md:w-25rem mr-5"
-          >
-            <p className="m-0">
-              Yükselen Yıldızlar! 'En Çok Yükselenler' kategorimizde, piyasadaki
-              en hızlı yükselen hisse senetlerini keşfedin. Bu kategori ile
-              yükselen trendleri yakından takip ederek potansiyel fırsatları
-              değerlendirebilir ve portföyünüzü güçlendirebilirsiniz. Piyasadaki
-              hareketliliği yakalamak ve kararlarınızı bilgiye dayalı olarak
-              almak için 'En Çok Yükselenler' kategorimize göz atmayı unutmayın!
-            </p>
-          </Card>
-          <Card title="En Çok Düşenler" header={header4} className="md:w-25rem">
-            <p className="m-0">
-              Dalgalananlar! Bu kategorimizde, piyasadaki en büyük düşüş yaşayan
-              hisse senetlerini bulabilirsiniz.Düşen trendleri izleyerek
-              piyasada meydana gelen değişimleri değerlendirebilir ve
-              stratejilerinizi buna göre şekillendirebilirsiniz. Piyasadaki
-              hareketliliği yakından takip etmek ve kararlarınızı bilgiye dayalı
-              olarak almak için 'En Çok Düşenler' kategorimize göz atmayı
-              unutmayın!
-            </p>
-          </Card>
+          <Link to="/en-cok-islem">
+            <Card
+              title="En Çok İşlem Görenler"
+              header={header1}
+              className="md:w-25rem mr-5"
+            >
+              <p className="m-0">
+                Piyasanın Nabzını Tutun! Bu kategori, piyasadaki en popüler ve
+                aktif hisse senetlerini içerir, böylece yatırımcılar olarak her
+                anı kaçırmazsınız. İşlem hacmi yüksek olan bu hisseler,
+                potansiyel fırsatları gözden kaçırmamanızı sağlar. Piyasadaki
+                hareketliliği yakından takip etmek ve portföyünüzü güçlendirmek
+                için 'En Çok İşlem Görenler' kategorimize göz atmayı unutmayın!
+                Bu seçkin hisseler, piyasa trendlerini öngörmenize olanak tanır,
+                böylece yatırım stratejinizi piyasanın ritmine göre
+                şekillendirebilirsiniz.
+              </p>
+            </Card>
+          </Link>
+          <Link to="/en-cok-yukselen">
+            <Card
+              title="En Çok Yükselenler"
+              header={header3}
+              className="md:w-25rem mr-5"
+            >
+              <p className="m-0">
+                Yükselen Yıldızlar! 'En Çok Yükselenler' kategorimizde,
+                piyasadaki en hızlı yükselen hisse senetlerini keşfedin. Bu
+                kategori ile yükselen trendleri yakından takip ederek potansiyel
+                fırsatları değerlendirebilir ve portföyünüzü
+                güçlendirebilirsiniz. Piyasadaki hareketliliği yakalamak ve
+                kararlarınızı bilgiye dayalı olarak almak için bu kategorimize
+                göz atın! Her bir hisse, piyasanın mevcut momentumunu yansıtan,
+                gelecek vaat eden bir potansiyele sahiptir, bu da onları
+                geleceğin de kazananı yapabilir.
+              </p>
+            </Card>
+          </Link>
+          <Link to="/en-cok-dusen">
+            <Card
+              title="En Çok Düşenler"
+              header={header4}
+              className="md:w-25rem"
+            >
+              <p className="m-0">
+                Dalgalananlar! Bu kategorimizde, piyasadaki en büyük düşüş
+                yaşayan hisse senetlerini bulabilirsiniz. Düşen trendleri
+                izleyerek piyasada meydana gelen değişimleri değerlendirebilir
+                ve stratejilerinizi buna göre şekillendirebilirsiniz. Piyasadaki
+                hareketliliği yakından takip etmek ve kararlarınızı bilgiye
+                dayalı olarak almak için bu kategorimize göz atmayı unutmayın!
+                Her düşüş, farklı bir bakış açısıyla ele alındığında,
+                gelecekteki büyüme için bir toparlanma fırsatı olabilir. Bu
+                nedenle, bölümümüz, piyasadaki dönüşümü ilk elden deneyimleme
+                şansını sunar.
+              </p>
+            </Card>
+          </Link>
         </div>
       </div>
     </>

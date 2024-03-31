@@ -3,11 +3,11 @@ import { Accordion, AccordionTab } from "primereact/accordion";
 import data from "../../data/testDB.gunOzet.json";
 import { useEffect, useState } from "react";
 import { CandleChart } from "./CandleChart";
-import img1 from "../../assets/el-chart.webp";
+import img1 from "../../assets/masa-kalem.webp";
 
 // import CandleData from "./CandleData.jsx";
 
-export default function OneCikanlar() {
+export default function EnCokIslem() {
   const [veriListesi, setVeriListesi] = useState([]);
 
   useEffect(() => {
@@ -1082,7 +1082,7 @@ export default function OneCikanlar() {
           className="card  justify-content-center flex-wrap w-7 "
           style={{ marginLeft: "20%" }}
         >
-          <Card title="Günün Öne Çıkanları" className="text-blue-700">
+          <Card title="En Çok İşlem Görenler" className="text-blue-700">
             <div>
               <div className="flex justify-content-center flex-wrap ">
                 <img
@@ -1094,37 +1094,43 @@ export default function OneCikanlar() {
 
               <div>
                 <h3 className="text-blue-700">
-                  Öne Çıkanlar: Yatırımın Öncüleri{" "}
+                  En Çok İşlem Görenler: Piyasa Dinamikleri
                 </h3>
                 <p>
-                  Yatırım dünyasına adım atarken, doğru bilgi ve derin anlayışla
-                  donanmış olmak gerekir. 'Öne Çıkanlar' kategorimizde yer alan
-                  hisseler, bu iki kritik öğenin titizlikle harmanlanmasıyla
-                  seçilmiştir. Peki, bu hisseler burada neden yer alıyor?
+                  Piyasanın kalbinin attığı yerdesiniz. 'En Çok İşlem Görenler'
+                  kategorimiz, yoğun işlem gören ve sürekli hareket halinde olan
+                  hisse senetleriyle doludur. Bu hisseler, piyasada en aktif
+                  olanlar arasındadır ve yatırımcılara piyasayı yakından takip
+                  etme imkanı sunar.
                 </p>
                 <p>
-                  Çünkü bu hisseler, piyasaların her dalgalanmasında fırsatları
-                  görebilen, yenilikçi ve sürdürülebilir iş modelleriyle öne
-                  çıkan şirketlerin paylarıdır. Onlar, sadece bugünün değil,
-                  yarının da kazananları olarak belirlenmişlerdir. Finansal güç,
-                  sektörel liderlik, büyüme potansiyeli ve teknolojik ilerleme
-                  gibi parametreler, onları 'Öne Çıkanlar' haline getiren
-                  özelliklerdir.
+                  Neden bu hisseler bu kadar hareketli? Çünkü yatırımcılar
+                  tarafından sürekli takip edilen ve tercih edilen bu hisseler,
+                  yüksek işlem hacimleri ve volatiliteleriyle bilinir. Bu
+                  özellikler, onları piyasa trendlerini ve yatırım fırsatlarını
+                  gözlemlemek için mükemmel birer aday yapar.
                 </p>
                 <p>
-                  Bu hisseleri keşfederken, yatırım kararlarınızı
-                  şekillendirecek derinlemesine analizler ve piyasa içgörülerine
-                  erişeceksiniz. Amacımız, sizi en güncel ve en etkili
-                  bilgilerle güçlendirmek, böylece yatırım portföyünüzü bilinçli
-                  bir şekilde genişletebilmenizi sağlamaktır. 'Öne Çıkanlar'
-                  sayfamızda, finansal başarıya giden yolda size eşlik edecek,
-                  özenle seçilmiş hisseler bulacaksınız.
+                  'En Çok İşlem Görenler', sadece piyasanın anlık durumunu
+                  yansıtmaz, aynı zamanda bu hisselerin arkasındaki şirketlerin
+                  sağlamlığını ve piyasa güvenini de gösterir. Bu bölümde yer
+                  alan şirketlerin piyasadaki performansları, yatırımcıların
+                  güvenini ve piyasa değerlerini kanıtlar niteliktedir.
                 </p>
                 <p>
-                  Yatırım yolculuğunuza değer katmak için buradayız, çünkü doğru
-                  yatırım kararları, doğru bilgi ile başlar.
+                  İşlem hacmi yüksek hisseler, portföyünüzü çeşitlendirme ve
+                  piyasada bilinçli adımlar atma şansı verir. Yatırım
+                  kararlarınızı daha da bilinçli hale getirmek için buradayız;
+                  en son piyasa analizleri ve trend raporlarıyla sizi
+                  donatıyoruz. 'En Çok İşlem Görenler' ile piyasanın ritmini
+                  yakalayın.
                 </p>
-                <p>Işte one cikan hissler:</p>
+                <p>
+                  Piyasa liderleriyle yolculuğunuza yön verin, çünkü başarılı
+                  yatırım kararları, piyasa hareketlerinin doğru okunmasıyla
+                  başlar.
+                </p>
+                <p>İşte en çok işlem gören hisseler:</p>
               </div>
             </div>
 
