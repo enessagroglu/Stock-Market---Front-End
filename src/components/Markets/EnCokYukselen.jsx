@@ -1,8 +1,8 @@
 import { Card } from "primereact/card";
 import { DataTable } from "primereact/datatable";
 import { Column } from "primereact/column";
-import yukselenler from "../../data/testDB.sonuclaryuksek.json";
-import bistData from "../../data/testDB.aylıkBISTData.json";
+import yukselenler from "../../data/testDB.yukselenler.json";
+import bistData from "../../data/guncelHisseVerileri.json";
 import { useEffect, useState } from "react";
 import img1 from "../../assets/zirve.webp";
 
@@ -12,20 +12,21 @@ export default function EnCokYukselen() {
   const [veriListesi, setVeriListesi] = useState([]);
 
   function yukselenleriBistDataIleEşleştir(yukselenler, bistData) {
-    // Yeni listeyi depolamak için bir dizi oluştur
     let eslesenListe = [];
-  
-    // `yukselenler` listesindeki her bir obje için döngü başlat
-    yukselenler.forEach(yukselen => {
-      // `bistData` içinde eşleşen "islemKodu"nu bul
-      const eslesenBistData = bistData.find(bist => bist.islemKodu === yukselen.islemKodu);
-      // Eğer eşleşen bir obje varsa, yeni listeye ekle
+
+    yukselenler.forEach((yukselen) => {
+      const eslesenBistData = bistData.find(
+        (bist) => bist.islemKodu === yukselen.islemKodu
+      );
       if (eslesenBistData) {
+        // Eşleşen hisse senedine yukselenlerdeki "fiyatDegisimSon" değerini ekle
+        eslesenBistData.fiyatDegisimSon = `%${yukselen.fiyatDegisimSon.toFixed(
+          2
+        )}`;
         eslesenListe.push(eslesenBistData);
       }
     });
-  
-    // Eşleşen objeleri içeren listeyi dön
+
     return eslesenListe;
   }
 
@@ -60,13 +61,12 @@ export default function EnCokYukselen() {
       style: "currency",
       currency: "TRY",
       minimumFractionDigits: 0,
-      maximumFractionDigits: 2, 
+      maximumFractionDigits: 2,
     }).format(number);
   };
 
   useEffect(() => {
-    const data = yukselenleriBistDataIleEşleştir(yukselenler,bistData);
-    console.log(data);
+    const data = yukselenleriBistDataIleEşleştir(yukselenler, bistData);
 
     const duzenlenmisVeri = data.map((item) => {
       const duzenlenmisItem = {};
@@ -83,7 +83,6 @@ export default function EnCokYukselen() {
     setVeriListesi(duzenlenmisVeri);
   }, []);
 
-  
   const currencyTemplate = (rowData, field) => {
     return formatCurrency(rowData[field]);
   };
@@ -176,6 +175,12 @@ export default function EnCokYukselen() {
                   sortable
                   className="text-red-500"
                 ></Column>
+                {/* <Column
+                  field="fiyatDegisimSon"
+                  header="Fiyat Değişim Son"
+                  sortable
+                  className="text-cyan-600"
+                ></Column> */}
                 <Column
                   field="kapanisFiyat"
                   header="Kapanış Fiyatı"

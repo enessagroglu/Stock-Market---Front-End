@@ -1,7 +1,7 @@
 import { Card } from "primereact/card";
 import { DataTable } from "primereact/datatable";
 import { Column } from "primereact/column";
-import data from "../../data/testDB.gunOzet.json";
+import data from "../../data/testDB.enIslemGorenler.json";
 import { useEffect, useState } from "react";
 import img1 from "../../assets/masa-kalem.webp";
 

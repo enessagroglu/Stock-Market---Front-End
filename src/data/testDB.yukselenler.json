@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "66118733ff79497ea896f36b"
+  },
+  "islemKodu": "BAYRK.E",
+  "fiyatDegisimSon": 0.8320610687022902
+},
+{
+  "_id": {
+    "$oid": "66118733ff79497ea896f36c"
+  },
+  "islemKodu": "NTGAZ.E",
+  "fiyatDegisimSon": 0.5441176470588236
+},
+{
+  "_id": {
+    "$oid": "66118733ff79497ea896f36d"
+  },
+  "islemKodu": "IZFAS.E",
+  "fiyatDegisimSon": 0.4461538461538461
+},
+{
+  "_id": {
+    "$oid": "66118733ff79497ea896f36e"
+  },
+  "islemKodu": "ALDUK.F1",
+  "fiyatDegisimSon": 0.405152224824356
+},
+{
+  "_id": {
+    "$oid": "66118733ff79497ea896f36f"
+  },
+  "islemKodu": "ERSU.E",
+  "fiyatDegisimSon": 0.3992673992673994
+},
+{
+  "_id": {
+    "$oid": "66118733ff79497ea896f370"
+  },
+  "islemKodu": "SELGD.E",
+  "fiyatDegisimSon": 0.39519359145527355
+},
+{
+  "_id": {
+    "$oid": "66118733ff79497ea896f371"
+  },
+  "islemKodu": "DIRIT.E",
+  "fiyatDegisimSon": 0.3823163138231631
+},
+{
+  "_id": {
+    "$oid": "66118733ff79497ea896f372"
+  },
+  "islemKodu": "SUWEN.E",
+  "fiyatDegisimSon": 0.3659574468085105
+},
+{
+  "_id": {
+    "$oid": "66118733ff79497ea896f373"
+  },
+  "islemKodu": "LKMNH.E",
+  "fiyatDegisimSon": 0.3204081632653062
+},
+{
+  "_id": {
+    "$oid": "66118733ff79497ea896f374"
+  },
+  "islemKodu": "AGROT.E",
+  "fiyatDegisimSon": 0.31053203040173716
+},
+{
+  "_id": {
+    "$oid": "66118733ff79497ea896f375"
+  },
+  "islemKodu": "EKOS.E",
+  "fiyatDegisimSon": 0.3079178885630498
+},
+{
+  "_id": {
+    "$oid": "66118733ff79497ea896f376"
+  },
+  "islemKodu": "KTLEV.E",
+  "fiyatDegisimSon": 0.306086956521739
+},
+{
+  "_id": {
+    "$oid": "66118733ff79497ea896f377"
+  },
+  "islemKodu": "CCOLA.E",
+  "fiyatDegisimSon": 0.29673041332510786
+},
+{
+  "_id": {
+    "$oid": "66118733ff79497ea896f378"
+  },
+  "islemKodu": "MERCN.E",
+  "fiyatDegisimSon": 0.268003646308113
+},
+{
+  "_id": {
+    "$oid": "66118733ff79497ea896f379"
+  },
+  "islemKodu": "ICUGS.E",
+  "fiyatDegisimSon": 0.267156862745098
+}]

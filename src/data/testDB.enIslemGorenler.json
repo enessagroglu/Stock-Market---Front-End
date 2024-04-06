@@ -1,0 +1,410 @@
+[{
+  "_id": {
+    "$oid": "66118669ff79497ea896f31f"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "EKGYO.E",
+  "Bülten Adı": "EMLAK KONUT GMYO",
+  "Sektör Adı": "GAYRİMENKUL YATIRIM ORTAKLIKLARI",
+  "Açılış Seansı İşlem Hacmi (TL)": 304373687.79,
+  "Toplam İşlem Hacmi (TL)": 31452821520.7,
+  "Açılış Seansı İşlem Miktarı": 41706700,
+  "Toplam İşlem Miktarı": {
+    "$numberLong": "4302495279"
+  },
+  "En Düşük Fiyat": 6.75,
+  "En Yüksek Fiyat": 7.96,
+  "Kapanış Fiyatı": 6.88,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66118669ff79497ea896f320"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "YKBNK.E",
+  "Bülten Adı": "YAPI VE KREDI BANK.",
+  "Sektör Adı": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+  "Açılış Seansı İşlem Hacmi (TL)": 430806787.96,
+  "Toplam İşlem Hacmi (TL)": 76251805829.23,
+  "Açılış Seansı İşlem Miktarı": 21102228,
+  "Toplam İşlem Miktarı": {
+    "$numberLong": "3741108410"
+  },
+  "En Düşük Fiyat": 19.06,
+  "En Yüksek Fiyat": 22.12,
+  "Kapanış Fiyatı": 19.54,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66118669ff79497ea896f321"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "ISCTR.E",
+  "Bülten Adı": "IS BANKASI (C)",
+  "Sektör Adı": "HOLDİNGLER VE YATIRIM ŞİRKETLERİ",
+  "Açılış Seansı İşlem Hacmi (TL)": 583322647.48,
+  "Toplam İşlem Hacmi (TL)": 86055669603.44,
+  "Açılış Seansı İşlem Miktarı": 25166067,
+  "Toplam İşlem Miktarı": {
+    "$numberLong": "3710479065"
+  },
+  "En Düşük Fiyat": 21.58,
+  "En Yüksek Fiyat": 25.64,
+  "Kapanış Fiyatı": 23.36,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66118669ff79497ea896f322"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "AGROT.E",
+  "Bülten Adı": "AGROTECH TEKNOLOJI",
+  "Sektör Adı": "TARIM VE HAYVANCILIK AVCILIK VE İLGİLİ HİZMET FAALİYETLERİ",
+  "Açılış Seansı İşlem Hacmi (TL)": 403493963.73,
+  "Toplam İşlem Hacmi (TL)": 26112192002.36,
+  "Açılış Seansı İşlem Miktarı": 35803959,
+  "Toplam İşlem Miktarı": {
+    "$numberLong": "2202686292"
+  },
+  "En Düşük Fiyat": 8.29,
+  "En Yüksek Fiyat": 16.26,
+  "Kapanış Fiyatı": 12.07,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66118669ff79497ea896f323"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "AKBNK.E",
+  "Bülten Adı": "AKBANK",
+  "Sektör Adı": "BANKALAR",
+  "Açılış Seansı İşlem Hacmi (TL)": 466311864.26,
+  "Toplam İşlem Hacmi (TL)": 82028433664.34,
+  "Açılış Seansı İşlem Miktarı": 12669737,
+  "Toplam İşlem Miktarı": {
+    "$numberLong": "2200069675"
+  },
+  "En Düşük Fiyat": 34.44,
+  "En Yüksek Fiyat": 40.72,
+  "Kapanış Fiyatı": 36.52,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66118669ff79497ea896f324"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "ZOREN.E",
+  "Bülten Adı": "ZORLU ENERJI",
+  "Sektör Adı": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+  "Açılış Seansı İşlem Hacmi (TL)": 93266015.43,
+  "Toplam İşlem Hacmi (TL)": 9087752948.41,
+  "Açılış Seansı İşlem Miktarı": 20041656,
+  "Toplam İşlem Miktarı": 1981559087,
+  "En Düşük Fiyat": 3.94,
+  "En Yüksek Fiyat": 5.15,
+  "Kapanış Fiyatı": 4.23,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66118669ff79497ea896f325"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "ODAS.E",
+  "Bülten Adı": "ODAS ELEKTRIK",
+  "Sektör Adı": "ELEKTRİK GAZ VE BUHAR",
+  "Açılış Seansı İşlem Hacmi (TL)": 174869101.88,
+  "Toplam İşlem Hacmi (TL)": 18624641841.84,
+  "Açılış Seansı İşlem Miktarı": 17040041,
+  "Toplam İşlem Miktarı": 1971349464,
+  "En Düşük Fiyat": 7.43,
+  "En Yüksek Fiyat": 11.58,
+  "Kapanış Fiyatı": 8.25,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66118669ff79497ea896f326"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "BEGYO.E",
+  "Bülten Adı": "BATI EGE GMYO",
+  "Sektör Adı": "GAYRİMENKUL YATIRIM ORTAKLIKLARI",
+  "Açılış Seansı İşlem Hacmi (TL)": 259563456.83,
+  "Toplam İşlem Hacmi (TL)": 5038537930.42,
+  "Açılış Seansı İşlem Miktarı": 80026999,
+  "Toplam İşlem Miktarı": 1678945682,
+  "En Düşük Fiyat": 2.71,
+  "En Yüksek Fiyat": 4.38,
+  "Kapanış Fiyatı": 2.92,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66118669ff79497ea896f327"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "SKBNK.E",
+  "Bülten Adı": "SEKERBANK",
+  "Sektör Adı": "HOLDİNGLER VE YATIRIM ŞİRKETLERİ",
+  "Açılış Seansı İşlem Hacmi (TL)": 45321451.29,
+  "Toplam İşlem Hacmi (TL)": 9007535545.17,
+  "Açılış Seansı İşlem Miktarı": 9095279,
+  "Toplam İşlem Miktarı": 1620957249,
+  "En Düşük Fiyat": 3.73,
+  "En Yüksek Fiyat": 7.21,
+  "Kapanış Fiyatı": 4.3,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66118669ff79497ea896f328"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "PETKM.E",
+  "Bülten Adı": "PETKIM",
+  "Sektör Adı": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+  "Açılış Seansı İşlem Hacmi (TL)": 266999581.4,
+  "Toplam İşlem Hacmi (TL)": 30364337084.36,
+  "Açılış Seansı İşlem Miktarı": 13445448,
+  "Toplam İşlem Miktarı": 1580594305,
+  "En Düşük Fiyat": 16.96,
+  "En Yüksek Fiyat": 22,
+  "Kapanış Fiyatı": 18.21,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66118669ff79497ea896f329"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "EREGL.E",
+  "Bülten Adı": "EREGLI DEMIR CELIK",
+  "Sektör Adı": "ANA METAL SANAYİ",
+  "Açılış Seansı İşlem Hacmi (TL)": 410646627.74,
+  "Toplam İşlem Hacmi (TL)": 59261061626.08,
+  "Açılış Seansı İşlem Miktarı": 10069101,
+  "Toplam İşlem Miktarı": 1449878425,
+  "En Düşük Fiyat": 37.76,
+  "En Yüksek Fiyat": 43.56,
+  "Kapanış Fiyatı": 41,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66118669ff79497ea896f32a"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "IHLAS.E",
+  "Bülten Adı": "IHLAS HOLDING",
+  "Sektör Adı": "HOLDİNGLER VE YATIRIM ŞİRKETLERİ",
+  "Açılış Seansı İşlem Hacmi (TL)": 8088272.05,
+  "Toplam İşlem Hacmi (TL)": 1407790975.24,
+  "Açılış Seansı İşlem Miktarı": 7378242,
+  "Toplam İşlem Miktarı": 1260934479,
+  "En Düşük Fiyat": 0.94,
+  "En Yüksek Fiyat": 1.26,
+  "Kapanış Fiyatı": 1,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66118669ff79497ea896f32b"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "KOZAL.E",
+  "Bülten Adı": "KOZA ALTIN",
+  "Sektör Adı": "METAL CEVHERİ MADENCİLİĞİ",
+  "Açılış Seansı İşlem Hacmi (TL)": 231455189.83,
+  "Toplam İşlem Hacmi (TL)": 26645535643.45,
+  "Açılış Seansı İşlem Miktarı": 10592359,
+  "Toplam İşlem Miktarı": 1248436526,
+  "En Düşük Fiyat": 18.52,
+  "En Yüksek Fiyat": 24.54,
+  "Kapanış Fiyatı": 19.53,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66118669ff79497ea896f32c"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "MOBTL.E",
+  "Bülten Adı": "MOBILTEL ILETISIM",
+  "Sektör Adı": "BİLİŞİM",
+  "Açılış Seansı İşlem Hacmi (TL)": 42301166.91,
+  "Toplam İşlem Hacmi (TL)": 5871126566.97,
+  "Açılış Seansı İşlem Miktarı": 8562669,
+  "Toplam İşlem Miktarı": 1244311298,
+  "En Düşük Fiyat": 3.54,
+  "En Yüksek Fiyat": 5.75,
+  "Kapanış Fiyatı": 3.67,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66118669ff79497ea896f32d"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "SASA.E",
+  "Bülten Adı": "SASA POLYESTER",
+  "Sektör Adı": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+  "Açılış Seansı İşlem Hacmi (TL)": 262574700.25,
+  "Toplam İşlem Hacmi (TL)": 49938039576.91,
+  "Açılış Seansı İşlem Miktarı": 5815594,
+  "Toplam İşlem Miktarı": 1121023678,
+  "En Düşük Fiyat": 36.2,
+  "En Yüksek Fiyat": 54.6,
+  "Kapanış Fiyatı": 36.44,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66118669ff79497ea896f32e"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "AKFGY.E",
+  "Bülten Adı": "AKFEN GMYO",
+  "Sektör Adı": "GAYRİMENKUL YATIRIM ORTAKLIKLARI",
+  "Açılış Seansı İşlem Hacmi (TL)": 15290115.34,
+  "Toplam İşlem Hacmi (TL)": 2690330810.92,
+  "Açılış Seansı İşlem Miktarı": 5198664,
+  "Toplam İşlem Miktarı": 1102082732,
+  "En Düşük Fiyat": 1.65,
+  "En Yüksek Fiyat": 4.74,
+  "Kapanış Fiyatı": 1.97,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66118669ff79497ea896f32f"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "TSKB.E",
+  "Bülten Adı": "T.S.K.B.",
+  "Sektör Adı": "GAYRİMENKUL YATIRIM ORTAKLIKLARI",
+  "Açılış Seansı İşlem Hacmi (TL)": 38115610.21,
+  "Toplam İşlem Hacmi (TL)": 7396459412.06,
+  "Açılış Seansı İşlem Miktarı": 5410637,
+  "Toplam İşlem Miktarı": 1067224252,
+  "En Düşük Fiyat": 5.99,
+  "En Yüksek Fiyat": 7.65,
+  "Kapanış Fiyatı": 6.55,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66118669ff79497ea896f330"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "TTKOM.E",
+  "Bülten Adı": "TURK TELEKOM",
+  "Sektör Adı": "TELEKOMÜNİKASYON",
+  "Açılış Seansı İşlem Hacmi (TL)": 139397052.24,
+  "Toplam İşlem Hacmi (TL)": 23674901490.9,
+  "Açılış Seansı İşlem Miktarı": 5625975,
+  "Toplam İşlem Miktarı": 953773708,
+  "En Düşük Fiyat": 23.2,
+  "En Yüksek Fiyat": 27.26,
+  "Kapanış Fiyatı": 24.36,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66118669ff79497ea896f331"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "ASELS.E",
+  "Bülten Adı": "ASELSAN",
+  "Sektör Adı": "SAVUNMA",
+  "Açılış Seansı İşlem Hacmi (TL)": 418176221.5,
+  "Toplam İşlem Hacmi (TL)": 44523359521.34,
+  "Açılış Seansı İşlem Miktarı": 8873957,
+  "Toplam İşlem Miktarı": 949302633,
+  "En Düşük Fiyat": 42.9,
+  "En Yüksek Fiyat": 50.4,
+  "Kapanış Fiyatı": 44.98,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66118669ff79497ea896f332"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "VAKBN.E",
+  "Bülten Adı": "VAKIFLAR BANKASI",
+  "Sektör Adı": "TOPTAN TİCARET",
+  "Açılış Seansı İşlem Hacmi (TL)": 86297698,
+  "Toplam İşlem Hacmi (TL)": 12589995586.84,
+  "Açılış Seansı İşlem Miktarı": 6346099,
+  "Toplam İşlem Miktarı": 923995604,
+  "En Düşük Fiyat": 11.96,
+  "En Yüksek Fiyat": 14.59,
+  "Kapanış Fiyatı": 12.84,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  }
+}]
