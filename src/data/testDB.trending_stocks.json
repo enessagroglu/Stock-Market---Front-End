@@ -1,0 +1,4504 @@
+[{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ca1"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "ISKUR.E",
+  "Bülten Adı": "IS BANKASI (KUR.)",
+  "Açılış Seansı İşlem Hacmi (TL)": 884399.9,
+  "Toplam İşlem Hacmi (TL)": 9287863.9,
+  "Açılış Seansı İşlem Miktarı": 2,
+  "Toplam İşlem Miktarı": 21,
+  "En Düşük Fiyat": 350000,
+  "En Yüksek Fiyat": 505000,
+  "Kapanış Fiyatı": 504999.9,
+  "Tarih": {
+    "$date": "2020-02-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 189999.80000000005,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ca2"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "ISATR.E",
+  "Bülten Adı": "IS BANKASI (A)",
+  "Açılış Seansı İşlem Hacmi (TL)": 0,
+  "Toplam İşlem Hacmi (TL)": 1255383,
+  "Açılış Seansı İşlem Miktarı": 0,
+  "Toplam İşlem Miktarı": 4,
+  "En Düşük Fiyat": 253000,
+  "En Yüksek Fiyat": 380383,
+  "Kapanış Fiyatı": 380383,
+  "Tarih": {
+    "$date": "2020-02-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 160383,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ca3"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "ISBTR.E",
+  "Bülten Adı": "IS BANKASI (B)",
+  "Açılış Seansı İşlem Hacmi (TL)": 3368636,
+  "Toplam İşlem Hacmi (TL)": 27835693.8,
+  "Açılış Seansı İşlem Miktarı": 66,
+  "Toplam İşlem Miktarı": 555,
+  "En Düşük Fiyat": 39015,
+  "En Yüksek Fiyat": 56350,
+  "Kapanış Fiyatı": 43030.3,
+  "Tarih": {
+    "$date": "2020-02-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -1369.8999999999942,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ca4"
+  },
+  "Pazar Kodu ": "S",
+  "Pazar Adı": "PAY-PIYASA ONCESI ISLEM PLATFORMU",
+  "İşlem Kodu": "YBTAS.E",
+  "Bülten Adı": "YIBITAS INSAAT MALZEME",
+  "Açılış Seansı İşlem Hacmi (TL)": 1094959.2,
+  "Toplam İşlem Hacmi (TL)": 4086670.1,
+  "Açılış Seansı İşlem Miktarı": 146,
+  "Toplam İşlem Miktarı": 541,
+  "En Düşük Fiyat": 5662.8,
+  "En Yüksek Fiyat": 8910,
+  "Kapanış Fiyatı": 7510.1,
+  "Tarih": {
+    "$date": "2020-05-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 2508.3,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ca5"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "KENT.E",
+  "Bülten Adı": "KENT GIDA",
+  "Açılış Seansı İşlem Hacmi (TL)": 48517637.8,
+  "Toplam İşlem Hacmi (TL)": 640098215.3,
+  "Açılış Seansı İşlem Miktarı": 32659,
+  "Toplam İşlem Miktarı": 574656,
+  "En Düşük Fiyat": 510.4,
+  "En Yüksek Fiyat": 2675.5,
+  "Kapanış Fiyatı": 2167.2,
+  "Tarih": {
+    "$date": "2020-07-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 1653.3999999999999,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ca6"
+  },
+  "Pazar Kodu ": "S",
+  "Pazar Adı": "PAY-PIYASA ONCESI ISLEM PLATFORMU",
+  "İşlem Kodu": "ISBIR.E",
+  "Bülten Adı": "ISBIR HOLDING",
+  "Açılış Seansı İşlem Hacmi (TL)": 10722534.4,
+  "Toplam İşlem Hacmi (TL)": 56347046,
+  "Açılış Seansı İşlem Miktarı": 4877,
+  "Toplam İşlem Miktarı": 25770,
+  "En Düşük Fiyat": 1239,
+  "En Yüksek Fiyat": 3246.1,
+  "Kapanış Fiyatı": 3246.1,
+  "Tarih": {
+    "$date": "2020-09-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 1998.1999999999998,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ca7"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "KENT.R",
+  "Bülten Adı": "KENT GIDA  - RHKP",
+  "Açılış Seansı İşlem Hacmi (TL)": 0,
+  "Toplam İşlem Hacmi (TL)": 128586642.2,
+  "Açılış Seansı İşlem Miktarı": 0,
+  "Toplam İşlem Miktarı": 45260,
+  "En Düşük Fiyat": 1900,
+  "En Yüksek Fiyat": 3900,
+  "Kapanış Fiyatı": 2610.5,
+  "Tarih": {
+    "$date": "2020-09-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -1134,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ca8"
+  },
+  "Pazar Kodu ": "G",
+  "Pazar Adı": "PAY-GELISEN ISLETMELER PAZARI",
+  "İşlem Kodu": "TKURU.E",
+  "Bülten Adı": "TAZE KURU GIDA",
+  "Açılış Seansı İşlem Hacmi (TL)": 32594205.6,
+  "Toplam İşlem Hacmi (TL)": 118733737.5,
+  "Açılış Seansı İşlem Miktarı": 66853,
+  "Toplam İşlem Miktarı": 233299,
+  "En Düşük Fiyat": 171.2,
+  "En Yüksek Fiyat": 1034.9,
+  "Kapanış Fiyatı": 1034.9,
+  "Tarih": {
+    "$date": "2020-09-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 879.2,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ca9"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "KARTN.E",
+  "Bülten Adı": "KARTONSAN",
+  "Açılış Seansı İşlem Hacmi (TL)": 47292166.5,
+  "Toplam İşlem Hacmi (TL)": 1008136198.7,
+  "Açılış Seansı İşlem Miktarı": 35839,
+  "Toplam İşlem Miktarı": 1057384,
+  "En Düşük Fiyat": 690.2,
+  "En Yüksek Fiyat": 1812.8,
+  "Kapanış Fiyatı": 1812.8,
+  "Tarih": {
+    "$date": "2020-10-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 1103.6,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748caa"
+  },
+  "Pazar Kodu ": "T",
+  "Pazar Adı": "PAY-ALT PAZAR",
+  "İşlem Kodu": "PKENT.E",
+  "Bülten Adı": "PETROKENT TURIZM",
+  "Açılış Seansı İşlem Hacmi (TL)": 6428354.3,
+  "Toplam İşlem Hacmi (TL)": 61685052.4,
+  "Açılış Seansı İşlem Miktarı": 3394,
+  "Toplam İşlem Miktarı": 34249,
+  "En Düşük Fiyat": 1590,
+  "En Yüksek Fiyat": 2001,
+  "Kapanış Fiyatı": 1715,
+  "Tarih": {
+    "$date": "2021-02-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 1065,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cab"
+  },
+  "Pazar Kodu ": "Q",
+  "Pazar Adı": "PAY-NITELIKLI YATIRIMCI ISLEM PAZARI",
+  "İşlem Kodu": "ALDUK.F1",
+  "Bülten Adı": "ALBARAKA PY DUKKAN GMYF",
+  "Açılış Seansı İşlem Hacmi (TL)": 29876.9,
+  "Toplam İşlem Hacmi (TL)": 191347013.1,
+  "Açılış Seansı İşlem Miktarı": 16,
+  "Toplam İşlem Miktarı": 92825,
+  "En Düşük Fiyat": 1341.8,
+  "En Yüksek Fiyat": 2431.3,
+  "Kapanış Fiyatı": 2431.3,
+  "Tarih": {
+    "$date": "2022-05-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 1112.6000000000001,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cac"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "EGEEN.E",
+  "Bülten Adı": "EGE ENDUSTRI",
+  "Açılış Seansı İşlem Hacmi (TL)": 32023404.6,
+  "Toplam İşlem Hacmi (TL)": 4900600566.7,
+  "Açılış Seansı İşlem Miktarı": 11356,
+  "Toplam İşlem Miktarı": 1732423,
+  "En Düşük Fiyat": 2255.3,
+  "En Yüksek Fiyat": 3373,
+  "Kapanış Fiyatı": 3300,
+  "Tarih": {
+    "$date": "2022-10-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 1043.6,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cad"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "KONYA.E",
+  "Bülten Adı": "KONYA CIMENTO",
+  "Açılış Seansı İşlem Hacmi (TL)": 26655658.2,
+  "Toplam İşlem Hacmi (TL)": 3081006519.8,
+  "Açılış Seansı İşlem Miktarı": 14899,
+  "Toplam İşlem Miktarı": 1684949,
+  "En Düşük Fiyat": 1287.3,
+  "En Yüksek Fiyat": 2406.1,
+  "Kapanış Fiyatı": 2406.1,
+  "Tarih": {
+    "$date": "2022-10-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 1114,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cae"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "BFREN.E",
+  "Bülten Adı": "BOSCH FREN SISTEMLERI",
+  "Açılış Seansı İşlem Hacmi (TL)": 15048374.6,
+  "Toplam İşlem Hacmi (TL)": 1361755411.9,
+  "Açılış Seansı İşlem Miktarı": 4817,
+  "Toplam İşlem Miktarı": 500411,
+  "En Düşük Fiyat": 2075,
+  "En Yüksek Fiyat": 4180.1,
+  "Kapanış Fiyatı": 4180.1,
+  "Tarih": {
+    "$date": "2022-11-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 1998.1000000000004,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748caf"
+  },
+  "Pazar Kodu ": "Q",
+  "Pazar Adı": "PAY-NITELIKLI YATIRIMCI ISLEM PAZARI",
+  "İşlem Kodu": "APYVC.F2",
+  "Bülten Adı": "ALBARAKA PY START-UP GSYF",
+  "Açılış Seansı İşlem Hacmi (TL)": 8668277.8,
+  "Toplam İşlem Hacmi (TL)": 52867891.9,
+  "Açılış Seansı İşlem Miktarı": 3016,
+  "Toplam İşlem Miktarı": 17395,
+  "En Düşük Fiyat": 2585.7,
+  "En Yüksek Fiyat": 3960,
+  "Kapanış Fiyatı": 3950,
+  "Tarih": {
+    "$date": "2022-12-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 1104,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cb0"
+  },
+  "Pazar Kodu ": "Q",
+  "Pazar Adı": "PAY-NITELIKLI YATIRIMCI ISLEM PAZARI",
+  "İşlem Kodu": "RPFGY.F1",
+  "Bülten Adı": "RE-PIE PY FIRSAT GMYF",
+  "Açılış Seansı İşlem Hacmi (TL)": 0,
+  "Toplam İşlem Hacmi (TL)": 122447,
+  "Açılış Seansı İşlem Miktarı": 0,
+  "Toplam İşlem Miktarı": 46,
+  "En Düşük Fiyat": 2301.3,
+  "En Yüksek Fiyat": 3173.6,
+  "Kapanış Fiyatı": 3173.6,
+  "Tarih": {
+    "$date": "2022-12-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 872.6999999999998,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cb1"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "DOCO.E",
+  "Bülten Adı": "DO-CO",
+  "Açılış Seansı İşlem Hacmi (TL)": 8260880.7,
+  "Toplam İşlem Hacmi (TL)": 739999648.9,
+  "Açılış Seansı İşlem Miktarı": 2527,
+  "Toplam İşlem Miktarı": 226481,
+  "En Düşük Fiyat": 2539.3,
+  "En Yüksek Fiyat": 3800,
+  "Kapanış Fiyatı": 3728,
+  "Tarih": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 1188.9,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cb2"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "POLTK.E",
+  "Bülten Adı": "POLITEKNIK METAL",
+  "Açılış Seansı İşlem Hacmi (TL)": 134685348.9,
+  "Toplam İşlem Hacmi (TL)": 1057432853.9,
+  "Açılış Seansı İşlem Miktarı": 26115,
+  "Toplam İşlem Miktarı": 260804,
+  "En Düşük Fiyat": 2601,
+  "En Yüksek Fiyat": 6479.3,
+  "Kapanış Fiyatı": 6479.3,
+  "Tarih": {
+    "$date": "2023-07-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 3855.6000000000004,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cb3"
+  },
+  "Pazar Kodu ": "Q",
+  "Pazar Adı": "PAY-NITELIKLI YATIRIMCI ISLEM PAZARI",
+  "İşlem Kodu": "RPAVS.F1",
+  "Bülten Adı": "RE-PIE AVRASYA STRATEJIK GMYF",
+  "Açılış Seansı İşlem Hacmi (TL)": 0,
+  "Toplam İşlem Hacmi (TL)": 148773.5,
+  "Açılış Seansı İşlem Miktarı": 0,
+  "Toplam İşlem Miktarı": 33,
+  "En Düşük Fiyat": 3489.4,
+  "En Yüksek Fiyat": 4755.7,
+  "Kapanış Fiyatı": 4755.7,
+  "Tarih": {
+    "$date": "2023-07-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 1266.6999999999998,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cb4"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "TETMT.E",
+  "Bülten Adı": "TETAMAT GIDA",
+  "Açılış Seansı İşlem Hacmi (TL)": 53814448.3,
+  "Toplam İşlem Hacmi (TL)": 683609128.9,
+  "Açılış Seansı İşlem Miktarı": 51976,
+  "Toplam İşlem Miktarı": 733789,
+  "En Düşük Fiyat": 495,
+  "En Yüksek Fiyat": 1564.6,
+  "Kapanış Fiyatı": 1447.9,
+  "Tarih": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 962.4000000000001,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cb5"
+  },
+  "Pazar Kodu ": "Q",
+  "Pazar Adı": "PAY-NITELIKLI YATIRIMCI ISLEM PAZARI",
+  "İşlem Kodu": "AUKAK.F1",
+  "Bülten Adı": "AURA PY KONUT ALFA GMYF",
+  "Açılış Seansı İşlem Hacmi (TL)": 0,
+  "Toplam İşlem Hacmi (TL)": 23622.6,
+  "Açılış Seansı İşlem Miktarı": 0,
+  "Toplam İşlem Miktarı": 6,
+  "En Düşük Fiyat": 3937.1,
+  "En Yüksek Fiyat": 3937.1,
+  "Kapanış Fiyatı": 3937.1,
+  "Tarih": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 897.0999999999999,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cb6"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "MRSHL.E",
+  "Bülten Adı": "MARSHALL",
+  "Açılış Seansı İşlem Hacmi (TL)": 113141555,
+  "Toplam İşlem Hacmi (TL)": 3751360413.8,
+  "Açılış Seansı İşlem Miktarı": 76940,
+  "Toplam İşlem Miktarı": 2886957,
+  "En Düşük Fiyat": 700,
+  "En Yüksek Fiyat": 2876.8,
+  "Kapanış Fiyatı": 1906.7,
+  "Tarih": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 1229.7,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cb7"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "CMBTN.E",
+  "Bülten Adı": "CIMBETON",
+  "Açılış Seansı İşlem Hacmi (TL)": 109735992.5,
+  "Toplam İşlem Hacmi (TL)": 4688009191.4,
+  "Açılış Seansı İşlem Miktarı": 75116,
+  "Toplam İşlem Miktarı": 3401855,
+  "En Düşük Fiyat": 893.2,
+  "En Yüksek Fiyat": 2542.8,
+  "Kapanış Fiyatı": 1862.3,
+  "Tarih": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 1050.3,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cb8"
+  },
+  "Pazar Kodu ": "S",
+  "Pazar Adı": "PAY-PIYASA ONCESI ISLEM PLATFORMU",
+  "İşlem Kodu": "KSTUR.E",
+  "Bülten Adı": "KUSTUR KUSADASI TURIZM",
+  "Açılış Seansı İşlem Hacmi (TL)": 41167397.9,
+  "Toplam İşlem Hacmi (TL)": 152889973.2,
+  "Açılış Seansı İşlem Miktarı": 29100,
+  "Toplam İşlem Miktarı": 113515,
+  "En Düşük Fiyat": 699.2,
+  "En Yüksek Fiyat": 2267.3,
+  "Kapanış Fiyatı": 1700,
+  "Tarih": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 859.5,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cb9"
+  },
+  "Pazar Kodu ": "Q",
+  "Pazar Adı": "PAY-NITELIKLI YATIRIMCI ISLEM PAZARI",
+  "İşlem Kodu": "QPERP.F1",
+  "Bülten Adı": "QINVEST PY RE-PIE GMYF",
+  "Açılış Seansı İşlem Hacmi (TL)": 37688,
+  "Toplam İşlem Hacmi (TL)": 221364,
+  "Açılış Seansı İşlem Miktarı": 8,
+  "Toplam İşlem Miktarı": 55,
+  "En Düşük Fiyat": 3888,
+  "En Yüksek Fiyat": 4711,
+  "Kapanış Fiyatı": 4711,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 823,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cba"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "MAVI.E",
+  "Bülten Adı": "MAVI GIYIM",
+  "Açılış Seansı İşlem Hacmi (TL)": 21313597.2,
+  "Toplam İşlem Hacmi (TL)": 2595487976.7,
+  "Açılış Seansı İşlem Miktarı": 189693,
+  "Toplam İşlem Miktarı": 23619523,
+  "En Düşük Fiyat": 100.2,
+  "En Yüksek Fiyat": 118.9,
+  "Kapanış Fiyatı": 105,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.5,
+  "15AylikHareketliOrtalama": 81.63666666666667,
+  "36AylikHareketliOrtalama": 63.287222222222226
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cbb"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "SASA.E",
+  "Bülten Adı": "SASA POLYESTER",
+  "Açılış Seansı İşlem Hacmi (TL)": 215070034.6,
+  "Toplam İşlem Hacmi (TL)": 37069304219.4,
+  "Açılış Seansı İşlem Miktarı": 1934796,
+  "Toplam İşlem Miktarı": 335412424,
+  "En Düşük Fiyat": 99.6,
+  "En Yüksek Fiyat": 119.6,
+  "Kapanış Fiyatı": 100.4,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -9.599999999999994,
+  "15AylikHareketliOrtalama": 74.65599999999999,
+  "36AylikHareketliOrtalama": 44.40972222222222
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cbc"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "KORDS.E",
+  "Bülten Adı": "KORDSA TEKNIK TEKSTIL",
+  "Açılış Seansı İşlem Hacmi (TL)": 13833505.45,
+  "Toplam İşlem Hacmi (TL)": 2871229920.1,
+  "Açılış Seansı İşlem Miktarı": 183540,
+  "Toplam İşlem Miktarı": 38038943,
+  "En Düşük Fiyat": 68.25,
+  "En Yüksek Fiyat": 82.4,
+  "Kapanış Fiyatı": 77.75,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -4.049999999999997,
+  "15AylikHareketliOrtalama": 58.04666666666667,
+  "36AylikHareketliOrtalama": 34.904444444444444
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cbd"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "AYGAZ.E",
+  "Bülten Adı": "AYGAZ",
+  "Açılış Seansı İşlem Hacmi (TL)": 5651728.15,
+  "Toplam İşlem Hacmi (TL)": 1022153850.15,
+  "Açılış Seansı İşlem Miktarı": 74118,
+  "Toplam İşlem Miktarı": 13515043,
+  "En Düşük Fiyat": 65.4,
+  "En Yüksek Fiyat": 82.2,
+  "Kapanış Fiyatı": 67.05,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -10.350000000000009,
+  "15AylikHareketliOrtalama": 51.528666666666666,
+  "36AylikHareketliOrtalama": 29.54527777777778
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cbe"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "DOKTA.E",
+  "Bülten Adı": "DOKTAS DOKUMCULUK",
+  "Açılış Seansı İşlem Hacmi (TL)": 2077480.58,
+  "Toplam İşlem Hacmi (TL)": 559177247.32,
+  "Açılış Seansı İşlem Miktarı": 46054,
+  "Toplam İşlem Miktarı": 12607733,
+  "En Düşük Fiyat": 40.18,
+  "En Yüksek Fiyat": 48.86,
+  "Kapanış Fiyatı": 40.28,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -4.019999999999996,
+  "15AylikHareketliOrtalama": 39.018,
+  "36AylikHareketliOrtalama": 34.687777777777775
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cbf"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "ISDMR.E",
+  "Bülten Adı": "ISKENDERUN DEMIR CELIK",
+  "Açılış Seansı İşlem Hacmi (TL)": 217969439.02,
+  "Toplam İşlem Hacmi (TL)": 23943679968.09,
+  "Açılış Seansı İşlem Miktarı": 4641552,
+  "Toplam İşlem Miktarı": 539078937,
+  "En Düşük Fiyat": 31.78,
+  "En Yüksek Fiyat": 55,
+  "Kapanış Fiyatı": 32.2,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -12.779999999999994,
+  "15AylikHareketliOrtalama": 27.958666666666666,
+  "36AylikHareketliOrtalama": 17.56277777777778
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cc0"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "CELHA.E",
+  "Bülten Adı": "CELIK HALAT",
+  "Açılış Seansı İşlem Hacmi (TL)": 1162879.8,
+  "Toplam İşlem Hacmi (TL)": 187609250.06,
+  "Açılış Seansı İşlem Miktarı": 38349,
+  "Toplam İşlem Miktarı": 6219834,
+  "En Düşük Fiyat": 27.5,
+  "En Yüksek Fiyat": 32.88,
+  "Kapanış Fiyatı": 28.34,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -3.6800000000000033,
+  "15AylikHareketliOrtalama": 18.396,
+  "36AylikHareketliOrtalama": 13.915277777777778
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cc1"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "BEYAZ.E",
+  "Bülten Adı": "BEYAZ FILO",
+  "Açılış Seansı İşlem Hacmi (TL)": 10238589.5,
+  "Toplam İşlem Hacmi (TL)": 1928325641.87,
+  "Açılış Seansı İşlem Miktarı": 501698,
+  "Toplam İşlem Miktarı": 91241978,
+  "En Düşük Fiyat": 15.25,
+  "En Yüksek Fiyat": 25.9,
+  "Kapanış Fiyatı": 18.16,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -3,
+  "15AylikHareketliOrtalama": 13.544666666666668,
+  "36AylikHareketliOrtalama": 10.303611111111111
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cc2"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "ANSGR.E",
+  "Bülten Adı": "ANADOLU SIGORTA",
+  "Açılış Seansı İşlem Hacmi (TL)": 806329.77,
+  "Toplam İşlem Hacmi (TL)": 382837864.61,
+  "Açılış Seansı İşlem Miktarı": 45123,
+  "Toplam İşlem Miktarı": 21575979,
+  "En Düşük Fiyat": 16.6,
+  "En Yüksek Fiyat": 18.9,
+  "Kapanış Fiyatı": 17.37,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.4800000000000004,
+  "15AylikHareketliOrtalama": 10.136666666666667,
+  "36AylikHareketliOrtalama": 7.957777777777778
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cc3"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "DGATE.E",
+  "Bülten Adı": "DATAGATE BILGISAYAR",
+  "Açılış Seansı İşlem Hacmi (TL)": 1275875.86,
+  "Toplam İşlem Hacmi (TL)": 269908642.77,
+  "Açılış Seansı İşlem Miktarı": 80859,
+  "Toplam İşlem Miktarı": 17367067,
+  "En Düşük Fiyat": 13.75,
+  "En Yüksek Fiyat": 16.83,
+  "Kapanış Fiyatı": 15.59,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.009999999999999787,
+  "15AylikHareketliOrtalama": 13.79,
+  "36AylikHareketliOrtalama": 12.942222222222222
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cc4"
+  },
+  "Pazar Kodu ": "T",
+  "Pazar Adı": "PAY-ALT PAZAR",
+  "İşlem Kodu": "PRZMA.E",
+  "Bülten Adı": "PRIZMA PRESS MATBAACILIK",
+  "Açılış Seansı İşlem Hacmi (TL)": 2126580.2,
+  "Toplam İşlem Hacmi (TL)": 118867625.27,
+  "Açılış Seansı İşlem Miktarı": 193680,
+  "Toplam İşlem Miktarı": 10143805,
+  "En Düşük Fiyat": 9.1,
+  "En Yüksek Fiyat": 15.04,
+  "Kapanış Fiyatı": 14.6,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 5.3100000000000005,
+  "15AylikHareketliOrtalama": 5.866,
+  "36AylikHareketliOrtalama": 5.180833333333333
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cc5"
+  },
+  "Pazar Kodu ": "S",
+  "Pazar Adı": "PAY-PIYASA ONCESI ISLEM PLATFORMU",
+  "İşlem Kodu": "BALAT.E",
+  "Bülten Adı": "BALATACILAR BALATACILIK",
+  "Açılış Seansı İşlem Hacmi (TL)": 2216422.76,
+  "Toplam İşlem Hacmi (TL)": 22098646.54,
+  "Açılış Seansı İşlem Miktarı": 131640,
+  "Toplam İşlem Miktarı": 1359730,
+  "En Düşük Fiyat": 12.6,
+  "En Yüksek Fiyat": 20.06,
+  "Kapanış Fiyatı": 13.9,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -4.35,
+  "15AylikHareketliOrtalama": 12.600666666666667,
+  "36AylikHareketliOrtalama": 8.644166666666667
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cc6"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "NTHOL.E",
+  "Bülten Adı": "NET HOLDING",
+  "Açılış Seansı İşlem Hacmi (TL)": 8679094.82,
+  "Toplam İşlem Hacmi (TL)": 1400674851.57,
+  "Açılış Seansı İşlem Miktarı": 753966,
+  "Toplam İşlem Miktarı": 120749374,
+  "En Düşük Fiyat": 10.43,
+  "En Yüksek Fiyat": 12.88,
+  "Kapanış Fiyatı": 11.78,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 1.3599999999999994,
+  "15AylikHareketliOrtalama": 11.027333333333333,
+  "36AylikHareketliOrtalama": 6.657777777777778
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cc7"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "HALKB.E",
+  "Bülten Adı": "T. HALK BANKASI",
+  "Açılış Seansı İşlem Hacmi (TL)": 96314698.28,
+  "Toplam İşlem Hacmi (TL)": 13793270975.94,
+  "Açılış Seansı İşlem Miktarı": 8349870,
+  "Toplam İşlem Miktarı": 1188567216,
+  "En Düşük Fiyat": 10.39,
+  "En Yüksek Fiyat": 12.93,
+  "Kapanış Fiyatı": 11.05,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.46999999999999886,
+  "15AylikHareketliOrtalama": 7.6259999999999994,
+  "36AylikHareketliOrtalama": 6.162222222222223
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cc8"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "OYAYO.E",
+  "Bülten Adı": "OYAK YAT. ORT.",
+  "Açılış Seansı İşlem Hacmi (TL)": 317847.19,
+  "Toplam İşlem Hacmi (TL)": 91644137.8,
+  "Açılış Seansı İşlem Miktarı": 31244,
+  "Toplam İşlem Miktarı": 8773288,
+  "En Düşük Fiyat": 9.29,
+  "En Yüksek Fiyat": 11.29,
+  "Kapanış Fiyatı": 10.61,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.11000000000000121,
+  "15AylikHareketliOrtalama": 9.139999999999999,
+  "36AylikHareketliOrtalama": 7.7475000000000005
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cc9"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "YKSLN.E",
+  "Bülten Adı": "YUKSELEN CELIK",
+  "Açılış Seansı İşlem Hacmi (TL)": 1329574.74,
+  "Toplam İşlem Hacmi (TL)": 336426902.55,
+  "Açılış Seansı İşlem Miktarı": 122299,
+  "Toplam İşlem Miktarı": 31354377,
+  "En Düşük Fiyat": 9.9,
+  "En Yüksek Fiyat": 11.53,
+  "Kapanış Fiyatı": 9.98,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -1.4000000000000004,
+  "15AylikHareketliOrtalama": 9.064666666666666,
+  "36AylikHareketliOrtalama": 8.008888888888889
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cca"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "KARSN.E",
+  "Bülten Adı": "KARSAN OTOMOTIV",
+  "Açılış Seansı İşlem Hacmi (TL)": 63251961.04,
+  "Toplam İşlem Hacmi (TL)": 7170137824.41,
+  "Açılış Seansı İşlem Miktarı": 6947166,
+  "Toplam İşlem Miktarı": 783487902,
+  "En Düşük Fiyat": 7.98,
+  "En Yüksek Fiyat": 10.08,
+  "Kapanış Fiyatı": 8.08,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.40000000000000036,
+  "15AylikHareketliOrtalama": 7.598,
+  "36AylikHareketliOrtalama": 5.0625
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ccb"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "GLYHO.E",
+  "Bülten Adı": "GLOBAL YAT. HOLDING",
+  "Açılış Seansı İşlem Hacmi (TL)": 23236993.22,
+  "Toplam İşlem Hacmi (TL)": 4291423447.61,
+  "Açılış Seansı İşlem Miktarı": 2432338,
+  "Toplam İşlem Miktarı": 454031589,
+  "En Düşük Fiyat": 7.89,
+  "En Yüksek Fiyat": 10.4,
+  "Kapanış Fiyatı": 7.9,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.7099999999999991,
+  "15AylikHareketliOrtalama": 5.365333333333334,
+  "36AylikHareketliOrtalama": 4.515833333333333
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ccc"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "EKGYO.E",
+  "Bülten Adı": "EMLAK KONUT GMYO",
+  "Açılış Seansı İşlem Hacmi (TL)": 554268622.99,
+  "Toplam İşlem Hacmi (TL)": 38077145079.34,
+  "Açılış Seansı İşlem Miktarı": 71096805,
+  "Toplam İşlem Miktarı": {
+    "$numberLong": "5043260618"
+  },
+  "En Düşük Fiyat": 6.17,
+  "En Yüksek Fiyat": 8.61,
+  "Kapanış Fiyatı": 6.19,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -2.2,
+  "15AylikHareketliOrtalama": 4.522,
+  "36AylikHareketliOrtalama": 2.9808333333333334
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ccd"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "MSGYO.E",
+  "Bülten Adı": "MISTRAL GMYO",
+  "Açılış Seansı İşlem Hacmi (TL)": 1105499.51,
+  "Toplam İşlem Hacmi (TL)": 167312055.44,
+  "Açılış Seansı İşlem Miktarı": 175427,
+  "Toplam İşlem Miktarı": 26889049,
+  "En Düşük Fiyat": 5.76,
+  "En Yüksek Fiyat": 6.57,
+  "Kapanış Fiyatı": 6.07,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0,
+  "15AylikHareketliOrtalama": 5.0633333333333335,
+  "36AylikHareketliOrtalama": 4.287777777777778
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cce"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "LIDFA.E",
+  "Bülten Adı": "LIDER FAKTORING",
+  "Açılış Seansı İşlem Hacmi (TL)": 13591956.24,
+  "Toplam İşlem Hacmi (TL)": 2441785098.98,
+  "Açılış Seansı İşlem Miktarı": 2150072,
+  "Toplam İşlem Miktarı": 399393245,
+  "En Düşük Fiyat": 4.45,
+  "En Yüksek Fiyat": 7.94,
+  "Kapanış Fiyatı": 5.91,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 1.4699999999999998,
+  "15AylikHareketliOrtalama": 5.935333333333333,
+  "36AylikHareketliOrtalama": 4.378333333333334
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ccf"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "PENGD.E",
+  "Bülten Adı": "PENGUEN GIDA",
+  "Açılış Seansı İşlem Hacmi (TL)": 5935572.52,
+  "Toplam İşlem Hacmi (TL)": 1030866788.29,
+  "Açılış Seansı İşlem Miktarı": 954707,
+  "Toplam İşlem Miktarı": 166249263,
+  "En Düşük Fiyat": 5.36,
+  "En Yüksek Fiyat": 6.59,
+  "Kapanış Fiyatı": 5.64,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.33000000000000007,
+  "15AylikHareketliOrtalama": 5.780666666666667,
+  "36AylikHareketliOrtalama": 4.767222222222222
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cd0"
+  },
+  "Pazar Kodu ": "T",
+  "Pazar Adı": "PAY-ALT PAZAR",
+  "İşlem Kodu": "EUYO.E",
+  "Bülten Adı": "EURO YAT. ORT.",
+  "Açılış Seansı İşlem Hacmi (TL)": 363895.92,
+  "Toplam İşlem Hacmi (TL)": 62848271.43,
+  "Açılış Seansı İşlem Miktarı": 67932,
+  "Toplam İşlem Miktarı": 11594864,
+  "En Düşük Fiyat": 4.5,
+  "En Yüksek Fiyat": 6.37,
+  "Kapanış Fiyatı": 5.35,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.10999999999999943,
+  "15AylikHareketliOrtalama": 3.6526666666666667,
+  "36AylikHareketliOrtalama": 3.545
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cd1"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "AKSGY.E",
+  "Bülten Adı": "AKIS GMYO",
+  "Açılış Seansı İşlem Hacmi (TL)": 6061480.8,
+  "Toplam İşlem Hacmi (TL)": 797120000.92,
+  "Açılış Seansı İşlem Miktarı": 974520,
+  "Toplam İşlem Miktarı": 136107624,
+  "En Düşük Fiyat": 5.1,
+  "En Yüksek Fiyat": 6.68,
+  "Kapanış Fiyatı": 5.17,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.79,
+  "15AylikHareketliOrtalama": 3.9539999999999997,
+  "36AylikHareketliOrtalama": 3.2844444444444445
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cd2"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "HURGZ.E",
+  "Bülten Adı": "HURRIYET GZT.",
+  "Açılış Seansı İşlem Hacmi (TL)": 2157880.68,
+  "Toplam İşlem Hacmi (TL)": 464016677.7,
+  "Açılış Seansı İşlem Miktarı": 387557,
+  "Toplam İşlem Miktarı": 83608428,
+  "En Düşük Fiyat": 4.69,
+  "En Yüksek Fiyat": 6.34,
+  "Kapanış Fiyatı": 4.69,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -1.4099999999999993,
+  "15AylikHareketliOrtalama": 3.252666666666667,
+  "36AylikHareketliOrtalama": 2.4188888888888886
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cd3"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "AGYO.E",
+  "Bülten Adı": "ATAKULE GMYO",
+  "Açılış Seansı İşlem Hacmi (TL)": 4736708.81,
+  "Toplam İşlem Hacmi (TL)": 401486761.31,
+  "Açılış Seansı İşlem Miktarı": 978658,
+  "Toplam İşlem Miktarı": 82686497,
+  "En Düşük Fiyat": 4.31,
+  "En Yüksek Fiyat": 5.22,
+  "Kapanış Fiyatı": 4.36,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.33000000000000007,
+  "15AylikHareketliOrtalama": 4.228,
+  "36AylikHareketliOrtalama": 3.2475
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cd4"
+  },
+  "Pazar Kodu ": "W",
+  "Pazar Adı": "PAY-YAKIN IZLEME PAZARI",
+  "İşlem Kodu": "BRKO.E",
+  "Bülten Adı": "BIRKO MENSUCAT",
+  "Açılış Seansı İşlem Hacmi (TL)": 4193649.43,
+  "Toplam İşlem Hacmi (TL)": 37400205.65,
+  "Açılış Seansı İşlem Miktarı": 862817,
+  "Toplam İşlem Miktarı": 7685853,
+  "En Düşük Fiyat": 4.21,
+  "En Yüksek Fiyat": 5.2,
+  "Kapanış Fiyatı": 4.21,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.96,
+  "15AylikHareketliOrtalama": 2.5286666666666666,
+  "36AylikHareketliOrtalama": 1.5741666666666667
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cd5"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "OZGYO.E",
+  "Bülten Adı": "OZDERICI GMYO",
+  "Açılış Seansı İşlem Hacmi (TL)": 2170786.66,
+  "Toplam İşlem Hacmi (TL)": 536282084.51,
+  "Açılış Seansı İşlem Miktarı": 515250,
+  "Toplam İşlem Miktarı": 125893224,
+  "En Düşük Fiyat": 3.95,
+  "En Yüksek Fiyat": 4.72,
+  "Kapanış Fiyatı": 4.02,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.22000000000000064,
+  "15AylikHareketliOrtalama": 3.266,
+  "36AylikHareketliOrtalama": 2.4316666666666666
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cd6"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "HLGYO.E",
+  "Bülten Adı": "HALK GMYO",
+  "Açılış Seansı İşlem Hacmi (TL)": 15758996.58,
+  "Toplam İşlem Hacmi (TL)": 2079449106.41,
+  "Açılış Seansı İşlem Miktarı": 3436068,
+  "Toplam İşlem Miktarı": 460762123,
+  "En Düşük Fiyat": 3.85,
+  "En Yüksek Fiyat": 5.07,
+  "Kapanış Fiyatı": 3.87,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -1.0999999999999996,
+  "15AylikHareketliOrtalama": 3.354,
+  "36AylikHareketliOrtalama": 2.861111111111111
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cd7"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "TSPOR.E",
+  "Bülten Adı": "TRABZONSPOR SPORTIF",
+  "Açılış Seansı İşlem Hacmi (TL)": 5507717.09,
+  "Toplam İşlem Hacmi (TL)": 1348195274.74,
+  "Açılış Seansı İşlem Miktarı": 1452359,
+  "Toplam İşlem Miktarı": 354402210,
+  "En Düşük Fiyat": 3.57,
+  "En Yüksek Fiyat": 4.04,
+  "Kapanış Fiyatı": 3.63,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.050000000000000266,
+  "15AylikHareketliOrtalama": 4.859333333333334,
+  "36AylikHareketliOrtalama": 4.337777777777777
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cd8"
+  },
+  "Pazar Kodu ": "T",
+  "Pazar Adı": "PAY-ALT PAZAR",
+  "İşlem Kodu": "RHEAG.E",
+  "Bülten Adı": "RHEA GIRISIM",
+  "Açılış Seansı İşlem Hacmi (TL)": 684367.38,
+  "Toplam İşlem Hacmi (TL)": 56014624.54,
+  "Açılış Seansı İşlem Miktarı": 186845,
+  "Toplam İşlem Miktarı": 15616491,
+  "En Düşük Fiyat": 3.18,
+  "En Yüksek Fiyat": 3.96,
+  "Kapanış Fiyatı": 3.4,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.0900000000000003,
+  "15AylikHareketliOrtalama": 2.535333333333333,
+  "36AylikHareketliOrtalama": 2.496388888888889
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cd9"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "AVGYO.E",
+  "Bülten Adı": "AVRASYA GMYO",
+  "Açılış Seansı İşlem Hacmi (TL)": 1604583.8,
+  "Toplam İşlem Hacmi (TL)": 199365440.29,
+  "Açılış Seansı İşlem Miktarı": 460719,
+  "Toplam İşlem Miktarı": 58835123,
+  "En Düşük Fiyat": 3.01,
+  "En Yüksek Fiyat": 3.71,
+  "Kapanış Fiyatı": 3.03,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.040000000000000036,
+  "15AylikHareketliOrtalama": 3.1079999999999997,
+  "36AylikHareketliOrtalama": 2.8266666666666667
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cda"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "TEKTU.E",
+  "Bülten Adı": "TEK-ART TURIZM",
+  "Açılış Seansı İşlem Hacmi (TL)": 5562580.06,
+  "Toplam İşlem Hacmi (TL)": 641492404.4,
+  "Açılış Seansı İşlem Miktarı": 1741390,
+  "Toplam İşlem Miktarı": 209194506,
+  "En Düşük Fiyat": 2.78,
+  "En Yüksek Fiyat": 3.33,
+  "Kapanış Fiyatı": 2.93,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.04999999999999982,
+  "15AylikHareketliOrtalama": 2.246,
+  "36AylikHareketliOrtalama": 1.857222222222222
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cdb"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "SNGYO.E",
+  "Bülten Adı": "SINPAS GMYO",
+  "Açılış Seansı İşlem Hacmi (TL)": 29191134,
+  "Toplam İşlem Hacmi (TL)": 4594451712.89,
+  "Açılış Seansı İşlem Miktarı": 9094916,
+  "Toplam İşlem Miktarı": 1442255157,
+  "En Düşük Fiyat": 2.81,
+  "En Yüksek Fiyat": 3.47,
+  "Kapanış Fiyatı": 2.82,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.28000000000000025,
+  "15AylikHareketliOrtalama": 5.0600000000000005,
+  "36AylikHareketliOrtalama": 3.911944444444445
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cdc"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "SKBNK.E",
+  "Bülten Adı": "SEKERBANK",
+  "Açılış Seansı İşlem Hacmi (TL)": 69121002.18,
+  "Toplam İşlem Hacmi (TL)": 8617846427.84,
+  "Açılış Seansı İşlem Miktarı": 27998479,
+  "Toplam İşlem Miktarı": {
+    "$numberLong": "3483744533"
+  },
+  "En Düşük Fiyat": 2.12,
+  "En Yüksek Fiyat": 2.74,
+  "Kapanış Fiyatı": 2.57,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.1499999999999999,
+  "15AylikHareketliOrtalama": 1.9353333333333333,
+  "36AylikHareketliOrtalama": 1.5444444444444445
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cdd"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "YGYO.E",
+  "Bülten Adı": "YESIL GMYO",
+  "Açılış Seansı İşlem Hacmi (TL)": 14563554.6,
+  "Toplam İşlem Hacmi (TL)": 1761291530.95,
+  "Açılış Seansı İşlem Miktarı": 7267208,
+  "Toplam İşlem Miktarı": 889353237,
+  "En Düşük Fiyat": 1.49,
+  "En Yüksek Fiyat": 2.3,
+  "Kapanış Fiyatı": 1.95,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.3999999999999999,
+  "15AylikHareketliOrtalama": 1.1426666666666667,
+  "36AylikHareketliOrtalama": 1.0669444444444443
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cde"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "CEMAS.E",
+  "Bülten Adı": "CEMAS DOKUM",
+  "Açılış Seansı İşlem Hacmi (TL)": 14203248.27,
+  "Toplam İşlem Hacmi (TL)": 1996723594.39,
+  "Açılış Seansı İşlem Miktarı": 7412242,
+  "Toplam İşlem Miktarı": 1053961300,
+  "En Düşük Fiyat": 1.71,
+  "En Yüksek Fiyat": 2.07,
+  "Kapanış Fiyatı": 1.72,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.15000000000000013,
+  "15AylikHareketliOrtalama": 1.5766666666666667,
+  "36AylikHareketliOrtalama": 1.5180555555555555
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cdf"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "IEYHO.E",
+  "Bülten Adı": "ISIKLAR ENERJI YAPI HOL.",
+  "Açılış Seansı İşlem Hacmi (TL)": 5270036.8,
+  "Toplam İşlem Hacmi (TL)": 1034188864.13,
+  "Açılış Seansı İşlem Miktarı": 3029920,
+  "Toplam İşlem Miktarı": 594915851,
+  "En Düşük Fiyat": 1.52,
+  "En Yüksek Fiyat": 1.9,
+  "Kapanış Fiyatı": 1.58,
+  "Tarih": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.07999999999999985,
+  "15AylikHareketliOrtalama": 1.2306666666666668,
+  "36AylikHareketliOrtalama": 1.0794444444444444
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ce0"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "LUKSK.E",
+  "Bülten Adı": "LUKS KADIFE",
+  "Açılış Seansı İşlem Hacmi (TL)": 691636.3,
+  "Toplam İşlem Hacmi (TL)": 215791159.15,
+  "Açılış Seansı İşlem Miktarı": 8600,
+  "Toplam İşlem Miktarı": 2687748,
+  "En Düşük Fiyat": 74,
+  "En Yüksek Fiyat": 87.5,
+  "Kapanış Fiyatı": 76.95,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.15000000000000568,
+  "15AylikHareketliOrtalama": 70.35666666666665,
+  "36AylikHareketliOrtalama": 50.787499999999994
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ce1"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "ALARK.E",
+  "Bülten Adı": "ALARKO HOLDING",
+  "Açılış Seansı İşlem Hacmi (TL)": 54103474.05,
+  "Toplam İşlem Hacmi (TL)": 5708991231.05,
+  "Açılış Seansı İşlem Miktarı": 786051,
+  "Toplam İşlem Miktarı": 83977956,
+  "En Düşük Fiyat": 57.75,
+  "En Yüksek Fiyat": 74.65,
+  "Kapanış Fiyatı": 58.9,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -5.949999999999996,
+  "15AylikHareketliOrtalama": 51.54,
+  "36AylikHareketliOrtalama": 26.136666666666667
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ce2"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "YGGYO.E",
+  "Bülten Adı": "YENI GIMAT GMYO",
+  "Açılış Seansı İşlem Hacmi (TL)": 414251.82,
+  "Toplam İşlem Hacmi (TL)": 72518332.48,
+  "Açılış Seansı İşlem Miktarı": 11393,
+  "Toplam İşlem Miktarı": 2015835,
+  "En Düşük Fiyat": 33.18,
+  "En Yüksek Fiyat": 38.38,
+  "Kapanış Fiyatı": 33.66,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -4.140000000000001,
+  "15AylikHareketliOrtalama": 27.541333333333334,
+  "36AylikHareketliOrtalama": 19.531111111111112
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ce3"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "AKBNK.E",
+  "Bülten Adı": "AKBANK",
+  "Açılış Seansı İşlem Hacmi (TL)": 217157687.28,
+  "Toplam İşlem Hacmi (TL)": 31216629630.15,
+  "Açılış Seansı İşlem Miktarı": 12333583,
+  "Toplam İşlem Miktarı": 1781766580,
+  "En Düşük Fiyat": 15.97,
+  "En Yüksek Fiyat": 19.05,
+  "Kapanış Fiyatı": 16.05,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.8900000000000006,
+  "15AylikHareketliOrtalama": 12.620000000000001,
+  "36AylikHareketliOrtalama": 8.602777777777778
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ce4"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "PRKME.E",
+  "Bülten Adı": "PARK ELEK.MADENCILIK",
+  "Açılış Seansı İşlem Hacmi (TL)": 2087164.32,
+  "Toplam İşlem Hacmi (TL)": 366566072.93,
+  "Açılış Seansı İşlem Miktarı": 131345,
+  "Toplam İşlem Miktarı": 23542490,
+  "En Düşük Fiyat": 13.11,
+  "En Yüksek Fiyat": 17.04,
+  "Kapanış Fiyatı": 13.35,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -2.1400000000000006,
+  "15AylikHareketliOrtalama": 12.547333333333334,
+  "36AylikHareketliOrtalama": 8.004444444444445
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ce5"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "TRCAS.E",
+  "Bülten Adı": "TURCAS PETROL",
+  "Açılış Seansı İşlem Hacmi (TL)": 1677639.88,
+  "Toplam İşlem Hacmi (TL)": 354049894.66,
+  "Açılış Seansı İşlem Miktarı": 118277,
+  "Toplam İşlem Miktarı": 24818107,
+  "En Düşük Fiyat": 12.58,
+  "En Yüksek Fiyat": 15.15,
+  "Kapanış Fiyatı": 12.75,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.8900000000000006,
+  "15AylikHareketliOrtalama": 12.929333333333334,
+  "36AylikHareketliOrtalama": 7.616388888888888
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ce6"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "BJKAS.E",
+  "Bülten Adı": "BESIKTAS FUTBOL YAT.",
+  "Açılış Seansı İşlem Hacmi (TL)": 23636588.02,
+  "Toplam İşlem Hacmi (TL)": 3516962805.53,
+  "Açılış Seansı İşlem Miktarı": 2413185,
+  "Toplam İşlem Miktarı": 335359022,
+  "En Düşük Fiyat": 8.45,
+  "En Yüksek Fiyat": 12.48,
+  "Kapanış Fiyatı": 11.8,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 3.450000000000001,
+  "15AylikHareketliOrtalama": 6.052666666666666,
+  "36AylikHareketliOrtalama": 5.122222222222223
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ce7"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "BOSSA.E",
+  "Bülten Adı": "BOSSA",
+  "Açılış Seansı İşlem Hacmi (TL)": 915940.75,
+  "Toplam İşlem Hacmi (TL)": 185514190.14,
+  "Açılış Seansı İşlem Miktarı": 75997,
+  "Toplam İşlem Miktarı": 15499681,
+  "En Düşük Fiyat": 11.13,
+  "En Yüksek Fiyat": 12.51,
+  "Kapanış Fiyatı": 11.28,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -1.1800000000000015,
+  "15AylikHareketliOrtalama": 23.553333333333335,
+  "36AylikHareketliOrtalama": 21.25722222222222
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ce8"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "BLCYT.E",
+  "Bülten Adı": "BILICI YATIRIM",
+  "Açılış Seansı İşlem Hacmi (TL)": 1722493.74,
+  "Toplam İşlem Hacmi (TL)": 357421806.6,
+  "Açılış Seansı İşlem Miktarı": 144431,
+  "Toplam İşlem Miktarı": 29981119,
+  "En Düşük Fiyat": 10.6,
+  "En Yüksek Fiyat": 12.85,
+  "Kapanış Fiyatı": 10.93,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.5700000000000003,
+  "15AylikHareketliOrtalama": 14.067333333333332,
+  "36AylikHareketliOrtalama": 12.431666666666665
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ce9"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "YKBNK.E",
+  "Bülten Adı": "YAPI VE KREDI BANK.",
+  "Açılış Seansı İşlem Hacmi (TL)": 183784775.8,
+  "Toplam İşlem Hacmi (TL)": 22300337238.95,
+  "Açılış Seansı İşlem Miktarı": 18273875,
+  "Toplam İşlem Miktarı": {
+    "$numberLong": "2220926464"
+  },
+  "En Düşük Fiyat": 9.34,
+  "En Yüksek Fiyat": 10.84,
+  "Kapanış Fiyatı": 9.47,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.09999999999999964,
+  "15AylikHareketliOrtalama": 7.382666666666667,
+  "36AylikHareketliOrtalama": 4.520555555555556
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cea"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "AFYON.E",
+  "Bülten Adı": "AFYON CIMENTO",
+  "Açılış Seansı İşlem Hacmi (TL)": 8064707.97,
+  "Toplam İşlem Hacmi (TL)": 2040931864.24,
+  "Açılış Seansı İşlem Miktarı": 952010,
+  "Toplam İşlem Miktarı": 238190309,
+  "En Düşük Fiyat": 7.63,
+  "En Yüksek Fiyat": 9.43,
+  "Kapanış Fiyatı": 7.68,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.8900000000000006,
+  "15AylikHareketliOrtalama": 5.861333333333333,
+  "36AylikHareketliOrtalama": 4.861944444444444
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ceb"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "MIPAZ.E",
+  "Bülten Adı": "MILPA",
+  "Açılış Seansı İşlem Hacmi (TL)": 1765741.55,
+  "Toplam İşlem Hacmi (TL)": 370335679.58,
+  "Açılış Seansı İşlem Miktarı": 218721,
+  "Toplam İşlem Miktarı": 46566857,
+  "En Düşük Fiyat": 7.21,
+  "En Yüksek Fiyat": 8.86,
+  "Kapanış Fiyatı": 7.41,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.8599999999999994,
+  "15AylikHareketliOrtalama": 7.667333333333334,
+  "36AylikHareketliOrtalama": 5.585
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cec"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "MZHLD.E",
+  "Bülten Adı": "MAZHAR ZORLU HOLDING",
+  "Açılış Seansı İşlem Hacmi (TL)": 1643498.34,
+  "Toplam İşlem Hacmi (TL)": 254583433.13,
+  "Açılış Seansı İşlem Miktarı": 208435,
+  "Toplam İşlem Miktarı": 33607918,
+  "En Düşük Fiyat": 6.78,
+  "En Yüksek Fiyat": 8.25,
+  "Kapanış Fiyatı": 6.83,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.40000000000000036,
+  "15AylikHareketliOrtalama": 44.714000000000006,
+  "36AylikHareketliOrtalama": 34.22888888888889
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748ced"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "ICBCT.E",
+  "Bülten Adı": "ICBC TURKEY BANK",
+  "Açılış Seansı İşlem Hacmi (TL)": 385110.54,
+  "Toplam İşlem Hacmi (TL)": 249896268.21,
+  "Açılış Seansı İşlem Miktarı": 53561,
+  "Toplam İşlem Miktarı": 34440752,
+  "En Düşük Fiyat": 6.59,
+  "En Yüksek Fiyat": 7.78,
+  "Kapanış Fiyatı": 6.69,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.009999999999999787,
+  "15AylikHareketliOrtalama": 6.878,
+  "36AylikHareketliOrtalama": 6.232777777777778
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cee"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "ODAS.E",
+  "Bülten Adı": "ODAS ELEKTRIK",
+  "Açılış Seansı İşlem Hacmi (TL)": 32248677.9,
+  "Toplam İşlem Hacmi (TL)": 7291302745.25,
+  "Açılış Seansı İşlem Miktarı": 4763004,
+  "Toplam İşlem Miktarı": 1088419330,
+  "En Düşük Fiyat": 5.87,
+  "En Yüksek Fiyat": 7.41,
+  "Kapanış Fiyatı": 5.96,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.17999999999999972,
+  "15AylikHareketliOrtalama": 5.468000000000001,
+  "36AylikHareketliOrtalama": 3.6883333333333335
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cef"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "ISFIN.E",
+  "Bülten Adı": "IS FIN.KIR.",
+  "Açılış Seansı İşlem Hacmi (TL)": 6866579.49,
+  "Toplam İşlem Hacmi (TL)": 1018897433.18,
+  "Açılış Seansı İşlem Miktarı": 1157788,
+  "Toplam İşlem Miktarı": 172027307,
+  "En Düşük Fiyat": 5.44,
+  "En Yüksek Fiyat": 6.31,
+  "Kapanış Fiyatı": 5.57,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.16999999999999993,
+  "15AylikHareketliOrtalama": 5.696,
+  "36AylikHareketliOrtalama": 4.3774999999999995
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cf0"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "YAYLA.E",
+  "Bülten Adı": "YAYLA EN. UR. TUR. VE INS",
+  "Açılış Seansı İşlem Hacmi (TL)": 6377358.35,
+  "Toplam İşlem Hacmi (TL)": 642502437.13,
+  "Açılış Seansı İşlem Miktarı": 1101229,
+  "Toplam İşlem Miktarı": 117585457,
+  "En Düşük Fiyat": 4.58,
+  "En Yüksek Fiyat": 6.5,
+  "Kapanış Fiyatı": 4.73,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.09999999999999964,
+  "15AylikHareketliOrtalama": 4.5713333333333335,
+  "36AylikHareketliOrtalama": 3.8049999999999997
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cf1"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "BSOKE.E",
+  "Bülten Adı": "BATISOKE CIMENTO",
+  "Açılış Seansı İşlem Hacmi (TL)": 598346.87,
+  "Toplam İşlem Hacmi (TL)": 236479115.14,
+  "Açılış Seansı İşlem Miktarı": 149534,
+  "Toplam İşlem Miktarı": 59399323,
+  "En Düşük Fiyat": 3.44,
+  "En Yüksek Fiyat": 4.31,
+  "Kapanış Fiyatı": 3.46,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.4500000000000002,
+  "15AylikHareketliOrtalama": 3.517333333333333,
+  "36AylikHareketliOrtalama": 2.788611111111111
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cf2"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "USAK.E",
+  "Bülten Adı": "USAK SERAMIK",
+  "Açılış Seansı İşlem Hacmi (TL)": 1939232.61,
+  "Toplam İşlem Hacmi (TL)": 387349476.06,
+  "Açılış Seansı İşlem Miktarı": 541725,
+  "Toplam İşlem Miktarı": 105516079,
+  "En Düşük Fiyat": 3.26,
+  "En Yüksek Fiyat": 4,
+  "Kapanış Fiyatı": 3.3,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.3600000000000003,
+  "15AylikHareketliOrtalama": 2.9186666666666667,
+  "36AylikHareketliOrtalama": 2.3441666666666667
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cf3"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "MARTI.E",
+  "Bülten Adı": "MARTI OTEL",
+  "Açılış Seansı İşlem Hacmi (TL)": 6942900.2,
+  "Toplam İşlem Hacmi (TL)": 474746433.24,
+  "Açılış Seansı İşlem Miktarı": 2016435,
+  "Toplam İşlem Miktarı": 137202001,
+  "En Düşük Fiyat": 2.91,
+  "En Yüksek Fiyat": 3.74,
+  "Kapanış Fiyatı": 3.01,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.6000000000000001,
+  "15AylikHareketliOrtalama": 3.7093333333333334,
+  "36AylikHareketliOrtalama": 2.5413888888888887
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cf4"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "VKGYO.E",
+  "Bülten Adı": "VAKIF GMYO",
+  "Açılış Seansı İşlem Hacmi (TL)": 9190440.43,
+  "Toplam İşlem Hacmi (TL)": 1308677228.49,
+  "Açılış Seansı İşlem Miktarı": 2807594,
+  "Toplam İşlem Miktarı": 406398289,
+  "En Düşük Fiyat": 2.81,
+  "En Yüksek Fiyat": 3.55,
+  "Kapanış Fiyatı": 2.84,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.2200000000000002,
+  "15AylikHareketliOrtalama": 3.043333333333334,
+  "36AylikHareketliOrtalama": 2.790277777777778
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cf5"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "GSDHO.E",
+  "Bülten Adı": "GSD HOLDING",
+  "Açılış Seansı İşlem Hacmi (TL)": 17557513.5,
+  "Toplam İşlem Hacmi (TL)": 1842675460.33,
+  "Açılış Seansı İşlem Miktarı": 5728231,
+  "Toplam İşlem Miktarı": 604444415,
+  "En Düşük Fiyat": 2.66,
+  "En Yüksek Fiyat": 3.25,
+  "Kapanış Fiyatı": 2.66,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.2999999999999998,
+  "15AylikHareketliOrtalama": 3.652,
+  "36AylikHareketliOrtalama": 2.7875
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cf6"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "YYAPI.E",
+  "Bülten Adı": "YESIL YAPI",
+  "Açılış Seansı İşlem Hacmi (TL)": 6167436.6,
+  "Toplam İşlem Hacmi (TL)": 2001520024.64,
+  "Açılış Seansı İşlem Miktarı": 2149265,
+  "Toplam İşlem Miktarı": 693060594,
+  "En Düşük Fiyat": 2.34,
+  "En Yüksek Fiyat": 3.41,
+  "Kapanış Fiyatı": 2.38,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.11000000000000032,
+  "15AylikHareketliOrtalama": 1.5646666666666669,
+  "36AylikHareketliOrtalama": 1.3666666666666667
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cf7"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "EUHOL.E",
+  "Bülten Adı": "EURO YATIRIM HOLDING",
+  "Açılış Seansı İşlem Hacmi (TL)": 1236813.7,
+  "Toplam İşlem Hacmi (TL)": 216718851.87,
+  "Açılış Seansı İşlem Miktarı": 641373,
+  "Toplam İşlem Miktarı": 112555224,
+  "En Düşük Fiyat": 1.72,
+  "En Yüksek Fiyat": 2.05,
+  "Kapanış Fiyatı": 1.72,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.21999999999999997,
+  "15AylikHareketliOrtalama": 2.6053333333333333,
+  "36AylikHareketliOrtalama": 2.5233333333333334
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cf8"
+  },
+  "Pazar Kodu ": "W",
+  "Pazar Adı": "PAY-YAKIN IZLEME PAZARI",
+  "İşlem Kodu": "KERVN.E",
+  "Bülten Adı": "KERVANSARAY YAT. HOLDING",
+  "Açılış Seansı İşlem Hacmi (TL)": 3675887.68,
+  "Toplam İşlem Hacmi (TL)": 25980958.67,
+  "Açılış Seansı İşlem Miktarı": 4046998,
+  "Toplam İşlem Miktarı": 29863862,
+  "En Düşük Fiyat": 0.77,
+  "En Yüksek Fiyat": 1.01,
+  "Kapanış Fiyatı": 0.84,
+  "Tarih": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.05999999999999994,
+  "15AylikHareketliOrtalama": 0.728,
+  "36AylikHareketliOrtalama": 0.7269444444444444
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cf9"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "ARCLK.E",
+  "Bülten Adı": "ARCELIK",
+  "Açılış Seansı İşlem Hacmi (TL)": 49557813.4,
+  "Toplam İşlem Hacmi (TL)": 11065225138.6,
+  "Açılış Seansı İşlem Miktarı": 533890,
+  "Toplam İşlem Miktarı": 118514187,
+  "En Düşük Fiyat": 84.15,
+  "En Yüksek Fiyat": 101.8,
+  "Kapanış Fiyatı": 96.3,
+  "Tarih": {
+    "$date": "2023-05-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.5499999999999972,
+  "15AylikHareketliOrtalama": 85.89000000000001,
+  "36AylikHareketliOrtalama": 53.6525
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cfa"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "PARSN.E",
+  "Bülten Adı": "PARSAN",
+  "Açılış Seansı İşlem Hacmi (TL)": 5716093,
+  "Toplam İşlem Hacmi (TL)": 904910230.14,
+  "Açılış Seansı İşlem Miktarı": 103211,
+  "Toplam İşlem Miktarı": 16110983,
+  "En Düşük Fiyat": 47.42,
+  "En Yüksek Fiyat": 67.75,
+  "Kapanış Fiyatı": 67.75,
+  "Tarih": {
+    "$date": "2023-05-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 11.549999999999997,
+  "15AylikHareketliOrtalama": 49.70866666666667,
+  "36AylikHareketliOrtalama": 35.67444444444445
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cfb"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "SISE.E",
+  "Bülten Adı": "SISE CAM",
+  "Açılış Seansı İşlem Hacmi (TL)": 252477597.96,
+  "Toplam İşlem Hacmi (TL)": 41693596834.8,
+  "Açılış Seansı İşlem Miktarı": 6609204,
+  "Toplam İşlem Miktarı": 1087180307,
+  "En Düşük Fiyat": 34.7,
+  "En Yüksek Fiyat": 42.12,
+  "Kapanış Fiyatı": 40.36,
+  "Tarih": {
+    "$date": "2023-05-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 3.5,
+  "15AylikHareketliOrtalama": 30.907333333333334,
+  "36AylikHareketliOrtalama": 17.43
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cfc"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "SELEC.E",
+  "Bülten Adı": "SELCUK ECZA DEPOSU",
+  "Açılış Seansı İşlem Hacmi (TL)": 6373055.56,
+  "Toplam İşlem Hacmi (TL)": 1032217109.36,
+  "Açılış Seansı İşlem Miktarı": 217293,
+  "Toplam İşlem Miktarı": 34379523,
+  "En Düşük Fiyat": 26.44,
+  "En Yüksek Fiyat": 34.04,
+  "Kapanış Fiyatı": 33.52,
+  "Tarih": {
+    "$date": "2023-05-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 3.1200000000000045,
+  "15AylikHareketliOrtalama": 25.19,
+  "36AylikHareketliOrtalama": 16.307222222222222
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cfd"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "ANHYT.E",
+  "Bülten Adı": "ANADOLU HAYAT EMEK.",
+  "Açılış Seansı İşlem Hacmi (TL)": 2063212.94,
+  "Toplam İşlem Hacmi (TL)": 451105153.33,
+  "Açılış Seansı İşlem Miktarı": 129862,
+  "Toplam İşlem Miktarı": 28400714,
+  "En Düşük Fiyat": 14.5,
+  "En Yüksek Fiyat": 17.3,
+  "Kapanış Fiyatı": 16.96,
+  "Tarih": {
+    "$date": "2023-05-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 1.9800000000000004,
+  "15AylikHareketliOrtalama": 15.796666666666665,
+  "36AylikHareketliOrtalama": 11.887222222222222
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cfe"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "DAGHL.E",
+  "Bülten Adı": "DAGI YATIRIM HOLDING",
+  "Açılış Seansı İşlem Hacmi (TL)": 12940929.51,
+  "Toplam İşlem Hacmi (TL)": 999553256.65,
+  "Açılış Seansı İşlem Miktarı": 941135,
+  "Toplam İşlem Miktarı": 73982321,
+  "En Düşük Fiyat": 8.5,
+  "En Yüksek Fiyat": 16.16,
+  "Kapanış Fiyatı": 12.9,
+  "Tarih": {
+    "$date": "2023-05-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 2.92,
+  "15AylikHareketliOrtalama": 17.684666666666665,
+  "36AylikHareketliOrtalama": 13.770000000000001
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748cff"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "FONET.E",
+  "Bülten Adı": "FONET BILGI TEKNOLOJILERI",
+  "Açılış Seansı İşlem Hacmi (TL)": 281211.92,
+  "Toplam İşlem Hacmi (TL)": 99340212.82,
+  "Açılış Seansı İşlem Miktarı": 27543,
+  "Toplam İşlem Miktarı": 9760192,
+  "En Düşük Fiyat": 9.55,
+  "En Yüksek Fiyat": 11.18,
+  "Kapanış Fiyatı": 10.96,
+  "Tarih": {
+    "$date": "2023-05-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.05999999999999872,
+  "15AylikHareketliOrtalama": 12.751333333333333,
+  "36AylikHareketliOrtalama": 12.559444444444445
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d00"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "ISGYO.E",
+  "Bülten Adı": "IS GMYO",
+  "Açılış Seansı İşlem Hacmi (TL)": 9994107.88,
+  "Toplam İşlem Hacmi (TL)": 2812044968.45,
+  "Açılış Seansı İşlem Miktarı": 1233096,
+  "Toplam İşlem Miktarı": 344459534,
+  "En Düşük Fiyat": 7.24,
+  "En Yüksek Fiyat": 9.21,
+  "Kapanış Fiyatı": 8.9,
+  "Tarih": {
+    "$date": "2023-05-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.6699999999999999,
+  "15AylikHareketliOrtalama": 11.060666666666666,
+  "36AylikHareketliOrtalama": 5.864166666666667
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d01"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "INFO.E",
+  "Bülten Adı": "INFO YATIRIM",
+  "Açılış Seansı İşlem Hacmi (TL)": 2415223.2,
+  "Toplam İşlem Hacmi (TL)": 499031926.62,
+  "Açılış Seansı İşlem Miktarı": 323859,
+  "Toplam İşlem Miktarı": 66453079,
+  "En Düşük Fiyat": 6.9,
+  "En Yüksek Fiyat": 8.61,
+  "Kapanış Fiyatı": 8.42,
+  "Tarih": {
+    "$date": "2023-05-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.40000000000000036,
+  "15AylikHareketliOrtalama": 9.660666666666666,
+  "36AylikHareketliOrtalama": 7.739999999999999
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d02"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "GSDDE.E",
+  "Bülten Adı": "GSD DENIZCILIK",
+  "Açılış Seansı İşlem Hacmi (TL)": 677357.96,
+  "Toplam İşlem Hacmi (TL)": 201059800.14,
+  "Açılış Seansı İşlem Miktarı": 105248,
+  "Toplam İşlem Miktarı": 30821397,
+  "En Düşük Fiyat": 5.71,
+  "En Yüksek Fiyat": 7.33,
+  "Kapanış Fiyatı": 6.81,
+  "Tarih": {
+    "$date": "2023-05-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.3200000000000003,
+  "15AylikHareketliOrtalama": 5.778666666666667,
+  "36AylikHareketliOrtalama": 4.978055555555556
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d03"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "EMKEL.E",
+  "Bülten Adı": "EMEK ELEKTRIK",
+  "Açılış Seansı İşlem Hacmi (TL)": 2033283.68,
+  "Toplam İşlem Hacmi (TL)": 820812364.06,
+  "Açılış Seansı İşlem Miktarı": 330176,
+  "Toplam İşlem Miktarı": 132875636,
+  "En Düşük Fiyat": 5.25,
+  "En Yüksek Fiyat": 6.9,
+  "Kapanış Fiyatı": 6.52,
+  "Tarih": {
+    "$date": "2023-05-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.11000000000000032,
+  "15AylikHareketliOrtalama": 4.398,
+  "36AylikHareketliOrtalama": 3.54
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d04"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "EGSER.E",
+  "Bülten Adı": "EGE SERAMIK",
+  "Açılış Seansı İşlem Hacmi (TL)": 5961040.61,
+  "Toplam İşlem Hacmi (TL)": 523496344.51,
+  "Açılış Seansı İşlem Miktarı": 509014,
+  "Toplam İşlem Miktarı": 75778386,
+  "En Düşük Fiyat": 4.5,
+  "En Yüksek Fiyat": 6.07,
+  "Kapanış Fiyatı": 5.67,
+  "Tarih": {
+    "$date": "2023-05-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -22.409999999999997,
+  "15AylikHareketliOrtalama": 27.768666666666668,
+  "36AylikHareketliOrtalama": 17.859166666666667
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d05"
+  },
+  "Pazar Kodu ": "T",
+  "Pazar Adı": "PAY-ALT PAZAR",
+  "İşlem Kodu": "ATAGY.E",
+  "Bülten Adı": "ATA GMYO",
+  "Açılış Seansı İşlem Hacmi (TL)": 129250.37,
+  "Toplam İşlem Hacmi (TL)": 29994644.24,
+  "Açılış Seansı İşlem Miktarı": 27306,
+  "Toplam İşlem Miktarı": 6268443,
+  "En Düşük Fiyat": 4.16,
+  "En Yüksek Fiyat": 5.44,
+  "Kapanış Fiyatı": 5.42,
+  "Tarih": {
+    "$date": "2023-05-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.5899999999999999,
+  "15AylikHareketliOrtalama": 4.6066666666666665,
+  "36AylikHareketliOrtalama": 4.376666666666667
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d06"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "TSGYO.E",
+  "Bülten Adı": "TSKB GMYO",
+  "Açılış Seansı İşlem Hacmi (TL)": 1908378.55,
+  "Toplam İşlem Hacmi (TL)": 231784329.62,
+  "Açılış Seansı İşlem Miktarı": 457678,
+  "Toplam İşlem Miktarı": 54635620,
+  "En Düşük Fiyat": 3.92,
+  "En Yüksek Fiyat": 4.67,
+  "Kapanış Fiyatı": 4.49,
+  "Tarih": {
+    "$date": "2023-05-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.11000000000000032,
+  "15AylikHareketliOrtalama": 4.937333333333333,
+  "36AylikHareketliOrtalama": 4.148888888888889
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d07"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "AKENR.E",
+  "Bülten Adı": "AK ENERJI",
+  "Açılış Seansı İşlem Hacmi (TL)": 2281565.09,
+  "Toplam İşlem Hacmi (TL)": 522219513.08,
+  "Açılış Seansı İşlem Miktarı": 582130,
+  "Toplam İşlem Miktarı": 130256966,
+  "En Düşük Fiyat": 3.64,
+  "En Yüksek Fiyat": 4.52,
+  "Kapanış Fiyatı": 4.32,
+  "Tarih": {
+    "$date": "2023-05-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.10000000000000053,
+  "15AylikHareketliOrtalama": 3.1973333333333334,
+  "36AylikHareketliOrtalama": 2.356111111111111
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d08"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "TSKB.E",
+  "Bülten Adı": "T.S.K.B.",
+  "Açılış Seansı İşlem Hacmi (TL)": 33123159.91,
+  "Toplam İşlem Hacmi (TL)": 5647583443.16,
+  "Açılış Seansı İşlem Miktarı": 8381422,
+  "Toplam İşlem Miktarı": 1392109687,
+  "En Düşük Fiyat": 3.49,
+  "En Yüksek Fiyat": 4.7,
+  "Kapanış Fiyatı": 4.1,
+  "Tarih": {
+    "$date": "2023-05-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.16999999999999948,
+  "15AylikHareketliOrtalama": 3.240666666666667,
+  "36AylikHareketliOrtalama": 2.1886111111111113
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d09"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "ITTFH.E",
+  "Bülten Adı": "ITTIFAK HOLDING",
+  "Açılış Seansı İşlem Hacmi (TL)": 1718652.84,
+  "Toplam İşlem Hacmi (TL)": 401783172.75,
+  "Açılış Seansı İşlem Miktarı": 625884,
+  "Toplam İşlem Miktarı": 142356086,
+  "En Düşük Fiyat": 2.56,
+  "En Yüksek Fiyat": 3.25,
+  "Kapanış Fiyatı": 2.94,
+  "Tarih": {
+    "$date": "2023-05-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.25,
+  "15AylikHareketliOrtalama": 2.3040000000000003,
+  "36AylikHareketliOrtalama": 2.3033333333333332
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d0a"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "ADEL.E",
+  "Bülten Adı": "ADEL KALEMCILIK",
+  "Açılış Seansı İşlem Hacmi (TL)": 6499138.3,
+  "Toplam İşlem Hacmi (TL)": 1089270222.2,
+  "Açılış Seansı İşlem Miktarı": 39678,
+  "Toplam İşlem Miktarı": 6629641,
+  "En Düşük Fiyat": 110.2,
+  "En Yüksek Fiyat": 195.8,
+  "Kapanış Fiyatı": 176.5,
+  "Tarih": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 63,
+  "15AylikHareketliOrtalama": 77.46466666666667,
+  "36AylikHareketliOrtalama": 46.08888888888889
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d0b"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "AGHOL.E",
+  "Bülten Adı": "ANADOLU GRUBU HOLDING",
+  "Açılış Seansı İşlem Hacmi (TL)": 10104510.9,
+  "Toplam İşlem Hacmi (TL)": 1963276004.3,
+  "Açılış Seansı İşlem Miktarı": 94818,
+  "Toplam İşlem Miktarı": 18653891,
+  "En Düşük Fiyat": 96.2,
+  "En Yüksek Fiyat": 111.1,
+  "Kapanış Fiyatı": 110,
+  "Tarih": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 14.349999999999994,
+  "15AylikHareketliOrtalama": 81.67599999999999,
+  "36AylikHareketliOrtalama": 48.5563888888889
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d0c"
+  },
+  "Pazar Kodu ": "T",
+  "Pazar Adı": "PAY-ALT PAZAR",
+  "İşlem Kodu": "COSMO.E",
+  "Bülten Adı": "COSMOS YAT. HOLDING",
+  "Açılış Seansı İşlem Hacmi (TL)": 2558276.05,
+  "Toplam İşlem Hacmi (TL)": 107979365.85,
+  "Açılış Seansı İşlem Miktarı": 31152,
+  "Toplam İşlem Miktarı": 1345810,
+  "En Düşük Fiyat": 71,
+  "En Yüksek Fiyat": 96,
+  "Kapanış Fiyatı": 94,
+  "Tarih": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 18.099999999999994,
+  "15AylikHareketliOrtalama": 64.93133333333334,
+  "36AylikHareketliOrtalama": 32.09444444444445
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d0d"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "MPARK.E",
+  "Bülten Adı": "MLP SAGLIK",
+  "Açılış Seansı İşlem Hacmi (TL)": 3975883.35,
+  "Toplam İşlem Hacmi (TL)": 1217735498.55,
+  "Açılış Seansı İşlem Miktarı": 56150,
+  "Toplam İşlem Miktarı": 17354866,
+  "En Düşük Fiyat": 63.45,
+  "En Yüksek Fiyat": 77.35,
+  "Kapanış Fiyatı": 76,
+  "Tarih": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 9,
+  "15AylikHareketliOrtalama": 60.11466666666667,
+  "36AylikHareketliOrtalama": 38.57833333333333
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d0e"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "BTCIM.E",
+  "Bülten Adı": "BATI CIMENTO",
+  "Açılış Seansı İşlem Hacmi (TL)": 1539581.54,
+  "Toplam İşlem Hacmi (TL)": 393353299.44,
+  "Açılış Seansı İşlem Miktarı": 39132,
+  "Toplam İşlem Miktarı": 9889850,
+  "En Düşük Fiyat": 36.6,
+  "En Yüksek Fiyat": 43.86,
+  "Kapanış Fiyatı": 43.86,
+  "Tarih": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 6.939999999999998,
+  "15AylikHareketliOrtalama": 32.56666666666667,
+  "36AylikHareketliOrtalama": 19.334166666666665
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d0f"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "KUYAS.E",
+  "Bülten Adı": "KUYAS YATIRIM",
+  "Açılış Seansı İşlem Hacmi (TL)": 21661468.84,
+  "Toplam İşlem Hacmi (TL)": 2666190111.32,
+  "Açılış Seansı İşlem Miktarı": 626147,
+  "Toplam İşlem Miktarı": 79378587,
+  "En Düşük Fiyat": 28.06,
+  "En Yüksek Fiyat": 39.62,
+  "Kapanış Fiyatı": 39,
+  "Tarih": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 9.899999999999999,
+  "15AylikHareketliOrtalama": 18.478,
+  "36AylikHareketliOrtalama": 9.400277777777779
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d10"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "SOKM.E",
+  "Bülten Adı": "SOK MARKETLER TICARET",
+  "Açılış Seansı İşlem Hacmi (TL)": 24728961.34,
+  "Toplam İşlem Hacmi (TL)": 4244023400.34,
+  "Açılış Seansı İşlem Miktarı": 812913,
+  "Toplam İşlem Miktarı": 138755979,
+  "En Düşük Fiyat": 27.34,
+  "En Yüksek Fiyat": 33.68,
+  "Kapanış Fiyatı": 33.3,
+  "Tarih": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 6.099999999999998,
+  "15AylikHareketliOrtalama": 22.665333333333333,
+  "36AylikHareketliOrtalama": 16.633611111111108
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d11"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "SANEL.E",
+  "Bülten Adı": "SANEL MUHENDISLIK",
+  "Açılış Seansı İşlem Hacmi (TL)": 397415.58,
+  "Toplam İşlem Hacmi (TL)": 130423832.44,
+  "Açılış Seansı İşlem Miktarı": 23224,
+  "Toplam İşlem Miktarı": 7543112,
+  "En Düşük Fiyat": 15.86,
+  "En Yüksek Fiyat": 19.51,
+  "Kapanış Fiyatı": 17.23,
+  "Tarih": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -1.5399999999999991,
+  "15AylikHareketliOrtalama": 13.009333333333332,
+  "36AylikHareketliOrtalama": 8.325277777777778
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d12"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "SILVR.E",
+  "Bülten Adı": "SILVERLINE ENDUSTRI",
+  "Açılış Seansı İşlem Hacmi (TL)": 1187578.57,
+  "Toplam İşlem Hacmi (TL)": 326612947.09,
+  "Açılış Seansı İşlem Miktarı": 86674,
+  "Toplam İşlem Miktarı": 23923962,
+  "En Düşük Fiyat": 12.6,
+  "En Yüksek Fiyat": 14.54,
+  "Kapanış Fiyatı": 14.08,
+  "Tarih": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 1.25,
+  "15AylikHareketliOrtalama": 17.71333333333333,
+  "36AylikHareketliOrtalama": 10.42138888888889
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d13"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "MNDRS.E",
+  "Bülten Adı": "MENDERES TEKSTIL",
+  "Açılış Seansı İşlem Hacmi (TL)": 5635335.44,
+  "Toplam İşlem Hacmi (TL)": 1309479394.55,
+  "Açılış Seansı İşlem Miktarı": 782660,
+  "Toplam İşlem Miktarı": 181593685,
+  "En Düşük Fiyat": 6.37,
+  "En Yüksek Fiyat": 8.45,
+  "Kapanış Fiyatı": 8.39,
+  "Tarih": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 2.0200000000000005,
+  "15AylikHareketliOrtalama": 6.352,
+  "36AylikHareketliOrtalama": 4.193611111111111
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d14"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "SMART.E",
+  "Bülten Adı": "SMARTIKS YAZILIM",
+  "Açılış Seansı İşlem Hacmi (TL)": 1013292.9,
+  "Toplam İşlem Hacmi (TL)": 307074941.77,
+  "Açılış Seansı İşlem Miktarı": 125157,
+  "Toplam İşlem Miktarı": 37712546,
+  "En Düşük Fiyat": 7.57,
+  "En Yüksek Fiyat": 8.53,
+  "Kapanış Fiyatı": 8.08,
+  "Tarih": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.20000000000000018,
+  "15AylikHareketliOrtalama": 7.716666666666667,
+  "36AylikHareketliOrtalama": 7.196666666666666
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d15"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "MRGYO.E",
+  "Bülten Adı": "MARTI GMYO",
+  "Açılış Seansı İşlem Hacmi (TL)": 4650474.73,
+  "Toplam İşlem Hacmi (TL)": 703632842.38,
+  "Açılış Seansı İşlem Miktarı": 811997,
+  "Toplam İşlem Miktarı": 124704644,
+  "En Düşük Fiyat": 5,
+  "En Yüksek Fiyat": 6.41,
+  "Kapanış Fiyatı": 6.33,
+  "Tarih": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.8700000000000001,
+  "15AylikHareketliOrtalama": 3.832666666666667,
+  "36AylikHareketliOrtalama": 2.629166666666667
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d16"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "ANELE.E",
+  "Bülten Adı": "ANEL ELEKTRIK",
+  "Açılış Seansı İşlem Hacmi (TL)": 2341051.24,
+  "Toplam İşlem Hacmi (TL)": 681292092.75,
+  "Açılış Seansı İşlem Miktarı": 472467,
+  "Toplam İşlem Miktarı": 138338750,
+  "En Düşük Fiyat": 4.46,
+  "En Yüksek Fiyat": 5.78,
+  "Kapanış Fiyatı": 5.78,
+  "Tarih": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 1.3399999999999999,
+  "15AylikHareketliOrtalama": 3.765333333333333,
+  "36AylikHareketliOrtalama": 3.683888888888889
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d17"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "BNTAS.E",
+  "Bülten Adı": "BANTAS AMBALAJ",
+  "Açılış Seansı İşlem Hacmi (TL)": 1478522.68,
+  "Toplam İşlem Hacmi (TL)": 277446482.16,
+  "Açılış Seansı İşlem Miktarı": 277188,
+  "Toplam İşlem Miktarı": 52251259,
+  "En Düşük Fiyat": 4.9,
+  "En Yüksek Fiyat": 5.65,
+  "Kapanış Fiyatı": 5.39,
+  "Tarih": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.35999999999999943,
+  "15AylikHareketliOrtalama": 5.352666666666666,
+  "36AylikHareketliOrtalama": 4.7188888888888885
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d18"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "TDGYO.E",
+  "Bülten Adı": "TREND GMYO",
+  "Açılış Seansı İşlem Hacmi (TL)": 957043.88,
+  "Toplam İşlem Hacmi (TL)": 264937305.55,
+  "Açılış Seansı İşlem Miktarı": 197249,
+  "Toplam İşlem Miktarı": 54457678,
+  "En Düşük Fiyat": 4.26,
+  "En Yüksek Fiyat": 5.36,
+  "Kapanış Fiyatı": 4.92,
+  "Tarih": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.5099999999999998,
+  "15AylikHareketliOrtalama": 8.439333333333334,
+  "36AylikHareketliOrtalama": 7.716944444444445
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d19"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "GENTS.E",
+  "Bülten Adı": "GENTAS",
+  "Açılış Seansı İşlem Hacmi (TL)": 1121400.53,
+  "Toplam İşlem Hacmi (TL)": 218387202.43,
+  "Açılış Seansı İşlem Miktarı": 194926,
+  "Toplam İşlem Miktarı": 40626070,
+  "En Düşük Fiyat": 4.13,
+  "En Yüksek Fiyat": 4.85,
+  "Kapanış Fiyatı": 4.64,
+  "Tarih": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.96,
+  "15AylikHareketliOrtalama": 5.594666666666667,
+  "36AylikHareketliOrtalama": 4.580277777777778
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d1a"
+  },
+  "Pazar Kodu ": "T",
+  "Pazar Adı": "PAY-ALT PAZAR",
+  "İşlem Kodu": "AVTUR.E",
+  "Bülten Adı": "AVRASYA PETROL VE TUR.",
+  "Açılış Seansı İşlem Hacmi (TL)": 488747.53,
+  "Toplam İşlem Hacmi (TL)": 43203730.58,
+  "Açılış Seansı İşlem Miktarı": 141140,
+  "Toplam İşlem Miktarı": 12758432,
+  "En Düşük Fiyat": 3.19,
+  "En Yüksek Fiyat": 3.77,
+  "Kapanış Fiyatı": 3.53,
+  "Tarih": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.2599999999999998,
+  "15AylikHareketliOrtalama": 2.9213333333333327,
+  "36AylikHareketliOrtalama": 2.7625
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d1b"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "FMIZP.E",
+  "Bülten Adı": "F-M IZMIT PISTON",
+  "Açılış Seansı İşlem Hacmi (TL)": 3188665.8,
+  "Toplam İşlem Hacmi (TL)": 642019457.3,
+  "Açılış Seansı İşlem Miktarı": 19034,
+  "Toplam İşlem Miktarı": 3837198,
+  "En Düşük Fiyat": 143.7,
+  "En Yüksek Fiyat": 198.3,
+  "Kapanış Fiyatı": 198.3,
+  "Tarih": {
+    "$date": "2023-07-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 54.60000000000002,
+  "15AylikHareketliOrtalama": 145.57333333333332,
+  "36AylikHareketliOrtalama": 129.27638888888887
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d1c"
+  },
+  "Pazar Kodu ": "W",
+  "Pazar Adı": "PAY-YAKIN IZLEME PAZARI",
+  "İşlem Kodu": "CASA.E",
+  "Bülten Adı": "CASA EMTIA PETROL",
+  "Açılış Seansı İşlem Hacmi (TL)": 6404152.6,
+  "Toplam İşlem Hacmi (TL)": 83113910.6,
+  "Açılış Seansı İşlem Miktarı": 51974,
+  "Toplam İşlem Miktarı": 674067,
+  "En Düşük Fiyat": 119,
+  "En Yüksek Fiyat": 138.6,
+  "Kapanış Fiyatı": 122,
+  "Tarih": {
+    "$date": "2023-07-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -1.0999999999999943,
+  "15AylikHareketliOrtalama": 135.16666666666666,
+  "36AylikHareketliOrtalama": 116.52361111111112
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d1d"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "AKCNS.E",
+  "Bülten Adı": "AKCANSA",
+  "Açılış Seansı İşlem Hacmi (TL)": 17148595.5,
+  "Toplam İşlem Hacmi (TL)": 3842830286.5,
+  "Açılış Seansı İşlem Miktarı": 173380,
+  "Toplam İşlem Miktarı": 38898041,
+  "En Düşük Fiyat": 86.55,
+  "En Yüksek Fiyat": 109,
+  "Kapanış Fiyatı": 106.4,
+  "Tarih": {
+    "$date": "2023-07-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 17.85000000000001,
+  "15AylikHareketliOrtalama": 53.71,
+  "36AylikHareketliOrtalama": 31.69472222222222
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d1e"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "UFUK.E",
+  "Bülten Adı": "UFUK YATIRIM",
+  "Açılış Seansı İşlem Hacmi (TL)": 2601416.3,
+  "Toplam İşlem Hacmi (TL)": 270174581.05,
+  "Açılış Seansı İşlem Miktarı": 32839,
+  "Toplam İşlem Miktarı": 3464870,
+  "En Düşük Fiyat": 67.5,
+  "En Yüksek Fiyat": 88.15,
+  "Kapanış Fiyatı": 83.05,
+  "Tarih": {
+    "$date": "2023-07-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 12.099999999999994,
+  "15AylikHareketliOrtalama": 60.89066666666667,
+  "36AylikHareketliOrtalama": 34.65777777777778
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d1f"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "OYAKC.E",
+  "Bülten Adı": "OYAK CIMENTO",
+  "Açılış Seansı İşlem Hacmi (TL)": 130350804.05,
+  "Toplam İşlem Hacmi (TL)": 23052120211.86,
+  "Açılış Seansı İşlem Miktarı": 2521735,
+  "Toplam İşlem Miktarı": 447690195,
+  "En Düşük Fiyat": 42.9,
+  "En Yüksek Fiyat": 58,
+  "Kapanış Fiyatı": 56,
+  "Tarih": {
+    "$date": "2023-07-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 14.32,
+  "15AylikHareketliOrtalama": 26.589333333333336,
+  "36AylikHareketliOrtalama": 15.510277777777778
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d20"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "EREGL.E",
+  "Bülten Adı": "EREGLI DEMIR CELIK",
+  "Açılış Seansı İşlem Hacmi (TL)": 633831673.78,
+  "Toplam İşlem Hacmi (TL)": 92802555001.8,
+  "Açılış Seansı İşlem Miktarı": 16429778,
+  "Toplam İşlem Miktarı": {
+    "$numberLong": "2402900838"
+  },
+  "En Düşük Fiyat": 36.82,
+  "En Yüksek Fiyat": 42,
+  "Kapanış Fiyatı": 41.7,
+  "Tarih": {
+    "$date": "2023-07-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 4.980000000000004,
+  "15AylikHareketliOrtalama": 34.836,
+  "36AylikHareketliOrtalama": 24.76361111111111
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d21"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "KLMSN.E",
+  "Bülten Adı": "KLIMASAN KLIMA",
+  "Açılış Seansı İşlem Hacmi (TL)": 6522180.6,
+  "Toplam İşlem Hacmi (TL)": 1037193489.43,
+  "Açılış Seansı İşlem Miktarı": 291046,
+  "Toplam İşlem Miktarı": 45739471,
+  "En Düşük Fiyat": 19.8,
+  "En Yüksek Fiyat": 25.48,
+  "Kapanış Fiyatı": 23.04,
+  "Tarih": {
+    "$date": "2023-07-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 3.3599999999999994,
+  "15AylikHareketliOrtalama": 17.006666666666668,
+  "36AylikHareketliOrtalama": 16.075
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d22"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "KRDMB.E",
+  "Bülten Adı": "KARDEMIR (B)",
+  "Açılış Seansı İşlem Hacmi (TL)": 9650733.54,
+  "Toplam İşlem Hacmi (TL)": 1323679074.71,
+  "Açılış Seansı İşlem Miktarı": 481925,
+  "Toplam İşlem Miktarı": 66282654,
+  "En Düşük Fiyat": 18.65,
+  "En Yüksek Fiyat": 21.56,
+  "Kapanış Fiyatı": 21.36,
+  "Tarih": {
+    "$date": "2023-07-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 2.219999999999999,
+  "15AylikHareketliOrtalama": 13.804666666666666,
+  "36AylikHareketliOrtalama": 9.461666666666666
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d23"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "PETKM.E",
+  "Bülten Adı": "PETKIM",
+  "Açılış Seansı İşlem Hacmi (TL)": 434914136.23,
+  "Toplam İşlem Hacmi (TL)": 55050395046.56,
+  "Açılış Seansı İşlem Miktarı": 26347721,
+  "Toplam İşlem Miktarı": {
+    "$numberLong": "3327135586"
+  },
+  "En Düşük Fiyat": 15.25,
+  "En Yüksek Fiyat": 18.27,
+  "Kapanış Fiyatı": 17.99,
+  "Tarih": {
+    "$date": "2023-07-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 2.9799999999999986,
+  "15AylikHareketliOrtalama": 14.188666666666666,
+  "36AylikHareketliOrtalama": 9.3675
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d24"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "SEKFK.E",
+  "Bülten Adı": "SEKER FIN. KIR.",
+  "Açılış Seansı İşlem Hacmi (TL)": 18760122.51,
+  "Toplam İşlem Hacmi (TL)": 2293240567.09,
+  "Açılış Seansı İşlem Miktarı": 1240028,
+  "Toplam İşlem Miktarı": 158671053,
+  "En Düşük Fiyat": 11,
+  "En Yüksek Fiyat": 18.38,
+  "Kapanış Fiyatı": 14.3,
+  "Tarih": {
+    "$date": "2023-07-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 3.360000000000001,
+  "15AylikHareketliOrtalama": 8.818666666666667,
+  "36AylikHareketliOrtalama": 7.010277777777778
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d25"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "CEMTS.E",
+  "Bülten Adı": "CEMTAS",
+  "Açılış Seansı İşlem Hacmi (TL)": 22880816.09,
+  "Toplam İşlem Hacmi (TL)": 3688080599.06,
+  "Açılış Seansı İşlem Miktarı": 2214586,
+  "Toplam İşlem Miktarı": 359996823,
+  "En Düşük Fiyat": 8.83,
+  "En Yüksek Fiyat": 11.49,
+  "Kapanış Fiyatı": 11.4,
+  "Tarih": {
+    "$date": "2023-07-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 2.58,
+  "15AylikHareketliOrtalama": 34.90466666666667,
+  "36AylikHareketliOrtalama": 23.230555555555554
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d26"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "KERVT.E",
+  "Bülten Adı": "KEREVITAS GIDA",
+  "Açılış Seansı İşlem Hacmi (TL)": 9342133.82,
+  "Toplam İşlem Hacmi (TL)": 2605984151.64,
+  "Açılış Seansı İşlem Miktarı": 902606,
+  "Toplam İşlem Miktarı": 249902760,
+  "En Düşük Fiyat": 9.03,
+  "En Yüksek Fiyat": 11.47,
+  "Kapanış Fiyatı": 11.29,
+  "Tarih": {
+    "$date": "2023-07-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 2.3199999999999985,
+  "15AylikHareketliOrtalama": 10.005333333333335,
+  "36AylikHareketliOrtalama": 7.178888888888888
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d27"
+  },
+  "Pazar Kodu ": "T",
+  "Pazar Adı": "PAY-ALT PAZAR",
+  "İşlem Kodu": "SELGD.E",
+  "Bülten Adı": "SELCUK GIDA",
+  "Açılış Seansı İşlem Hacmi (TL)": 3169283.25,
+  "Toplam İşlem Hacmi (TL)": 150782622.33,
+  "Açılış Seansı İşlem Miktarı": 369551,
+  "Toplam İşlem Miktarı": 17020249,
+  "En Düşük Fiyat": 6.84,
+  "En Yüksek Fiyat": 10.49,
+  "Kapanış Fiyatı": 10.43,
+  "Tarih": {
+    "$date": "2023-07-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 3.59,
+  "15AylikHareketliOrtalama": 6.208666666666668,
+  "36AylikHareketliOrtalama": 5.107499999999999
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d28"
+  },
+  "Pazar Kodu ": "W",
+  "Pazar Adı": "PAY-YAKIN IZLEME PAZARI",
+  "İşlem Kodu": "DIRIT.E",
+  "Bülten Adı": "DIRITEKS DIRILIS TEKSTIL",
+  "Açılış Seansı İşlem Hacmi (TL)": 1755522.45,
+  "Toplam İşlem Hacmi (TL)": 19565433.27,
+  "Açılış Seansı İşlem Miktarı": 256844,
+  "Toplam İşlem Miktarı": 2845689,
+  "En Düşük Fiyat": 5.9,
+  "En Yüksek Fiyat": 8,
+  "Kapanış Fiyatı": 6.64,
+  "Tarih": {
+    "$date": "2023-07-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.15999999999999925,
+  "15AylikHareketliOrtalama": 4.776666666666667,
+  "36AylikHareketliOrtalama": 4.221111111111111
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d29"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "MEPET.E",
+  "Bülten Adı": "METRO PETROL VE TESISLERI",
+  "Açılış Seansı İşlem Hacmi (TL)": 5230235.18,
+  "Toplam İşlem Hacmi (TL)": 662103774.79,
+  "Açılış Seansı İşlem Miktarı": 863673,
+  "Toplam İşlem Miktarı": 111221666,
+  "En Düşük Fiyat": 4.77,
+  "En Yüksek Fiyat": 7.26,
+  "Kapanış Fiyatı": 6.39,
+  "Tarih": {
+    "$date": "2023-07-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 1.6599999999999993,
+  "15AylikHareketliOrtalama": 4.452,
+  "36AylikHareketliOrtalama": 3.463333333333333
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d2a"
+  },
+  "Pazar Kodu ": "T",
+  "Pazar Adı": "PAY-ALT PAZAR",
+  "İşlem Kodu": "MTRYO.E",
+  "Bülten Adı": "METRO YAT. ORT.",
+  "Açılış Seansı İşlem Hacmi (TL)": 1596614.75,
+  "Toplam İşlem Hacmi (TL)": 91543838.52,
+  "Açılış Seansı İşlem Miktarı": 273803,
+  "Toplam İşlem Miktarı": 16114388,
+  "En Düşük Fiyat": 4.66,
+  "En Yüksek Fiyat": 6.53,
+  "Kapanış Fiyatı": 6.13,
+  "Tarih": {
+    "$date": "2023-07-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 1.17,
+  "15AylikHareketliOrtalama": 3.1046666666666667,
+  "36AylikHareketliOrtalama": 2.461111111111111
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d2b"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "YAPRK.E",
+  "Bülten Adı": "YAPRAK SUT VE BESI CIFT.",
+  "Açılış Seansı İşlem Hacmi (TL)": 15873670,
+  "Toplam İşlem Hacmi (TL)": 1879137993.6,
+  "Açılış Seansı İşlem Miktarı": 121074,
+  "Toplam İşlem Miktarı": 14617629,
+  "En Düşük Fiyat": 107.5,
+  "En Yüksek Fiyat": 150,
+  "Kapanış Fiyatı": 139.1,
+  "Tarih": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 27.799999999999997,
+  "15AylikHareketliOrtalama": 53.669333333333334,
+  "36AylikHareketliOrtalama": 51.81777777777778
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d2c"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "AKMGY.E",
+  "Bülten Adı": "AKMERKEZ GMYO",
+  "Açılış Seansı İşlem Hacmi (TL)": 2174407.8,
+  "Toplam İşlem Hacmi (TL)": 423659064.8,
+  "Açılış Seansı İşlem Miktarı": 16729,
+  "Toplam İşlem Miktarı": 3287959,
+  "En Düşük Fiyat": 111.5,
+  "En Yüksek Fiyat": 143.8,
+  "Kapanış Fiyatı": 137,
+  "Tarih": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 6.400000000000006,
+  "15AylikHareketliOrtalama": 75.39866666666667,
+  "36AylikHareketliOrtalama": 60.299166666666665
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d2d"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "VAKKO.E",
+  "Bülten Adı": "VAKKO TEKSTIL",
+  "Açılış Seansı İşlem Hacmi (TL)": 25756974.45,
+  "Toplam İşlem Hacmi (TL)": 1948627788.3,
+  "Açılış Seansı İşlem Miktarı": 321477,
+  "Toplam İşlem Miktarı": 24877246,
+  "En Düşük Fiyat": 64.85,
+  "En Yüksek Fiyat": 88.95,
+  "Kapanış Fiyatı": 83.6,
+  "Tarih": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 17.64999999999999,
+  "15AylikHareketliOrtalama": 46.36933333333333,
+  "36AylikHareketliOrtalama": 24.69027777777778
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d2e"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "BRISA.E",
+  "Bülten Adı": "BRISA",
+  "Açılış Seansı İşlem Hacmi (TL)": 4984571,
+  "Toplam İşlem Hacmi (TL)": 852287386.35,
+  "Açılış Seansı İşlem Miktarı": 69610,
+  "Toplam İşlem Miktarı": 11924052,
+  "En Düşük Fiyat": 66,
+  "En Yüksek Fiyat": 75.9,
+  "Kapanış Fiyatı": 72.95,
+  "Tarih": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 1.9500000000000028,
+  "15AylikHareketliOrtalama": 50.03,
+  "36AylikHareketliOrtalama": 34.324444444444445
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d2f"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "KOZAA.E",
+  "Bülten Adı": "KOZA MADENCILIK",
+  "Açılış Seansı İşlem Hacmi (TL)": 212147353.65,
+  "Toplam İşlem Hacmi (TL)": 29356950356.45,
+  "Açılış Seansı İşlem Miktarı": 3613055,
+  "Toplam İşlem Miktarı": 502406455,
+  "En Düşük Fiyat": 53.25,
+  "En Yüksek Fiyat": 65.55,
+  "Kapanış Fiyatı": 65.55,
+  "Tarih": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 4.599999999999994,
+  "15AylikHareketliOrtalama": 42.19133333333333,
+  "36AylikHareketliOrtalama": 27.416666666666668
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d30"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "PSDTC.E",
+  "Bülten Adı": "PERGAMON DIS TICARET",
+  "Açılış Seansı İşlem Hacmi (TL)": 7799378.33,
+  "Toplam İşlem Hacmi (TL)": 793171746.51,
+  "Açılış Seansı İşlem Miktarı": 124607,
+  "Toplam İşlem Miktarı": 13272295,
+  "En Düşük Fiyat": 47.88,
+  "En Yüksek Fiyat": 70.85,
+  "Kapanış Fiyatı": 62.2,
+  "Tarih": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 12.200000000000003,
+  "15AylikHareketliOrtalama": 34.169333333333334,
+  "36AylikHareketliOrtalama": 27.54222222222222
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d31"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "TUCLK.E",
+  "Bülten Adı": "TUGCELIK",
+  "Açılış Seansı İşlem Hacmi (TL)": 31544960.94,
+  "Toplam İşlem Hacmi (TL)": 1860613991.75,
+  "Açılış Seansı İşlem Miktarı": 508513,
+  "Toplam İşlem Miktarı": 33020011,
+  "En Düşük Fiyat": 44.46,
+  "En Yüksek Fiyat": 67.1,
+  "Kapanış Fiyatı": 57.1,
+  "Tarih": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 11.600000000000001,
+  "15AylikHareketliOrtalama": 29.808,
+  "36AylikHareketliOrtalama": 18.726944444444445
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d32"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "KRONT.E",
+  "Bülten Adı": "KRON TEKNOLOJI",
+  "Açılış Seansı İşlem Hacmi (TL)": 10381929.04,
+  "Toplam İşlem Hacmi (TL)": 1675216676.38,
+  "Açılış Seansı İşlem Miktarı": 372942,
+  "Toplam İşlem Miktarı": 59991647,
+  "En Düşük Fiyat": 23.6,
+  "En Yüksek Fiyat": 31.3,
+  "Kapanış Fiyatı": 30.38,
+  "Tarih": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 6.379999999999999,
+  "15AylikHareketliOrtalama": 52.19533333333333,
+  "36AylikHareketliOrtalama": 44.53333333333333
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d33"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "DERIM.E",
+  "Bülten Adı": "DERIMOD",
+  "Açılış Seansı İşlem Hacmi (TL)": 4961782.27,
+  "Toplam İşlem Hacmi (TL)": 909178238.86,
+  "Açılış Seansı İşlem Miktarı": 291521,
+  "Toplam İşlem Miktarı": 53816775,
+  "En Düşük Fiyat": 15.06,
+  "En Yüksek Fiyat": 19.9,
+  "Kapanış Fiyatı": 19.2,
+  "Tarih": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 3.75,
+  "15AylikHareketliOrtalama": 9.975333333333333,
+  "36AylikHareketliOrtalama": 9.036944444444444
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d34"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "IZFAS.E",
+  "Bülten Adı": "IZMIR FIRCA",
+  "Açılış Seansı İşlem Hacmi (TL)": 16190280.8,
+  "Toplam İşlem Hacmi (TL)": 1080518564.21,
+  "Açılış Seansı İşlem Miktarı": 1669018,
+  "Toplam İşlem Miktarı": 101435965,
+  "En Düşük Fiyat": 8.44,
+  "En Yüksek Fiyat": 12.52,
+  "Kapanış Fiyatı": 9.8,
+  "Tarih": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -2.3599999999999994,
+  "15AylikHareketliOrtalama": 6.494666666666666,
+  "36AylikHareketliOrtalama": 6.348888888888889
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d35"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "GSRAY.E",
+  "Bülten Adı": "GALATASARAY SPORTIF",
+  "Açılış Seansı İşlem Hacmi (TL)": 117547311.51,
+  "Toplam İşlem Hacmi (TL)": 11430164586.58,
+  "Açılış Seansı İşlem Miktarı": 12868684,
+  "Toplam İşlem Miktarı": 1226968231,
+  "En Düşük Fiyat": 5.94,
+  "En Yüksek Fiyat": 9.58,
+  "Kapanış Fiyatı": 9,
+  "Tarih": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -3.7200000000000006,
+  "15AylikHareketliOrtalama": 7.6033333333333335,
+  "36AylikHareketliOrtalama": 5.201666666666666
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d36"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "KRSTL.E",
+  "Bülten Adı": "KRISTAL KOLA",
+  "Açılış Seansı İşlem Hacmi (TL)": 7352603.19,
+  "Toplam İşlem Hacmi (TL)": 1496201347.71,
+  "Açılış Seansı İşlem Miktarı": 884751,
+  "Toplam İşlem Miktarı": 181898023,
+  "En Düşük Fiyat": 7.28,
+  "En Yüksek Fiyat": 9.27,
+  "Kapanış Fiyatı": 8.49,
+  "Tarih": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.09999999999999964,
+  "15AylikHareketliOrtalama": 7.766,
+  "36AylikHareketliOrtalama": 5.0811111111111105
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d37"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "BUCIM.E",
+  "Bülten Adı": "BURSA CIMENTO",
+  "Açılış Seansı İşlem Hacmi (TL)": 26091920.3,
+  "Toplam İşlem Hacmi (TL)": 4705444505.73,
+  "Açılış Seansı İşlem Miktarı": 3211655,
+  "Toplam İşlem Miktarı": 583391493,
+  "En Düşük Fiyat": 7.51,
+  "En Yüksek Fiyat": 9.04,
+  "Kapanış Fiyatı": 8.1,
+  "Tarih": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.41999999999999993,
+  "15AylikHareketliOrtalama": 5.373999999999999,
+  "36AylikHareketliOrtalama": 5.1563888888888885
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d38"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "SKTAS.E",
+  "Bülten Adı": "SOKTAS",
+  "Açılış Seansı İşlem Hacmi (TL)": 8600991.16,
+  "Toplam İşlem Hacmi (TL)": 811703117.39,
+  "Açılış Seansı İşlem Miktarı": 1819827,
+  "Toplam İşlem Miktarı": 175288347,
+  "En Düşük Fiyat": 4.24,
+  "En Yüksek Fiyat": 5.84,
+  "Kapanış Fiyatı": 5.84,
+  "Tarih": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 1.3099999999999996,
+  "15AylikHareketliOrtalama": 3.9826666666666664,
+  "36AylikHareketliOrtalama": 3.9158333333333335
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d39"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "IHEVA.E",
+  "Bülten Adı": "IHLAS EV ALETLERI",
+  "Açılış Seansı İşlem Hacmi (TL)": 9408106.27,
+  "Toplam İşlem Hacmi (TL)": 1078150477.06,
+  "Açılış Seansı İşlem Miktarı": 4423020,
+  "Toplam İşlem Miktarı": 507279041,
+  "En Düşük Fiyat": 1.9,
+  "En Yüksek Fiyat": 2.4,
+  "Kapanış Fiyatı": 2.39,
+  "Tarih": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.41000000000000014,
+  "15AylikHareketliOrtalama": 1.5426666666666666,
+  "36AylikHareketliOrtalama": 1.446111111111111
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d3a"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "IHYAY.E",
+  "Bülten Adı": "IHLAS YAYIN HOLDING",
+  "Açılış Seansı İşlem Hacmi (TL)": 12165351.15,
+  "Toplam İşlem Hacmi (TL)": 1637430487.2,
+  "Açılış Seansı İşlem Miktarı": 9452643,
+  "Toplam İşlem Miktarı": 1282139306,
+  "En Düşük Fiyat": 1.14,
+  "En Yüksek Fiyat": 1.56,
+  "Kapanış Fiyatı": 1.56,
+  "Tarih": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.3900000000000001,
+  "15AylikHareketliOrtalama": 0.9146666666666667,
+  "36AylikHareketliOrtalama": 0.9080555555555555
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d3b"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "TUPRS.E",
+  "Bülten Adı": "TUPRAS",
+  "Açılış Seansı İşlem Hacmi (TL)": 1097048039.3,
+  "Toplam İşlem Hacmi (TL)": {
+    "$numberLong": "127127646203"
+  },
+  "Açılış Seansı İşlem Miktarı": 7338560,
+  "Toplam İşlem Miktarı": 844646286,
+  "En Düşük Fiyat": 136.3,
+  "En Yüksek Fiyat": 174.2,
+  "Kapanış Fiyatı": 159,
+  "Tarih": {
+    "$date": "2023-09-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 17.900000000000006,
+  "15AylikHareketliOrtalama": 309.2133333333333,
+  "36AylikHareketliOrtalama": 206.03333333333336
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d3c"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "ULKER.E",
+  "Bülten Adı": "ULKER BISKUVI",
+  "Açılış Seansı İşlem Hacmi (TL)": 283853074.7,
+  "Toplam İşlem Hacmi (TL)": 36306532525.05,
+  "Açılış Seansı İşlem Miktarı": 3369579,
+  "Toplam İşlem Miktarı": 445018094,
+  "En Düşük Fiyat": 60.85,
+  "En Yüksek Fiyat": 100,
+  "Kapanış Fiyatı": 93.9,
+  "Tarih": {
+    "$date": "2023-09-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 32.900000000000006,
+  "15AylikHareketliOrtalama": 36.79666666666667,
+  "36AylikHareketliOrtalama": 26.80777777777778
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d3d"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "TKFEN.E",
+  "Bülten Adı": "TEKFEN HOLDING",
+  "Açılış Seansı İşlem Hacmi (TL)": 88453150.07,
+  "Toplam İşlem Hacmi (TL)": 11719116156.1,
+  "Açılış Seansı İşlem Miktarı": 1756351,
+  "Toplam İşlem Miktarı": 232458644,
+  "En Düşük Fiyat": 45.92,
+  "En Yüksek Fiyat": 54.4,
+  "Kapanış Fiyatı": 53.6,
+  "Tarih": {
+    "$date": "2023-09-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 5.899999999999999,
+  "15AylikHareketliOrtalama": 37.43866666666667,
+  "36AylikHareketliOrtalama": 25.52777777777778
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d3e"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "HEKTS.E",
+  "Bülten Adı": "HEKTAS",
+  "Açılış Seansı İşlem Hacmi (TL)": 167790325.88,
+  "Toplam İşlem Hacmi (TL)": 36845871539.04,
+  "Açılış Seansı İşlem Miktarı": 6524976,
+  "Toplam İşlem Miktarı": 1443588819,
+  "En Düşük Fiyat": 22.84,
+  "En Yüksek Fiyat": 28.16,
+  "Kapanış Fiyatı": 26.9,
+  "Tarih": {
+    "$date": "2023-09-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 1.2399999999999984,
+  "15AylikHareketliOrtalama": 33.09,
+  "36AylikHareketliOrtalama": 23.204444444444444
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d3f"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "VKFYO.E",
+  "Bülten Adı": "VAKIF YAT. ORT.",
+  "Açılış Seansı İşlem Hacmi (TL)": 11281160.44,
+  "Toplam İşlem Hacmi (TL)": 1163346632.5,
+  "Açılış Seansı İşlem Miktarı": 428267,
+  "Toplam İşlem Miktarı": 46859444,
+  "En Düşük Fiyat": 21.76,
+  "En Yüksek Fiyat": 29.24,
+  "Kapanış Fiyatı": 24.68,
+  "Tarih": {
+    "$date": "2023-09-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.9600000000000009,
+  "15AylikHareketliOrtalama": 12.121999999999998,
+  "36AylikHareketliOrtalama": 8.895
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d40"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "BRKSN.E",
+  "Bülten Adı": "BERKOSAN YALITIM",
+  "Açılış Seansı İşlem Hacmi (TL)": 3836209.84,
+  "Toplam İşlem Hacmi (TL)": 555361506.42,
+  "Açılış Seansı İşlem Miktarı": 152461,
+  "Toplam İşlem Miktarı": 23644713,
+  "En Düşük Fiyat": 20.74,
+  "En Yüksek Fiyat": 27.58,
+  "Kapanış Fiyatı": 22.08,
+  "Tarih": {
+    "$date": "2023-09-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -2.1000000000000014,
+  "15AylikHareketliOrtalama": 14.167333333333334,
+  "36AylikHareketliOrtalama": 10.858333333333333
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d41"
+  },
+  "Pazar Kodu ": "T",
+  "Pazar Adı": "PAY-ALT PAZAR",
+  "İşlem Kodu": "VANGD.E",
+  "Bülten Adı": "VANET GIDA",
+  "Açılış Seansı İşlem Hacmi (TL)": 5409859.4,
+  "Toplam İşlem Hacmi (TL)": 330379629.23,
+  "Açılış Seansı İşlem Miktarı": 322982,
+  "Toplam İşlem Miktarı": 20761732,
+  "En Düşük Fiyat": 12.05,
+  "En Yüksek Fiyat": 20.06,
+  "Kapanış Fiyatı": 18.32,
+  "Tarih": {
+    "$date": "2023-09-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 5.450000000000001,
+  "15AylikHareketliOrtalama": 7.492666666666667,
+  "36AylikHareketliOrtalama": 6.496666666666666
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d42"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "ISYAT.E",
+  "Bülten Adı": "IS YAT. ORT.",
+  "Açılış Seansı İşlem Hacmi (TL)": 20675456.29,
+  "Toplam İşlem Hacmi (TL)": 841492935.62,
+  "Açılış Seansı İşlem Miktarı": 2066836,
+  "Toplam İşlem Miktarı": 101624164,
+  "En Düşük Fiyat": 6.72,
+  "En Yüksek Fiyat": 11.66,
+  "Kapanış Fiyatı": 11.66,
+  "Tarih": {
+    "$date": "2023-09-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 4.3100000000000005,
+  "15AylikHareketliOrtalama": 5.23,
+  "36AylikHareketliOrtalama": 3.984722222222222
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d43"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "DAGI.E",
+  "Bülten Adı": "DAGI GIYIM",
+  "Açılış Seansı İşlem Hacmi (TL)": 3675445.87,
+  "Toplam İşlem Hacmi (TL)": 473713553.97,
+  "Açılış Seansı İşlem Miktarı": 383475,
+  "Toplam İşlem Miktarı": 49957919,
+  "En Düşük Fiyat": 8.2,
+  "En Yüksek Fiyat": 10.2,
+  "Kapanış Fiyatı": 9.41,
+  "Tarih": {
+    "$date": "2023-09-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.5999999999999996,
+  "15AylikHareketliOrtalama": 6.548666666666667,
+  "36AylikHareketliOrtalama": 5.550555555555556
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d44"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "PEGYO.E",
+  "Bülten Adı": "PERA GMYO",
+  "Açılış Seansı İşlem Hacmi (TL)": 6320285.45,
+  "Toplam İşlem Hacmi (TL)": 1524615377.39,
+  "Açılış Seansı İşlem Miktarı": 718663,
+  "Toplam İşlem Miktarı": 179537417,
+  "En Düşük Fiyat": 7.35,
+  "En Yüksek Fiyat": 9.93,
+  "Kapanış Fiyatı": 7.77,
+  "Tarih": {
+    "$date": "2023-09-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.2699999999999996,
+  "15AylikHareketliOrtalama": 5.3373333333333335,
+  "36AylikHareketliOrtalama": 3.1819444444444445
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d45"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "EPLAS.E",
+  "Bülten Adı": "EGEPLAST",
+  "Açılış Seansı İşlem Hacmi (TL)": 3412130.62,
+  "Toplam İşlem Hacmi (TL)": 1381892019.49,
+  "Açılış Seansı İşlem Miktarı": 432330,
+  "Toplam İşlem Miktarı": 176192296,
+  "En Düşük Fiyat": 6.93,
+  "En Yüksek Fiyat": 8.9,
+  "Kapanış Fiyatı": 7.19,
+  "Tarih": {
+    "$date": "2023-09-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -1.4799999999999995,
+  "15AylikHareketliOrtalama": 29.180666666666664,
+  "36AylikHareketliOrtalama": 26.083333333333332
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d46"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "ATLAS.E",
+  "Bülten Adı": "ATLAS YAT. ORT.",
+  "Açılış Seansı İşlem Hacmi (TL)": 13470445.14,
+  "Toplam İşlem Hacmi (TL)": 1033924784.67,
+  "Açılış Seansı İşlem Miktarı": 1989793,
+  "Toplam İşlem Miktarı": 162170194,
+  "En Düşük Fiyat": 5.25,
+  "En Yüksek Fiyat": 7.51,
+  "Kapanış Fiyatı": 5.73,
+  "Tarih": {
+    "$date": "2023-09-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.39000000000000057,
+  "15AylikHareketliOrtalama": 3.163333333333333,
+  "36AylikHareketliOrtalama": 2.165
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d47"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "METRO.E",
+  "Bülten Adı": "METRO HOLDING",
+  "Açılış Seansı İşlem Hacmi (TL)": 8806601.54,
+  "Toplam İşlem Hacmi (TL)": 1288370677.57,
+  "Açılış Seansı İşlem Miktarı": 3705367,
+  "Toplam İşlem Miktarı": 538788013,
+  "En Düşük Fiyat": 2.08,
+  "En Yüksek Fiyat": 2.72,
+  "Kapanış Fiyatı": 2.6,
+  "Tarih": {
+    "$date": "2023-09-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.43000000000000016,
+  "15AylikHareketliOrtalama": 1.7586666666666668,
+  "36AylikHareketliOrtalama": 1.703888888888889
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d48"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "IHLAS.E",
+  "Bülten Adı": "IHLAS HOLDING",
+  "Açılış Seansı İşlem Hacmi (TL)": 17227786.04,
+  "Toplam İşlem Hacmi (TL)": 2612346229.52,
+  "Açılış Seansı İşlem Miktarı": 15136607,
+  "Toplam İşlem Miktarı": {
+    "$numberLong": "2292118970"
+  },
+  "En Düşük Fiyat": 1.01,
+  "En Yüksek Fiyat": 1.28,
+  "Kapanış Fiyatı": 1.21,
+  "Tarih": {
+    "$date": "2023-09-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.11999999999999988,
+  "15AylikHareketliOrtalama": 0.8586666666666666,
+  "36AylikHareketliOrtalama": 0.7872222222222223
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d49"
+  },
+  "Pazar Kodu ": "S",
+  "Pazar Adı": "PAY-PIYASA ONCESI ISLEM PLATFORMU",
+  "İşlem Kodu": "YONGA.E",
+  "Bülten Adı": "YONGA MOBILYA",
+  "Açılış Seansı İşlem Hacmi (TL)": 9041901.95,
+  "Toplam İşlem Hacmi (TL)": 41203715.21,
+  "Açılış Seansı İşlem Miktarı": 154813,
+  "Toplam İşlem Miktarı": 704902,
+  "En Düşük Fiyat": 47.12,
+  "En Yüksek Fiyat": 70.55,
+  "Kapanış Fiyatı": 63.4,
+  "Tarih": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 4.299999999999997,
+  "15AylikHareketliOrtalama": 35.75866666666666,
+  "36AylikHareketliOrtalama": 29.841944444444444
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d4a"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "ENJSA.E",
+  "Bülten Adı": "ENERJISA ENERJI",
+  "Açılış Seansı İşlem Hacmi (TL)": 136774083.65,
+  "Toplam İşlem Hacmi (TL)": 21713815174.88,
+  "Açılış Seansı İşlem Miktarı": 2573188,
+  "Toplam İşlem Miktarı": 411951560,
+  "En Düşük Fiyat": 48,
+  "En Yüksek Fiyat": 57.5,
+  "Kapanış Fiyatı": 48.64,
+  "Tarih": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -3.1099999999999994,
+  "15AylikHareketliOrtalama": 33.908,
+  "36AylikHareketliOrtalama": 21.193333333333335
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d4b"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "ENKAI.E",
+  "Bülten Adı": "ENKA INSAAT",
+  "Açılış Seansı İşlem Hacmi (TL)": 230816050.58,
+  "Toplam İşlem Hacmi (TL)": 28396072097.64,
+  "Açılış Seansı İşlem Miktarı": 6792885,
+  "Toplam İşlem Miktarı": 846945154,
+  "En Düşük Fiyat": 29.84,
+  "En Yüksek Fiyat": 36.78,
+  "Kapanış Fiyatı": 30.42,
+  "Tarih": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -4.399999999999999,
+  "15AylikHareketliOrtalama": 27.92,
+  "36AylikHareketliOrtalama": 18.18472222222222
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d4c"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "PAPIL.E",
+  "Bülten Adı": "PAPILON SAVUNMA",
+  "Açılış Seansı İşlem Hacmi (TL)": 39020426.1,
+  "Toplam İşlem Hacmi (TL)": 3188101526.62,
+  "Açılış Seansı İşlem Miktarı": 1137938,
+  "Toplam İşlem Miktarı": 99894166,
+  "En Düşük Fiyat": 24.52,
+  "En Yüksek Fiyat": 38.4,
+  "Kapanış Fiyatı": 25.1,
+  "Tarih": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -6.5,
+  "15AylikHareketliOrtalama": 19.826,
+  "36AylikHareketliOrtalama": 18.043611111111108
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d4d"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "PINSU.E",
+  "Bülten Adı": "PINAR SU",
+  "Açılış Seansı İşlem Hacmi (TL)": 3426675.75,
+  "Toplam İşlem Hacmi (TL)": 603025153.83,
+  "Açılış Seansı İşlem Miktarı": 346859,
+  "Toplam İşlem Miktarı": 60999160,
+  "En Düşük Fiyat": 8.49,
+  "En Yüksek Fiyat": 10.68,
+  "Kapanış Fiyatı": 9.6,
+  "Tarih": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.009999999999999787,
+  "15AylikHareketliOrtalama": 7.958666666666668,
+  "36AylikHareketliOrtalama": 6.922777777777777
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d4e"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "CRDFA.E",
+  "Bülten Adı": "CREDITWEST FAKTORING",
+  "Açılış Seansı İşlem Hacmi (TL)": 3980737.25,
+  "Toplam İşlem Hacmi (TL)": 723141627.46,
+  "Açılış Seansı İşlem Miktarı": 627091,
+  "Toplam İşlem Miktarı": 117046803,
+  "En Düşük Fiyat": 4.99,
+  "En Yüksek Fiyat": 7.65,
+  "Kapanış Fiyatı": 5.74,
+  "Tarih": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -1.2400000000000002,
+  "15AylikHareketliOrtalama": 4.180666666666666,
+  "36AylikHareketliOrtalama": 4.052222222222222
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d4f"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "ZOREN.E",
+  "Bülten Adı": "ZORLU ENERJI",
+  "Açılış Seansı İşlem Hacmi (TL)": 643764562.8,
+  "Toplam İşlem Hacmi (TL)": 57735359467.48,
+  "Açılış Seansı İşlem Miktarı": 101446582,
+  "Toplam İşlem Miktarı": {
+    "$numberLong": "9088112559"
+  },
+  "En Düşük Fiyat": 5.26,
+  "En Yüksek Fiyat": 7.57,
+  "Kapanış Fiyatı": 5.3,
+  "Tarih": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.40000000000000036,
+  "15AylikHareketliOrtalama": 4.911333333333333,
+  "36AylikHareketliOrtalama": 3.245277777777778
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d50"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "DZGYO.E",
+  "Bülten Adı": "DENIZ GMYO",
+  "Açılış Seansı İşlem Hacmi (TL)": 5898149.95,
+  "Toplam İşlem Hacmi (TL)": 911490252.78,
+  "Açılış Seansı İşlem Miktarı": 1143542,
+  "Toplam İşlem Miktarı": 174032983,
+  "En Düşük Fiyat": 4.39,
+  "En Yüksek Fiyat": 6.3,
+  "Kapanış Fiyatı": 4.61,
+  "Tarih": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.9899999999999993,
+  "15AylikHareketliOrtalama": 3.552666666666666,
+  "36AylikHareketliOrtalama": 3.1705555555555556
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d51"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "IHLGM.E",
+  "Bülten Adı": "IHLAS GAYRIMENKUL",
+  "Açılış Seansı İşlem Hacmi (TL)": 11594671.18,
+  "Toplam İşlem Hacmi (TL)": 2207944144.71,
+  "Açılış Seansı İşlem Miktarı": 7539798,
+  "Toplam İşlem Miktarı": 1443764218,
+  "En Düşük Fiyat": 1.25,
+  "En Yüksek Fiyat": 1.8,
+  "Kapanış Fiyatı": 1.26,
+  "Tarih": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.27,
+  "15AylikHareketliOrtalama": 1.1133333333333333,
+  "36AylikHareketliOrtalama": 1.0358333333333334
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d52"
+  },
+  "Pazar Kodu ": "W",
+  "Pazar Adı": "PAY-YAKIN IZLEME PAZARI",
+  "İşlem Kodu": "EMNIS.E",
+  "Bülten Adı": "EMINIS AMBALAJ",
+  "Açılış Seansı İşlem Hacmi (TL)": 10533292.6,
+  "Toplam İşlem Hacmi (TL)": 61205667.75,
+  "Açılış Seansı İşlem Miktarı": 84862,
+  "Toplam İşlem Miktarı": 506739,
+  "En Düşük Fiyat": 98.25,
+  "En Yüksek Fiyat": 140.2,
+  "Kapanış Fiyatı": 128.9,
+  "Tarih": {
+    "$date": "2023-11-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 19.5,
+  "15AylikHareketliOrtalama": 58.61666666666667,
+  "36AylikHareketliOrtalama": 38.915
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d53"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "IDEAS.E",
+  "Bülten Adı": "IDEAL FINANSAL TEKNOLOJILER",
+  "Açılış Seansı İşlem Hacmi (TL)": 21005832.9,
+  "Toplam İşlem Hacmi (TL)": 2174166914.35,
+  "Açılış Seansı İşlem Miktarı": 200278,
+  "Toplam İşlem Miktarı": 21229717,
+  "En Düşük Fiyat": 64.25,
+  "En Yüksek Fiyat": 135,
+  "Kapanış Fiyatı": 118,
+  "Tarih": {
+    "$date": "2023-11-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 48,
+  "15AylikHareketliOrtalama": 45.547999999999995,
+  "36AylikHareketliOrtalama": 39.22805555555556
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d54"
+  },
+  "Pazar Kodu ": "T",
+  "Pazar Adı": "PAY-ALT PAZAR",
+  "İşlem Kodu": "BURVA.E",
+  "Bülten Adı": "BURCELIK VANA",
+  "Açılış Seansı İşlem Hacmi (TL)": 6723862.1,
+  "Toplam İşlem Hacmi (TL)": 319393319.45,
+  "Açılış Seansı İşlem Miktarı": 97593,
+  "Toplam İşlem Miktarı": 4607052,
+  "En Düşük Fiyat": 57.5,
+  "En Yüksek Fiyat": 78.5,
+  "Kapanış Fiyatı": 78.5,
+  "Tarih": {
+    "$date": "2023-11-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 17.299999999999997,
+  "15AylikHareketliOrtalama": 47.258,
+  "36AylikHareketliOrtalama": 37.331944444444446
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d55"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "PRKAB.E",
+  "Bülten Adı": "TURK PRYSMIAN KABLO",
+  "Açılış Seansı İşlem Hacmi (TL)": 21456025.18,
+  "Toplam İşlem Hacmi (TL)": 1891761884.68,
+  "Açılış Seansı İşlem Miktarı": 554898,
+  "Toplam İşlem Miktarı": 50565414,
+  "En Düşük Fiyat": 29.72,
+  "En Yüksek Fiyat": 45,
+  "Kapanış Fiyatı": 39.2,
+  "Tarih": {
+    "$date": "2023-11-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 6.380000000000003,
+  "15AylikHareketliOrtalama": 31.046666666666667,
+  "36AylikHareketliOrtalama": 27.483055555555556
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d56"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "KRDMD.E",
+  "Bülten Adı": "KARDEMIR (D)",
+  "Açılış Seansı İşlem Hacmi (TL)": 203466844.76,
+  "Toplam İşlem Hacmi (TL)": 26617412979.7,
+  "Açılış Seansı İşlem Miktarı": 8158813,
+  "Toplam İşlem Miktarı": 1068992934,
+  "En Düşük Fiyat": 23,
+  "En Yüksek Fiyat": 26.24,
+  "Kapanış Fiyatı": 24.7,
+  "Tarih": {
+    "$date": "2023-11-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.26000000000000156,
+  "15AylikHareketliOrtalama": 19.919999999999998,
+  "36AylikHareketliOrtalama": 13.40611111111111
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d57"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "POLHO.E",
+  "Bülten Adı": "POLISAN HOLDING",
+  "Açılış Seansı İşlem Hacmi (TL)": 11106789.34,
+  "Toplam İşlem Hacmi (TL)": 2340904018.35,
+  "Açılış Seansı İşlem Miktarı": 748062,
+  "Toplam İşlem Miktarı": 157904575,
+  "En Düşük Fiyat": 13.41,
+  "En Yüksek Fiyat": 16.35,
+  "Kapanış Fiyatı": 14.35,
+  "Tarih": {
+    "$date": "2023-11-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.6400000000000006,
+  "15AylikHareketliOrtalama": 11.577333333333334,
+  "36AylikHareketliOrtalama": 6.899444444444445
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d58"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "FLAP.E",
+  "Bülten Adı": "FLAP KONGRE TOPLANTI HIZ.",
+  "Açılış Seansı İşlem Hacmi (TL)": 26310363.16,
+  "Toplam İşlem Hacmi (TL)": 2406272882.08,
+  "Açılış Seansı İşlem Miktarı": 2464826,
+  "Toplam İşlem Miktarı": 211863094,
+  "En Düşük Fiyat": 7.88,
+  "En Yüksek Fiyat": 14.5,
+  "Kapanış Fiyatı": 13.78,
+  "Tarih": {
+    "$date": "2023-11-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 5.24,
+  "15AylikHareketliOrtalama": 9.436,
+  "36AylikHareketliOrtalama": 6.288333333333333
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d59"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "DOHOL.E",
+  "Bülten Adı": "DOGAN HOLDING",
+  "Açılış Seansı İşlem Hacmi (TL)": 81738488.56,
+  "Toplam İşlem Hacmi (TL)": 11240763536.02,
+  "Açılış Seansı İşlem Miktarı": 6040190,
+  "Toplam İşlem Miktarı": 830767612,
+  "En Düşük Fiyat": 12.64,
+  "En Yüksek Fiyat": 14.7,
+  "Kapanış Fiyatı": 13.2,
+  "Tarih": {
+    "$date": "2023-11-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.4800000000000004,
+  "15AylikHareketliOrtalama": 10.114666666666666,
+  "36AylikHareketliOrtalama": 6.042777777777777
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d5a"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "MAKTK.E",
+  "Bülten Adı": "MAKINA TAKIM",
+  "Açılış Seansı İşlem Hacmi (TL)": 4099238.23,
+  "Toplam İşlem Hacmi (TL)": 639059318.4,
+  "Açılış Seansı İşlem Miktarı": 688332,
+  "Toplam İşlem Miktarı": 108485668,
+  "En Düşük Fiyat": 4.89,
+  "En Yüksek Fiyat": 6.49,
+  "Kapanış Fiyatı": 6.01,
+  "Tarih": {
+    "$date": "2023-11-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.9100000000000001,
+  "15AylikHareketliOrtalama": 5.178,
+  "36AylikHareketliOrtalama": 4.027222222222223
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d5b"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "KLGYO.E",
+  "Bülten Adı": "KILER GMYO",
+  "Açılış Seansı İşlem Hacmi (TL)": 13109926.92,
+  "Toplam İşlem Hacmi (TL)": 3428408172.22,
+  "Açılış Seansı İşlem Miktarı": 3420573,
+  "Toplam İşlem Miktarı": 899011599,
+  "En Düşük Fiyat": 3.36,
+  "En Yüksek Fiyat": 4.07,
+  "Kapanış Fiyatı": 3.7,
+  "Tarih": {
+    "$date": "2023-11-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.18000000000000016,
+  "15AylikHareketliOrtalama": 2.925333333333333,
+  "36AylikHareketliOrtalama": 2.531111111111111
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d5c"
+  },
+  "Pazar Kodu ": "N",
+  "Pazar Adı": "PAY-ANA PAZAR",
+  "İşlem Kodu": "ADESE.E",
+  "Bülten Adı": "ADESE GAYRIMENKUL",
+  "Açılış Seansı İşlem Hacmi (TL)": 27993771.07,
+  "Toplam İşlem Hacmi (TL)": 3380097776.86,
+  "Açılış Seansı İşlem Miktarı": 13630979,
+  "Toplam İşlem Miktarı": 1646142758,
+  "En Düşük Fiyat": 1.87,
+  "En Yüksek Fiyat": 2.15,
+  "Kapanış Fiyatı": 2.02,
+  "Tarih": {
+    "$date": "2023-11-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.08000000000000007,
+  "15AylikHareketliOrtalama": 1.6293333333333335,
+  "36AylikHareketliOrtalama": 1.5902777777777777
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d5d"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "KONTR.E",
+  "Bülten Adı": "KONTROLMATIK TEKNOLOJI",
+  "Açılış Seansı İşlem Hacmi (TL)": 152384967.1,
+  "Toplam İşlem Hacmi (TL)": 23465267185.7,
+  "Açılış Seansı İşlem Miktarı": 678227,
+  "Toplam İşlem Miktarı": 106652838,
+  "En Düşük Fiyat": 179.9,
+  "En Yüksek Fiyat": 273.75,
+  "Kapanış Fiyatı": 217,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -37.75,
+  "15AylikHareketliOrtalama": 189.49333333333334,
+  "36AylikHareketliOrtalama": 130.99611111111113
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d5e"
+  },
+  "Pazar Kodu ": "S",
+  "Pazar Adı": "PAY-PIYASA ONCESI ISLEM PLATFORMU",
+  "İşlem Kodu": "ORMA.E",
+  "Bülten Adı": "ORMA ORMAN MAHSULLERI",
+  "Açılış Seansı İşlem Hacmi (TL)": 9381074.4,
+  "Toplam İşlem Hacmi (TL)": 86566245.6,
+  "Açılış Seansı İşlem Miktarı": 68871,
+  "Toplam İşlem Miktarı": 629068,
+  "En Düşük Fiyat": 116.2,
+  "En Yüksek Fiyat": 167.2,
+  "Kapanış Fiyatı": 130,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -34.099999999999994,
+  "15AylikHareketliOrtalama": 89.58999999999999,
+  "36AylikHareketliOrtalama": 53.78527777777778
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d5f"
+  },
+  "Pazar Kodu ": "S",
+  "Pazar Adı": "PAY-PIYASA ONCESI ISLEM PLATFORMU",
+  "İşlem Kodu": "TBORG.E",
+  "Bülten Adı": "T.TUBORG",
+  "Açılış Seansı İşlem Hacmi (TL)": 3265373.65,
+  "Toplam İşlem Hacmi (TL)": 39449690.55,
+  "Açılış Seansı İşlem Miktarı": 47532,
+  "Toplam İşlem Miktarı": 572891,
+  "En Düşük Fiyat": 64.5,
+  "En Yüksek Fiyat": 76,
+  "Kapanış Fiyatı": 73.25,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 4.299999999999997,
+  "15AylikHareketliOrtalama": 43.95133333333333,
+  "36AylikHareketliOrtalama": 29.616388888888892
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d60"
+  },
+  "Pazar Kodu ": "T",
+  "Pazar Adı": "PAY-ALT PAZAR",
+  "İşlem Kodu": "TGSAS.E",
+  "Bülten Adı": "TGS DIS TICARET",
+  "Açılış Seansı İşlem Hacmi (TL)": 752431.66,
+  "Toplam İşlem Hacmi (TL)": 108379010.2,
+  "Açılış Seansı İşlem Miktarı": 23587,
+  "Toplam İşlem Miktarı": 3458102,
+  "En Düşük Fiyat": 25.3,
+  "En Yüksek Fiyat": 38.2,
+  "Kapanış Fiyatı": 28.88,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -9.52,
+  "15AylikHareketliOrtalama": 22.911999999999995,
+  "36AylikHareketliOrtalama": 18.35861111111111
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d61"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "ULUUN.E",
+  "Bülten Adı": "ULUSOY UN SANAYI",
+  "Açılış Seansı İşlem Hacmi (TL)": 10683799.76,
+  "Toplam İşlem Hacmi (TL)": 1006937109.9,
+  "Açılış Seansı İşlem Miktarı": 378369,
+  "Toplam İşlem Miktarı": 36792269,
+  "En Düşük Fiyat": 24.4,
+  "En Yüksek Fiyat": 29.9,
+  "Kapanış Fiyatı": 26.04,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -1.5800000000000018,
+  "15AylikHareketliOrtalama": 30.32266666666667,
+  "36AylikHareketliOrtalama": 19.39
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d62"
+  },
+  "Pazar Kodu ": "T",
+  "Pazar Adı": "PAY-ALT PAZAR",
+  "İşlem Kodu": "ULAS.E",
+  "Bülten Adı": "ULASLAR TURIZM YAT.",
+  "Açılış Seansı İşlem Hacmi (TL)": 1446681.02,
+  "Toplam İşlem Hacmi (TL)": 80615503.72,
+  "Açılış Seansı İşlem Miktarı": 92719,
+  "Toplam İşlem Miktarı": 5438921,
+  "En Düşük Fiyat": 11.15,
+  "En Yüksek Fiyat": 16.91,
+  "Kapanış Fiyatı": 15.9,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.5999999999999996,
+  "15AylikHareketliOrtalama": 13.75,
+  "36AylikHareketliOrtalama": 7.982222222222223
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d63"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "INDES.E",
+  "Bülten Adı": "INDEKS BILGISAYAR",
+  "Açılış Seansı İşlem Hacmi (TL)": 8583340.19,
+  "Toplam İşlem Hacmi (TL)": 1549260378.86,
+  "Açılış Seansı İşlem Miktarı": 1286694,
+  "Toplam İşlem Miktarı": 231338250,
+  "En Düşük Fiyat": 5.79,
+  "En Yüksek Fiyat": 8.06,
+  "Kapanış Fiyatı": 5.96,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -1.88,
+  "15AylikHareketliOrtalama": 17.664,
+  "36AylikHareketliOrtalama": 13.720833333333333
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d64"
+  },
+  "Pazar Kodu ": "W",
+  "Pazar Adı": "PAY-YAKIN IZLEME PAZARI",
+  "İşlem Kodu": "BRMEN.E",
+  "Bülten Adı": "BIRLIK MENSUCAT",
+  "Açılış Seansı İşlem Hacmi (TL)": 6336018.63,
+  "Toplam İşlem Hacmi (TL)": 32342928.63,
+  "Açılış Seansı İşlem Miktarı": 1351487,
+  "Toplam İşlem Miktarı": 7228827,
+  "En Düşük Fiyat": 3.8,
+  "En Yüksek Fiyat": 5.19,
+  "Kapanış Fiyatı": 3.97,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -1.3199999999999998,
+  "15AylikHareketliOrtalama": 2.8066666666666666,
+  "36AylikHareketliOrtalama": 2.541111111111111
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d65"
+  },
+  "Pazar Kodu ": "T",
+  "Pazar Adı": "PAY-ALT PAZAR",
+  "İşlem Kodu": "AKYHO.E",
+  "Bülten Adı": "AKDENIZ YATIRIM HOLDING",
+  "Açılış Seansı İşlem Hacmi (TL)": 1491461.65,
+  "Toplam İşlem Hacmi (TL)": 152258246.7,
+  "Açılış Seansı İşlem Miktarı": 410532,
+  "Toplam İşlem Miktarı": 41644283,
+  "En Düşük Fiyat": 3.15,
+  "En Yüksek Fiyat": 4.03,
+  "Kapanış Fiyatı": 3.88,
+  "Tarih": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 0.5699999999999998,
+  "15AylikHareketliOrtalama": 2.8586666666666662,
+  "36AylikHareketliOrtalama": 2.556111111111111
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d66"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "GARAN.E",
+  "Bülten Adı": "GARANTI BANKASI",
+  "Açılış Seansı İşlem Hacmi (TL)": 407332498.23,
+  "Toplam İşlem Hacmi (TL)": 101475439488.99,
+  "Açılış Seansı İşlem Miktarı": 48529318,
+  "Toplam İşlem Miktarı": {
+    "$numberLong": "11937599993"
+  },
+  "En Düşük Fiyat": 6.6,
+  "En Yüksek Fiyat": 9.68,
+  "Kapanış Fiyatı": 8.75,
+  "Tarih": {
+    "$date": "2020-11-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": -0.16999999999999993,
+  "15AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  },
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608aa98bf03893026748d67"
+  },
+  "Pazar Kodu ": "Z",
+  "Pazar Adı": "PAY-YILDIZ PAZAR",
+  "İşlem Kodu": "ISCTR.E",
+  "Bülten Adı": "IS BANKASI (C)",
+  "Açılış Seansı İşlem Hacmi (TL)": 281074549.01,
+  "Toplam İşlem Hacmi (TL)": 55790912345.29,
+  "Açılış Seansı İşlem Miktarı": 41736844,
+  "Toplam İşlem Miktarı": {
+    "$numberLong": "7865138057"
+  },
+  "En Düşük Fiyat": 5.25,
+  "En Yüksek Fiyat": 8.59,
+  "Kapanış Fiyatı": 7.92,
+  "Tarih": {
+    "$date": "2022-08-01T00:00:00.000Z"
+  },
+  "FiyatDegisimi": 2.7,
+  "15AylikHareketliOrtalama": 6.6033333333333335,
+  "36AylikHareketliOrtalama": {
+    "$numberDouble": "NaN"
+  }
+}]
