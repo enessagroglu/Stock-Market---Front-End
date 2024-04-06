@@ -1,7 +1,7 @@
 import { Card } from "primereact/card";
 import { DataTable } from "primereact/datatable";
 import { Column } from "primereact/column";
-import data from "../../data/testDB.trending_stocks.json";
+import data from "../../data/testDB.oneCikanlar.json";
 import { useEffect, useState } from "react";
 import img1 from "../../assets/el-chart.webp";
 
@@ -27,7 +27,7 @@ export default function OneCikanlar() {
     return text.replace(/[çğıöşüÇĞİÖŞÜ]/g, (match) => turkishToEnglish[match]);
   };
 
-  const formatCurrency = (value) => {
+  const formatCurrency = (value, addCurrencySymbol = true) => {
     let number;
     if (value && typeof value === "object" && value.$numberLong) {
       number = value.$numberLong;
@@ -35,12 +35,19 @@ export default function OneCikanlar() {
       number = value;
     }
 
-    return new Intl.NumberFormat("tr-TR", {
-      style: "currency",
+    const numberFormatOptions = {
+      style: addCurrencySymbol ? "currency" : "decimal",
       currency: "TRY",
       minimumFractionDigits: 0,
-      maximumFractionDigits: 2, 
-    }).format(number);
+      maximumFractionDigits: 2,
+    };
+
+    return new Intl.NumberFormat("tr-TR", numberFormatOptions).format(number);
+  };
+
+  const currencyTemplate = (rowData, field) => {
+    const addCurrencySymbol = field !== "ToplamIslemMiktari";
+    return formatCurrency(rowData[field], addCurrencySymbol);
   };
 
   useEffect(() => {
@@ -55,14 +62,8 @@ export default function OneCikanlar() {
       return duzenlenmisItem;
     });
 
-    console.log(duzenlenmisVeri);
     setVeriListesi(duzenlenmisVeri);
   }, [data]);
-
-  
-  const currencyTemplate = (rowData, field) => {
-    return formatCurrency(rowData[field]);
-  };
 
   return (
     <>
@@ -131,32 +132,21 @@ export default function OneCikanlar() {
                   sortable
                   className="text-cyan-600"
                 ></Column>
-                <Column
-                  field="EnYuksekFiyat"
-                  header="En Yüksek Fiyat"
-                  body={(rowData) => currencyTemplate(rowData, "EnYuksekFiyat")}
-                  sortable
-                  className="text-green-500"
-                ></Column>
-                <Column
-                  field="EnDusukFiyat"
-                  header="En Düşük Fiyat"
-                  body={(rowData) => currencyTemplate(rowData, "EnDusukFiyat")}
-                  sortable
-                  className="text-red-500"
-                ></Column>
-                <Column
-                  field="KapanisFiyati"
-                  header="Kapanış Fiyatı"
-                  body={(rowData) => currencyTemplate(rowData, "KapanisFiyati")}
-                  sortable
-                  className="text-cyan-600"
-                ></Column>
+
                 <Column
                   field="ToplamIslemHacmi(TL)"
                   header="Toplam İşlem Hacmi(TL)"
                   body={(rowData) =>
                     currencyTemplate(rowData, "ToplamIslemHacmi(TL)")
+                  }
+                  sortable
+                  className="text-cyan-600"
+                ></Column>
+                <Column
+                  field="ToplamIslemMiktari"
+                  header="Toplam İşlem Miktarı"
+                  body={(rowData) =>
+                    currencyTemplate(rowData, "ToplamIslemMiktari")
                   }
                   sortable
                   className="text-cyan-600"
