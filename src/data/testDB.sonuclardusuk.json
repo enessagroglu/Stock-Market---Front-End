@@ -1,0 +1,1326 @@
+[{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822cff"
+  },
+  "İşlem Kodu": "AFYON.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d00"
+  },
+  "İşlem Kodu": "AHGAZ.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d01"
+  },
+  "İşlem Kodu": "AKFGY.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d02"
+  },
+  "İşlem Kodu": "AKFYE.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d03"
+  },
+  "İşlem Kodu": "AKSEN.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d04"
+  },
+  "İşlem Kodu": "AKSUE.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d05"
+  },
+  "İşlem Kodu": "ALFAS.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d06"
+  },
+  "İşlem Kodu": "ALGYO.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d07"
+  },
+  "İşlem Kodu": "ALKA.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d08"
+  },
+  "İşlem Kodu": "ANGEN.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d09"
+  },
+  "İşlem Kodu": "ARASE.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d0a"
+  },
+  "İşlem Kodu": "ASELS.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d0b"
+  },
+  "İşlem Kodu": "ATAKP.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d0c"
+  },
+  "İşlem Kodu": "ATSYH.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d0d"
+  },
+  "İşlem Kodu": "AYEN.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d0e"
+  },
+  "İşlem Kodu": "BARMA.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d0f"
+  },
+  "İşlem Kodu": "BERA.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d10"
+  },
+  "İşlem Kodu": "BEYAZ.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d11"
+  },
+  "İşlem Kodu": "BIENY.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d12"
+  },
+  "İşlem Kodu": "BMSTL.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d13"
+  },
+  "İşlem Kodu": "BNTAS.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d14"
+  },
+  "İşlem Kodu": "BOSSA.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d15"
+  },
+  "İşlem Kodu": "BRKO.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d16"
+  },
+  "İşlem Kodu": "BUCIM.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d17"
+  },
+  "İşlem Kodu": "CANTE.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d18"
+  },
+  "İşlem Kodu": "CASA.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d19"
+  },
+  "İşlem Kodu": "CEMTS.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d1a"
+  },
+  "İşlem Kodu": "CEOEM.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d1b"
+  },
+  "İşlem Kodu": "CIMSA.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d1c"
+  },
+  "İşlem Kodu": "CONSE.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d1d"
+  },
+  "İşlem Kodu": "DAGI.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d1e"
+  },
+  "İşlem Kodu": "DAPGM.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d1f"
+  },
+  "İşlem Kodu": "DESA.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d20"
+  },
+  "İşlem Kodu": "DITAS.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d21"
+  },
+  "İşlem Kodu": "DMSAS.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d22"
+  },
+  "İşlem Kodu": "DOGUB.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d23"
+  },
+  "İşlem Kodu": "DOKTA.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d24"
+  },
+  "İşlem Kodu": "DYOBY.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d25"
+  },
+  "İşlem Kodu": "EDATA.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d26"
+  },
+  "İşlem Kodu": "EGGUB.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d27"
+  },
+  "İşlem Kodu": "EGSER.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d28"
+  },
+  "İşlem Kodu": "EKGYO.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d29"
+  },
+  "İşlem Kodu": "EKSUN.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d2a"
+  },
+  "İşlem Kodu": "EPLAS.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d2b"
+  },
+  "İşlem Kodu": "EREGL.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d2c"
+  },
+  "İşlem Kodu": "ESEN.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d2d"
+  },
+  "İşlem Kodu": "ETILR.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d2e"
+  },
+  "İşlem Kodu": "EYGYO.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d2f"
+  },
+  "İşlem Kodu": "FLAP.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d30"
+  },
+  "İşlem Kodu": "FONET.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d31"
+  },
+  "İşlem Kodu": "FRIGO.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d32"
+  },
+  "İşlem Kodu": "GEDZA.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d33"
+  },
+  "İşlem Kodu": "GENIL.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d34"
+  },
+  "İşlem Kodu": "GESAN.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d35"
+  },
+  "İşlem Kodu": "GMTAS.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d36"
+  },
+  "İşlem Kodu": "GOKNR.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d37"
+  },
+  "İşlem Kodu": "GSRAY.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d38"
+  },
+  "İşlem Kodu": "GUBRF.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d39"
+  },
+  "İşlem Kodu": "HDFGS.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d3a"
+  },
+  "İşlem Kodu": "HEKTS.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d3b"
+  },
+  "İşlem Kodu": "HKTM.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d3c"
+  },
+  "İşlem Kodu": "HLGYO.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d3d"
+  },
+  "İşlem Kodu": "HUNER.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d3e"
+  },
+  "İşlem Kodu": "HURGZ.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d3f"
+  },
+  "İşlem Kodu": "IHAAS.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d40"
+  },
+  "İşlem Kodu": "IMASM.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d41"
+  },
+  "İşlem Kodu": "INDES.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d42"
+  },
+  "İşlem Kodu": "INGRM.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d43"
+  },
+  "İşlem Kodu": "ISDMR.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d44"
+  },
+  "İşlem Kodu": "ISMEN.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d45"
+  },
+  "İşlem Kodu": "ISSEN.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d46"
+  },
+  "İşlem Kodu": "IZMDC.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d47"
+  },
+  "İşlem Kodu": "KAPLM.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d48"
+  },
+  "İşlem Kodu": "KAREL.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d49"
+  },
+  "İşlem Kodu": "KARTN.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d4a"
+  },
+  "İşlem Kodu": "KARYE.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d4b"
+  },
+  "İşlem Kodu": "KERVT.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d4c"
+  },
+  "İşlem Kodu": "KGYO.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d4d"
+  },
+  "İşlem Kodu": "KLKIM.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d4e"
+  },
+  "İşlem Kodu": "KMPUR.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d4f"
+  },
+  "İşlem Kodu": "KOPOL.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d50"
+  },
+  "İşlem Kodu": "KORDS.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d51"
+  },
+  "İşlem Kodu": "KOZAA.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d52"
+  },
+  "İşlem Kodu": "KOZAL.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d53"
+  },
+  "İşlem Kodu": "KRDMA.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d54"
+  },
+  "İşlem Kodu": "KRDMB.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d55"
+  },
+  "İşlem Kodu": "KRONT.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d56"
+  },
+  "İşlem Kodu": "KRPLS.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d57"
+  },
+  "İşlem Kodu": "KRVGD.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d58"
+  },
+  "İşlem Kodu": "KZBGY.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d59"
+  },
+  "İşlem Kodu": "LIDER.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d5a"
+  },
+  "İşlem Kodu": "LUKSK.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d5b"
+  },
+  "İşlem Kodu": "MAGEN.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d5c"
+  },
+  "İşlem Kodu": "MANAS.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d5d"
+  },
+  "İşlem Kodu": "MEDTR.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d5e"
+  },
+  "İşlem Kodu": "MEGAP.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d5f"
+  },
+  "İşlem Kodu": "MERCN.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d60"
+  },
+  "İşlem Kodu": "MIATK.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d61"
+  },
+  "İşlem Kodu": "MNDTR.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d62"
+  },
+  "İşlem Kodu": "MZHLD.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d63"
+  },
+  "İşlem Kodu": "NATEN.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d64"
+  },
+  "İşlem Kodu": "NIBAS.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d65"
+  },
+  "İşlem Kodu": "NTGAZ.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d66"
+  },
+  "İşlem Kodu": "OTKAR.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d67"
+  },
+  "İşlem Kodu": "OZKGY.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d68"
+  },
+  "İşlem Kodu": "PAMEL.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d69"
+  },
+  "İşlem Kodu": "PENGD.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d6a"
+  },
+  "İşlem Kodu": "PENTA.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d6b"
+  },
+  "İşlem Kodu": "PRDGS.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d6c"
+  },
+  "İşlem Kodu": "PSGYO.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d6d"
+  },
+  "İşlem Kodu": "QUAGR.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d6e"
+  },
+  "İşlem Kodu": "RODRG.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d6f"
+  },
+  "İşlem Kodu": "SANKO.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d70"
+  },
+  "İşlem Kodu": "SARKY.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d71"
+  },
+  "İşlem Kodu": "SASA.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d72"
+  },
+  "İşlem Kodu": "SEYKM.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d73"
+  },
+  "İşlem Kodu": "SISE.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d74"
+  },
+  "İşlem Kodu": "SMRTG.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d75"
+  },
+  "İşlem Kodu": "SNGYO.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d76"
+  },
+  "İşlem Kodu": "SNKRN.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d77"
+  },
+  "İşlem Kodu": "SUNTK.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d78"
+  },
+  "İşlem Kodu": "SUWEN.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d79"
+  },
+  "İşlem Kodu": "TDGYO.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d7a"
+  },
+  "İşlem Kodu": "TEKTU.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d7b"
+  },
+  "İşlem Kodu": "TEZOL.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d7c"
+  },
+  "İşlem Kodu": "TSPOR.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d7d"
+  },
+  "İşlem Kodu": "TUKAS.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d7e"
+  },
+  "İşlem Kodu": "TUPRS.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d7f"
+  },
+  "İşlem Kodu": "ULUSE.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d80"
+  },
+  "İşlem Kodu": "ULUUN.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d81"
+  },
+  "İşlem Kodu": "UZERB.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d82"
+  },
+  "İşlem Kodu": "VESTL.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d83"
+  },
+  "İşlem Kodu": "VKGYO.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d84"
+  },
+  "İşlem Kodu": "VKING.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d85"
+  },
+  "İşlem Kodu": "YATAS.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d86"
+  },
+  "İşlem Kodu": "YUNSA.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d87"
+  },
+  "İşlem Kodu": "YYLGD.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": true
+},
+{
+  "_id": {
+    "$oid": "6608a02c8934dd5cd4822d88"
+  },
+  "İşlem Kodu": "ZOREN.E",
+  "Son 6 Ayda Düşen": true,
+  "Son 5 Ayda Yüzde 50 Düşüş": {
+    "$numberDouble": "NaN"
+  }
+}]
