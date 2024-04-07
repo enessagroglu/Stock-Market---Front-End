@@ -177,12 +177,12 @@ export default function EnCokDusen() {
                   sortable
                   className="text-red-500"
                 ></Column>
-                {/* <Column
+                <Column
                   field="fiyatDegisimSon"
                   header="Fiyat Değişim Son"
                   sortable
                   className="text-cyan-600"
-                ></Column> */}
+                ></Column> 
                 <Column
                   field="kapanisFiyat"
                   header="Kapanış Fiyatı"

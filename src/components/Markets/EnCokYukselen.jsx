@@ -6,7 +6,6 @@ import bistData from "../../data/guncelHisseVerileri.json";
 import { useEffect, useState } from "react";
 import img1 from "../../assets/zirve.webp";
 
-// import CandleData from "./CandleData.jsx";
 
 export default function EnCokYukselen() {
   const [veriListesi, setVeriListesi] = useState([]);
@@ -175,12 +174,12 @@ export default function EnCokYukselen() {
                   sortable
                   className="text-red-500"
                 ></Column>
-                {/* <Column
+                <Column
                   field="fiyatDegisimSon"
                   header="Fiyat Değişim Son"
                   sortable
                   className="text-cyan-600"
-                ></Column> */}
+                ></Column>
                 <Column
                   field="kapanisFiyat"
                   header="Kapanış Fiyatı"

@@ -1,14 +1,17 @@
 import { DataTable } from "primereact/datatable";
 import { Column } from "primereact/column";
 import { useEffect, useState } from "react";
-import sektorData from "../../data/testDB.aylıkSektörArtışı.json";
+import sektorData from "../data/testDB.aylıkSektörArtışı.json";
 import { Card } from "primereact/card";
-import cardImage from "../../assets/sector.webp";
+import cardImage from "../assets/sector.webp";
+import SectorDetail from "../components/Sector/SectorDetail";
+import { Button } from "primereact/button";
 
 export default function Sector() {
   const [sectors, setSectors] = useState([]);
   const [loading, setLoading] = useState(true);
   const [selectedSector, setSelectedSector] = useState(null);
+  const [isSelected, setIsSelected] = useState(false);
 
   const headerCard = (
     <img alt="Card" src={cardImage} className="border-round-top-xl" />
@@ -40,8 +43,14 @@ export default function Sector() {
 
   const handleSelection = (name) => {
     var sector = turkceStringiDuzelt(name);
+    console.log(sector);
     setSelectedSector(sector);
-    window.location =   "/"+sector;
+    setIsSelected(true);
+  };
+
+  const handleSelectionClear = () => {
+    setSelectedSector(null);
+    setIsSelected(false);
   };
 
   useEffect(() => {
@@ -50,7 +59,11 @@ export default function Sector() {
 
     setLoading(true);
     for (const sector of sektorData) {
-      let temp = { name: sector.sektorAdi, id: i, artisOrani: sector.artisOrani };
+      let temp = {
+        name: sector.sektorAdi,
+        id: i,
+        artisOrani: sector.artisOrani,
+      };
       tempData.push(temp);
       i++;
     }
@@ -59,9 +72,26 @@ export default function Sector() {
     setLoading(false);
   }, []);
 
+  const renderContent = () => {
+    if (isSelected) {
+      return (
+        <>
+          <div class="mt-5">
+            <div
+              className="card  justify-content-center flex-wrap w-7 "
+              style={{ marginLeft: "20%" }}
+            >
+              <SectorDetail selectedSector={selectedSector} />
+              <div className="card flex mt-5 border-round justify-content-center">
+                <Button onClick={handleSelectionClear} label="Seçimi Temizle" />
+              </div>
+            </div>
+          </div>
+        </>
+      );
+    }
 
-  return (
-    <>
+    return (
       <div className="flex">
         <div className="col-8">
           <DataTable
@@ -93,11 +123,7 @@ export default function Sector() {
               body={(rowData) => {
                 const artisOrani = parseFloat(rowData.artisOrani);
                 const formattedValue = "%" + artisOrani.toFixed(3);
-                let color = "inherit"; // Default renk
-
-                if (!isNaN(artisOrani)) {
-                  color = artisOrani < 0 ? "red" : "green"; // Negatif ise kırmızı, pozitif ise yeşil
-                }
+                let color = artisOrani < 0 ? "red" : "green";
 
                 return <span style={{ color }}>{formattedValue}</span>;
               }}
@@ -123,6 +149,19 @@ export default function Sector() {
             </p>
           </Card>
         </div>
+      </div>
+    );
+  };
+
+  return (
+    <>
+      <div className="col-10 col-offset-1">
+        <Card
+          title="Fırsatların Dünyası: Hangi Sektör Sizi Bekliyor?"
+          className="text-blue-700"
+        >
+          {renderContent()}
+        </Card>
       </div>
     </>
   );

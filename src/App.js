@@ -13,6 +13,7 @@ import OneCikanlar from "./components/Markets/OneCikanlar";
 import EnCokIslem from "./components/Markets/EnCokIslem";
 import EnCokYukselen from "./components/Markets/EnCokYukselen";
 import EnCokDusen from "./components/Markets/EnCokDusen";
+import Sector from "./pages/Sector";
 
 function App() {
   return (
@@ -36,6 +37,7 @@ function App() {
                   <Route path="/en-cok-islem" element={<EnCokIslem />} />
                   <Route path="/en-cok-yukselen" element={<EnCokYukselen />} />
                   <Route path="/en-cok-dusen" element={<EnCokDusen />} />
+                  <Route path="/sektorler" element={<Sector />} />
                 </Routes>
               </BrowserRouter>
             </div>

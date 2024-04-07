@@ -1,7 +1,8 @@
 import React, { useState } from "react";
 import { Menubar } from "primereact/menubar";
 import { Badge } from "primereact/badge";
-import Logo from "../assets/transparent_background_image.png"; // Logo dosyanızın yolunu buraya ekleyin
+import Logo from "../assets/transparent_background_image.png";
+import 'primeicons/primeicons.css';
 
 const HamburgerMenu = () => {
   const [mobileMenuVisible, setMobileMenuVisible] = useState(false);
@@ -41,6 +42,14 @@ const HamburgerMenu = () => {
       template: itemRenderer,
       command: () => {
         window.location = "markets";
+      },
+    },
+    {
+      label: "Sektörler",
+      icon: "pi pi-building",
+      template: itemRenderer,
+      command: () => {
+        window.location = "sektorler";
       },
     },
     {
