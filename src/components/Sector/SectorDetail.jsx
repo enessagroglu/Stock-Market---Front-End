@@ -9,8 +9,6 @@ export default function SectorDetail({ selectedSector }) {
 
   useEffect(() => {
     const fetchStockData = async () => {
-        console.log(selectedSector)
-      // Dosyanızın yolu
       const response = await import('../../data/guncelHisseVerileri.json');
       const stocks = response.default;
       

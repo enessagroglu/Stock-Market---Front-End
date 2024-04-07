@@ -43,7 +43,6 @@ export default function Sector() {
 
   const handleSelection = (name) => {
     var sector = turkceStringiDuzelt(name);
-    console.log(sector);
     setSelectedSector(sector);
     setIsSelected(true);
   };
