@@ -1,0 +1,4106 @@
+[
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26414f"
+        },
+        "islemKodu": "A1CAP.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 52.36505286588759,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 95.18912537502186,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "A1 CAPITAL YATIRIM",
+        "sektorAdi": "ARACI KURUMLAR",
+        "acilisSeansiIslemHacmi(TL)": 4530085.5,
+        "toplamIslemHacmi(TL)": 936498387.56,
+        "acilisSeansiIslemMiktari": 151372,
+        "toplamIslemMiktari": 31907897,
+        "enDusukFiyat": 24.34,
+        "enYuksekFiyat": 33.22,
+        "kapanisFiyat": 27.38,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264146"
+        },
+        "islemKodu": "ADGYO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 47.2568578553616,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 95.75831553249924,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "ADRA GMYO",
+        "sektorAdi": "GAYRİMENKUL YATIRIM ORTAKLIKLARI",
+        "acilisSeansiIslemHacmi(TL)": 8982456.18,
+        "toplamIslemHacmi(TL)": 1556824937.14,
+        "acilisSeansiIslemMiktari": 278683,
+        "toplamIslemMiktari": 50631720,
+        "enDusukFiyat": 26.2,
+        "enYuksekFiyat": 37.6,
+        "kapanisFiyat": 28.6,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641ce"
+        },
+        "islemKodu": "AGROT.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 100,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 100,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "AGROTECH TEKNOLOJI",
+        "sektorAdi": "TARIM VE HAYVANCILIK AVCILIK VE İLGİLİ HİZMET FAALİYETLERİ",
+        "acilisSeansiIslemHacmi(TL)": 403493963.73,
+        "toplamIslemHacmi(TL)": 26112192002.36,
+        "acilisSeansiIslemMiktari": 35803959,
+        "toplamIslemMiktari": {
+            "$numberLong": "2202686292"
+        },
+        "enDusukFiyat": 8.29,
+        "enYuksekFiyat": 16.26,
+        "kapanisFiyat": 12.07,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26423f"
+        },
+        "islemKodu": "AKYHO.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 40.348525469168905,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 104.00391224444805,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "T",
+        "pazarAdi": "PAY-ALT PAZAR",
+        "bultenAdi": "AKDENIZ YATIRIM HOLDING",
+        "sektorAdi": "HOLDİNGLER VE YATIRIM ŞİRKETLERİ",
+        "acilisSeansiIslemHacmi(TL)": 1491461.65,
+        "toplamIslemHacmi(TL)": 152258246.7,
+        "acilisSeansiIslemMiktari": 410532,
+        "toplamIslemMiktari": 41644283,
+        "enDusukFiyat": 3.15,
+        "enYuksekFiyat": 4.03,
+        "kapanisFiyat": 3.88,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640b4"
+        },
+        "islemKodu": "ALCTL.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 72.05535924617197,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 97.24993980864072,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "ALCATEL LUCENT TELETAS",
+        "sektorAdi": "BİLİŞİM",
+        "acilisSeansiIslemHacmi(TL)": 2337180.7,
+        "toplamIslemHacmi(TL)": 618049678.2,
+        "acilisSeansiIslemMiktari": 28294,
+        "toplamIslemMiktari": 7477372,
+        "enDusukFiyat": 68.7,
+        "enYuksekFiyat": 93.7,
+        "kapanisFiyat": 76.35,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640aa"
+        },
+        "islemKodu": "ALFAS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 47.47518078195857,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 72.46027473040566,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "ALFA SOLAR ENERJI",
+        "sektorAdi": "ELEKTRİK GAZ VE BUHAR",
+        "acilisSeansiIslemHacmi(TL)": 87217391.95,
+        "toplamIslemHacmi(TL)": 9714165487.2,
+        "acilisSeansiIslemMiktari": 884219,
+        "toplamIslemMiktari": 103885964,
+        "enDusukFiyat": 77.65,
+        "enYuksekFiyat": 112.2,
+        "kapanisFiyat": 84,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264124"
+        },
+        "islemKodu": "ALKIM.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 28.71568318081414,
+        "RSI_Signal": "Asiri Satim Bolgesi: Olasi bir yukselis beklenmelidir.",
+        "TSI_Value": 99.00731200963196,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "ALKIM KIMYA",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 4684699.86,
+        "toplamIslemHacmi(TL)": 975497417.22,
+        "acilisSeansiIslemMiktari": 121495,
+        "toplamIslemMiktari": 26814147,
+        "enDusukFiyat": 31.36,
+        "enYuksekFiyat": 40.94,
+        "kapanisFiyat": 34.08,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264213"
+        },
+        "islemKodu": "ALMAD.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 37.84860557768925,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 99.52342313539603,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "ALTINYAG MADENCILIK VE ENERJI",
+        "sektorAdi": "KÖMÜR VE LİNYİT MADENCİLİĞİ",
+        "acilisSeansiIslemHacmi(TL)": 3698875.36,
+        "toplamIslemHacmi(TL)": 509760220.59,
+        "acilisSeansiIslemMiktari": 510982,
+        "toplamIslemMiktari": 68754648,
+        "enDusukFiyat": 6.09,
+        "enYuksekFiyat": 8.99,
+        "kapanisFiyat": 6.82,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd25fae9"
+        },
+        "islemKodu": "ALYAG.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 78.4,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 113.04525906205201,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "W",
+        "pazarAdi": "PAY-YAKIN IZLEME PAZARI",
+        "bultenAdi": "ALTINYAG MADENCILIK VE ENERJI",
+        "sektorAdi": "METAL EŞYA MAKİNE ELEKTRİKLİ CİHAZLAR VE ULAŞIM ARAÇLARI",
+        "acilisSeansiIslemHacmi(TL)": 4005820.35,
+        "toplamIslemHacmi(TL)": 25200154.21,
+        "acilisSeansiIslemMiktari": 3240271,
+        "toplamIslemMiktari": 20812013,
+        "enDusukFiyat": 0.99,
+        "enYuksekFiyat": 1.34,
+        "kapanisFiyat": 1.29,
+        "tarih": {
+            "$date": "2020-08-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641ca"
+        },
+        "islemKodu": "ANGEN.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 61.93252811328613,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 92.19872089142844,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "ANATOLIA TANI VE BIYOTEKNOLOJI",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 5850397.59,
+        "toplamIslemHacmi(TL)": 1303727983.46,
+        "acilisSeansiIslemMiktari": 429562,
+        "toplamIslemMiktari": 95815021,
+        "enDusukFiyat": 12.03,
+        "enYuksekFiyat": 15.17,
+        "kapanisFiyat": 12.45,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264134"
+        },
+        "islemKodu": "ARENA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 70.29210002212878,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 105.81304092453156,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "ARENA BILGISAYAR",
+        "sektorAdi": "BİLİŞİM",
+        "acilisSeansiIslemHacmi(TL)": 2243129.08,
+        "toplamIslemHacmi(TL)": 665078841.82,
+        "acilisSeansiIslemMiktari": 62288,
+        "toplamIslemMiktari": 19111910,
+        "enDusukFiyat": 30.6,
+        "enYuksekFiyat": 39.68,
+        "kapanisFiyat": 31.52,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641e5"
+        },
+        "islemKodu": "ARSAN.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 66.18839675608234,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100.45676290506174,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "ARSAN TEKSTIL",
+        "sektorAdi": "TEKSTİL, GİYİM EŞYASI VE DERİ",
+        "acilisSeansiIslemHacmi(TL)": 947872.99,
+        "toplamIslemHacmi(TL)": 280532858.94,
+        "acilisSeansiIslemMiktari": 92068,
+        "toplamIslemMiktari": 26740919,
+        "enDusukFiyat": 9.2,
+        "enYuksekFiyat": 11.85,
+        "kapanisFiyat": 10.32,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264133"
+        },
+        "islemKodu": "ARZUM.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 32.23880597014926,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 98.36485503711013,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "ARZUM EV ALETLERI",
+        "sektorAdi": "TOPTAN TİCARET",
+        "acilisSeansiIslemHacmi(TL)": 2381704.26,
+        "toplamIslemHacmi(TL)": 657272856.68,
+        "acilisSeansiIslemMiktari": 73928,
+        "toplamIslemMiktari": 20040370,
+        "enDusukFiyat": 27.5,
+        "enYuksekFiyat": 36.16,
+        "kapanisFiyat": 31.64,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640f5"
+        },
+        "islemKodu": "ASELS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 41.388436482084686,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 98.59268149177696,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "ASELSAN",
+        "sektorAdi": "SAVUNMA",
+        "acilisSeansiIslemHacmi(TL)": 418176221.5,
+        "toplamIslemHacmi(TL)": 44523359521.34,
+        "acilisSeansiIslemMiktari": 8873957,
+        "toplamIslemMiktari": 949302633,
+        "enDusukFiyat": 42.9,
+        "enYuksekFiyat": 50.4,
+        "kapanisFiyat": 44.98,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26409e"
+        },
+        "islemKodu": "ASTOR.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 69.4010868308475,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 99.30150431152337,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "ASTOR ENERJI",
+        "sektorAdi": "METAL EŞYA MAKİNE ELEKTRİKLİ CİHAZLAR VE ULAŞIM ARAÇLARI",
+        "acilisSeansiIslemHacmi(TL)": 212568739.55,
+        "toplamIslemHacmi(TL)": 33364571912.05,
+        "acilisSeansiIslemMiktari": 2107346,
+        "toplamIslemMiktari": 339210200,
+        "enDusukFiyat": 83.25,
+        "enYuksekFiyat": 111.7,
+        "kapanisFiyat": 94.3,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640eb"
+        },
+        "islemKodu": "ATAKP.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 45.94168636721828,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 91.15493244817144,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "ATAKEY PATATES",
+        "sektorAdi": "GIDA, İÇECEK VE TÜTÜN",
+        "acilisSeansiIslemHacmi(TL)": 8855948.38,
+        "toplamIslemHacmi(TL)": 1388434254.99,
+        "acilisSeansiIslemMiktari": 193621,
+        "toplamIslemMiktari": 30092143,
+        "enDusukFiyat": 36.1,
+        "enYuksekFiyat": 54.4,
+        "kapanisFiyat": 47.4,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26409a"
+        },
+        "islemKodu": "ATATP.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 46.07759357374807,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 115.69454532298526,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "ATP YAZILIM",
+        "sektorAdi": "BİLİŞİM",
+        "acilisSeansiIslemHacmi(TL)": 27643416.45,
+        "toplamIslemHacmi(TL)": 2613528047.15,
+        "acilisSeansiIslemMiktari": 273749,
+        "toplamIslemMiktari": 26572416,
+        "enDusukFiyat": 85.8,
+        "enYuksekFiyat": 120.8,
+        "kapanisFiyat": 97.6,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640ed"
+        },
+        "islemKodu": "ATSYH.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 60.511540860885844,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 93.8343808770611,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "W",
+        "pazarAdi": "PAY-YAKIN IZLEME PAZARI",
+        "bultenAdi": "ATLANTIS YATIRIM HOLDING",
+        "sektorAdi": "HOLDİNGLER VE YATIRIM ŞİRKETLERİ",
+        "acilisSeansiIslemHacmi(TL)": 6721788.65,
+        "toplamIslemHacmi(TL)": 47378578.26,
+        "acilisSeansiIslemMiktari": 110698,
+        "toplamIslemMiktari": 786803,
+        "enDusukFiyat": 46.16,
+        "enYuksekFiyat": 80,
+        "kapanisFiyat": 47,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd260a5c"
+        },
+        "islemKodu": "AVISA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 59.215520877266975,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 101.4304702562868,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "AVIVASA EMEKLILIK HAYAT",
+        "sektorAdi": "HOLDİNGLER VE YATIRIM ŞİRKETLERİ",
+        "acilisSeansiIslemHacmi(TL)": 128896.62,
+        "toplamIslemHacmi(TL)": 25504134.02,
+        "acilisSeansiIslemMiktari": 7111,
+        "toplamIslemMiktari": 1398900,
+        "enDusukFiyat": 17.36,
+        "enYuksekFiyat": 18.95,
+        "kapanisFiyat": 18.2,
+        "tarih": {
+            "$date": "2021-07-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264055"
+        },
+        "islemKodu": "AYCES.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 63.15913648696473,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 111.56542685297386,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "T",
+        "pazarAdi": "PAY-ALT PAZAR",
+        "bultenAdi": "ALTINYUNUS CESME",
+        "sektorAdi": "KONAKLAMA",
+        "acilisSeansiIslemHacmi(TL)": 1324433.5,
+        "toplamIslemHacmi(TL)": 193194907.25,
+        "acilisSeansiIslemMiktari": 2486,
+        "toplamIslemMiktari": 359502,
+        "enDusukFiyat": 490,
+        "enYuksekFiyat": 577,
+        "kapanisFiyat": 514,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264099"
+        },
+        "islemKodu": "AZTEK.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 85.4916613505878,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 110.81563338991675,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "AZTEK TEKNOLOJI",
+        "sektorAdi": "BİLİŞİM",
+        "acilisSeansiIslemHacmi(TL)": 14258020.1,
+        "toplamIslemHacmi(TL)": 1566215171.25,
+        "acilisSeansiIslemMiktari": 121513,
+        "toplamIslemMiktari": 11842401,
+        "enDusukFiyat": 81.7,
+        "enYuksekFiyat": 159.7,
+        "kapanisFiyat": 102.8,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264191"
+        },
+        "islemKodu": "BALAT.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 60.499265785609396,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100.3727687784201,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "S",
+        "pazarAdi": "PAY-PIYASA ONCESI ISLEM PLATFORMU",
+        "bultenAdi": "BALATACILAR BALATACILIK",
+        "sektorAdi": "METAL EŞYA MAKİNE ELEKTRİKLİ CİHAZLAR VE ULAŞIM ARAÇLARI",
+        "acilisSeansiIslemHacmi(TL)": 6010579.61,
+        "toplamIslemHacmi(TL)": 46593082.29,
+        "acilisSeansiIslemMiktari": 266508,
+        "toplamIslemMiktari": 2170713,
+        "enDusukFiyat": 14.5,
+        "enYuksekFiyat": 28.6,
+        "kapanisFiyat": 18.6,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26419e"
+        },
+        "islemKodu": "BARMA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 44.63672909108736,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 93.3293399797009,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "BAREM AMBALAJ",
+        "sektorAdi": "KAĞIT VE KAĞIT ÜRÜNLERİ BASIM",
+        "acilisSeansiIslemHacmi(TL)": 2521498.72,
+        "toplamIslemHacmi(TL)": 669782548.81,
+        "acilisSeansiIslemMiktari": 130091,
+        "toplamIslemMiktari": 34812720,
+        "enDusukFiyat": 15.21,
+        "enYuksekFiyat": 22.28,
+        "kapanisFiyat": 16.7,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26418f"
+        },
+        "islemKodu": "BASGZ.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 51.51315789473684,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 101.04264438564702,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "BASKENT DOGALGAZ GMYO",
+        "sektorAdi": "GAYRİMENKUL YATIRIM ORTAKLIKLARI",
+        "acilisSeansiIslemHacmi(TL)": 3202721.97,
+        "toplamIslemHacmi(TL)": 651834878.48,
+        "acilisSeansiIslemMiktari": 177083,
+        "toplamIslemMiktari": 35926763,
+        "enDusukFiyat": 16.86,
+        "enYuksekFiyat": 19.11,
+        "kapanisFiyat": 18.71,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26416a"
+        },
+        "islemKodu": "BIGCH.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 50.56258790436006,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 96.6033071882339,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "BUYUK SEFLER BIGCHEFS",
+        "sektorAdi": "YİYECEK VE İÇECEK HİZMETLERİ",
+        "acilisSeansiIslemHacmi(TL)": 3054440.63,
+        "toplamIslemHacmi(TL)": 687900711.21,
+        "acilisSeansiIslemMiktari": 126927,
+        "toplamIslemMiktari": 29854419,
+        "enDusukFiyat": 18.7,
+        "enYuksekFiyat": 26.8,
+        "kapanisFiyat": 22.84,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641b2"
+        },
+        "islemKodu": "BLCYT.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 73.70291400142148,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 98.48028817081673,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "BILICI YATIRIM",
+        "sektorAdi": "TEKSTİL, GİYİM EŞYASI VE DERİ",
+        "acilisSeansiIslemHacmi(TL)": 3679590.26,
+        "toplamIslemHacmi(TL)": 450256014.12,
+        "acilisSeansiIslemMiktari": 222425,
+        "toplamIslemMiktari": 27621071,
+        "enDusukFiyat": 13.07,
+        "enYuksekFiyat": 18.05,
+        "kapanisFiyat": 14.53,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264128"
+        },
+        "islemKodu": "BORLS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 53.77969762419007,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "BORLEASE OTOMOTIV",
+        "sektorAdi": "KİRALAMA VE LEASING FAALİYETLERİ",
+        "acilisSeansiIslemHacmi(TL)": 23144817.88,
+        "toplamIslemHacmi(TL)": 3003827259.92,
+        "acilisSeansiIslemMiktari": 634385,
+        "toplamIslemMiktari": 83584176,
+        "enDusukFiyat": 28.16,
+        "enYuksekFiyat": 40.22,
+        "kapanisFiyat": 33,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641eb"
+        },
+        "islemKodu": "BOSSA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 72.23830197780993,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 98.19853950363334,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "BOSSA",
+        "sektorAdi": "TEKSTİL, GİYİM EŞYASI VE DERİ",
+        "acilisSeansiIslemHacmi(TL)": 916011.18,
+        "toplamIslemHacmi(TL)": 150763622.46,
+        "acilisSeansiIslemMiktari": 95156,
+        "toplamIslemMiktari": 15322313,
+        "enDusukFiyat": 8.64,
+        "enYuksekFiyat": 11.3,
+        "kapanisFiyat": 9.45,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640be"
+        },
+        "islemKodu": "BURVA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 53.30897655274476,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 104.50130254630814,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "T",
+        "pazarAdi": "PAY-ALT PAZAR",
+        "bultenAdi": "BURCELIK VANA",
+        "sektorAdi": "ANA METAL SANAYİ",
+        "acilisSeansiIslemHacmi(TL)": 5447399.7,
+        "toplamIslemHacmi(TL)": 301087903.85,
+        "acilisSeansiIslemMiktari": 63821,
+        "toplamIslemMiktari": 3650147,
+        "enDusukFiyat": 61.5,
+        "enYuksekFiyat": 95.85,
+        "kapanisFiyat": 71.75,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640ad"
+        },
+        "islemKodu": "BVSAN.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 64.66043106954046,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100.63814204578637,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "BULBULOGLU VINC",
+        "sektorAdi": "METAL EŞYA MAKİNE ELEKTRİKLİ CİHAZLAR VE ULAŞIM ARAÇLARI",
+        "acilisSeansiIslemHacmi(TL)": 4002007.2,
+        "toplamIslemHacmi(TL)": 1380273352,
+        "acilisSeansiIslemMiktari": 45725,
+        "toplamIslemMiktari": 15619539,
+        "enDusukFiyat": 68.55,
+        "enYuksekFiyat": 103.4,
+        "kapanisFiyat": 78.55,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26419a"
+        },
+        "islemKodu": "CANTE.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 97.00742432895488,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 87.9679357666282,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "CAN2 TERMIK",
+        "sektorAdi": "ELEKTRİK GAZ VE BUHAR",
+        "acilisSeansiIslemHacmi(TL)": 140682079.32,
+        "toplamIslemHacmi(TL)": 9606024829.73,
+        "acilisSeansiIslemMiktari": 6781256,
+        "toplamIslemMiktari": 505317271,
+        "enDusukFiyat": 15.86,
+        "enYuksekFiyat": 22.2,
+        "kapanisFiyat": 16.92,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640f9"
+        },
+        "islemKodu": "CELHA.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 47.73526824978013,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 101.44024829643689,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "CELIK HALAT",
+        "sektorAdi": "ANA METAL SANAYİ",
+        "acilisSeansiIslemHacmi(TL)": 1236604.76,
+        "toplamIslemHacmi(TL)": 188826767.84,
+        "acilisSeansiIslemMiktari": 28829,
+        "toplamIslemMiktari": 4440629,
+        "enDusukFiyat": 36.94,
+        "enYuksekFiyat": 46,
+        "kapanisFiyat": 43.6,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264064"
+        },
+        "islemKodu": "CWENE.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 69.06598114824337,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 102.83748339688789,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "CW ENERJI",
+        "sektorAdi": "ELEKTRİK GAZ VE BUHAR",
+        "acilisSeansiIslemHacmi(TL)": 54281209.05,
+        "toplamIslemHacmi(TL)": 8794822923.45,
+        "acilisSeansiIslemMiktari": 193684,
+        "toplamIslemMiktari": 32180488,
+        "enDusukFiyat": 227,
+        "enYuksekFiyat": 317.5,
+        "kapanisFiyat": 271.25,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264153"
+        },
+        "islemKodu": "DAPGM.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 63.488265071329955,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 88.40983248900804,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "DAP GAYRIMENKUL",
+        "sektorAdi": "İNŞAAT VE BAYINDIRLIK İŞLERİ",
+        "acilisSeansiIslemHacmi(TL)": 171487431.76,
+        "toplamIslemHacmi(TL)": 5448851472.32,
+        "acilisSeansiIslemMiktari": 5312500,
+        "toplamIslemMiktari": 170252557,
+        "enDusukFiyat": 24.24,
+        "enYuksekFiyat": 41.32,
+        "kapanisFiyat": 26.44,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264198"
+        },
+        "islemKodu": "DESA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 69.32969602494154,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 90.6278927467947,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "DESA DERI",
+        "sektorAdi": "TEKSTİL, GİYİM EŞYASI VE DERİ",
+        "acilisSeansiIslemHacmi(TL)": 2487964.01,
+        "toplamIslemHacmi(TL)": 517461049.52,
+        "acilisSeansiIslemMiktari": 123461,
+        "toplamIslemMiktari": 27050887,
+        "enDusukFiyat": 16.45,
+        "enYuksekFiyat": 21.74,
+        "kapanisFiyat": 17.3,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641ae"
+        },
+        "islemKodu": "DITAS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 52.44077530509691,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 87.11165405107423,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "DITAS DOGAN",
+        "sektorAdi": "METAL EŞYA MAKİNE ELEKTRİKLİ CİHAZLAR VE ULAŞIM ARAÇLARI",
+        "acilisSeansiIslemHacmi(TL)": 649905.07,
+        "toplamIslemHacmi(TL)": 132464169.12,
+        "acilisSeansiIslemMiktari": 37669,
+        "toplamIslemMiktari": 7876109,
+        "enDusukFiyat": 13.88,
+        "enYuksekFiyat": 19.2,
+        "kapanisFiyat": 14.78,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641e1"
+        },
+        "islemKodu": "DMRGD.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 46.57142857142857,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 93.53728489483748,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "DMR UNLU MAMULLER",
+        "sektorAdi": "GIDA, İÇECEK VE TÜTÜN",
+        "acilisSeansiIslemHacmi(TL)": 14645682.07,
+        "toplamIslemHacmi(TL)": 1824070597.72,
+        "acilisSeansiIslemMiktari": 1142918,
+        "toplamIslemMiktari": 138904267,
+        "enDusukFiyat": 9.21,
+        "enYuksekFiyat": 16.9,
+        "kapanisFiyat": 10.54,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641c9"
+        },
+        "islemKodu": "DNISI.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 54.674099485420236,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 104.64482785860729,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "DINAMIK ISI MAKINA YALITIM",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 1671427.42,
+        "toplamIslemHacmi(TL)": 509638701.02,
+        "acilisSeansiIslemMiktari": 126112,
+        "toplamIslemMiktari": 38402931,
+        "enDusukFiyat": 11.45,
+        "enYuksekFiyat": 14.48,
+        "kapanisFiyat": 12.56,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264067"
+        },
+        "islemKodu": "ECZYT.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 62.40417550154951,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 104.3458796081159,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "ECZACIBASI YATIRIM",
+        "sektorAdi": "HOLDİNGLER VE YATIRIM ŞİRKETLERİ",
+        "acilisSeansiIslemHacmi(TL)": 38355564.6,
+        "toplamIslemHacmi(TL)": 4568138675.65,
+        "acilisSeansiIslemMiktari": 133156,
+        "toplamIslemMiktari": 16375272,
+        "enDusukFiyat": 226,
+        "enYuksekFiyat": 342.5,
+        "kapanisFiyat": 249.5,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641b1"
+        },
+        "islemKodu": "EDIP.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 55.02121640735502,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 101.03946325318405,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "EDIP GAYRIMENKUL",
+        "sektorAdi": "İNŞAAT VE BAYINDIRLIK İŞLERİ",
+        "acilisSeansiIslemHacmi(TL)": 41622494.9,
+        "toplamIslemHacmi(TL)": 2753984383.48,
+        "acilisSeansiIslemMiktari": 2049348,
+        "toplamIslemMiktari": 152213246,
+        "enDusukFiyat": 13.86,
+        "enYuksekFiyat": 22.66,
+        "kapanisFiyat": 14.61,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26411e"
+        },
+        "islemKodu": "EKOS.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 100,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 100,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "EKOS TEKNOLOJI",
+        "sektorAdi": "METAL EŞYA MAKİNE ELEKTRİKLİ CİHAZLAR VE ULAŞIM ARAÇLARI",
+        "acilisSeansiIslemHacmi(TL)": 700806839.34,
+        "toplamIslemHacmi(TL)": 5644883467.44,
+        "acilisSeansiIslemMiktari": 18312881,
+        "toplamIslemMiktari": 153642524,
+        "enDusukFiyat": 29.52,
+        "enYuksekFiyat": 43.9,
+        "kapanisFiyat": 35.68,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640e4"
+        },
+        "islemKodu": "ELITE.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 58.603238866396765,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 107.8414115680185,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "ELITE NATUREL ORGANIK GIDA",
+        "sektorAdi": "GIDA, İÇECEK VE TÜTÜN",
+        "acilisSeansiIslemHacmi(TL)": 10394860.49,
+        "toplamIslemHacmi(TL)": 1047365963.82,
+        "acilisSeansiIslemMiktari": 162991,
+        "toplamIslemMiktari": 16789290,
+        "enDusukFiyat": 41.26,
+        "enYuksekFiyat": 77,
+        "kapanisFiyat": 53.15,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26409f"
+        },
+        "islemKodu": "EMNIS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 60.28873917228104,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 107.7898056789288,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "W",
+        "pazarAdi": "PAY-YAKIN IZLEME PAZARI",
+        "bultenAdi": "EMINIS AMBALAJ",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 4018491.05,
+        "toplamIslemHacmi(TL)": 35192696.5,
+        "acilisSeansiIslemMiktari": 38738,
+        "toplamIslemMiktari": 345123,
+        "enDusukFiyat": 80.25,
+        "enYuksekFiyat": 130,
+        "kapanisFiyat": 93.15,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26407b"
+        },
+        "islemKodu": "ESCAR.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 77.90285085036095,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 102.21710946598105,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "ESCAR FILO",
+        "sektorAdi": "KİRALAMA VE LEASING FAALİYETLERİ",
+        "acilisSeansiIslemHacmi(TL)": 1096737.9,
+        "toplamIslemHacmi(TL)": 359794340.5,
+        "acilisSeansiIslemMiktari": 7174,
+        "toplamIslemMiktari": 2355561,
+        "enDusukFiyat": 141.1,
+        "enYuksekFiyat": 165.9,
+        "kapanisFiyat": 159.9,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264105"
+        },
+        "islemKodu": "ESCOM.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 64.04958677685951,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 102.76699499009212,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "ESCORT TEKNOLOJI",
+        "sektorAdi": "BİLİŞİM",
+        "acilisSeansiIslemHacmi(TL)": 3119767.4,
+        "toplamIslemHacmi(TL)": 727102973.38,
+        "acilisSeansiIslemMiktari": 62363,
+        "toplamIslemMiktari": 14937896,
+        "enDusukFiyat": 35.74,
+        "enYuksekFiyat": 54.95,
+        "kapanisFiyat": 40.86,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26419d"
+        },
+        "islemKodu": "ESEN.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 58.922716627634664,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 74.27559215938182,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "ESENBOGA ELEKTRIK",
+        "sektorAdi": "ELEKTRİK GAZ VE BUHAR",
+        "acilisSeansiIslemHacmi(TL)": 7723208.72,
+        "toplamIslemHacmi(TL)": 1683297633.6,
+        "acilisSeansiIslemMiktari": 385173,
+        "toplamIslemMiktari": 88102569,
+        "enDusukFiyat": 14.9,
+        "enYuksekFiyat": 23.18,
+        "kapanisFiyat": 16.71,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26407a"
+        },
+        "islemKodu": "EUPWR.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 69.03756859434361,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 102.38994945783682,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "EUROPOWER ENERJI",
+        "sektorAdi": "METAL EŞYA MAKİNE ELEKTRİKLİ CİHAZLAR VE ULAŞIM ARAÇLARI",
+        "acilisSeansiIslemHacmi(TL)": 55928121.1,
+        "toplamIslemHacmi(TL)": 10067143565.9,
+        "acilisSeansiIslemMiktari": 346929,
+        "toplamIslemMiktari": 62590102,
+        "enDusukFiyat": 139.2,
+        "enYuksekFiyat": 176.6,
+        "kapanisFiyat": 162,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641af"
+        },
+        "islemKodu": "EUREN.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 47.91497647249716,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 98.1321209491292,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "EUROPEN ENDUSTRI",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 13304566.27,
+        "toplamIslemHacmi(TL)": 3096502819.17,
+        "acilisSeansiIslemMiktari": 884048,
+        "toplamIslemMiktari": 207390735,
+        "enDusukFiyat": 13.46,
+        "enYuksekFiyat": 16.6,
+        "kapanisFiyat": 14.76,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641f3"
+        },
+        "islemKodu": "EYGYO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 40.87730451366815,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 88.29967446143756,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "EYG GMYO",
+        "sektorAdi": "GAYRİMENKUL YATIRIM ORTAKLIKLARI",
+        "acilisSeansiIslemHacmi(TL)": 14002757.63,
+        "toplamIslemHacmi(TL)": 1307302877.9,
+        "acilisSeansiIslemMiktari": 541280,
+        "toplamIslemMiktari": 51634452,
+        "enDusukFiyat": 8.1,
+        "enYuksekFiyat": 29.86,
+        "kapanisFiyat": 8.6,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641ad"
+        },
+        "islemKodu": "FADE.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 54.10490307867731,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 99.361751384784,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "FADE GIDA",
+        "sektorAdi": "GIDA, İÇECEK VE TÜTÜN",
+        "acilisSeansiIslemHacmi(TL)": 1453524.37,
+        "toplamIslemHacmi(TL)": 432675732.28,
+        "acilisSeansiIslemMiktari": 93347,
+        "toplamIslemMiktari": 27585767,
+        "enDusukFiyat": 13.42,
+        "enYuksekFiyat": 17.4,
+        "kapanisFiyat": 14.85,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640c4"
+        },
+        "islemKodu": "FORTE.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 64.8957103502558,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 98.87827961470039,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "FORTE BILGI ILETISIM",
+        "sektorAdi": "BİLİŞİM",
+        "acilisSeansiIslemHacmi(TL)": 37616021.7,
+        "toplamIslemHacmi(TL)": 2379360397.05,
+        "acilisSeansiIslemMiktari": 579369,
+        "toplamIslemMiktari": 36106648,
+        "enDusukFiyat": 59.85,
+        "enYuksekFiyat": 76.3,
+        "kapanisFiyat": 66.05,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26404f"
+        },
+        "islemKodu": "FROTO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 65.37335285505125,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 99.68094520542348,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "FORD OTOSAN",
+        "sektorAdi": "METAL EŞYA MAKİNE ELEKTRİKLİ CİHAZLAR VE ULAŞIM ARAÇLARI",
+        "acilisSeansiIslemHacmi(TL)": 94490201.5,
+        "toplamIslemHacmi(TL)": {
+            "$numberLong": "17111824467"
+        },
+        "acilisSeansiIslemMiktari": 119627,
+        "toplamIslemMiktari": 21813617,
+        "enDusukFiyat": 728,
+        "enYuksekFiyat": 861,
+        "kapanisFiyat": 739.5,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641d0"
+        },
+        "islemKodu": "FZLGY.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 52.32371794871794,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 92.5159632279685,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "FUZUL GMYO",
+        "sektorAdi": "GAYRİMENKUL YATIRIM ORTAKLIKLARI",
+        "acilisSeansiIslemHacmi(TL)": 3498698.21,
+        "toplamIslemHacmi(TL)": 966206103.25,
+        "acilisSeansiIslemMiktari": 260988,
+        "toplamIslemMiktari": 73414362,
+        "enDusukFiyat": 10.62,
+        "enYuksekFiyat": 15.31,
+        "kapanisFiyat": 11.92,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641ac"
+        },
+        "islemKodu": "GEDIK.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 57.08289611752361,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 103.80948679853054,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "GEDIK Y. MEN. DEG.",
+        "sektorAdi": "ARACI KURUMLAR",
+        "acilisSeansiIslemHacmi(TL)": 2076246.85,
+        "toplamIslemHacmi(TL)": 607086597.64,
+        "acilisSeansiIslemMiktari": 129927,
+        "toplamIslemMiktari": 38936472,
+        "enDusukFiyat": 13.05,
+        "enYuksekFiyat": 18.25,
+        "kapanisFiyat": 14.88,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640c2"
+        },
+        "islemKodu": "GESAN.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 96.42410155551582,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 91.90779916309563,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "GIRISIM ELEKTRIK SANAYI",
+        "sektorAdi": "İNŞAAT VE BAYINDIRLIK İŞLERİ",
+        "acilisSeansiIslemHacmi(TL)": 40080730.8,
+        "toplamIslemHacmi(TL)": 7887148780.15,
+        "acilisSeansiIslemMiktari": 561602,
+        "toplamIslemMiktari": 111858650,
+        "enDusukFiyat": 59.5,
+        "enYuksekFiyat": 82.65,
+        "kapanisFiyat": 66.6,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26421a"
+        },
+        "islemKodu": "GSRAY.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 53.94352482960077,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 93.83198325185246,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "GALATASARAY SPORTIF",
+        "sektorAdi": "SPOR FAALİYETLERİ EĞLENCE VE OYUN FAALİYETLERİ",
+        "acilisSeansiIslemHacmi(TL)": 26033114.41,
+        "toplamIslemHacmi(TL)": 3959521684.71,
+        "acilisSeansiIslemMiktari": 3563068,
+        "toplamIslemMiktari": 549959758,
+        "enDusukFiyat": 5.83,
+        "enYuksekFiyat": 8.06,
+        "kapanisFiyat": 6.3,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26407c"
+        },
+        "islemKodu": "GUBRF.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 65.37850067261832,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 91.77960023618009,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "GUBRE FABRIK.",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 466762256.75,
+        "toplamIslemHacmi(TL)": 34420867806.05,
+        "acilisSeansiIslemMiktari": 2730936,
+        "toplamIslemMiktari": 156118490,
+        "enDusukFiyat": 135,
+        "enYuksekFiyat": 405,
+        "kapanisFiyat": 153.8,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd25fb49"
+        },
+        "islemKodu": "GYHOL.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 89.95433789954339,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 104.99329965188997,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "INVEO YATIRIM HOLDING",
+        "sektorAdi": "ELEKTRİK GAZ VE BUHAR",
+        "acilisSeansiIslemHacmi(TL)": 1237255.4,
+        "toplamIslemHacmi(TL)": 341969253.62,
+        "acilisSeansiIslemMiktari": 50172,
+        "toplamIslemMiktari": 13646425,
+        "enDusukFiyat": 23.4,
+        "enYuksekFiyat": 27.56,
+        "kapanisFiyat": 26.94,
+        "tarih": {
+            "$date": "2020-09-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd25fc51"
+        },
+        "islemKodu": "HALKS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 71.05263157894737,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 103.95797950792198,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "S",
+        "pazarAdi": "PAY-PIYASA ONCESI ISLEM PLATFORMU",
+        "bultenAdi": "HALK SIGORTA",
+        "sektorAdi": "BANKALAR",
+        "acilisSeansiIslemHacmi(TL)": 7807.5,
+        "toplamIslemHacmi(TL)": 130240.4,
+        "acilisSeansiIslemMiktari": 2250,
+        "toplamIslemMiktari": 38280,
+        "enDusukFiyat": 3.36,
+        "enYuksekFiyat": 3.47,
+        "kapanisFiyat": 3.43,
+        "tarih": {
+            "$date": "2020-09-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641e2"
+        },
+        "islemKodu": "HATEK.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 65.90563165905633,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 101.64334104059958,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "HATAY TEKSTIL",
+        "sektorAdi": "TEKSTİL, GİYİM EŞYASI VE DERİ",
+        "acilisSeansiIslemHacmi(TL)": 8324877.62,
+        "toplamIslemHacmi(TL)": 1229452986.76,
+        "acilisSeansiIslemMiktari": 645527,
+        "toplamIslemMiktari": 94186381,
+        "enDusukFiyat": 10,
+        "enYuksekFiyat": 15.3,
+        "kapanisFiyat": 10.51,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640e9"
+        },
+        "islemKodu": "HATSN.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 67.75306748466258,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 99.779761604546,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "HATSAN GEMI",
+        "sektorAdi": "METAL EŞYA MAKİNE ELEKTRİKLİ CİHAZLAR VE ULAŞIM ARAÇLARI",
+        "acilisSeansiIslemHacmi(TL)": 20322795.05,
+        "toplamIslemHacmi(TL)": 3522613544.76,
+        "acilisSeansiIslemMiktari": 399817,
+        "toplamIslemMiktari": 69216112,
+        "enDusukFiyat": 42.24,
+        "enYuksekFiyat": 59.3,
+        "kapanisFiyat": 49.24,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26414d"
+        },
+        "islemKodu": "HEDEF.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 71.59225602528645,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 104.37243867765677,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "HEDEF HOLDING",
+        "sektorAdi": "HOLDİNGLER VE YATIRIM ŞİRKETLERİ",
+        "acilisSeansiIslemHacmi(TL)": 1908565.82,
+        "toplamIslemHacmi(TL)": 327640565.32,
+        "acilisSeansiIslemMiktari": 63071,
+        "toplamIslemMiktari": 11360803,
+        "enDusukFiyat": 26.06,
+        "enYuksekFiyat": 33.98,
+        "kapanisFiyat": 27.9,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640e7"
+        },
+        "islemKodu": "HKTM.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 63.315430966727796,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 97.42023895914272,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "HIDROPAR HAREKET KONTROL",
+        "sektorAdi": "METAL EŞYA MAKİNE ELEKTRİKLİ CİHAZLAR VE ULAŞIM ARAÇLARI",
+        "acilisSeansiIslemHacmi(TL)": 1197841.23,
+        "toplamIslemHacmi(TL)": 366404075.93,
+        "acilisSeansiIslemMiktari": 20966,
+        "toplamIslemMiktari": 6350244,
+        "enDusukFiyat": 44.02,
+        "enYuksekFiyat": 66.35,
+        "kapanisFiyat": 51.2,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641e4"
+        },
+        "islemKodu": "ICUGS.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 72.27272727272728,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 102.99289222983032,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "T",
+        "pazarAdi": "PAY-ALT PAZAR",
+        "bultenAdi": "ICU GIRISIM",
+        "sektorAdi": "GİRİŞİM SERMAYESİ YATIRIM ORTAKLIKLARI",
+        "acilisSeansiIslemHacmi(TL)": 3343432.37,
+        "toplamIslemHacmi(TL)": 256894194.62,
+        "acilisSeansiIslemMiktari": 325892,
+        "toplamIslemMiktari": 25326174,
+        "enDusukFiyat": 7.97,
+        "enYuksekFiyat": 12.02,
+        "kapanisFiyat": 10.34,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641ab"
+        },
+        "islemKodu": "IHAAS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 99.33706414119673,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 69.12784922461125,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "IHLAS HABER AJANSI",
+        "sektorAdi": "BİLGİ HİZMET FAALİYETLERİ",
+        "acilisSeansiIslemHacmi(TL)": 1196666.16,
+        "toplamIslemHacmi(TL)": 291269527.69,
+        "acilisSeansiIslemMiktari": 84701,
+        "toplamIslemMiktari": 20590852,
+        "enDusukFiyat": 12.9,
+        "enYuksekFiyat": 15.15,
+        "kapanisFiyat": 14.97,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264257"
+        },
+        "islemKodu": "IHEVA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 31.769722814498934,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 102.03877184864909,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "IHLAS EV ALETLERI",
+        "sektorAdi": "METAL EŞYA MAKİNE ELEKTRİKLİ CİHAZLAR VE ULAŞIM ARAÇLARI",
+        "acilisSeansiIslemHacmi(TL)": 3011214.81,
+        "toplamIslemHacmi(TL)": 443292251.56,
+        "acilisSeansiIslemMiktari": 1203660,
+        "toplamIslemMiktari": 187700519,
+        "enDusukFiyat": 2.09,
+        "enYuksekFiyat": 2.74,
+        "kapanisFiyat": 2.17,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26425f"
+        },
+        "islemKodu": "IHLGM.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 46.728971962616825,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 102.08342323671036,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "IHLAS GAYRIMENKUL",
+        "sektorAdi": "GAYRİMENKUL FAALİYETLERİ",
+        "acilisSeansiIslemHacmi(TL)": 7392458.26,
+        "toplamIslemHacmi(TL)": 962271654.67,
+        "acilisSeansiIslemMiktari": 4651766,
+        "toplamIslemMiktari": 572543243,
+        "enDusukFiyat": 1.24,
+        "enYuksekFiyat": 2.09,
+        "kapanisFiyat": 1.34,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264251"
+        },
+        "islemKodu": "IHYAY.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 44.599303135888505,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 111.77215723240754,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "IHLAS YAYIN HOLDING",
+        "sektorAdi": "HOLDİNGLER VE YATIRIM ŞİRKETLERİ",
+        "acilisSeansiIslemHacmi(TL)": 1645364.78,
+        "toplamIslemHacmi(TL)": 437029914.12,
+        "acilisSeansiIslemMiktari": 533098,
+        "toplamIslemMiktari": 144227419,
+        "enDusukFiyat": 2.58,
+        "enYuksekFiyat": 3.45,
+        "kapanisFiyat": 2.77,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641c7"
+        },
+        "islemKodu": "IMASM.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 47.817092750401386,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 69.423459225234,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "IMAS MAKINA",
+        "sektorAdi": "METAL EŞYA MAKİNE ELEKTRİKLİ CİHAZLAR VE ULAŞIM ARAÇLARI",
+        "acilisSeansiIslemHacmi(TL)": 6693962.1,
+        "toplamIslemHacmi(TL)": 2163891452.85,
+        "acilisSeansiIslemMiktari": 458605,
+        "toplamIslemMiktari": 150188314,
+        "enDusukFiyat": 11.79,
+        "enYuksekFiyat": 17.41,
+        "kapanisFiyat": 12.62,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641c8"
+        },
+        "islemKodu": "INFO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 48.32012080030199,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 99.24166820335289,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "INFO YATIRIM",
+        "sektorAdi": "BİLİŞİM",
+        "acilisSeansiIslemHacmi(TL)": 1960527.46,
+        "toplamIslemHacmi(TL)": 857254971.34,
+        "acilisSeansiIslemMiktari": 155442,
+        "toplamIslemMiktari": 67914909,
+        "enDusukFiyat": 10.99,
+        "enYuksekFiyat": 14.59,
+        "kapanisFiyat": 12.58,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264058"
+        },
+        "islemKodu": "INGRM.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 45.13641183842669,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 91.96846723640363,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "INGRAM BILISIM",
+        "sektorAdi": "BİLİŞİM",
+        "acilisSeansiIslemHacmi(TL)": 39174036,
+        "toplamIslemHacmi(TL)": 2769423822.75,
+        "acilisSeansiIslemMiktari": 66310,
+        "toplamIslemMiktari": 4924603,
+        "enDusukFiyat": 429.5,
+        "enYuksekFiyat": 727,
+        "kapanisFiyat": 468.75,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640ff"
+        },
+        "islemKodu": "INVEO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 50.12154002979691,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 102.11292210459327,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "INVEO YATIRIM HOLDING",
+        "sektorAdi": "HOLDİNGLER VE YATIRIM ŞİRKETLERİ",
+        "acilisSeansiIslemHacmi(TL)": 6178764.4,
+        "toplamIslemHacmi(TL)": 1367947787.68,
+        "acilisSeansiIslemMiktari": 136810,
+        "toplamIslemMiktari": 30228132,
+        "enDusukFiyat": 37.44,
+        "enYuksekFiyat": 50,
+        "kapanisFiyat": 41.74,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264065"
+        },
+        "islemKodu": "INVES.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 91.23989218328842,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 99.87815858633923,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "INVESTCO HOLDING",
+        "sektorAdi": "HOLDİNGLER VE YATIRIM ŞİRKETLERİ",
+        "acilisSeansiIslemHacmi(TL)": 1819773,
+        "toplamIslemHacmi(TL)": 927895194.35,
+        "acilisSeansiIslemMiktari": 6135,
+        "toplamIslemMiktari": 3387832,
+        "enDusukFiyat": 232.5,
+        "enYuksekFiyat": 384.75,
+        "kapanisFiyat": 262.75,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264031"
+        },
+        "islemKodu": "ISATR.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 66.64238767799077,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 111.13182485305198,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "T",
+        "pazarAdi": "PAY-ALT PAZAR",
+        "bultenAdi": "IS BANKASI (A)",
+        "sektorAdi": "BANKALAR",
+        "acilisSeansiIslemHacmi(TL)": 0,
+        "toplamIslemHacmi(TL)": 974357.5,
+        "acilisSeansiIslemMiktari": 0,
+        "toplamIslemMiktari": 1,
+        "enDusukFiyat": 974357.5,
+        "enYuksekFiyat": 974357.5,
+        "kapanisFiyat": 974357.5,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26409b"
+        },
+        "islemKodu": "ISBIR.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 71.11169913670493,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 99.44666086618491,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "S",
+        "pazarAdi": "PAY-PIYASA ONCESI ISLEM PLATFORMU",
+        "bultenAdi": "ISBIR HOLDING",
+        "sektorAdi": "HOLDİNGLER VE YATIRIM ŞİRKETLERİ",
+        "acilisSeansiIslemHacmi(TL)": 5118367.9,
+        "toplamIslemHacmi(TL)": 76224852.65,
+        "acilisSeansiIslemMiktari": 47223,
+        "toplamIslemMiktari": 705734,
+        "enDusukFiyat": 88,
+        "enYuksekFiyat": 121.2,
+        "kapanisFiyat": 96.8,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd263e07"
+        },
+        "islemKodu": "ISKUR.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 51.76506463141497,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 126.27835969866848,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "T",
+        "pazarAdi": "PAY-ALT PAZAR",
+        "bultenAdi": "IS BANKASI (KUR.)",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 0,
+        "toplamIslemHacmi(TL)": 8930900,
+        "acilisSeansiIslemMiktari": 0,
+        "toplamIslemMiktari": 1,
+        "enDusukFiyat": 8930900,
+        "enYuksekFiyat": 8930900,
+        "kapanisFiyat": 8930900,
+        "tarih": {
+            "$date": "2023-11-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641e6"
+        },
+        "islemKodu": "ISSEN.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 84.83110925771477,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 85.1059535476428,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "ISBIR SENTETIK DOKUMA",
+        "sektorAdi": "TEKSTİL, GİYİM EŞYASI VE DERİ",
+        "acilisSeansiIslemHacmi(TL)": 1398845.87,
+        "toplamIslemHacmi(TL)": 408729165.5,
+        "acilisSeansiIslemMiktari": 126193,
+        "toplamIslemMiktari": 36838565,
+        "enDusukFiyat": 9.34,
+        "enYuksekFiyat": 12.52,
+        "kapanisFiyat": 10.25,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641e9"
+        },
+        "islemKodu": "ISYAT.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 58.895705521472394,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 105.1521424302313,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "IS YAT. ORT.",
+        "sektorAdi": "MENKUL KIYMET YATIRIM ORTAKLIKLARI",
+        "acilisSeansiIslemHacmi(TL)": 10790729.71,
+        "toplamIslemHacmi(TL)": 972803157.06,
+        "acilisSeansiIslemMiktari": 1010928,
+        "toplamIslemMiktari": 94786612,
+        "enDusukFiyat": 8.49,
+        "enYuksekFiyat": 12.18,
+        "kapanisFiyat": 9.7,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641c2"
+        },
+        "islemKodu": "IZFAS.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 80,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 106.82925346760963,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "IZMIR FIRCA",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 9235760.54,
+        "toplamIslemHacmi(TL)": 1584584579.97,
+        "acilisSeansiIslemMiktari": 805109,
+        "toplamIslemMiktari": 135975127,
+        "enDusukFiyat": 9.01,
+        "enYuksekFiyat": 13.65,
+        "kapanisFiyat": 13.16,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640a7"
+        },
+        "islemKodu": "KAPLM.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 69.61418143899895,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 97.41021808088244,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "KAPLAMIN",
+        "sektorAdi": "KAĞIT VE KAĞIT ÜRÜNLERİ BASIM",
+        "acilisSeansiIslemHacmi(TL)": 1078746.45,
+        "toplamIslemHacmi(TL)": 279546176.15,
+        "acilisSeansiIslemMiktari": 11335,
+        "toplamIslemMiktari": 2912557,
+        "enDusukFiyat": 75.1,
+        "enYuksekFiyat": 111.5,
+        "kapanisFiyat": 87,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26416e"
+        },
+        "islemKodu": "KARYE.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 66.4798206278027,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 98.00022992641864,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "KARTAL YEN. ENERJI",
+        "sektorAdi": "ELEKTRİK GAZ VE BUHAR",
+        "acilisSeansiIslemHacmi(TL)": 1599932.92,
+        "toplamIslemHacmi(TL)": 382757178.92,
+        "acilisSeansiIslemMiktari": 66770,
+        "toplamIslemMiktari": 15887539,
+        "enDusukFiyat": 20,
+        "enYuksekFiyat": 27.7,
+        "kapanisFiyat": 22.5,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264126"
+        },
+        "islemKodu": "KAYSE.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 64.93775933609959,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 104.6568481243502,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "KAYSERI SEKER FABRIKASI",
+        "sektorAdi": "GIDA, İÇECEK VE TÜTÜN",
+        "acilisSeansiIslemHacmi(TL)": 28550310.18,
+        "toplamIslemHacmi(TL)": 4131854084.94,
+        "acilisSeansiIslemMiktari": 736645,
+        "toplamIslemMiktari": 109831701,
+        "enDusukFiyat": 31,
+        "enYuksekFiyat": 40.88,
+        "kapanisFiyat": 33.8,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26413e"
+        },
+        "islemKodu": "KCAER.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 47.96081567373051,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 104.66965158855646,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "KOCAER CELIK",
+        "sektorAdi": "ANA METAL SANAYİ",
+        "acilisSeansiIslemHacmi(TL)": 25336341.12,
+        "toplamIslemHacmi(TL)": 4200355229.86,
+        "acilisSeansiIslemMiktari": 877220,
+        "toplamIslemMiktari": 145982069,
+        "enDusukFiyat": 24.56,
+        "enYuksekFiyat": 31.32,
+        "kapanisFiyat": 29.8,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264056"
+        },
+        "islemKodu": "KENT.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 51.79293732672818,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 106.3130532023283,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "S",
+        "pazarAdi": "PAY-PIYASA ONCESI ISLEM PLATFORMU",
+        "bultenAdi": "KENT GIDA",
+        "sektorAdi": "GIDA, İÇECEK VE TÜTÜN",
+        "acilisSeansiIslemHacmi(TL)": 12508890.75,
+        "toplamIslemHacmi(TL)": 96556020,
+        "acilisSeansiIslemMiktari": 24812,
+        "toplamIslemMiktari": 186154,
+        "enDusukFiyat": 423.5,
+        "enYuksekFiyat": 655.5,
+        "kapanisFiyat": 497.5,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26421d"
+        },
+        "islemKodu": "KIMMR.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 64.32714617169374,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 97.84174758856878,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "KIM MARKET-ERSAN ALISVERIS",
+        "sektorAdi": "PERAKENDE TİCARET",
+        "acilisSeansiIslemHacmi(TL)": 748812.86,
+        "toplamIslemHacmi(TL)": 243016983.61,
+        "acilisSeansiIslemMiktari": 119051,
+        "toplamIslemMiktari": 38858635,
+        "enDusukFiyat": 5.27,
+        "enYuksekFiyat": 7.04,
+        "kapanisFiyat": 6.08,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264122"
+        },
+        "islemKodu": "KLRHO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 60.67053513862025,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 103.42749668536884,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "KILER HOLDING",
+        "sektorAdi": "HOLDİNGLER VE YATIRIM ŞİRKETLERİ",
+        "acilisSeansiIslemHacmi(TL)": 2857160.38,
+        "toplamIslemHacmi(TL)": 652427748.56,
+        "acilisSeansiIslemMiktari": 75757,
+        "toplamIslemMiktari": 17756259,
+        "enDusukFiyat": 31.7,
+        "enYuksekFiyat": 43.42,
+        "kapanisFiyat": 34.24,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640c7"
+        },
+        "islemKodu": "KLSER.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 61.306276820132375,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 95.01812165853745,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "KALESERAMIK",
+        "sektorAdi": "TAŞ VE TOPRAĞA DAYALI",
+        "acilisSeansiIslemHacmi(TL)": 26699091,
+        "toplamIslemHacmi(TL)": 5217883928.95,
+        "acilisSeansiIslemMiktari": 384996,
+        "toplamIslemMiktari": 76681286,
+        "enDusukFiyat": 54,
+        "enYuksekFiyat": 76.85,
+        "kapanisFiyat": 64.35,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264231"
+        },
+        "islemKodu": "KLSYN.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 77.68014059753955,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 99.81778664461658,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "KOLEKSIYON MOBILYA",
+        "sektorAdi": "ORMAN ÜRÜNLERİ VE MOBİLYA",
+        "acilisSeansiIslemHacmi(TL)": 947995.79,
+        "toplamIslemHacmi(TL)": 270070035.91,
+        "acilisSeansiIslemMiktari": 169430,
+        "toplamIslemMiktari": 49846506,
+        "enDusukFiyat": 4.58,
+        "enYuksekFiyat": 6.42,
+        "kapanisFiyat": 5.01,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640d7"
+        },
+        "islemKodu": "KMPUR.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 71.98629475919313,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 91.48171642221145,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "KIMTEKS POLIURETAN",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 6665821.8,
+        "toplamIslemHacmi(TL)": 1350930850.4,
+        "acilisSeansiIslemMiktari": 106070,
+        "toplamIslemMiktari": 21901434,
+        "enDusukFiyat": 51.8,
+        "enYuksekFiyat": 69.7,
+        "kapanisFiyat": 58.15,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26406d"
+        },
+        "islemKodu": "KONTR.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 68.48753462603878,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 99.68149115833741,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "KONTROLMATIK TEKNOLOJI",
+        "sektorAdi": "MİMARLIK VE MÜHENDİSLİK FAALİYETLERİ; TEKNİK MUAYENE VE ANALİZ",
+        "acilisSeansiIslemHacmi(TL)": 152384967.1,
+        "toplamIslemHacmi(TL)": 23465267185.7,
+        "acilisSeansiIslemMiktari": 678227,
+        "toplamIslemMiktari": 106652838,
+        "enDusukFiyat": 179.9,
+        "enYuksekFiyat": 273.75,
+        "kapanisFiyat": 217,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640fc"
+        },
+        "islemKodu": "KOZAA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 56.53245686113394,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 95.7047572827168,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "KOZA MADENCILIK",
+        "sektorAdi": "METAL CEVHERİ MADENCİLİĞİ",
+        "acilisSeansiIslemHacmi(TL)": 98999852.39,
+        "toplamIslemHacmi(TL)": 10084660470.61,
+        "acilisSeansiIslemMiktari": 1995935,
+        "toplamIslemMiktari": 214835545,
+        "enDusukFiyat": 37.98,
+        "enYuksekFiyat": 56.9,
+        "kapanisFiyat": 42.42,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd25f8be"
+        },
+        "islemKodu": "KPHOL.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 71.3855421686747,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 109.56449834619626,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "W",
+        "pazarAdi": "PAY-YAKIN IZLEME PAZARI",
+        "bultenAdi": "KAPITAL YAT. HOLDING",
+        "sektorAdi": "METAL CEVHERİ MADENCİLİĞİ",
+        "acilisSeansiIslemHacmi(TL)": 686005.88,
+        "toplamIslemHacmi(TL)": 3837795.4,
+        "acilisSeansiIslemMiktari": 166202,
+        "toplamIslemMiktari": 956712,
+        "enDusukFiyat": 3.28,
+        "enYuksekFiyat": 4.81,
+        "kapanisFiyat": 4.62,
+        "tarih": {
+            "$date": "2020-07-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641c1"
+        },
+        "islemKodu": "KRONT.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 63.45486725663717,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 83.35885090033426,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "KRON TEKNOLOJI",
+        "sektorAdi": "BİLİŞİM",
+        "acilisSeansiIslemHacmi(TL)": 4415389.97,
+        "toplamIslemHacmi(TL)": 739569388.33,
+        "acilisSeansiIslemMiktari": 273868,
+        "toplamIslemMiktari": 48118791,
+        "enDusukFiyat": 12.27,
+        "enYuksekFiyat": 18.95,
+        "kapanisFiyat": 13.2,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264209"
+        },
+        "islemKodu": "KRPLS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 63.60968451944241,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 98.54075930796652,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "KOROPLAST TEMIZLIK AMBALAJ",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 1725537.75,
+        "toplamIslemHacmi(TL)": 389749383.57,
+        "acilisSeansiIslemMiktari": 217945,
+        "toplamIslemMiktari": 50273973,
+        "enDusukFiyat": 6.81,
+        "enYuksekFiyat": 8.85,
+        "kapanisFiyat": 7.29,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd25f332"
+        },
+        "islemKodu": "KRSAN.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 73.77622377622379,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 100,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "W",
+        "pazarAdi": "PAY-YAKIN IZLEME PAZARI",
+        "bultenAdi": "KARSUSAN SU URUNLERI SAN.",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 55691.3,
+        "toplamIslemHacmi(TL)": 1012518.95,
+        "acilisSeansiIslemMiktari": 5821,
+        "toplamIslemMiktari": 105075,
+        "enDusukFiyat": 6.98,
+        "enYuksekFiyat": 10.99,
+        "kapanisFiyat": 9.25,
+        "tarih": {
+            "$date": "2020-03-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640b6"
+        },
+        "islemKodu": "KTLEV.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 90.39494895217625,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 113.6070848159646,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "KATILIMEVIM TAS. FIN.",
+        "sektorAdi": "FİNANSMAN ŞİRKETLERİ",
+        "acilisSeansiIslemHacmi(TL)": 245052269.4,
+        "toplamIslemHacmi(TL)": 4278834368.05,
+        "acilisSeansiIslemMiktari": 4322126,
+        "toplamIslemMiktari": 70919207,
+        "enDusukFiyat": 50.25,
+        "enYuksekFiyat": 77,
+        "kapanisFiyat": 75.1,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640c9"
+        },
+        "islemKodu": "KTSKR.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 62.11683053788317,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100.4346465167085,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "KUTAHYA SEKER FABRIKASI",
+        "sektorAdi": "GIDA, İÇECEK VE TÜTÜN",
+        "acilisSeansiIslemHacmi(TL)": 2628053.1,
+        "toplamIslemHacmi(TL)": 597471541.15,
+        "acilisSeansiIslemMiktari": 39341,
+        "toplamIslemMiktari": 9039444,
+        "enDusukFiyat": 58,
+        "enYuksekFiyat": 71.65,
+        "kapanisFiyat": 64.05,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264190"
+        },
+        "islemKodu": "KZBGY.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 48.20765380268045,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 98.0082473834612,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "KIZILBUK GYO",
+        "sektorAdi": "GAYRİMENKUL YATIRIM ORTAKLIKLARI",
+        "acilisSeansiIslemHacmi(TL)": 8019739.56,
+        "toplamIslemHacmi(TL)": 1934117390.93,
+        "acilisSeansiIslemMiktari": 410326,
+        "toplamIslemMiktari": 99077784,
+        "enDusukFiyat": 16.65,
+        "enYuksekFiyat": 21.38,
+        "kapanisFiyat": 18.67,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264178"
+        },
+        "islemKodu": "KZGYO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 40.44401544401544,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 93.40256331068562,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "KUZUGRUP GMYO",
+        "sektorAdi": "GAYRİMENKUL YATIRIM ORTAKLIKLARI",
+        "acilisSeansiIslemHacmi(TL)": 4464634.75,
+        "toplamIslemHacmi(TL)": 1151175843.5,
+        "acilisSeansiIslemMiktari": 179522,
+        "toplamIslemMiktari": 46656932,
+        "enDusukFiyat": 19.21,
+        "enYuksekFiyat": 28.08,
+        "kapanisFiyat": 21.14,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640c8"
+        },
+        "islemKodu": "LIDER.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 74.99706538326095,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 92.49231176714711,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "LDR TURIZM",
+        "sektorAdi": "KİRALAMA VE LEASING FAALİYETLERİ",
+        "acilisSeansiIslemHacmi(TL)": 28002394.14,
+        "toplamIslemHacmi(TL)": 3461240101.43,
+        "acilisSeansiIslemMiktari": 341650,
+        "toplamIslemMiktari": 46538237,
+        "enDusukFiyat": 43.2,
+        "enYuksekFiyat": 193.5,
+        "kapanisFiyat": 64.3,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264070"
+        },
+        "islemKodu": "LINK.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 56.00180505415162,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 116.89183998313615,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "T",
+        "pazarAdi": "PAY-ALT PAZAR",
+        "bultenAdi": "LINK BILGISAYAR",
+        "sektorAdi": "BİLİŞİM",
+        "acilisSeansiIslemHacmi(TL)": 9412128.1,
+        "toplamIslemHacmi(TL)": 464415144.7,
+        "acilisSeansiIslemMiktari": 42355,
+        "toplamIslemMiktari": 2226073,
+        "enDusukFiyat": 157,
+        "enYuksekFiyat": 250,
+        "kapanisFiyat": 208.8,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640c5"
+        },
+        "islemKodu": "LKMNH.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 70.88752869166028,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 112.21437542278477,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "LOKMAN HEKIM SAGLIK",
+        "sektorAdi": "İNSAN SAĞLIĞI VE SOSYAL HİZMETLER",
+        "acilisSeansiIslemHacmi(TL)": 2943578.9,
+        "toplamIslemHacmi(TL)": 814079094.22,
+        "acilisSeansiIslemMiktari": 49520,
+        "toplamIslemMiktari": 13729741,
+        "enDusukFiyat": 47.64,
+        "enYuksekFiyat": 69.85,
+        "kapanisFiyat": 64.7,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640b7"
+        },
+        "islemKodu": "LOGO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 77.6822844469088,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 100.8485225569194,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "LOGO YAZILIM",
+        "sektorAdi": "BİLİŞİM",
+        "acilisSeansiIslemHacmi(TL)": 5701276.6,
+        "toplamIslemHacmi(TL)": 1836111534.55,
+        "acilisSeansiIslemMiktari": 75678,
+        "toplamIslemMiktari": 24548405,
+        "enDusukFiyat": 67.05,
+        "enYuksekFiyat": 83.8,
+        "kapanisFiyat": 73.95,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641ea"
+        },
+        "islemKodu": "MAGEN.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 81.17758335303854,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 74.7902385112424,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "MARGUN ENERJI",
+        "sektorAdi": "ELEKTRİK GAZ VE BUHAR",
+        "acilisSeansiIslemHacmi(TL)": 14486524.85,
+        "toplamIslemHacmi(TL)": 1695385727.64,
+        "acilisSeansiIslemMiktari": 1443581,
+        "toplamIslemMiktari": 139468416,
+        "enDusukFiyat": 8.9,
+        "enYuksekFiyat": 15.95,
+        "kapanisFiyat": 9.48,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26420c"
+        },
+        "islemKodu": "MANAS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 71.94542071531941,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 92.36693638080399,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "MANAS ENERJI YONETIMI",
+        "sektorAdi": "BİLİŞİM",
+        "acilisSeansiIslemHacmi(TL)": 1627718.78,
+        "toplamIslemHacmi(TL)": 324265058.42,
+        "acilisSeansiIslemMiktari": 196318,
+        "toplamIslemMiktari": 39993161,
+        "enDusukFiyat": 6.68,
+        "enYuksekFiyat": 9.33,
+        "kapanisFiyat": 7.12,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd261012"
+        },
+        "islemKodu": "MAREN.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 100,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 100,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "MARGUN ENERJI",
+        "sektorAdi": "TAŞ VE TOPRAĞA DAYALI",
+        "acilisSeansiIslemHacmi(TL)": 38214763.42,
+        "toplamIslemHacmi(TL)": 6742607140.11,
+        "acilisSeansiIslemMiktari": 4168601,
+        "toplamIslemMiktari": 738233978,
+        "enDusukFiyat": 8.23,
+        "enYuksekFiyat": 10.66,
+        "kapanisFiyat": 8.37,
+        "tarih": {
+            "$date": "2021-10-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26414e"
+        },
+        "islemKodu": "MEDTR.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 48.32605531295487,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 95.63276709999855,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "MEDITERA TIBBI MALZEME",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 1941576.04,
+        "toplamIslemHacmi(TL)": 499621385.68,
+        "acilisSeansiIslemMiktari": 59232,
+        "toplamIslemMiktari": 16043911,
+        "enDusukFiyat": 24.34,
+        "enYuksekFiyat": 37.08,
+        "kapanisFiyat": 27.84,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26423c"
+        },
+        "islemKodu": "MEGAP.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 56.9094138543517,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 96.87478619495712,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "MEGA POLIETILEN",
+        "sektorAdi": "TEKSTİL, GİYİM EŞYASI VE DERİ",
+        "acilisSeansiIslemHacmi(TL)": 4460298.1,
+        "toplamIslemHacmi(TL)": 657002064.09,
+        "acilisSeansiIslemMiktari": 1001453,
+        "toplamIslemMiktari": 144268250,
+        "enDusukFiyat": 3.68,
+        "enYuksekFiyat": 5.18,
+        "kapanisFiyat": 4.14,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640d8"
+        },
+        "islemKodu": "MEKAG.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 39.47730398899586,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "MEKA BETON",
+        "sektorAdi": "METAL EŞYA MAKİNE ELEKTRİKLİ CİHAZLAR VE ULAŞIM ARAÇLARI",
+        "acilisSeansiIslemHacmi(TL)": 35524222.5,
+        "toplamIslemHacmi(TL)": 4161941935.4,
+        "acilisSeansiIslemMiktari": 517037,
+        "toplamIslemMiktari": 62963682,
+        "enDusukFiyat": 51.2,
+        "enYuksekFiyat": 85,
+        "kapanisFiyat": 58.05,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641bd"
+        },
+        "islemKodu": "MERCN.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 86.949055523755,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 83.75244192636487,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "MERCAN KIMYA",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 6913154.77,
+        "toplamIslemHacmi(TL)": 899759109.15,
+        "acilisSeansiIslemMiktari": 535631,
+        "toplamIslemMiktari": 69566602,
+        "enDusukFiyat": 10.57,
+        "enYuksekFiyat": 15.1,
+        "kapanisFiyat": 13.91,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26411d"
+        },
+        "islemKodu": "MIATK.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 72.45099329035654,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 76.51613643701685,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "MIA TEKNOLOJI",
+        "sektorAdi": "BİLİŞİM",
+        "acilisSeansiIslemHacmi(TL)": 104246270.88,
+        "toplamIslemHacmi(TL)": 21319523226.06,
+        "acilisSeansiIslemMiktari": 2716468,
+        "toplamIslemMiktari": 549452817,
+        "enDusukFiyat": 26.7,
+        "enYuksekFiyat": 47.42,
+        "kapanisFiyat": 36.1,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641f7"
+        },
+        "islemKodu": "MNDRS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 57.51633986928105,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 97.91917679262157,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "MENDERES TEKSTIL",
+        "sektorAdi": "TEKSTİL, GİYİM EŞYASI VE DERİ",
+        "acilisSeansiIslemHacmi(TL)": 2733995.68,
+        "toplamIslemHacmi(TL)": 543087614.39,
+        "acilisSeansiIslemMiktari": 304526,
+        "toplamIslemMiktari": 61168373,
+        "enDusukFiyat": 7.78,
+        "enYuksekFiyat": 9.81,
+        "kapanisFiyat": 8.42,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264045"
+        },
+        "islemKodu": "MRSHL.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 65.69054277361128,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 114.36540651121554,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "MARSHALL",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 70913415,
+        "toplamIslemHacmi(TL)": 7070820278.5,
+        "acilisSeansiIslemMiktari": 32806,
+        "toplamIslemMiktari": 3366791,
+        "enDusukFiyat": 1668,
+        "enYuksekFiyat": 2655,
+        "kapanisFiyat": 1843,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26419f"
+        },
+        "islemKodu": "NIBAS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 52.66758724579462,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 99.99347351926204,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "NIGBAS NIGDE BETON",
+        "sektorAdi": "TAŞ VE TOPRAĞA DAYALI",
+        "acilisSeansiIslemHacmi(TL)": 1120824.49,
+        "toplamIslemHacmi(TL)": 348549516.15,
+        "acilisSeansiIslemMiktari": 63409,
+        "toplamIslemMiktari": 19843409,
+        "enDusukFiyat": 14.5,
+        "enYuksekFiyat": 19.72,
+        "kapanisFiyat": 16.57,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26410f"
+        },
+        "islemKodu": "OBASE.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 67.93002915451895,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 109.42329293025068,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "OBASE BILGISAYAR",
+        "sektorAdi": "BİLİŞİM",
+        "acilisSeansiIslemHacmi(TL)": 1732005.36,
+        "toplamIslemHacmi(TL)": 590615353.78,
+        "acilisSeansiIslemMiktari": 41049,
+        "toplamIslemMiktari": 14407808,
+        "enDusukFiyat": 32.08,
+        "enYuksekFiyat": 47.9,
+        "kapanisFiyat": 38.94,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264078"
+        },
+        "islemKodu": "OSMEN.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 62.02634011090572,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100.5514011133362,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "OSMANLI MENKUL",
+        "sektorAdi": "ORMAN ÜRÜNLERİ VE MOBİLYA",
+        "acilisSeansiIslemHacmi(TL)": 1498069.8,
+        "toplamIslemHacmi(TL)": 321611040.1,
+        "acilisSeansiIslemMiktari": 8949,
+        "toplamIslemMiktari": 1844757,
+        "enDusukFiyat": 151.3,
+        "enYuksekFiyat": 199.9,
+        "kapanisFiyat": 170.3,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640de"
+        },
+        "islemKodu": "OYAKC.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 47.22564734895191,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100.1940404217465,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "OYAK CIMENTO",
+        "sektorAdi": "TAŞ VE TOPRAĞA DAYALI",
+        "acilisSeansiIslemHacmi(TL)": 43052180,
+        "toplamIslemHacmi(TL)": 9939314765.05,
+        "acilisSeansiIslemMiktari": 728270,
+        "toplamIslemMiktari": 173660206,
+        "enDusukFiyat": 51.45,
+        "enYuksekFiyat": 66.7,
+        "kapanisFiyat": 55.45,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264164"
+        },
+        "islemKodu": "OYAYO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 66.81443951868272,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100.23583530123754,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "T",
+        "pazarAdi": "PAY-ALT PAZAR",
+        "bultenAdi": "OYAK YAT. ORT.",
+        "sektorAdi": "MENKUL KIYMET YATIRIM ORTAKLIKLARI",
+        "acilisSeansiIslemHacmi(TL)": 1575525.5,
+        "toplamIslemHacmi(TL)": 102060259.6,
+        "acilisSeansiIslemMiktari": 59697,
+        "toplamIslemMiktari": 3853188,
+        "enDusukFiyat": 23.4,
+        "enYuksekFiyat": 29.12,
+        "kapanisFiyat": 23.86,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26415e"
+        },
+        "islemKodu": "OZSUB.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 66.86814416834565,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100.2928454083565,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "OZSU BALIK",
+        "sektorAdi": "BALIKÇILIK VE SU ÜRÜNLERİ",
+        "acilisSeansiIslemHacmi(TL)": 32673224,
+        "toplamIslemHacmi(TL)": 1541728117.6,
+        "acilisSeansiIslemMiktari": 1010268,
+        "toplamIslemMiktari": 53445112,
+        "enDusukFiyat": 21.26,
+        "enYuksekFiyat": 35,
+        "kapanisFiyat": 24.36,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640e6"
+        },
+        "islemKodu": "PASEU.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 61.883656509695285,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 99.786206501613,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "PASIFIK EURASIA LOJISTIK",
+        "sektorAdi": "ULAŞTIRMA VE DEPOLAMA",
+        "acilisSeansiIslemHacmi(TL)": 4126664.16,
+        "toplamIslemHacmi(TL)": 1101371629.23,
+        "acilisSeansiIslemMiktari": 74100,
+        "toplamIslemMiktari": 20179045,
+        "enDusukFiyat": 46.66,
+        "enYuksekFiyat": 63.25,
+        "kapanisFiyat": 52.65,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264131"
+        },
+        "islemKodu": "PCILT.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 61.07763814770185,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 101.43491079066386,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "PC ILETISIM MEDYA",
+        "sektorAdi": "REKLAMCILIK VE PAZAR ARAŞTIRMASI",
+        "acilisSeansiIslemHacmi(TL)": 5669424.1,
+        "toplamIslemHacmi(TL)": 1268055766.08,
+        "acilisSeansiIslemMiktari": 157158,
+        "toplamIslemMiktari": 35433478,
+        "enDusukFiyat": 28.1,
+        "enYuksekFiyat": 41.26,
+        "kapanisFiyat": 31.92,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264224"
+        },
+        "islemKodu": "PENGD.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 50.310559006211186,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 96.00717482616665,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "PENGUEN GIDA",
+        "sektorAdi": "GIDA, İÇECEK VE TÜTÜN",
+        "acilisSeansiIslemHacmi(TL)": 1176058.97,
+        "toplamIslemHacmi(TL)": 393458668.71,
+        "acilisSeansiIslemMiktari": 187023,
+        "toplamIslemMiktari": 63599360,
+        "enDusukFiyat": 5.15,
+        "enYuksekFiyat": 7.1,
+        "kapanisFiyat": 5.76,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264195"
+        },
+        "islemKodu": "PENTA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 75.67559967379995,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 91.31520097902738,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "PENTA TEKNOLOJI URUNLERI DAGITIM",
+        "sektorAdi": "BİLİŞİM",
+        "acilisSeansiIslemHacmi(TL)": 3198432.66,
+        "toplamIslemHacmi(TL)": 1064221339.19,
+        "acilisSeansiIslemMiktari": 161866,
+        "toplamIslemMiktari": 55187400,
+        "enDusukFiyat": 16.5,
+        "enYuksekFiyat": 21.8,
+        "kapanisFiyat": 17.99,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640db"
+        },
+        "islemKodu": "PNLSN.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 73.76425855513308,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 101.61858729129678,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "PANELSAN CATI CEPHE",
+        "sektorAdi": "ANA METAL SANAYİ",
+        "acilisSeansiIslemHacmi(TL)": 7616587.95,
+        "toplamIslemHacmi(TL)": 1207115102.01,
+        "acilisSeansiIslemMiktari": 128401,
+        "toplamIslemMiktari": 21056580,
+        "enDusukFiyat": 49.04,
+        "enYuksekFiyat": 65.4,
+        "kapanisFiyat": 56.4,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264219"
+        },
+        "islemKodu": "PRDGS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 62.718762718762726,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 96.76166586279365,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "PARDUS GIRISIM",
+        "sektorAdi": "GİRİŞİM SERMAYESİ YATIRIM ORTAKLIKLARI",
+        "acilisSeansiIslemHacmi(TL)": 1219612.04,
+        "toplamIslemHacmi(TL)": 332844282.7,
+        "acilisSeansiIslemMiktari": 179983,
+        "toplamIslemMiktari": 50216287,
+        "enDusukFiyat": 5.55,
+        "enYuksekFiyat": 7.58,
+        "kapanisFiyat": 6.3,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640fe"
+        },
+        "islemKodu": "PRZMA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 51.19182746878547,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 103.8642683639502,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "PRIZMA PRESS MATBAACILIK",
+        "sektorAdi": "KAĞIT VE KAĞIT ÜRÜNLERİ BASIM",
+        "acilisSeansiIslemHacmi(TL)": 14155254.94,
+        "toplamIslemHacmi(TL)": 1027186526.7,
+        "acilisSeansiIslemMiktari": 390502,
+        "toplamIslemMiktari": 24990617,
+        "enDusukFiyat": 27.38,
+        "enYuksekFiyat": 55.6,
+        "kapanisFiyat": 41.8,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264232"
+        },
+        "islemKodu": "PSGYO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 34.47470817120622,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 93.90355718080197,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "PASIFIK GMYO",
+        "sektorAdi": "GAYRİMENKUL YATIRIM ORTAKLIKLARI",
+        "acilisSeansiIslemHacmi(TL)": 8089570.56,
+        "toplamIslemHacmi(TL)": 1546600781.6,
+        "acilisSeansiIslemMiktari": 1433935,
+        "toplamIslemMiktari": 279842689,
+        "enDusukFiyat": 4.31,
+        "enYuksekFiyat": 6.37,
+        "kapanisFiyat": 4.99,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26404c"
+        },
+        "islemKodu": "QNBFL.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 45.64112587959343,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 114.9567426603736,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "S",
+        "pazarAdi": "PAY-PIYASA ONCESI ISLEM PLATFORMU",
+        "bultenAdi": "QNB FINANS FINANSAL KIRALAMA",
+        "sektorAdi": "FİNANSAL KİRALAMA VE FAKTORİNG ŞİRKETLERİ",
+        "acilisSeansiIslemHacmi(TL)": 24605787,
+        "toplamIslemHacmi(TL)": 146563989.5,
+        "acilisSeansiIslemMiktari": 29586,
+        "toplamIslemMiktari": 181508,
+        "enDusukFiyat": 686,
+        "enYuksekFiyat": 943.5,
+        "kapanisFiyat": 896.5,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264225"
+        },
+        "islemKodu": "QUAGR.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 59.93589743589743,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 57.16394811386654,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "QUA GRANITE HAYAL YAPI",
+        "sektorAdi": "TAŞ VE TOPRAĞA DAYALI",
+        "acilisSeansiIslemHacmi(TL)": 11320948.76,
+        "toplamIslemHacmi(TL)": 2212433749.04,
+        "acilisSeansiIslemMiktari": 1931086,
+        "toplamIslemMiktari": 378706099,
+        "enDusukFiyat": 5.18,
+        "enYuksekFiyat": 6.25,
+        "kapanisFiyat": 5.74,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640ae"
+        },
+        "islemKodu": "RALYH.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 46.366977664687575,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 102.23029906698102,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "RAL YATIRIM HOLDING",
+        "sektorAdi": "HOLDİNGLER VE YATIRIM ŞİRKETLERİ",
+        "acilisSeansiIslemHacmi(TL)": 2696644,
+        "toplamIslemHacmi(TL)": 410634110.35,
+        "acilisSeansiIslemMiktari": 35316,
+        "toplamIslemMiktari": 5460134,
+        "enDusukFiyat": 68.95,
+        "enYuksekFiyat": 81.9,
+        "kapanisFiyat": 77.85,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264176"
+        },
+        "islemKodu": "REEDR.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 64.04858299595142,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100.97465886939571,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "REEDER TEKNOLOJI",
+        "sektorAdi": "BİLİŞİM",
+        "acilisSeansiIslemHacmi(TL)": 65922096.1,
+        "toplamIslemHacmi(TL)": 12967743277.47,
+        "acilisSeansiIslemMiktari": 2694170,
+        "toplamIslemMiktari": 544223472,
+        "enDusukFiyat": 19.14,
+        "enYuksekFiyat": 26.92,
+        "kapanisFiyat": 21.56,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26352b"
+        },
+        "islemKodu": "RHEAG.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 55.82329317269076,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 112.27002239894681,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "T",
+        "pazarAdi": "PAY-ALT PAZAR",
+        "bultenAdi": "RHEA GIRISIM",
+        "sektorAdi": "BİLİŞİM",
+        "acilisSeansiIslemHacmi(TL)": 1728660.15,
+        "toplamIslemHacmi(TL)": 144494385.33,
+        "acilisSeansiIslemMiktari": 293927,
+        "toplamIslemMiktari": 25402213,
+        "enDusukFiyat": 3.87,
+        "enYuksekFiyat": 7.13,
+        "kapanisFiyat": 6.82,
+        "tarih": {
+            "$date": "2023-06-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26410b"
+        },
+        "islemKodu": "RNPOL.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 54.60244143846916,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 110.68017037367146,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "RAINBOW POLIKARBONAT",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 8181187.52,
+        "toplamIslemHacmi(TL)": 1489778389.38,
+        "acilisSeansiIslemMiktari": 213565,
+        "toplamIslemMiktari": 39034772,
+        "enDusukFiyat": 33.38,
+        "enYuksekFiyat": 42.52,
+        "kapanisFiyat": 39.58,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26416f"
+        },
+        "islemKodu": "RUBNS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 67.31494344115896,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 96.38221375964036,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "RUBENIS TEKSTIL",
+        "sektorAdi": "TEKSTİL, GİYİM EŞYASI VE DERİ",
+        "acilisSeansiIslemHacmi(TL)": 3678481.82,
+        "toplamIslemHacmi(TL)": 500687737.38,
+        "acilisSeansiIslemMiktari": 133411,
+        "toplamIslemMiktari": 19883114,
+        "enDusukFiyat": 19.97,
+        "enYuksekFiyat": 29.74,
+        "kapanisFiyat": 22.46,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264154"
+        },
+        "islemKodu": "RYGYO.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 37.76470588235294,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 105.95034884475216,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "REYSAS GMYO",
+        "sektorAdi": "GAYRİMENKUL YATIRIM ORTAKLIKLARI",
+        "acilisSeansiIslemHacmi(TL)": 3872142.3,
+        "toplamIslemHacmi(TL)": 952941272.22,
+        "acilisSeansiIslemMiktari": 143005,
+        "toplamIslemMiktari": 35230280,
+        "enDusukFiyat": 23.76,
+        "enYuksekFiyat": 29.88,
+        "kapanisFiyat": 26.26,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26413b"
+        },
+        "islemKodu": "RYSAS.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 39.85507246376812,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 97.18127723182383,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "REYSAS LOJISTIK",
+        "sektorAdi": "ULAŞTIRMA VE DEPOLAMA",
+        "acilisSeansiIslemHacmi(TL)": 2598769.64,
+        "toplamIslemHacmi(TL)": 486226337.96,
+        "acilisSeansiIslemMiktari": 84833,
+        "toplamIslemMiktari": 15913150,
+        "enDusukFiyat": 24.54,
+        "enYuksekFiyat": 34.26,
+        "kapanisFiyat": 30,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26412d"
+        },
+        "islemKodu": "SAFKR.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 62.640449438202246,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 107.16211577583896,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "SAFKAR EGE SOGUTMACILIK",
+        "sektorAdi": "METAL EŞYA MAKİNE ELEKTRİKLİ CİHAZLAR VE ULAŞIM ARAÇLARI",
+        "acilisSeansiIslemHacmi(TL)": 6615372.82,
+        "toplamIslemHacmi(TL)": 1014375183.52,
+        "acilisSeansiIslemMiktari": 197406,
+        "toplamIslemMiktari": 30927255,
+        "enDusukFiyat": 28,
+        "enYuksekFiyat": 38.16,
+        "kapanisFiyat": 32.2,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26410d"
+        },
+        "islemKodu": "SANFM.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 66.92991115498519,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 110.76801889838931,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "SANIFOAM ENDUSTRI",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 3384520.3,
+        "toplamIslemHacmi(TL)": 780207744.67,
+        "acilisSeansiIslemMiktari": 75298,
+        "toplamIslemMiktari": 17671727,
+        "enDusukFiyat": 31.8,
+        "enYuksekFiyat": 54.9,
+        "kapanisFiyat": 39.12,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26411b"
+        },
+        "islemKodu": "SASA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 64.22764227642276,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 90.51151795156788,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "SASA POLYESTER",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 262574700.25,
+        "toplamIslemHacmi(TL)": 49938039576.91,
+        "acilisSeansiIslemMiktari": 5815594,
+        "toplamIslemMiktari": 1121023678,
+        "enDusukFiyat": 36.2,
+        "enYuksekFiyat": 54.6,
+        "kapanisFiyat": 36.44,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640a8"
+        },
+        "islemKodu": "SAYAS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 76.28131021194605,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 105.00601007988857,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "SAY YENILENEBILIR ENERJI",
+        "sektorAdi": "METAL EŞYA MAKİNE ELEKTRİKLİ CİHAZLAR VE ULAŞIM ARAÇLARI",
+        "acilisSeansiIslemHacmi(TL)": 10932239.45,
+        "toplamIslemHacmi(TL)": 2791959709.65,
+        "acilisSeansiIslemMiktari": 129299,
+        "toplamIslemMiktari": 33074825,
+        "enDusukFiyat": 68.8,
+        "enYuksekFiyat": 97.9,
+        "kapanisFiyat": 86.45,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264222"
+        },
+        "islemKodu": "SEGYO.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 72.79549718574108,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 111.67357975833004,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "SEKER GMYO",
+        "sektorAdi": "GAYRİMENKUL YATIRIM ORTAKLIKLARI",
+        "acilisSeansiIslemHacmi(TL)": 15845392.14,
+        "toplamIslemHacmi(TL)": 3621405008.51,
+        "acilisSeansiIslemMiktari": 2463239,
+        "toplamIslemMiktari": 555052773,
+        "enDusukFiyat": 5.31,
+        "enYuksekFiyat": 7.31,
+        "kapanisFiyat": 5.91,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264226"
+        },
+        "islemKodu": "SEYKM.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 60.29376924899312,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 94.94114832997943,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "SEYITLER KIMYA",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 2472484.46,
+        "toplamIslemHacmi(TL)": 257888334.92,
+        "acilisSeansiIslemMiktari": 408565,
+        "toplamIslemMiktari": 42342607,
+        "enDusukFiyat": 5.29,
+        "enYuksekFiyat": 6.67,
+        "kapanisFiyat": 5.69,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640df"
+        },
+        "islemKodu": "SMRTG.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 71.76721267811959,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 94.6956117751252,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "SMART GUNES ENERJISI TEK.",
+        "sektorAdi": "ELEKTRİK GAZ VE BUHAR",
+        "acilisSeansiIslemHacmi(TL)": 46493238.95,
+        "toplamIslemHacmi(TL)": 5955684419.5,
+        "acilisSeansiIslemMiktari": 805251,
+        "toplamIslemMiktari": 103171748,
+        "enDusukFiyat": 48.14,
+        "enYuksekFiyat": 66.3,
+        "kapanisFiyat": 55.25,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264159"
+        },
+        "islemKodu": "SUWEN.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 49.9525466624486,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 91.85721024047245,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "SUWEN TEKSTIL",
+        "sektorAdi": "PERAKENDE TİCARET",
+        "acilisSeansiIslemHacmi(TL)": 11803011.54,
+        "toplamIslemHacmi(TL)": 1490306817.21,
+        "acilisSeansiIslemMiktari": 589113,
+        "toplamIslemMiktari": 73094031,
+        "enDusukFiyat": 16.49,
+        "enYuksekFiyat": 25.68,
+        "kapanisFiyat": 25.68,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264053"
+        },
+        "islemKodu": "TARKM.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 60.13798929878907,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 96.59963635376808,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "TARKIM BITKI KORUMA",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 26503007,
+        "toplamIslemHacmi(TL)": 7703253190.5,
+        "acilisSeansiIslemMiktari": 47277,
+        "toplamIslemMiktari": 13675879,
+        "enDusukFiyat": 435,
+        "enYuksekFiyat": 671.5,
+        "kapanisFiyat": 551.5,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26410e"
+        },
+        "islemKodu": "TERA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 70.40133779264214,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 104.74728996263711,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "TERA YATIRIM MENKUL DEGERLER",
+        "sektorAdi": "KONAKLAMA",
+        "acilisSeansiIslemHacmi(TL)": 1785835.68,
+        "toplamIslemHacmi(TL)": 376813236.02,
+        "acilisSeansiIslemMiktari": 46061,
+        "toplamIslemMiktari": 9927482,
+        "enDusukFiyat": 33.52,
+        "enYuksekFiyat": 44.18,
+        "kapanisFiyat": 39,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26403e"
+        },
+        "islemKodu": "TETMT.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 50.64874884151992,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 115.15793443282054,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "T",
+        "pazarAdi": "PAY-ALT PAZAR",
+        "bultenAdi": "TETAMAT GIDA",
+        "sektorAdi": "GIDA, İÇECEK VE TÜTÜN",
+        "acilisSeansiIslemHacmi(TL)": 22176892.5,
+        "toplamIslemHacmi(TL)": 477985345,
+        "acilisSeansiIslemMiktari": 7160,
+        "toplamIslemMiktari": 146593,
+        "enDusukFiyat": 2800,
+        "enYuksekFiyat": 3905,
+        "kapanisFiyat": 3170,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26406f"
+        },
+        "islemKodu": "TOASO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 53.02923564635435,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 96.93259561929285,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "TOFAS OTO. FAB.",
+        "sektorAdi": "METAL EŞYA MAKİNE ELEKTRİKLİ CİHAZLAR VE ULAŞIM ARAÇLARI",
+        "acilisSeansiIslemHacmi(TL)": 78536448.9,
+        "toplamIslemHacmi(TL)": 14969591636.8,
+        "acilisSeansiIslemMiktari": 344595,
+        "toplamIslemMiktari": 66843992,
+        "enDusukFiyat": 203.6,
+        "enYuksekFiyat": 243.8,
+        "kapanisFiyat": 210,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26421e"
+        },
+        "islemKodu": "TSGYO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 58.802565930149676,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 99.4114495474137,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "TSKB GMYO",
+        "sektorAdi": "GAYRİMENKUL YATIRIM ORTAKLIKLARI",
+        "acilisSeansiIslemHacmi(TL)": 7862280.71,
+        "toplamIslemHacmi(TL)": 1155020046.33,
+        "acilisSeansiIslemMiktari": 1169819,
+        "toplamIslemMiktari": 174353804,
+        "enDusukFiyat": 5.55,
+        "enYuksekFiyat": 7.19,
+        "kapanisFiyat": 6.01,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264253"
+        },
+        "islemKodu": "TSPOR.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 47.91459781529294,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 88.189021767824,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "TRABZONSPOR SPORTIF",
+        "sektorAdi": "SPOR FAALİYETLERİ EĞLENCE VE OYUN FAALİYETLERİ",
+        "acilisSeansiIslemHacmi(TL)": 7315420.82,
+        "toplamIslemHacmi(TL)": 1097344970.82,
+        "acilisSeansiIslemMiktari": 2504494,
+        "toplamIslemMiktari": 386067960,
+        "enDusukFiyat": 2.4,
+        "enYuksekFiyat": 3.25,
+        "kapanisFiyat": 2.54,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640cc"
+        },
+        "islemKodu": "TUCLK.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 74.0049751243781,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 104.09424754959551,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "TUGCELIK",
+        "sektorAdi": "ANA METAL SANAYİ",
+        "acilisSeansiIslemHacmi(TL)": 3547526,
+        "toplamIslemHacmi(TL)": 862214263.2,
+        "acilisSeansiIslemMiktari": 51545,
+        "toplamIslemMiktari": 12464079,
+        "enDusukFiyat": 60,
+        "enYuksekFiyat": 84.4,
+        "kapanisFiyat": 62.75,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264057"
+        },
+        "islemKodu": "TURGG.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 62.1428172006934,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 107.24091529673478,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "TURKER PROJE GAYRIMENKUL",
+        "sektorAdi": "İNŞAAT VE BAYINDIRLIK İŞLERİ",
+        "acilisSeansiIslemHacmi(TL)": 8251913,
+        "toplamIslemHacmi(TL)": 923787142.25,
+        "acilisSeansiIslemMiktari": 15130,
+        "toplamIslemMiktari": 1711181,
+        "enDusukFiyat": 413.25,
+        "enYuksekFiyat": 660,
+        "kapanisFiyat": 470.5,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641f0"
+        },
+        "islemKodu": "ULUFA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 62.74382314694408,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 101.32116426846862,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "ULUSAL FAKTORING",
+        "sektorAdi": "FİNANSAL KİRALAMA VE FAKTORİNG ŞİRKETLERİ",
+        "acilisSeansiIslemHacmi(TL)": 3785090.15,
+        "toplamIslemHacmi(TL)": 889801110.1,
+        "acilisSeansiIslemMiktari": 386740,
+        "toplamIslemMiktari": 89504010,
+        "enDusukFiyat": 8.12,
+        "enYuksekFiyat": 11.48,
+        "kapanisFiyat": 8.97,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641a5"
+        },
+        "islemKodu": "UNLU.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 68.40796019900498,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 101.28899060741657,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "UNLU YATIRIM HOLDING",
+        "sektorAdi": "HOLDİNGLER VE YATIRIM ŞİRKETLERİ",
+        "acilisSeansiIslemHacmi(TL)": 2204049.95,
+        "toplamIslemHacmi(TL)": 393709702.35,
+        "acilisSeansiIslemMiktari": 123539,
+        "toplamIslemMiktari": 23251745,
+        "enDusukFiyat": 13.88,
+        "enYuksekFiyat": 19.06,
+        "kapanisFiyat": 15.8,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26408e"
+        },
+        "islemKodu": "VBTYZ.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 69.98918918918919,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 108.85072265179359,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "VBT YAZILIM",
+        "sektorAdi": "BİLİŞİM",
+        "acilisSeansiIslemHacmi(TL)": 35378714.5,
+        "toplamIslemHacmi(TL)": 2878978350.2,
+        "acilisSeansiIslemMiktari": 220971,
+        "toplamIslemMiktari": 20123393,
+        "enDusukFiyat": 106.8,
+        "enYuksekFiyat": 172.7,
+        "kapanisFiyat": 117.6,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640f1"
+        },
+        "islemKodu": "VESTL.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 63.31128195959235,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 96.17669570725855,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "VESTEL",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 32031957.83,
+        "toplamIslemHacmi(TL)": 4710884177.47,
+        "acilisSeansiIslemMiktari": 631672,
+        "toplamIslemMiktari": 96000393,
+        "enDusukFiyat": 42.54,
+        "enYuksekFiyat": 60.25,
+        "kapanisFiyat": 46.24,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264181"
+        },
+        "islemKodu": "VRGYO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 42.89855072463768,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "VERA KONSEPT GMYO",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 22328686.28,
+        "toplamIslemHacmi(TL)": 3622526006.56,
+        "acilisSeansiIslemMiktari": 924801,
+        "toplamIslemMiktari": 152499094,
+        "enDusukFiyat": 19.84,
+        "enYuksekFiyat": 26.68,
+        "kapanisFiyat": 20,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264033"
+        },
+        "islemKodu": "YBTAS.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 68.78567777115106,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 111.94294677651529,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "S",
+        "pazarAdi": "PAY-PIYASA ONCESI ISLEM PLATFORMU",
+        "bultenAdi": "YIBITAS INSAAT MALZEME",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 7860705,
+        "toplamIslemHacmi(TL)": 87615392.5,
+        "acilisSeansiIslemMiktari": 59,
+        "toplamIslemMiktari": 652,
+        "enDusukFiyat": 109017.5,
+        "enYuksekFiyat": 150000,
+        "kapanisFiyat": 142500,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd26423e"
+        },
+        "islemKodu": "YESIL.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 57.43733327454309,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 96.92370674795535,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "YESIL YATIRIM HOLDING",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 2622335.15,
+        "toplamIslemHacmi(TL)": 675984026.98,
+        "acilisSeansiIslemMiktari": 582725,
+        "toplamIslemMiktari": 153376297,
+        "enDusukFiyat": 3.54,
+        "enYuksekFiyat": 4.98,
+        "kapanisFiyat": 3.91,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd264116"
+        },
+        "islemKodu": "YGGYO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 49.577167019027485,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100.15477034773643,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "YENI GIMAT GMYO",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 407504.6,
+        "toplamIslemHacmi(TL)": 113951662.64,
+        "acilisSeansiIslemMiktari": 10457,
+        "toplamIslemMiktari": 2940686,
+        "enDusukFiyat": 35.64,
+        "enYuksekFiyat": 40.44,
+        "kapanisFiyat": 37.04,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641b9"
+        },
+        "islemKodu": "YKSLN.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 46.37447631324525,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 102.70910342700732,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "YUKSELEN CELIK",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 7899333.79,
+        "toplamIslemHacmi(TL)": 1564184690.09,
+        "acilisSeansiIslemMiktari": 464648,
+        "toplamIslemMiktari": 95804661,
+        "enDusukFiyat": 13.19,
+        "enYuksekFiyat": 19.22,
+        "kapanisFiyat": 14.18,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640fb"
+        },
+        "islemKodu": "YONGA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 63.454011741682976,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 101.53587278610105,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "S",
+        "pazarAdi": "PAY-PIYASA ONCESI ISLEM PLATFORMU",
+        "bultenAdi": "YONGA MOBILYA",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 2930239.58,
+        "toplamIslemHacmi(TL)": 21670540.48,
+        "acilisSeansiIslemMiktari": 54218,
+        "toplamIslemMiktari": 435418,
+        "enDusukFiyat": 38.2,
+        "enYuksekFiyat": 61.6,
+        "kapanisFiyat": 42.64,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2641c5"
+        },
+        "islemKodu": "YYLGD.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 67.28414442700156,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 85.96406730654061,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "Z",
+        "pazarAdi": "PAY-YILDIZ PAZAR",
+        "bultenAdi": "YAYLA GIDA",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 12218427.95,
+        "toplamIslemHacmi(TL)": 3618086309.81,
+        "acilisSeansiIslemMiktari": 906930,
+        "toplamIslemMiktari": 267988328,
+        "enDusukFiyat": 11.3,
+        "enYuksekFiyat": 15.46,
+        "kapanisFiyat": 12.77,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "660f2ed16198c76dfd2640b0"
+        },
+        "islemKodu": "ZEDUR.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 67.21197084819352,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 103.04228657635525,
+        "TSI_Signal": "Alim Sinyali",
+        "pazarKodu": "N",
+        "pazarAdi": "PAY-ANA PAZAR",
+        "bultenAdi": "ZEDUR ENERJI",
+        "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+        "acilisSeansiIslemHacmi(TL)": 5089634.55,
+        "toplamIslemHacmi(TL)": 768127120.75,
+        "acilisSeansiIslemMiktari": 62533,
+        "toplamIslemMiktari": 9800366,
+        "enDusukFiyat": 68.5,
+        "enYuksekFiyat": 87.7,
+        "kapanisFiyat": 77.4,
+        "tarih": {
+            "$date": "2023-12-01T00:00:00.000Z"
+        }
+    }
+]

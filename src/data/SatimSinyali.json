@@ -1,0 +1,1806 @@
+[
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a20"
+        },
+        "islemKodu": "A1CAP.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 52.36505286588759,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 95.18912537502186,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a26"
+        },
+        "islemKodu": "ADGYO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 47.2568578553616,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 95.75831553249924,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a2c"
+        },
+        "islemKodu": "AGROT.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 100,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 100,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a3b"
+        },
+        "islemKodu": "AKYHO.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 40.348525469168905,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 104.00391224444805,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a3f"
+        },
+        "islemKodu": "ALCTL.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 72.05535924617197,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 97.24993980864072,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a40"
+        },
+        "islemKodu": "ALFAS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 47.47518078195857,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 72.46027473040566,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a43"
+        },
+        "islemKodu": "ALKIM.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 28.71568318081414,
+        "RSI_Signal": "Asiri Satim Bolgesi: Olasi bir yukselis beklenmelidir.",
+        "TSI_Value": 99.00731200963196,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a44"
+        },
+        "islemKodu": "ALMAD.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 37.84860557768925,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 99.52342313539603,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a45"
+        },
+        "islemKodu": "ALYAG.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 78.4,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 113.04525906205201,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a48"
+        },
+        "islemKodu": "ANGEN.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 61.93252811328613,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 92.19872089142844,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a4e"
+        },
+        "islemKodu": "ARENA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 70.29210002212878,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 105.81304092453156,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a50"
+        },
+        "islemKodu": "ARSAN.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 66.18839675608234,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100.45676290506174,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a52"
+        },
+        "islemKodu": "ARZUM.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 32.23880597014926,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 98.36485503711013,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a53"
+        },
+        "islemKodu": "ASELS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 41.388436482084686,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 98.59268149177696,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a56"
+        },
+        "islemKodu": "ASTOR.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 69.4010868308475,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 99.30150431152337,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a59"
+        },
+        "islemKodu": "ATAKP.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 45.94168636721828,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 91.15493244817144,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a5a"
+        },
+        "islemKodu": "ATATP.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 46.07759357374807,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 115.69454532298526,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a5d"
+        },
+        "islemKodu": "ATSYH.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 60.511540860885844,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 93.8343808770611,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a60"
+        },
+        "islemKodu": "AVISA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 59.215520877266975,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 101.4304702562868,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a64"
+        },
+        "islemKodu": "AYCES.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 63.15913648696473,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 111.56542685297386,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a69"
+        },
+        "islemKodu": "AZTEK.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 85.4916613505878,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 110.81563338991675,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a6c"
+        },
+        "islemKodu": "BALAT.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 60.499265785609396,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100.3727687784201,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a6e"
+        },
+        "islemKodu": "BARMA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 44.63672909108736,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 93.3293399797009,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a70"
+        },
+        "islemKodu": "BASGZ.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 51.51315789473684,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 101.04264438564702,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a77"
+        },
+        "islemKodu": "BIGCH.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 50.56258790436006,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 96.6033071882339,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a7d"
+        },
+        "islemKodu": "BLCYT.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 73.70291400142148,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 98.48028817081673,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a84"
+        },
+        "islemKodu": "BORLS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 53.77969762419007,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a85"
+        },
+        "islemKodu": "BOSSA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 72.23830197780993,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 98.19853950363334,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a92"
+        },
+        "islemKodu": "BURVA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 53.30897655274476,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 104.50130254630814,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a93"
+        },
+        "islemKodu": "BVSAN.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 64.66043106954046,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100.63814204578637,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a95"
+        },
+        "islemKodu": "CANTE.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 97.00742432895488,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 87.9679357666282,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202a99"
+        },
+        "islemKodu": "CELHA.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 47.73526824978013,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 101.44024829643689,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202aa7"
+        },
+        "islemKodu": "CWENE.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 69.06598114824337,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 102.83748339688789,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202aaa"
+        },
+        "islemKodu": "DAPGM.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 63.488265071329955,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 88.40983248900804,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202ab1"
+        },
+        "islemKodu": "DESA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 69.32969602494154,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 90.6278927467947,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202ab9"
+        },
+        "islemKodu": "DITAS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 52.44077530509691,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 87.11165405107423,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202aba"
+        },
+        "islemKodu": "DMRGD.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 46.57142857142857,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 93.53728489483748,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202abc"
+        },
+        "islemKodu": "DNISI.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 54.674099485420236,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 104.64482785860729,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202ac9"
+        },
+        "islemKodu": "ECZYT.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 62.40417550154951,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 104.3458796081159,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202acb"
+        },
+        "islemKodu": "EDIP.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 55.02121640735502,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 101.03946325318405,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202ad6"
+        },
+        "islemKodu": "EKOS.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 100,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 100,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202ad8"
+        },
+        "islemKodu": "ELITE.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 58.603238866396765,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 107.8414115680185,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202ada"
+        },
+        "islemKodu": "EMNIS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 60.28873917228104,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 107.7898056789288,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202ae4"
+        },
+        "islemKodu": "ESCAR.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 77.90285085036095,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 102.21710946598105,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202ae5"
+        },
+        "islemKodu": "ESCOM.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 64.04958677685951,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 102.76699499009212,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202ae6"
+        },
+        "islemKodu": "ESEN.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 58.922716627634664,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 74.27559215938182,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202aeb"
+        },
+        "islemKodu": "EUPWR.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 69.03756859434361,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 102.38994945783682,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202aec"
+        },
+        "islemKodu": "EUREN.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 47.91497647249716,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 98.1321209491292,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202aee"
+        },
+        "islemKodu": "EYGYO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 40.87730451366815,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 88.29967446143756,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202aef"
+        },
+        "islemKodu": "FADE.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 54.10490307867731,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 99.361751384784,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202af5"
+        },
+        "islemKodu": "FORTE.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 64.8957103502558,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 98.87827961470039,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202af7"
+        },
+        "islemKodu": "FROTO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 65.37335285505125,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 99.68094520542348,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202af8"
+        },
+        "islemKodu": "FZLGY.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 52.32371794871794,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 92.5159632279685,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202afb"
+        },
+        "islemKodu": "GEDIK.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 57.08289611752361,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 103.80948679853054,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b00"
+        },
+        "islemKodu": "GESAN.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 96.42410155551582,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 91.90779916309563,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b10"
+        },
+        "islemKodu": "GSRAY.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 53.94352482960077,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 93.83198325185246,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b11"
+        },
+        "islemKodu": "GUBRF.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 65.37850067261832,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 91.77960023618009,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b14"
+        },
+        "islemKodu": "GYHOL.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 89.95433789954339,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 104.99329965188997,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b17"
+        },
+        "islemKodu": "HALKS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 71.05263157894737,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 103.95797950792198,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b18"
+        },
+        "islemKodu": "HATEK.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 65.90563165905633,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 101.64334104059958,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b19"
+        },
+        "islemKodu": "HATSN.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 67.75306748466258,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 99.779761604546,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b1b"
+        },
+        "islemKodu": "HEDEF.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 71.59225602528645,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 104.37243867765677,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b1d"
+        },
+        "islemKodu": "HKTM.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 63.315430966727796,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 97.42023895914272,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b24"
+        },
+        "islemKodu": "ICUGS.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 72.27272727272728,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 102.99289222983032,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b28"
+        },
+        "islemKodu": "IHAAS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 99.33706414119673,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 69.12784922461125,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b29"
+        },
+        "islemKodu": "IHEVA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 31.769722814498934,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 102.03877184864909,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b2c"
+        },
+        "islemKodu": "IHLGM.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 46.728971962616825,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 102.08342323671036,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b2d"
+        },
+        "islemKodu": "IHYAY.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 44.599303135888505,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 111.77215723240754,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b2e"
+        },
+        "islemKodu": "IMASM.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 47.817092750401386,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 69.423459225234,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b30"
+        },
+        "islemKodu": "INFO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 48.32012080030199,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 99.24166820335289,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b31"
+        },
+        "islemKodu": "INGRM.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 45.13641183842669,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 91.96846723640363,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b33"
+        },
+        "islemKodu": "INVEO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 50.12154002979691,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 102.11292210459327,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b34"
+        },
+        "islemKodu": "INVES.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 91.23989218328842,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 99.87815858633923,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b36"
+        },
+        "islemKodu": "ISATR.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 66.64238767799077,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 111.13182485305198,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b37"
+        },
+        "islemKodu": "ISBIR.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 71.11169913670493,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 99.44666086618491,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b3f"
+        },
+        "islemKodu": "ISKUR.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 51.76506463141497,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 126.27835969866848,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b41"
+        },
+        "islemKodu": "ISSEN.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 84.83110925771477,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 85.1059535476428,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b42"
+        },
+        "islemKodu": "ISYAT.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 58.895705521472394,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 105.1521424302313,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b45"
+        },
+        "islemKodu": "IZFAS.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 80,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 106.82925346760963,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b4a"
+        },
+        "islemKodu": "KAPLM.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 69.61418143899895,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 97.41021808088244,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b4e"
+        },
+        "islemKodu": "KARYE.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 66.4798206278027,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 98.00022992641864,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b50"
+        },
+        "islemKodu": "KAYSE.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 64.93775933609959,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 104.6568481243502,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b52"
+        },
+        "islemKodu": "KCAER.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 47.96081567373051,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 104.66965158855646,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b54"
+        },
+        "islemKodu": "KENT.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 51.79293732672818,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 106.3130532023283,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b59"
+        },
+        "islemKodu": "KIMMR.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 64.32714617169374,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 97.84174758856878,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b5e"
+        },
+        "islemKodu": "KLRHO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 60.67053513862025,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 103.42749668536884,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b5f"
+        },
+        "islemKodu": "KLSER.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 61.306276820132375,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 95.01812165853745,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b60"
+        },
+        "islemKodu": "KLSYN.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 77.68014059753955,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 99.81778664461658,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b61"
+        },
+        "islemKodu": "KMPUR.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 71.98629475919313,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 91.48171642221145,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b64"
+        },
+        "islemKodu": "KONTR.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 68.48753462603878,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 99.68149115833741,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b68"
+        },
+        "islemKodu": "KOZAA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 56.53245686113394,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 95.7047572827168,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b6a"
+        },
+        "islemKodu": "KPHOL.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 71.3855421686747,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 109.56449834619626,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b6f"
+        },
+        "islemKodu": "KRONT.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 63.45486725663717,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 83.35885090033426,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b70"
+        },
+        "islemKodu": "KRPLS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 63.60968451944241,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 98.54075930796652,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b71"
+        },
+        "islemKodu": "KRSAN.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 73.77622377622379,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 100,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b76"
+        },
+        "islemKodu": "KTLEV.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 90.39494895217625,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 113.6070848159646,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b77"
+        },
+        "islemKodu": "KTSKR.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 62.11683053788317,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100.4346465167085,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b7b"
+        },
+        "islemKodu": "KZBGY.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 48.20765380268045,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 98.0082473834612,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b7c"
+        },
+        "islemKodu": "KZGYO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 40.44401544401544,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 93.40256331068562,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b7d"
+        },
+        "islemKodu": "LIDER.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 74.99706538326095,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 92.49231176714711,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b7f"
+        },
+        "islemKodu": "LINK.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 56.00180505415162,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 116.89183998313615,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b80"
+        },
+        "islemKodu": "LKMNH.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 70.88752869166028,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 112.21437542278477,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b81"
+        },
+        "islemKodu": "LOGO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 77.6822844469088,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 100.8485225569194,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b86"
+        },
+        "islemKodu": "MAGEN.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 81.17758335303854,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 74.7902385112424,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b89"
+        },
+        "islemKodu": "MANAS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 71.94542071531941,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 92.36693638080399,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b8b"
+        },
+        "islemKodu": "MAREN.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 100,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 100,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b8f"
+        },
+        "islemKodu": "MEDTR.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 48.32605531295487,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 95.63276709999855,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b90"
+        },
+        "islemKodu": "MEGAP.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 56.9094138543517,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 96.87478619495712,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b92"
+        },
+        "islemKodu": "MEKAG.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 39.47730398899586,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b95"
+        },
+        "islemKodu": "MERCN.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 86.949055523755,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 83.75244192636487,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202b9d"
+        },
+        "islemKodu": "MIATK.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 72.45099329035654,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 76.51613643701685,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202ba0"
+        },
+        "islemKodu": "MNDRS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 57.51633986928105,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 97.91917679262157,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202ba6"
+        },
+        "islemKodu": "MRSHL.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 65.69054277361128,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 114.36540651121554,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202bad"
+        },
+        "islemKodu": "NIBAS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 52.66758724579462,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 99.99347351926204,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202bb2"
+        },
+        "islemKodu": "OBASE.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 67.93002915451895,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 109.42329293025068,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202bbb"
+        },
+        "islemKodu": "OSMEN.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 62.02634011090572,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100.5514011133362,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202bbf"
+        },
+        "islemKodu": "OYAKC.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 47.22564734895191,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100.1940404217465,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202bc0"
+        },
+        "islemKodu": "OYAYO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 66.81443951868272,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100.23583530123754,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202bc7"
+        },
+        "islemKodu": "OZSUB.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 66.86814416834565,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100.2928454083565,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202bcc"
+        },
+        "islemKodu": "PASEU.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 61.883656509695285,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 99.786206501613,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202bcd"
+        },
+        "islemKodu": "PCILT.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 61.07763814770185,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 101.43491079066386,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202bd0"
+        },
+        "islemKodu": "PENGD.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 50.310559006211186,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 96.00717482616665,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202bd1"
+        },
+        "islemKodu": "PENTA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 75.67559967379995,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 91.31520097902738,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202bd9"
+        },
+        "islemKodu": "PNLSN.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 73.76425855513308,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 101.61858729129678,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202bdd"
+        },
+        "islemKodu": "PRDGS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 62.718762718762726,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 96.76166586279365,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202be0"
+        },
+        "islemKodu": "PRZMA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 51.19182746878547,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 103.8642683639502,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202be2"
+        },
+        "islemKodu": "PSGYO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 34.47470817120622,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 93.90355718080197,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202be4"
+        },
+        "islemKodu": "QNBFL.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 45.64112587959343,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 114.9567426603736,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202be5"
+        },
+        "islemKodu": "QUAGR.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 59.93589743589743,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 57.16394811386654,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202be6"
+        },
+        "islemKodu": "RALYH.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 46.366977664687575,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 102.23029906698102,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202be8"
+        },
+        "islemKodu": "REEDR.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 64.04858299595142,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100.97465886939571,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202be9"
+        },
+        "islemKodu": "RHEAG.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 55.82329317269076,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 112.27002239894681,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202bea"
+        },
+        "islemKodu": "RNPOL.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 54.60244143846916,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 110.68017037367146,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202bee"
+        },
+        "islemKodu": "RUBNS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 67.31494344115896,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 96.38221375964036,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202bef"
+        },
+        "islemKodu": "RYGYO.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 37.76470588235294,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 105.95034884475216,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202bf0"
+        },
+        "islemKodu": "RYSAS.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 39.85507246376812,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 97.18127723182383,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202bf1"
+        },
+        "islemKodu": "SAFKR.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 62.640449438202246,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 107.16211577583896,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202bf6"
+        },
+        "islemKodu": "SANFM.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 66.92991115498519,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 110.76801889838931,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202bf9"
+        },
+        "islemKodu": "SASA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 64.22764227642276,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 90.51151795156788,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202bfa"
+        },
+        "islemKodu": "SAYAS.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 76.28131021194605,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 105.00601007988857,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202bfc"
+        },
+        "islemKodu": "SEGYO.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 72.79549718574108,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 111.67357975833004,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202c03"
+        },
+        "islemKodu": "SEYKM.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 60.29376924899312,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 94.94114832997943,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202c0a"
+        },
+        "islemKodu": "SMRTG.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 71.76721267811959,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 94.6956117751252,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202c18"
+        },
+        "islemKodu": "SUWEN.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 49.9525466624486,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 91.85721024047245,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202c1b"
+        },
+        "islemKodu": "TARKM.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 60.13798929878907,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 96.59963635376808,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202c23"
+        },
+        "islemKodu": "TERA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 70.40133779264214,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 104.74728996263711,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202c24"
+        },
+        "islemKodu": "TETMT.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 50.64874884151992,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 115.15793443282054,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202c30"
+        },
+        "islemKodu": "TOASO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 53.02923564635435,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 96.93259561929285,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202c35"
+        },
+        "islemKodu": "TSGYO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 58.802565930149676,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 99.4114495474137,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202c37"
+        },
+        "islemKodu": "TSPOR.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 47.91459781529294,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 88.189021767824,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202c3a"
+        },
+        "islemKodu": "TUCLK.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 74.0049751243781,
+        "RSI_Signal": "Asiri Alim Bolgesi: Olasi bir duzeltme beklenmelidir.",
+        "TSI_Value": 104.09424754959551,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202c3e"
+        },
+        "islemKodu": "TURGG.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 62.1428172006934,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 107.24091529673478,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202c43"
+        },
+        "islemKodu": "ULUFA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 62.74382314694408,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 101.32116426846862,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202c47"
+        },
+        "islemKodu": "UNLU.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 68.40796019900498,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 101.28899060741657,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202c50"
+        },
+        "islemKodu": "VBTYZ.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 69.98918918918919,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 108.85072265179359,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202c54"
+        },
+        "islemKodu": "VESTL.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 63.31128195959235,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 96.17669570725855,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202c58"
+        },
+        "islemKodu": "VRGYO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 42.89855072463768,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202c5c"
+        },
+        "islemKodu": "YBTAS.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 68.78567777115106,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 111.94294677651529,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202c5e"
+        },
+        "islemKodu": "YESIL.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 57.43733327454309,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 96.92370674795535,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202c5f"
+        },
+        "islemKodu": "YGGYO.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 49.577167019027485,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 100.15477034773643,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202c63"
+        },
+        "islemKodu": "YKSLN.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 46.37447631324525,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 102.70910342700732,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202c64"
+        },
+        "islemKodu": "YONGA.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 63.454011741682976,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 101.53587278610105,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202c67"
+        },
+        "islemKodu": "YYLGD.E",
+        "EMA_Signal": "Kuvvetli Sat",
+        "RSI_Value": 67.28414442700156,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 85.96406730654061,
+        "TSI_Signal": "Alim Sinyali"
+    },
+    {
+        "_id": {
+            "$oid": "662ba5c7d50e5568f4202c68"
+        },
+        "islemKodu": "ZEDUR.E",
+        "EMA_Signal": "Zayıf Sat",
+        "RSI_Value": 67.21197084819352,
+        "RSI_Signal": "RSI 30 ve 70 seviyeleri arasinda oldugu icin belirgin bir asırı alim veya satim sinyali vermemektedir.",
+        "TSI_Value": 103.04228657635525,
+        "TSI_Signal": "Alim Sinyali"
+    }
+]
