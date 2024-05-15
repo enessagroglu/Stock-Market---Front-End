@@ -3,12 +3,47 @@ import { Column } from "primereact/column";
 import { useEffect, useState } from "react";
 import { Card } from "primereact/card";
 import asset from "../assets/alsayfa.webp";
-import { InputText } from 'primereact/inputtext';
-import '../components/Sinyaller/cardkucultme.css';
+import { InputText } from "primereact/inputtext";
+import { FilterMatchMode, FilterOperator } from "primereact/api";
+import "../components/Sinyaller/cardkucultme.css";
 
 export default function AlSinyal() {
   const [sinyalVeri, setSinyalVeri] = useState([]);
-  const [searchTerm, setSearchTerm] = useState('');
+
+  const [filters, setFilters] = useState({
+    global: { value: null, matchMode: FilterMatchMode.CONTAINS },
+    name: { value: null, matchMode: FilterMatchMode.STARTS_WITH },
+    "country.name": { value: null, matchMode: FilterMatchMode.STARTS_WITH },
+    representative: { value: null, matchMode: FilterMatchMode.IN },
+    status: { value: null, matchMode: FilterMatchMode.EQUALS },
+    verified: { value: null, matchMode: FilterMatchMode.EQUALS },
+  });
+
+  const [globalFilterValue, setGlobalFilterValue] = useState("");
+
+  const onGlobalFilterChange = (e) => {
+    const value = e.target.value;
+    let _filters = { ...filters };
+
+    _filters["global"].value = value;
+
+    setFilters(_filters);
+    setGlobalFilterValue(value);
+  };
+
+  const renderHeader = () => {
+    return (
+      <div className="flex justify-content-end">
+        <InputText
+          value={globalFilterValue}
+          onChange={onGlobalFilterChange}
+          placeholder="Arayın..."
+        />
+      </div>
+    );
+  };
+
+  const header = renderHeader();
 
   useEffect(() => {
     import("../data/AlimSinyalHisse.json")
@@ -33,10 +68,6 @@ export default function AlSinyal() {
       return "text-red-700";
     }
   }
-
-  const filteredData = sinyalVeri.filter(item =>
-    item.bultenAdi.toLowerCase().includes(searchTerm.toLowerCase())
-  );
 
   return (
     <>
@@ -71,10 +102,23 @@ export default function AlSinyal() {
               <DataTable
                 value={sinyalVeri}
                 paginator
-                showGridlines
                 rows={10}
                 dataKey="name"
-                className="my-datatable"
+                filters={filters}
+                filterDisplay="row"
+                globalFilterFields={[
+                  "islemKodu",
+                  "EMA_Signal",
+                  "RSI_Value",
+                  "RSI_Signal",
+                  "sektorAdi",
+                  "enDusukFiyat",
+                  "enYuksekFiyat",
+                  "kapanisFiyat",
+                  "bultenAdi",
+                ]}
+                header={header}
+                emptyMessage="Veri bulunamadı."
               >
                 <Column
                   field="bultenAdi"
@@ -82,7 +126,6 @@ export default function AlSinyal() {
                   sortable
                   style={{ minWidth: "14rem", color: "#1C80CF" }}
                   className="text-blue-700"
-                  
                 />
                 <Column
                   field="islemKodu"
@@ -100,11 +143,14 @@ export default function AlSinyal() {
                   body={(rowData) => {
                     return (
                       <span
-                        className={`${red_or_green(rowData.EMA_Signal)} font-bold`}
+                        className={`${red_or_green(
+                          rowData.EMA_Signal
+                        )} font-bold`}
                       >
                         {rowData.EMA_Signal}
                       </span>
-                    );}}
+                    );
+                  }}
                 />
                 <Column
                   field="RSI_Value"

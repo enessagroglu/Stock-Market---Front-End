@@ -4,6 +4,8 @@ import { useEffect, useState } from "react";
 import { Card } from "primereact/card";
 import asset from "../assets/satSayfa.webp";
 import '../components/Sinyaller/cardkucultme.css';
+import { InputText } from "primereact/inputtext";
+import { FilterMatchMode, FilterOperator } from "primereact/api";
 
 
 export default function SatSinyal() {
@@ -31,6 +33,41 @@ export default function SatSinyal() {
       return "text-red-700";
     }
   }
+
+  const [filters, setFilters] = useState({
+    global: { value: null, matchMode: FilterMatchMode.CONTAINS },
+    name: { value: null, matchMode: FilterMatchMode.STARTS_WITH },
+    "country.name": { value: null, matchMode: FilterMatchMode.STARTS_WITH },
+    representative: { value: null, matchMode: FilterMatchMode.IN },
+    status: { value: null, matchMode: FilterMatchMode.EQUALS },
+    verified: { value: null, matchMode: FilterMatchMode.EQUALS },
+  });
+
+  const [globalFilterValue, setGlobalFilterValue] = useState("");
+
+  const onGlobalFilterChange = (e) => {
+    const value = e.target.value;
+    let _filters = { ...filters };
+
+    _filters["global"].value = value;
+
+    setFilters(_filters);
+    setGlobalFilterValue(value);
+  };
+
+  const renderHeader = () => {
+    return (
+      <div className="flex justify-content-end">
+        <InputText
+          value={globalFilterValue}
+          onChange={onGlobalFilterChange}
+          placeholder="Arayın..."
+        />
+      </div>
+    );
+  };
+
+  const header = renderHeader();
 
   return (
     <>
@@ -67,13 +104,26 @@ export default function SatSinyal() {
             </div>
 
             <div className="">
-              <DataTable
+            <DataTable
                 value={sinyalVeri}
                 paginator
-                showGridlines
                 rows={10}
                 dataKey="name"
-                className="my-datatable"
+                filters={filters}
+                filterDisplay="row"
+                globalFilterFields={[
+                  "islemKodu",
+                  "EMA_Signal",
+                  "RSI_Value",
+                  "RSI_Signal",
+                  "sektorAdi",
+                  "enDusukFiyat",
+                  "enYuksekFiyat",
+                  "kapanisFiyat",
+                  "bultenAdi",
+                ]}
+                header={header}
+                emptyMessage="Veri bulunamadı."
               >
                 <Column
                   field="bultenAdi"
