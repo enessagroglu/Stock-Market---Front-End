@@ -117,9 +117,11 @@ export default function DefaultPage() {
       </div>
       <Divider />
 
-      <div class=" grid justify-content-center">
-        <div class="col-6 ">
-          <Chart />
+      <div class="">
+        <div class="flex justify-content-center">
+          <div class="w-7">
+            <Chart />
+          </div>
         </div>
       </div>
 

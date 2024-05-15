@@ -1,0 +1,322 @@
+[{
+  "_id": {
+    "$oid": "6610789846037202d63357b8"
+  },
+  "sektorAdi": "REKLAMCILIK VE PAZAR ARAŞTIRMASI",
+  "artisOrani": 30.0665646556334
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357b9"
+  },
+  "sektorAdi": "KÖMÜR VE LİNYİT MADENCİLİĞİ",
+  "artisOrani": 17.17117426549407
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357ba"
+  },
+  "sektorAdi": "TARIM VE HAYVANCILIK AVCILIK VE İLGİLİ HİZMET FAALİYETLERİ",
+  "artisOrani": 14.784046518667227
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357bb"
+  },
+  "sektorAdi": "MİMARLIK VE MÜHENDİSLİK FAALİYETLERİ; TEKNİK MUAYENE VE ANALİZ",
+  "artisOrani": 11.527527987079612
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357bc"
+  },
+  "sektorAdi": "YİYECEK VE İÇECEK HİZMETLERİ",
+  "artisOrani": 11.445759274371103
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357bd"
+  },
+  "sektorAdi": "GÜVENLİK VE SORUŞTURMA FAALİYETLERİ",
+  "artisOrani": 11.1325783456809
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357be"
+  },
+  "sektorAdi": "KİMYA İLAÇ PETROL LASTİK VE PLASTİK ÜRÜNLER",
+  "artisOrani": 8.876354711306112
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357bf"
+  },
+  "sektorAdi": "ARACI KURUMLAR",
+  "artisOrani": 8.376013036933017
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357c0"
+  },
+  "sektorAdi": "TELEKOMÜNİKASYON",
+  "artisOrani": 6.906148894558206
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357c1"
+  },
+  "sektorAdi": "KİRALAMA VE LEASING FAALİYETLERİ",
+  "artisOrani": 6.504101701781185
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357c2"
+  },
+  "sektorAdi": "TAŞ VE TOPRAĞA DAYALI",
+  "artisOrani": 5.967450151313636
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357c3"
+  },
+  "sektorAdi": "İNŞAAT VE BAYINDIRLIK İŞLERİ",
+  "artisOrani": 5.844854108782382
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357c4"
+  },
+  "sektorAdi": "HAM PETROL VE DOĞAL GAZ ÇIKARTILMASI",
+  "artisOrani": 5.762573170433138
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357c5"
+  },
+  "sektorAdi": "KONAKLAMA",
+  "artisOrani": 5.408798398956982
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357c6"
+  },
+  "sektorAdi": "SPOR FAALİYETLERİ EĞLENCE VE OYUN FAALİYETLERİ",
+  "artisOrani": 4.612445160482038
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357c7"
+  },
+  "sektorAdi": "PERAKENDE TİCARET",
+  "artisOrani": 4.1380019308892795
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357c8"
+  },
+  "sektorAdi": "YAYIMCILIK",
+  "artisOrani": 3.5546907882201495
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357c9"
+  },
+  "sektorAdi": "HOLDİNGLER VE YATIRIM ŞİRKETLERİ",
+  "artisOrani": 3.3337360776119818
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357ca"
+  },
+  "sektorAdi": "ULAŞTIRMA VE DEPOLAMA",
+  "artisOrani": 3.094452991258212
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357cb"
+  },
+  "sektorAdi": "METAL EŞYA MAKİNE ELEKTRİKLİ CİHAZLAR VE ULAŞIM ARAÇLARI",
+  "artisOrani": 2.6283977574771966
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357cc"
+  },
+  "sektorAdi": "ORMAN ÜRÜNLERİ VE MOBİLYA",
+  "artisOrani": 2.5247342347309965
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357cd"
+  },
+  "sektorAdi": "KAĞIT VE KAĞIT ÜRÜNLERİ BASIM",
+  "artisOrani": 1.324589931229403
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357ce"
+  },
+  "sektorAdi": "İNSAN SAĞLIĞI VE SOSYAL HİZMETLER",
+  "artisOrani": 1.2448768626175999
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357cf"
+  },
+  "sektorAdi": "ELEKTRİK GAZ VE BUHAR",
+  "artisOrani": 0.7695556343593868
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357d0"
+  },
+  "sektorAdi": "FİNANSAL KİRALAMA VE FAKTORİNG ŞİRKETLERİ",
+  "artisOrani": 0.6740025440855169
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357d1"
+  },
+  "sektorAdi": "BANKALAR",
+  "artisOrani": 0.669243101420125
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357d2"
+  },
+  "sektorAdi": "GAYRİMENKUL YATIRIM ORTAKLIKLARI",
+  "artisOrani": 0.6253239248121933
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357d3"
+  },
+  "sektorAdi": "BÜRO YÖNETİMİ, BÜRO DESTEĞİ VE DİĞER ŞİRKET DESTEK FAALİYETLERİ",
+  "artisOrani": 0.48793652667240006
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357d4"
+  },
+  "sektorAdi": "BALIKÇILIK VE SU ÜRÜNLERİ",
+  "artisOrani": -0.07725862752681056
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357d5"
+  },
+  "sektorAdi": "ANA METAL SANAYİ",
+  "artisOrani": -0.3382682954082894
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357d6"
+  },
+  "sektorAdi": "TEKSTİL, GİYİM EŞYASI VE DERİ",
+  "artisOrani": -0.9872842372559865
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357d7"
+  },
+  "sektorAdi": "VARLIK YÖNETİM ŞİRKETLERİ",
+  "artisOrani": -1.2603606845616677
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357d8"
+  },
+  "sektorAdi": "GİRİŞİM SERMAYESİ YATIRIM ORTAKLIKLARI",
+  "artisOrani": -1.319124572137631
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357d9"
+  },
+  "sektorAdi": "MENKUL KIYMET YATIRIM ORTAKLIKLARI",
+  "artisOrani": -1.471452169757853
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357da"
+  },
+  "sektorAdi": "BİLİŞİM",
+  "artisOrani": -2.3017173313247987
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357db"
+  },
+  "sektorAdi": "GIDA, İÇECEK VE TÜTÜN",
+  "artisOrani": -2.445067836882103
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357dc"
+  },
+  "sektorAdi": "METAL CEVHERİ MADENCİLİĞİ",
+  "artisOrani": -2.808159222235668
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357dd"
+  },
+  "sektorAdi": "SAVUNMA",
+  "artisOrani": -4.319069448296004
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357de"
+  },
+  "sektorAdi": "DİĞER İMALAT SANAYİİ",
+  "artisOrani": -5.589551987832031
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357df"
+  },
+  "sektorAdi": "TOPTAN TİCARET",
+  "artisOrani": -6.881037587189565
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357e0"
+  },
+  "sektorAdi": "SİGORTA ŞİRKETLERİ",
+  "artisOrani": -7.805391424109997
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357e1"
+  },
+  "sektorAdi": "BİLGİ HİZMET FAALİYETLERİ",
+  "artisOrani": -7.953988530788891
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357e2"
+  },
+  "sektorAdi": "GAYRİMENKUL FAALİYETLERİ",
+  "artisOrani": -11.970006238692815
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357e3"
+  },
+  "sektorAdi": "SPOR EĞLENCE BOŞ ZAMANLARI DEĞERLENDİRME HİZMETLERİ",
+  "artisOrani": -13.369242877007824
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357e4"
+  },
+  "sektorAdi": "FİNANSMAN ŞİRKETLERİ",
+  "artisOrani": -17.8268783311597
+},
+{
+  "_id": {
+    "$oid": "6610789846037202d63357e5"
+  },
+  "sektorAdi": "SEYAHAT ACENTESİ, TUR OPERATÖRÜ VE DİĞER REZERVASYON HİZMETLERİ İLE İLGİLİ FAALİYETLER",
+  "artisOrani": -23.09590992394031
+}]

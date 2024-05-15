@@ -1,7 +1,7 @@
 import { DataTable } from "primereact/datatable";
 import { Column } from "primereact/column";
 import { useEffect, useState } from "react";
-import sektorData from "../data/testDB.aylıkSektörArtışı.json";
+import sektorData from "../data/testDB.aylikSektorArtisi.json";
 import { Card } from "primereact/card";
 import cardImage from "../assets/sector.webp";
 import SectorDetail from "../components/Sector/SectorDetail";
@@ -77,8 +77,8 @@ export default function Sector() {
         <>
           <div class="mt-5">
             <div
-              className="card  justify-content-center flex-wrap w-7 "
-              style={{ marginLeft: "20%" }}
+              className="card justify-content-center flex-wrap w-10 "
+              style={{ marginLeft: "150px" }}
             >
               <SectorDetail selectedSector={selectedSector} />
               <div className="card flex mt-5 border-round justify-content-center">

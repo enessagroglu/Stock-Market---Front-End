@@ -90,10 +90,10 @@ export default function EnCokYukselen() {
     <>
       <div class="mt-5">
         <div
-          className="card  justify-content-center flex-wrap w-7 "
-          style={{ marginLeft: "20%" }}
+          className="card justify-content-center flex-wrap w-10 "
+          style={{ marginLeft: "150px" }}
         >
-          <Card title="En Çok Yükselenler" className="text-blue-700">
+          <Card title="En Çok Yükselenler" className="text-blue-700" style={{textAlign:"center"}}>
             <div>
               <div className="flex justify-content-center flex-wrap ">
                 <img

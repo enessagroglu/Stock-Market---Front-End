@@ -65,7 +65,7 @@ export default function SectorDetail({ selectedSector }) {
     <div>
       <h3>Sektör: {sectorName}</h3>
       <div className="card">
-              <DataTable value={matchingStocks} paginator rows={10}>
+              <DataTable value={matchingStocks} paginator rows={10} >
                 <Column
                   field="bultenAdi"
                   header="Şirket Adı"

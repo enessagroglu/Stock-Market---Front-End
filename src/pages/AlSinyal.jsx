@@ -3,9 +3,12 @@ import { Column } from "primereact/column";
 import { useEffect, useState } from "react";
 import { Card } from "primereact/card";
 import asset from "../assets/alsayfa.webp";
+import { InputText } from 'primereact/inputtext';
+import '../components/Sinyaller/cardkucultme.css';
 
 export default function AlSinyal() {
   const [sinyalVeri, setSinyalVeri] = useState([]);
+  const [searchTerm, setSearchTerm] = useState('');
 
   useEffect(() => {
     import("../data/AlimSinyalHisse.json")
@@ -23,12 +26,24 @@ export default function AlSinyal() {
       });
   }, []);
 
+  function red_or_green(value) {
+    if (value === "Kuvvetli Al") {
+      return "text-green-700";
+    } else {
+      return "text-red-700";
+    }
+  }
+
+  const filteredData = sinyalVeri.filter(item =>
+    item.bultenAdi.toLowerCase().includes(searchTerm.toLowerCase())
+  );
+
   return (
     <>
       <div class="mt-5">
         <div
-          className="card  justify-content-center flex-wrap w-7 "
-          style={{ marginLeft: "20%" }}
+          className="card justify-content-center flex-wrap w-10 "
+          style={{ marginLeft: "150px" }}
         >
           <Card title="Al Sinyali Verenler" className="text-blue-700 shadow-3 ">
             <div className="flex justify-content-center flex-wrap ">
@@ -59,13 +74,15 @@ export default function AlSinyal() {
                 showGridlines
                 rows={10}
                 dataKey="name"
+                className="my-datatable"
               >
                 <Column
                   field="bultenAdi"
                   header="İsim"
                   sortable
-                  style={{ minWidth: "12rem", color: "#1C80CF" }}
+                  style={{ minWidth: "14rem", color: "#1C80CF" }}
                   className="text-blue-700"
+                  
                 />
                 <Column
                   field="islemKodu"
@@ -78,35 +95,43 @@ export default function AlSinyal() {
                   field="EMA_Signal"
                   header="EMA Sinyal"
                   sortable
-                  style={{ minWidth: "12rem", color: "#1C80CF" }}
+                  style={{ minWidth: "8rem", color: "#1C80CF" }}
                   className="text-blue-700"
+                  body={(rowData) => {
+                    return (
+                      <span
+                        className={`${red_or_green(rowData.EMA_Signal)} font-bold`}
+                      >
+                        {rowData.EMA_Signal}
+                      </span>
+                    );}}
                 />
                 <Column
                   field="RSI_Value"
                   header="RSI Değeri"
                   sortable
-                  style={{ minWidth: "12rem", color: "#1C80CF" }}
+                  style={{ minWidth: "8rem", color: "#1C80CF" }}
                   className="text-blue-700"
                 />
                 <Column
                   field="enDusukFiyat"
                   header="En Düşük Fiyat"
                   sortable
-                  style={{ minWidth: "12rem", color: "#1C80CF" }}
+                  style={{ minWidth: "9rem", color: "#1C80CF" }}
                   className="text-blue-700"
                 />
                 <Column
                   field="enYuksekFiyat"
                   header="En Yüksek Fiyat"
                   sortable
-                  style={{ minWidth: "12rem", color: "#1C80CF" }}
+                  style={{ minWidth: "8rem", color: "#1C80CF" }}
                   className="text-blue-700"
                 />
                 <Column
                   field="kapanisFiyat"
                   header="Kapanış Fiyatı"
                   sortable
-                  style={{ minWidth: "12rem", color: "#1C80CF" }}
+                  style={{ minWidth: "8rem", color: "#1C80CF" }}
                   className="text-blue-700"
                 />
               </DataTable>
