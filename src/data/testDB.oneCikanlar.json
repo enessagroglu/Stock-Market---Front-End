@@ -2,190 +2,190 @@
   "_id": {
     "$oid": "661186aaff79497ea896f334"
   },
-  "islemKodu": "TUPRS.E",
-  "bultenAdi": "TUPRAS",
-  "toplamIslemHacmi": 7190443253.7,
-  "toplamİslemMiktari": 59530321
+  "İşlem Kodu": "TUPRS.E",
+  "Bülten Adı": "TUPRAS",
+  "Toplam İşlem Hacmi (TL)": 7190443253.7,
+  "Toplam İşlem Miktarı": 59530321
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f335"
   },
-  "islemKodu": "BIMAS.E",
-  "bultenAdi": "BIM MAGAZALAR",
-  "toplamIslemHacmi": 1737563787.3,
-  "toplamİslemMiktari": 35579569
+  "İşlem Kodu": "BIMAS.E",
+  "Bülten Adı": "BIM MAGAZALAR",
+  "Toplam İşlem Hacmi (TL)": 1737563787.3,
+  "Toplam İşlem Miktarı": 35579569
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f336"
   },
-  "islemKodu": "AEFES.E",
-  "bultenAdi": "ANADOLU EFES",
-  "toplamIslemHacmi": 444013142.94,
-  "toplamİslemMiktari": 18123538
+  "İşlem Kodu": "AEFES.E",
+  "Bülten Adı": "ANADOLU EFES",
+  "Toplam İşlem Hacmi (TL)": 444013142.94,
+  "Toplam İşlem Miktarı": 18123538
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f337"
   },
-  "islemKodu": "VESBE.E",
-  "bultenAdi": "VESTEL BEYAZ ESYA",
-  "toplamIslemHacmi": 94923047.82,
-  "toplamİslemMiktari": 3787233
+  "İşlem Kodu": "VESBE.E",
+  "Bülten Adı": "VESTEL BEYAZ ESYA",
+  "Toplam İşlem Hacmi (TL)": 94923047.82,
+  "Toplam İşlem Miktarı": 3787233
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f338"
   },
-  "islemKodu": "ULKER.E",
-  "bultenAdi": "ULKER BISKUVI",
-  "toplamIslemHacmi": 487954694.44,
-  "toplamİslemMiktari": 20117534
+  "İşlem Kodu": "ULKER.E",
+  "Bülten Adı": "ULKER BISKUVI",
+  "Toplam İşlem Hacmi (TL)": 487954694.44,
+  "Toplam İşlem Miktarı": 20117534
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f339"
   },
-  "islemKodu": "KCHOL.E",
-  "bultenAdi": "KOC HOLDING",
-  "toplamIslemHacmi": 1669511921.6,
-  "toplamİslemMiktari": 81294263
+  "İşlem Kodu": "KCHOL.E",
+  "Bülten Adı": "KOC HOLDING",
+  "Toplam İşlem Hacmi (TL)": 1669511921.6,
+  "Toplam İşlem Miktarı": 81294263
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f33a"
   },
-  "islemKodu": "TCELL.E",
-  "bultenAdi": "TURKCELL",
-  "toplamIslemHacmi": 3282959388.26,
-  "toplamİslemMiktari": 229032151
+  "İşlem Kodu": "TCELL.E",
+  "Bülten Adı": "TURKCELL",
+  "Toplam İşlem Hacmi (TL)": 3282959388.26,
+  "Toplam İşlem Miktarı": 229032151
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f33b"
   },
-  "islemKodu": "GARAN.E",
-  "bultenAdi": "GARANTI BANKASI",
-  "toplamIslemHacmi": 9343634502.93,
-  "toplamİslemMiktari": 792784858
+  "İşlem Kodu": "GARAN.E",
+  "Bülten Adı": "GARANTI BANKASI",
+  "Toplam İşlem Hacmi (TL)": 9343634502.93,
+  "Toplam İşlem Miktarı": 792784858
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f33c"
   },
-  "islemKodu": "SAHOL.E",
-  "bultenAdi": "SABANCI HOLDING",
-  "toplamIslemHacmi": 2464784884.01,
-  "toplamİslemMiktari": 241151778
+  "İşlem Kodu": "SAHOL.E",
+  "Bülten Adı": "SABANCI HOLDING",
+  "Toplam İşlem Hacmi (TL)": 2464784884.01,
+  "Toplam İşlem Miktarı": 241151778
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f33d"
   },
-  "islemKodu": "EREGL.E",
-  "bultenAdi": "EREGLI DEMIR CELIK",
-  "toplamIslemHacmi": 5031425959.08,
-  "toplamİslemMiktari": 536335414
+  "İşlem Kodu": "EREGL.E",
+  "Bülten Adı": "EREGLI DEMIR CELIK",
+  "Toplam İşlem Hacmi (TL)": 5031425959.08,
+  "Toplam İşlem Miktarı": 536335414
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f33e"
   },
-  "islemKodu": "AKBNK.E",
-  "bultenAdi": "AKBANK",
-  "toplamIslemHacmi": 6294935228.2,
-  "toplamİslemMiktari": 737210154
+  "İşlem Kodu": "AKBNK.E",
+  "Bülten Adı": "AKBANK",
+  "Toplam İşlem Hacmi (TL)": 6294935228.2,
+  "Toplam İşlem Miktarı": 737210154
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f33f"
   },
-  "islemKodu": "ENJSA.E",
-  "bultenAdi": "ENERJISA ENERJI",
-  "toplamIslemHacmi": 483582298.43,
-  "toplamİslemMiktari": 62294805
+  "İşlem Kodu": "ENJSA.E",
+  "Bülten Adı": "ENERJISA ENERJI",
+  "Toplam İşlem Hacmi (TL)": 483582298.43,
+  "Toplam İşlem Miktarı": 62294805
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f340"
   },
-  "islemKodu": "TTKOM.E",
-  "bultenAdi": "TURK TELEKOM",
-  "toplamIslemHacmi": 2354373012.9,
-  "toplamİslemMiktari": 300454631
+  "İşlem Kodu": "TTKOM.E",
+  "Bülten Adı": "TURK TELEKOM",
+  "Toplam İşlem Hacmi (TL)": 2354373012.9,
+  "Toplam İşlem Miktarı": 300454631
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f341"
   },
-  "islemKodu": "ISCTR.E",
-  "bultenAdi": "IS BANKASI (C)",
-  "toplamIslemHacmi": 4384462966.57,
-  "toplamİslemMiktari": 637513640
+  "İşlem Kodu": "ISCTR.E",
+  "Bülten Adı": "IS BANKASI (C)",
+  "Toplam İşlem Hacmi (TL)": 4384462966.57,
+  "Toplam İşlem Miktarı": 637513640
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f342"
   },
-  "islemKodu": "ENKAI.E",
-  "bultenAdi": "ENKA INSAAT",
-  "toplamIslemHacmi": 272183209.26,
-  "toplamİslemMiktari": 41353542
+  "İşlem Kodu": "ENKAI.E",
+  "Bülten Adı": "ENKA INSAAT",
+  "Toplam İşlem Hacmi (TL)": 272183209.26,
+  "Toplam İşlem Miktarı": 41353542
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f343"
   },
-  "islemKodu": "SISE.E",
-  "bultenAdi": "SISE CAM",
-  "toplamIslemHacmi": 9446107606.05,
-  "toplamİslemMiktari": 1761095911
+  "İşlem Kodu": "SISE.E",
+  "Bülten Adı": "SISE CAM",
+  "Toplam İşlem Hacmi (TL)": 9446107606.05,
+  "Toplam İşlem Miktarı": 1761095911
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f344"
   },
-  "islemKodu": "ISMEN.E",
-  "bultenAdi": "IS Y. MEN. DEG.",
-  "toplamIslemHacmi": 294986668.38,
-  "toplamİslemMiktari": 61742533
+  "İşlem Kodu": "ISMEN.E",
+  "Bülten Adı": "IS Y. MEN. DEG.",
+  "Toplam İşlem Hacmi (TL)": 294986668.38,
+  "Toplam İşlem Miktarı": 61742533
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f345"
   },
-  "islemKodu": "GLYHO.E",
-  "bultenAdi": "GLOBAL YAT. HOLDING",
-  "toplamIslemHacmi": 466704917.26,
-  "toplamİslemMiktari": 95671039
+  "İşlem Kodu": "GLYHO.E",
+  "Bülten Adı": "GLOBAL YAT. HOLDING",
+  "Toplam İşlem Hacmi (TL)": 466704917.26,
+  "Toplam İşlem Miktarı": 95671039
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f346"
   },
-  "islemKodu": "PEKGY.E",
-  "bultenAdi": "PEKER GMYO",
-  "toplamIslemHacmi": 412521418.63,
-  "toplamİslemMiktari": 130323093
+  "İşlem Kodu": "PEKGY.E",
+  "Bülten Adı": "PEKER GMYO",
+  "Toplam İşlem Hacmi (TL)": 412521418.63,
+  "Toplam İşlem Miktarı": 130323093
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f347"
   },
-  "islemKodu": "YKBNK.E",
-  "bultenAdi": "YAPI VE KREDI BANK.",
-  "toplamIslemHacmi": 4158929248.27,
-  "toplamİslemMiktari": 1489694359
+  "İşlem Kodu": "YKBNK.E",
+  "Bülten Adı": "YAPI VE KREDI BANK.",
+  "Toplam İşlem Hacmi (TL)": 4158929248.27,
+  "Toplam İşlem Miktarı": 1489694359
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f348"
   },
-  "islemKodu": "KRDMD.E",
-  "bultenAdi": "KARDEMIR (D)",
-  "toplamIslemHacmi": 14022872607.36,
-  "toplamİslemMiktari": {
+  "İşlem Kodu": "KRDMD.E",
+  "Bülten Adı": "KARDEMIR (D)",
+  "Toplam İşlem Hacmi (TL)": 14022872607.36,
+  "Toplam İşlem Miktarı": {
     "$numberLong": "4827282466"
   }
 },
@@ -193,28 +193,28 @@
   "_id": {
     "$oid": "661186aaff79497ea896f349"
   },
-  "islemKodu": "RTALB.E",
-  "bultenAdi": "RTA LABORATUVARLARI",
-  "toplamIslemHacmi": 318331916.67,
-  "toplamİslemMiktari": 132720365
+  "İşlem Kodu": "RTALB.E",
+  "Bülten Adı": "RTA LABORATUVARLARI",
+  "Toplam İşlem Hacmi (TL)": 318331916.67,
+  "Toplam İşlem Miktarı": 132720365
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f34a"
   },
-  "islemKodu": "EDIP.E",
-  "bultenAdi": "EDIP GAYRIMENKUL",
-  "toplamIslemHacmi": 173937818.71,
-  "toplamİslemMiktari": 110511304
+  "İşlem Kodu": "EDIP.E",
+  "Bülten Adı": "EDIP GAYRIMENKUL",
+  "Toplam İşlem Hacmi (TL)": 173937818.71,
+  "Toplam İşlem Miktarı": 110511304
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f34b"
   },
-  "islemKodu": "ALBRK.E",
-  "bultenAdi": "ALBARAKA TURK",
-  "toplamIslemHacmi": 6460784369.69,
-  "toplamİslemMiktari": {
+  "İşlem Kodu": "ALBRK.E",
+  "Bülten Adı": "ALBARAKA TURK",
+  "Toplam İşlem Hacmi (TL)": 6460784369.69,
+  "Toplam İşlem Miktarı": {
     "$numberLong": "3847557161"
   }
 },
@@ -222,10 +222,10 @@
   "_id": {
     "$oid": "661186aaff79497ea896f34c"
   },
-  "islemKodu": "EKGYO.E",
-  "bultenAdi": "EMLAK KONUT GMYO",
-  "toplamIslemHacmi": 7454369164.06,
-  "toplamİslemMiktari": {
+  "İşlem Kodu": "EKGYO.E",
+  "Bülten Adı": "EMLAK KONUT GMYO",
+  "Toplam İşlem Hacmi (TL)": 7454369164.06,
+  "Toplam İşlem Miktarı": {
     "$numberLong": "4705038293"
   }
 },
@@ -233,116 +233,116 @@
   "_id": {
     "$oid": "661186aaff79497ea896f34d"
   },
-  "islemKodu": "ARDYZ.E",
-  "bultenAdi": "ARD BILISIM TEKNOLOJILERI",
-  "toplamIslemHacmi": 1355051697.78,
-  "toplamİslemMiktari": 97089354
+  "İşlem Kodu": "ARDYZ.E",
+  "Bülten Adı": "ARD BILISIM TEKNOLOJILERI",
+  "Toplam İşlem Hacmi (TL)": 1355051697.78,
+  "Toplam İşlem Miktarı": 97089354
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f34e"
   },
-  "islemKodu": "TURSG.E",
-  "bultenAdi": "TURKIYE SIGORTA",
-  "toplamIslemHacmi": 5729984499.66,
-  "toplamİslemMiktari": 968263335
+  "İşlem Kodu": "TURSG.E",
+  "Bülten Adı": "TURKIYE SIGORTA",
+  "Toplam İşlem Hacmi (TL)": 5729984499.66,
+  "Toplam İşlem Miktarı": 968263335
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f34f"
   },
-  "islemKodu": "QUAGR.E",
-  "bultenAdi": "QUA GRANITE HAYAL YAPI",
-  "toplamIslemHacmi": 3669863142.71,
-  "toplamİslemMiktari": 145130753
+  "İşlem Kodu": "QUAGR.E",
+  "Bülten Adı": "QUA GRANITE HAYAL YAPI",
+  "Toplam İşlem Hacmi (TL)": 3669863142.71,
+  "Toplam İşlem Miktarı": 145130753
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f350"
   },
-  "islemKodu": "BOBET.E",
-  "bultenAdi": "BOGAZICI BETON SANAYI",
-  "toplamIslemHacmi": 1349110521.23,
-  "toplamİslemMiktari": 250519503
+  "İşlem Kodu": "BOBET.E",
+  "Bülten Adı": "BOGAZICI BETON SANAYI",
+  "Toplam İşlem Hacmi (TL)": 1349110521.23,
+  "Toplam İşlem Miktarı": 250519503
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f351"
   },
-  "islemKodu": "KZBGY.E",
-  "bultenAdi": "KIZILBUK GYO",
-  "toplamIslemHacmi": 2787887875.84,
-  "toplamİslemMiktari": 144568279
+  "İşlem Kodu": "KZBGY.E",
+  "Bülten Adı": "KIZILBUK GYO",
+  "Toplam İşlem Hacmi (TL)": 2787887875.84,
+  "Toplam İşlem Miktarı": 144568279
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f352"
   },
-  "islemKodu": "KCAER.E",
-  "bultenAdi": "KOCAER CELIK",
-  "toplamIslemHacmi": 256216156.92,
-  "toplamİslemMiktari": 9591862
+  "İşlem Kodu": "KCAER.E",
+  "Bülten Adı": "KOCAER CELIK",
+  "Toplam İşlem Hacmi (TL)": 256216156.92,
+  "Toplam İşlem Miktarı": 9591862
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f353"
   },
-  "islemKodu": "EUREN.E",
-  "bultenAdi": "EUROPEN ENDUSTRI",
-  "toplamIslemHacmi": 2498031135.08,
-  "toplamİslemMiktari": 104784887
+  "İşlem Kodu": "EUREN.E",
+  "Bülten Adı": "EUROPEN ENDUSTRI",
+  "Toplam İşlem Hacmi (TL)": 2498031135.08,
+  "Toplam İşlem Miktarı": 104784887
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f354"
   },
-  "islemKodu": "SEGYO.E",
-  "bultenAdi": "SEKER GMYO",
-  "toplamIslemHacmi": 1651638416.42,
-  "toplamİslemMiktari": 1392178085
+  "İşlem Kodu": "SEGYO.E",
+  "Bülten Adı": "SEKER GMYO",
+  "Toplam İşlem Hacmi (TL)": 1651638416.42,
+  "Toplam İşlem Miktarı": 1392178085
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f355"
   },
-  "islemKodu": "ALTIN.S1",
-  "bultenAdi": "DARPHANE ALTIN SERTIFIKASI",
-  "toplamIslemHacmi": 548889042.57,
-  "toplamİslemMiktari": 52044837
+  "İşlem Kodu": "ALTIN.S1",
+  "Bülten Adı": "DARPHANE ALTIN SERTIFIKASI",
+  "Toplam İşlem Hacmi (TL)": 548889042.57,
+  "Toplam İşlem Miktarı": 52044837
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f356"
   },
-  "islemKodu": "KTLEV.E",
-  "bultenAdi": "KATILIMEVIM TAS. FIN.",
-  "toplamIslemHacmi": 4500028685.31,
-  "toplamİslemMiktari": 300714920
+  "İşlem Kodu": "KTLEV.E",
+  "Bülten Adı": "KATILIMEVIM TAS. FIN.",
+  "Toplam İşlem Hacmi (TL)": 4500028685.31,
+  "Toplam İşlem Miktarı": 300714920
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f357"
   },
-  "islemKodu": "MHRGY.E",
-  "bultenAdi": "MHR GMYO",
-  "toplamIslemHacmi": 2792532056.79,
-  "toplamİslemMiktari": 471471606
+  "İşlem Kodu": "MHRGY.E",
+  "Bülten Adı": "MHR GMYO",
+  "Toplam İşlem Hacmi (TL)": 2792532056.79,
+  "Toplam İşlem Miktarı": 471471606
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f358"
   },
-  "islemKodu": "EKOS.E",
-  "bultenAdi": "EKOS TEKNOLOJI",
-  "toplamIslemHacmi": 194176823.54,
-  "toplamİslemMiktari": 7947178
+  "İşlem Kodu": "EKOS.E",
+  "Bülten Adı": "EKOS TEKNOLOJI",
+  "Toplam İşlem Hacmi (TL)": 194176823.54,
+  "Toplam İşlem Miktarı": 7947178
 },
 {
   "_id": {
     "$oid": "661186aaff79497ea896f359"
   },
-  "islemKodu": "AGROT.E",
-  "bultenAdi": "AGROTECH TEKNOLOJI",
-  "toplamIslemHacmi": 941236721.06,
-  "toplamİslemMiktari": 104488449
+  "İşlem Kodu": "AGROT.E",
+  "Bülten Adı": "AGROTECH TEKNOLOJI",
+  "Toplam İşlem Hacmi (TL)": 941236721.06,
+  "Toplam İşlem Miktarı": 104488449
 }]
