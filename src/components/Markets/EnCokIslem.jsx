@@ -4,10 +4,47 @@ import { Column } from "primereact/column";
 import data from "../../data/testDB.enIslemGorenler.json";
 import { useEffect, useState } from "react";
 import img1 from "../../assets/masa-kalem.webp";
-
+import { InputText } from "primereact/inputtext";
+import { FilterMatchMode, FilterOperator } from "primereact/api";
 
 export default function EnCokIslem() {
   const [veriListesi, setVeriListesi] = useState([]);
+
+  const [filters, setFilters] = useState({
+    global: { value: null, matchMode: FilterMatchMode.CONTAINS },
+    name: { value: null, matchMode: FilterMatchMode.STARTS_WITH },
+    "bultenAdi": { value: null, matchMode: FilterMatchMode.STARTS_WITH },
+    representative: { value: null, matchMode: FilterMatchMode.IN },
+    status: { value: null, matchMode: FilterMatchMode.EQUALS },
+    verified: { value: null, matchMode: FilterMatchMode.EQUALS },
+  });
+
+
+  const [globalFilterValue, setGlobalFilterValue] = useState("");
+
+  const onGlobalFilterChange = (e) => {
+    const value = e.target.value;
+    let _filters = { ...filters };
+
+    _filters["global"].value = value;
+
+    setFilters(_filters);
+    setGlobalFilterValue(value);
+  };
+
+  const renderHeader = () => {
+    return (
+      <div className="flex justify-content-end">
+        <InputText
+          value={globalFilterValue}
+          onChange={onGlobalFilterChange}
+          placeholder="Arayın..."
+        />
+      </div>
+    );
+  };
+
+  const header = renderHeader();
 
   const translateTurkishCharacters = (text) => {
     const turkishToEnglish = {
@@ -125,7 +162,26 @@ export default function EnCokIslem() {
             </div>
 
             <div className="card">
-              <DataTable value={veriListesi} paginator rows={10}>
+              <DataTable 
+              value={veriListesi}
+              paginator
+              rows={10}
+              dataKey="name"
+              filters={filters}
+              filterDisplay="row"
+              globalFilterFields={[
+                "BultenAdi",
+                "IslemKodu",
+                "EnYuksekFiyat",
+                "EnDusukFiyat",
+                "KapanisFiyati",
+                "ToplamIslemHacmi(TL)"
+
+
+              ]}
+              header={header}
+              emptyMessage="Veri bulunamadı."
+               >
                 <Column
                   field="BultenAdi"
                   header="Şirket Adı"

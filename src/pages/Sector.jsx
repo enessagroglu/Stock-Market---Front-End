@@ -6,12 +6,49 @@ import { Card } from "primereact/card";
 import cardImage from "../assets/sector.webp";
 import SectorDetail from "../components/Sector/SectorDetail";
 import { Button } from "primereact/button";
+import { InputText } from "primereact/inputtext";
+import { FilterMatchMode, FilterOperator } from "primereact/api";
 
 export default function Sector() {
   const [sectors, setSectors] = useState([]);
   const [loading, setLoading] = useState(true);
   const [selectedSector, setSelectedSector] = useState(null);
   const [isSelected, setIsSelected] = useState(false);
+
+  const [filters, setFilters] = useState({
+    global: { value: null, matchMode: FilterMatchMode.CONTAINS },
+    name: { value: null, matchMode: FilterMatchMode.STARTS_WITH },
+    "bultenAdi": { value: null, matchMode: FilterMatchMode.STARTS_WITH },
+    representative: { value: null, matchMode: FilterMatchMode.IN },
+    status: { value: null, matchMode: FilterMatchMode.EQUALS },
+    verified: { value: null, matchMode: FilterMatchMode.EQUALS },
+  });
+
+  const [globalFilterValue, setGlobalFilterValue] = useState("");
+
+  const onGlobalFilterChange = (e) => {
+    const value = e.target.value;
+    let _filters = { ...filters };
+
+    _filters["global"].value = value;
+
+    setFilters(_filters);
+    setGlobalFilterValue(value);
+  };
+
+  const renderHeader = () => {
+    return (
+      <div className="flex justify-content-end">
+        <InputText
+          value={globalFilterValue}
+          onChange={onGlobalFilterChange}
+          placeholder="Arayın..."
+        />
+      </div>
+    );
+  };
+
+  const header = renderHeader();
 
   const headerCard = (
     <img alt="Card" src={cardImage} className="border-round-top-xl" />
@@ -95,6 +132,13 @@ export default function Sector() {
         <div className="col-8">
           <DataTable
             selectionMode="single"
+            filters={filters}
+            filterDisplay="row"
+            header={header}
+            globalFilterFields={[
+              "name",
+              "artisOrani",
+            ]}
             selection={selectedSector}
             onSelectionChange={(e) => handleSelection(e.value.name)}
             value={sectors}
@@ -103,7 +147,6 @@ export default function Sector() {
             rows={10}
             loading={loading}
             dataKey="name"
-            globalFilterFields={["name"]}
             emptyMessage="Sektör bulunamadı."
           >
             <Column
