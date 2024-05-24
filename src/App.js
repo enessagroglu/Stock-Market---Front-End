@@ -16,6 +16,8 @@ import EnCokDusen from "./components/Markets/EnCokDusen";
 import Sector from "./pages/Sector";
 import AlSinyal from "./pages/AlSinyal";
 import SatSinyal from "./pages/SatSinyal";
+import HisseDetail from "./components/Hisseler/HisseDetail";
+
 
 function App() {
   return (
@@ -42,6 +44,7 @@ function App() {
                   <Route path="/sektorler" element={<Sector />} />
                   <Route path="/al-sinyali-verenler" element={<AlSinyal />} />
                   <Route path="/sat-sinyali-verenler" element={<SatSinyal />} />
+                  <Route path="/hisse/:bultenAdi" element={<HisseDetail />} />
                 </Routes>
               </BrowserRouter>
             </div>

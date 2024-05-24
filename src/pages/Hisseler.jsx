@@ -6,6 +6,7 @@ import { Card } from "primereact/card";
 import { Divider } from "primereact/divider";
 import card1Image from "../assets/al-sinyali.webp";
 import card2Image from "../assets/sat-sinyal.webp";
+import HisseTable from "../components/Hisseler/HisseTable";
 
 export default function Hisseler() {
   const [veri, setVeri] = useState([]);
@@ -27,6 +28,9 @@ export default function Hisseler() {
 
   return (
     <>
+      <div>
+        <h1 className="text-center text-blue-700">Hisse Senetleri</h1>
+      </div>
       <div className="mt-7 card flex justify-content-center flex-wrap w-full">
         <Link to="/al-sinyali-verenler">
           <Card
@@ -58,6 +62,9 @@ export default function Hisseler() {
         </Link>
       </div>
       <Divider />
+      <div className="mt-7 card flex justify-content-center flex-wrap w-full">
+        <HisseTable/>
+      </div>
     </>
   );
 }
