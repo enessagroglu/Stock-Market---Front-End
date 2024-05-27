@@ -20,7 +20,7 @@ function HisseDetail() {
   }
 
   const onNavClick = () => {
-    navigate(`/hisse-senetleri`);
+    navigate(-1);
   };
 
   return (
@@ -50,7 +50,8 @@ function HisseDetail() {
           <p className="mr-2 text-blue-800 font-bold">
             Toplam İşlem Hacmi(TL):
           </p>
-          <p> {stockDetails.toplamIslemHacmi(TL)}</p>
+          <p> {stockDetails.toplamIslemHacmi?.$numberLong ?? stockDetails.toplamIslemHacmi} </p>
+
         </div>
         <div>
           <Button label="Geri" icon="pi pi-check" size="Normal" className="border-round-xl" onClick={onNavClick}/>
