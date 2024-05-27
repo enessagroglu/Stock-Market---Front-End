@@ -98,6 +98,7 @@ export default function HisseTable() {
               ]}
               header={header}
               emptyMessage="Veri bulunamadı."
+              className="cursor-pointer"
             >
               <Column
                 field="bultenAdi"
