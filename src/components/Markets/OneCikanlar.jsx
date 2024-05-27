@@ -6,6 +6,7 @@ import { useEffect, useState } from "react";
 import img1 from "../../assets/el-chart.webp";
 import { InputText } from "primereact/inputtext";
 import { FilterMatchMode, FilterOperator } from "primereact/api";
+import { useNavigate } from "react-router-dom";
 
 export default function OneCikanlar() {
   const [veriListesi, setVeriListesi] = useState([]);
@@ -30,6 +31,12 @@ export default function OneCikanlar() {
 
     setFilters(_filters);
     setGlobalFilterValue(value);
+  };
+
+  const navigate = useNavigate();
+
+  const onRowClick = (rowData) => {
+    navigate(`/hisse/${rowData.data.bultenAdi}`);
   };
 
   const renderHeader = () => {
@@ -163,6 +170,8 @@ export default function OneCikanlar() {
                rows={10}
                dataKey="name"
                filters={filters}
+               onRowClick={onRowClick}
+               style={{cursor: "pointer" }}
                filterDisplay="row"
                globalFilterFields={[
                  "BultenAdi",
