@@ -6,6 +6,8 @@ import asset from "../assets/alsayfa.webp";
 import { InputText } from "primereact/inputtext";
 import { FilterMatchMode, FilterOperator } from "primereact/api";
 import "../components/Sinyaller/cardkucultme.css";
+import { useNavigate } from 'react-router-dom';
+
 
 export default function AlSinyal() {
   const [sinyalVeri, setSinyalVeri] = useState([]);
@@ -29,6 +31,12 @@ export default function AlSinyal() {
 
     setFilters(_filters);
     setGlobalFilterValue(value);
+  };
+
+  const navigate = useNavigate();
+
+  const onRowClick = (rowData) => {
+    navigate(`/hisse/${rowData.data.bultenAdi}`);
   };
 
   const renderHeader = () => {
@@ -104,6 +112,8 @@ export default function AlSinyal() {
                 paginator
                 rows={10}
                 dataKey="name"
+                onRowClick={onRowClick}
+                style={{cursor: "pointer" }}
                 filters={filters}
                 filterDisplay="row"
                 globalFilterFields={[

@@ -2,10 +2,19 @@ import React, { useState, useEffect } from 'react';
 import { Card } from "primereact/card";
 import { DataTable } from "primereact/datatable";
 import { Column } from "primereact/column";
+import { useNavigate } from 'react-router-dom';
+
 
 export default function SectorDetail({ selectedSector }) {
   const [matchingStocks, setMatchingStocks] = useState([]);
   const [sectorName, setSectorName] = useState("");
+
+
+  const navigate = useNavigate();
+
+      const onRowClick = (rowData) => {
+        navigate(`/hisse/${rowData.data.bultenAdi}`);
+      };
 
   useEffect(() => {
     const fetchStockData = async () => {
@@ -30,6 +39,8 @@ export default function SectorDetail({ selectedSector }) {
           .replace(/\s+/g, '') // Boşlukları kaldır
           .toLowerCase();
       };
+
+      
 
       const filteredStocks = stocks.filter((stock) =>
         turkceKarakterleriDuzeltVeBoslukSil(stock.sektorAdi) === selectedSector
@@ -65,7 +76,13 @@ export default function SectorDetail({ selectedSector }) {
     <div>
       <h3>Sektör: {sectorName}</h3>
       <div className="card">
-              <DataTable value={matchingStocks} paginator rows={10} >
+              <DataTable 
+              value={matchingStocks} 
+              paginator rows={10}
+              onRowClick={onRowClick}
+              style={{cursor: "pointer" }}
+              >
+              
                 <Column
                   field="bultenAdi"
                   header="Şirket Adı"

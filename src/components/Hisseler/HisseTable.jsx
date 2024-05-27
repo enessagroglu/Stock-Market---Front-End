@@ -98,6 +98,7 @@ export default function HisseTable() {
               ]}
               header={header}
               emptyMessage="Veri bulunamadı."
+              style={{cursor: "pointer" }}
             >
               <Column
                 field="bultenAdi"
@@ -145,11 +146,11 @@ export default function HisseTable() {
                 className="text-blue-700"
               />
               <Column
-                field="toplamIslemHacmi(TL)"
+                field="toplamIslemHacmi"
                 header="Toplam İşlem Hacmi(TL)"
                 sortable
                 body={(rowData) =>
-                  currencyTemplate(rowData, "toplamIslemHacmi(TL)")
+                  currencyTemplate(rowData, "toplamIslemHacmi")
                 }
                 style={{ minWidth: "8rem", color: "#1C80CF" }}
                 className="text-blue-700"

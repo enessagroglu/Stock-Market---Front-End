@@ -7,6 +7,7 @@ import { useEffect, useState } from "react";
 import img1 from "../../assets/zirve.webp";
 import { FilterMatchMode, FilterOperator } from "primereact/api";
 import { InputText } from "primereact/inputtext";
+import { useNavigate } from 'react-router-dom';
 
 
 export default function EnCokYukselen() {
@@ -43,6 +44,12 @@ export default function EnCokYukselen() {
         />
       </div>
     );
+  };
+
+  const navigate = useNavigate();
+
+  const onRowClick = (rowData) => {
+    navigate(`/hisse/${rowData.data.bultenAdi}`);
   };
 
   const header = renderHeader();
@@ -189,6 +196,8 @@ export default function EnCokYukselen() {
                 rows={10}
                 dataKey="name"
                 filters={filters}
+                onRowClick={onRowClick}
+                style={{cursor: "pointer" }}
                 filterDisplay="row"
                 globalFilterFields={[
                 "bultenAdi",
@@ -197,7 +206,7 @@ export default function EnCokYukselen() {
                 "enDusukFiyat",
                 "fiyatDegisimSon",
                 "kapanisFiyat",
-                "toplamIslemHacmi(TL)"]}
+                "toplamIslemHacmi"]}
 
               header={header}
               emptyMessage="Veri bulunamadı.">
@@ -241,10 +250,10 @@ export default function EnCokYukselen() {
                   className="text-cyan-600"
                 ></Column>
                 <Column
-                  field="toplamIslemHacmi(TL)"
+                  field="toplamIslemHacmi"
                   header="Toplam İşlem Hacmi(TL)"
                   body={(rowData) =>
-                    currencyTemplate(rowData, "toplamIslemHacmi(TL)")
+                    currencyTemplate(rowData, "toplamIslemHacmi")
                   }
                   sortable
                   className="text-cyan-600"
