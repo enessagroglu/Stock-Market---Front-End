@@ -24,8 +24,8 @@ function HisseDetail() {
   };
 
   return (
-    <div className="mt-7 card flex justify-content-center flex-wrap w-full ">
-      <Card title={stockDetails.bultenAdi} className="w-5 text text-blue-700 shadow-7 border-round-lg">
+    <div className="mt-7 card flex justify-content-center flex-wrap w-full">
+      <Card title={stockDetails.bultenAdi} className="w-5 text text-blue-700">
         <div className="mt-7 flex ">
           <p className="mr-2 text-blue-800 font-bold">Pazar Adı:</p>
           <p> {stockDetails.pazarAdi}</p>
@@ -54,7 +54,7 @@ function HisseDetail() {
 
         </div>
         <div>
-          <Button label="Geri" icon="pi pi-angle-left" size="Normal" className="border-round-xl" onClick={onNavClick}/>
+          <Button label="Geri" icon="pi pi-check" size="Normal" className="border-round-xl" onClick={onNavClick}/>
         </div>
       </Card>
     </div>
